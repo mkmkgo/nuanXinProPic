@@ -1,7 +1,16 @@
 {
   "year": 2026,
-  "total": 83,
+  "total": 84,
   "items": [
+    {
+      "date": "2026-03-25",
+      "title": "海牛的秘密生活",
+      "copyright": "淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E7%89%9B%E6%97%A5&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
+      "hsh": "59da6c8be6a41d3ad6b37ecefc153469",
+      "urlbase": "/th?id=OHR.ManateeSpring_ZH-CN5252847120"
+    },
     {
       "date": "2026-03-24",
       "title": "春天的形状",
@@ -750,5 +759,5 @@
       "urlbase": "/th?id=OHR.NewYearFox_ZH-CN9312618796"
     }
   ],
-  "updatedAt": "2026-03-23 17:53:15"
+  "updatedAt": "2026-03-24 17:57:45"
 }
