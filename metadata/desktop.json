@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "desktop",
-  "lastUpdated": "2026-03-24 17:58:17",
-  "count": 512,
+  "lastUpdated": "2026-03-25 08:09:49",
+  "count": 516,
   "images": {
     "wallpaper/desktop/IP形象/乌萨奇/乌撒奇-兔子-卡通.png": {
       "category": "IP形象",
@@ -14330,6 +14330,168 @@
         "displayTitle": "海边小屋与宁静海岸",
         "confidence": 0.9,
         "reasoning": "图片展示了海滨风景，包含海水、岸边小屋和树木，根据决策树C1，判定为风景/海滨"
+      }
+    },
+    "wallpaper/desktop/IP形象/一二布布/一二布布-卡通-可爱.png": {
+      "category": "IP形象",
+      "subcategory": "一二布布",
+      "filename": "一二布布-卡通-可爱.png",
+      "createdAt": "2026-03-25T08:07:51.464Z",
+      "cdnTag": "v1.2.28",
+      "size": 297592,
+      "format": "png",
+      "resolution": {
+        "width": 2358,
+        "height": 1740,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "一二布布",
+        "subcategory": "一二布布",
+        "filenameSuggestions": [
+          "可爱的一二布布.jpg",
+          "微笑的一二布布.jpg"
+        ],
+        "filenames": [
+          "可爱的一二布布.jpg",
+          "微笑的一二布布.jpg"
+        ],
+        "displayTitle": "阳光下的一二布布",
+        "keywords": [
+          "卡通",
+          "一二布布",
+          "IP 形象",
+          "友好"
+        ],
+        "description": "一二布布在阳光下露出欢乐的表情。",
+        "confidence": 0.9,
+        "reasoning": "图片为插画风格，人物为卡通小熊，背景简洁，符合插画/卡通分类。"
+      }
+    },
+    "wallpaper/desktop/IP形象/一二布布/一二布布-卡通-围巾.png": {
+      "category": "IP形象",
+      "subcategory": "一二布布",
+      "filename": "一二布布-卡通-围巾.png",
+      "createdAt": "2026-03-25T08:07:51.464Z",
+      "cdnTag": "v1.2.28",
+      "size": 353331,
+      "format": "png",
+      "resolution": {
+        "width": 2068,
+        "height": 1444,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "一二布布",
+        "subcategory": "一二布布",
+        "filenameSuggestions": [
+          "雪中玩耍的一二布布.jpg",
+          "泡温泉的一二布布.jpg"
+        ],
+        "filenames": [
+          "雪中玩耍的一二布布.jpg",
+          "泡温泉的一二布布.jpg"
+        ],
+        "displayTitle": "可爱的一二布布",
+        "keywords": [
+          "卡通",
+          "一二布布",
+          "可爱"
+        ],
+        "description": "一二布布在雪中玩耍，非常有趣。",
+        "confidence": 0.9,
+        "reasoning": "图片为卡通风格的小熊，符合插画/卡通的特征。"
+      }
+    },
+    "wallpaper/desktop/IP形象/一二布布/一二布布-卡通-小熊.png": {
+      "category": "IP形象",
+      "subcategory": "一二布布",
+      "filename": "一二布布-卡通-小熊.png",
+      "createdAt": "2026-03-25T08:07:51.464Z",
+      "cdnTag": "v1.2.28",
+      "size": 331321,
+      "format": "png",
+      "resolution": {
+        "width": 2358,
+        "height": 1296,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "一二布布",
+        "subcategory": "一二布布",
+        "filenameSuggestions": [
+          "快乐的一二布布.jpg",
+          "阳光下的一二布布.jpg"
+        ],
+        "filenames": [
+          "快乐的一二布布.jpg",
+          "阳光下的一二布布.jpg"
+        ],
+        "displayTitle": "阳光下的一二布布",
+        "keywords": [
+          "可爱",
+          "一二布布",
+          "卡通"
+        ],
+        "description": "呆萌的一二布布在阳光下玩耍。",
+        "confidence": 0.9,
+        "reasoning": "图片中出现了熊、兔子和小鸡等可爱动物，且具有明显的卡通风格，根据图片内容和现有分类体系，判断为[萌宠/通用]。"
+      }
+    },
+    "wallpaper/desktop/IP形象/一二布布/一二布布-云朵-卡通.png": {
+      "category": "IP形象",
+      "subcategory": "一二布布",
+      "filename": "一二布布-云朵-卡通.png",
+      "createdAt": "2026-03-25T08:07:51.464Z",
+      "cdnTag": "v1.2.28",
+      "size": 308160,
+      "format": "png",
+      "resolution": {
+        "width": 2358,
+        "height": 1506,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "一二布布",
+        "subcategory": "一二布布",
+        "filenameSuggestions": [
+          "草原上的一二布布.jpg",
+          "阳光下的一二布布.jpg"
+        ],
+        "filenames": [
+          "草原上的一二布布.jpg",
+          "阳光下的一二布布.jpg"
+        ],
+        "displayTitle": "阳光下的一二布布",
+        "keywords": [
+          "卡通",
+          "IP形象",
+          "一二布布",
+          "可爱"
+        ],
+        "description": "可爱的一二布布在阳光下的草原上玩耍。",
+        "confidence": 0.9,
+        "reasoning": "图片为卡通风格的插画，特征是绘画感强，非动画截图感，包含卡通熊的典型特征，因此判定为[插画/卡通]。"
       }
     }
   }
