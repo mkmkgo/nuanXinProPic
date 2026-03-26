@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "createdAt": "2026-03-26T09:23:03.836Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/动漫/完美世界/古风-国漫-完美世界.png",
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "古风-国漫-完美世界.png",
+      "createdAt": "2026-03-26T09:23:03.836Z",
+      "size": 756585,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "身穿金色华服的天狐仙子.jpg",
+          "天狐仙子在温暖的烛光下品茶.jpg"
+        ],
+        "filenames": [
+          "身穿金色华服的天狐仙子.jpg",
+          "天狐仙子在温暖的烛光下品茶.jpg"
+        ],
+        "displayTitle": "丝茶暖意，古韵犹存",
+        "keywords": [
+          "古风",
+          "完美世界",
+          "美女"
+        ],
+        "description": "身穿华丽金色服装的天狐仙子，在温暖的烛光下优雅地端着茶杯。",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位身穿华丽金色服装的古代美女，在温暖的烛光下优雅地端着茶杯，充满古风韵味。根据决策树B2，图片具有中国传统美学和古典韵味，特征包括华服、传统配饰和古建筑背景，因此判定为插画/国风。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/动漫/完美世界/国漫-完美世界.png",
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "国漫-完美世界.png",
+      "createdAt": "2026-03-26T09:23:03.836Z",
+      "size": 2391576,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "天狐仙子与龙的梦幻邂逅.jpg",
+          "神秘金色面具天狐仙子与龙.jpg"
+        ],
+        "filenames": [
+          "天狐仙子与龙的梦幻邂逅.jpg",
+          "神秘金色面具天狐仙子与龙.jpg"
+        ],
+        "displayTitle": "天狐仙子的神秘之吻",
+        "keywords": [
+          "国风插画",
+          "龙",
+          "少女",
+          "金色面具"
+        ],
+        "description": "身穿金色饰品的蓝发天狐仙子与一条蓝金色龙的魔幻瞬间。",
+        "confidence": 0.9,
+        "reasoning": "图片以一位蓝发少女与龙为主题，具有浓厚的中国传统神话色彩和国风美学特征，包括金色装饰、龙的图案和少女的国风服装。根据决策树B2，图片具有绘画感强且有国风元素，因此归类为插画/国风。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/动漫/完美世界/完美世界 -国漫-国风美人.png",
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "完美世界 -国漫-国风美人.png",
+      "createdAt": "2026-03-26T09:23:03.836Z",
+      "size": 825842,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "神秘紫妆的天狐仙子.jpg",
+          "水晶紫衣国风天狐仙子.jpg"
+        ],
+        "filenames": [
+          "神秘紫妆的天狐仙子.jpg",
+          "水晶紫衣国风天狐仙子.jpg"
+        ],
+        "displayTitle": "梦幻紫韵东方美人",
+        "keywords": [
+          "完美世界",
+          "紫色",
+          "美人"
+        ],
+        "description": "国风少女，紫色装饰，美丽动人。",
+        "confidence": 0.9,
+        "reasoning": "图片呈现一位少女，具有明显的国风元素，服装和装饰充满东方特色，背景简洁。根据决策树B2，图片具有国风特征，因此归入插画/国风。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/动漫/完美世界/完美世界-古风美人-国漫.png",
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "完美世界-古风美人-国漫.png",
+      "createdAt": "2026-03-26T09:23:03.836Z",
+      "size": 871875,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "身穿白色国风长裙的天狐仙子子.jpg",
+          "长发飘逸的天狐仙子.jpg"
+        ],
+        "filenames": [
+          "身穿白色国风长裙的天狐仙子子.jpg",
+          "长发飘逸的天狐仙子.jpg"
+        ],
+        "displayTitle": "国风仙境中的天狐仙子",
+        "keywords": [
+          "国风",
+          "仙气",
+          "长发",
+          "完美世界"
+        ],
+        "description": "穿着国风服装的天狐仙子，置身于仙境般的背景中。",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位女子穿着具有中国传统风格的服装，背景充满仙气，符合国风插画的特征。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/动漫/完美世界/完美世界-国漫-女神.png",
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "完美世界-国漫-女神.png",
+      "createdAt": "2026-03-26T09:23:03.836Z",
+      "size": 904805,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "长风破晓的紫衣天狐仙子.jpg",
+          "花海中的梦幻天狐仙子.jpg"
+        ],
+        "filenames": [
+          "长风破晓的紫衣天狐仙子.jpg",
+          "花海中的梦幻天狐仙子.jpg"
+        ],
+        "displayTitle": "仙姿绰约，风吹花香",
+        "keywords": [
+          "国风",
+          "仙女",
+          "完美世界",
+          "紫色",
+          "花海"
+        ],
+        "description": "身穿国风仙衣的天狐仙子，站立在花海中，紫色装饰与花瓣相映成趣。",
+        "confidence": 0.9,
+        "reasoning": "图片以一位穿着国风仙衣的女子为主体，背景是花海，装饰有紫色宝石，整体具有浓厚的中国传统美学风格。根据决策树B2，判定为插画/国风。"
+      }
+    }
+  ]
+}
