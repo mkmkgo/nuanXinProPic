@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "desktop",
-  "lastUpdated": "2026-03-25 18:00:13",
-  "count": 516,
+  "lastUpdated": "2026-03-26 09:32:36",
+  "count": 527,
   "images": {
     "wallpaper/desktop/IP形象/乌萨奇/乌撒奇-兔子-卡通.png": {
       "category": "IP形象",
@@ -14492,6 +14492,452 @@
         "description": "可爱的一二布布在阳光下的草原上玩耍。",
         "confidence": 0.9,
         "reasoning": "图片为卡通风格的插画，特征是绘画感强，非动画截图感，包含卡通熊的典型特征，因此判定为[插画/卡通]。"
+      }
+    },
+    "wallpaper/desktop/动漫/完美世界/古风-国漫-完美世界.png": {
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "古风-国漫-完美世界.png",
+      "createdAt": "2026-03-26T09:23:03.836Z",
+      "cdnTag": "v1.2.30",
+      "size": 756585,
+      "format": "png",
+      "resolution": {
+        "width": 3071,
+        "height": 1727,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "身穿金色华服的天狐仙子.jpg",
+          "天狐仙子在温暖的烛光下品茶.jpg"
+        ],
+        "filenames": [
+          "身穿金色华服的天狐仙子.jpg",
+          "天狐仙子在温暖的烛光下品茶.jpg"
+        ],
+        "displayTitle": "丝茶暖意，古韵犹存",
+        "keywords": [
+          "古风",
+          "完美世界",
+          "美女"
+        ],
+        "description": "身穿华丽金色服装的天狐仙子，在温暖的烛光下优雅地端着茶杯。",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位身穿华丽金色服装的古代美女，在温暖的烛光下优雅地端着茶杯，充满古风韵味。根据决策树B2，图片具有中国传统美学和古典韵味，特征包括华服、传统配饰和古建筑背景，因此判定为插画/国风。"
+      }
+    },
+    "wallpaper/desktop/动漫/完美世界/国漫-完美世界.png": {
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "国漫-完美世界.png",
+      "createdAt": "2026-03-26T09:23:03.836Z",
+      "cdnTag": "v1.2.30",
+      "size": 2391576,
+      "format": "png",
+      "resolution": {
+        "width": 3862,
+        "height": 2172,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "天狐仙子与龙的梦幻邂逅.jpg",
+          "神秘金色面具天狐仙子与龙.jpg"
+        ],
+        "filenames": [
+          "天狐仙子与龙的梦幻邂逅.jpg",
+          "神秘金色面具天狐仙子与龙.jpg"
+        ],
+        "displayTitle": "天狐仙子的神秘之吻",
+        "keywords": [
+          "国风插画",
+          "龙",
+          "少女",
+          "金色面具"
+        ],
+        "description": "身穿金色饰品的蓝发天狐仙子与一条蓝金色龙的魔幻瞬间。",
+        "confidence": 0.9,
+        "reasoning": "图片以一位蓝发少女与龙为主题，具有浓厚的中国传统神话色彩和国风美学特征，包括金色装饰、龙的图案和少女的国风服装。根据决策树B2，图片具有绘画感强且有国风元素，因此归类为插画/国风。"
+      }
+    },
+    "wallpaper/desktop/动漫/完美世界/完美世界 -国漫-国风美人.png": {
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "完美世界 -国漫-国风美人.png",
+      "createdAt": "2026-03-26T09:23:03.836Z",
+      "cdnTag": "v1.2.30",
+      "size": 825842,
+      "format": "png",
+      "resolution": {
+        "width": 3072,
+        "height": 1728,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "神秘紫妆的天狐仙子.jpg",
+          "水晶紫衣国风天狐仙子.jpg"
+        ],
+        "filenames": [
+          "神秘紫妆的天狐仙子.jpg",
+          "水晶紫衣国风天狐仙子.jpg"
+        ],
+        "displayTitle": "梦幻紫韵东方美人",
+        "keywords": [
+          "完美世界",
+          "紫色",
+          "美人"
+        ],
+        "description": "国风少女，紫色装饰，美丽动人。",
+        "confidence": 0.9,
+        "reasoning": "图片呈现一位少女，具有明显的国风元素，服装和装饰充满东方特色，背景简洁。根据决策树B2，图片具有国风特征，因此归入插画/国风。"
+      }
+    },
+    "wallpaper/desktop/动漫/完美世界/完美世界-古风美人-国漫.png": {
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "完美世界-古风美人-国漫.png",
+      "createdAt": "2026-03-26T09:23:03.836Z",
+      "cdnTag": "v1.2.30",
+      "size": 871875,
+      "format": "png",
+      "resolution": {
+        "width": 3072,
+        "height": 1728,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "身穿白色国风长裙的天狐仙子子.jpg",
+          "长发飘逸的天狐仙子.jpg"
+        ],
+        "filenames": [
+          "身穿白色国风长裙的天狐仙子子.jpg",
+          "长发飘逸的天狐仙子.jpg"
+        ],
+        "displayTitle": "国风仙境中的天狐仙子",
+        "keywords": [
+          "国风",
+          "仙气",
+          "长发",
+          "完美世界"
+        ],
+        "description": "穿着国风服装的天狐仙子，置身于仙境般的背景中。",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位女子穿着具有中国传统风格的服装，背景充满仙气，符合国风插画的特征。"
+      }
+    },
+    "wallpaper/desktop/动漫/完美世界/完美世界-国漫-女神.png": {
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "完美世界-国漫-女神.png",
+      "createdAt": "2026-03-26T09:23:03.836Z",
+      "cdnTag": "v1.2.30",
+      "size": 904805,
+      "format": "png",
+      "resolution": {
+        "width": 3072,
+        "height": 1728,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "长风破晓的紫衣天狐仙子.jpg",
+          "花海中的梦幻天狐仙子.jpg"
+        ],
+        "filenames": [
+          "长风破晓的紫衣天狐仙子.jpg",
+          "花海中的梦幻天狐仙子.jpg"
+        ],
+        "displayTitle": "仙姿绰约，风吹花香",
+        "keywords": [
+          "国风",
+          "仙女",
+          "完美世界",
+          "紫色",
+          "花海"
+        ],
+        "description": "身穿国风仙衣的天狐仙子，站立在花海中，紫色装饰与花瓣相映成趣。",
+        "confidence": 0.9,
+        "reasoning": "图片以一位穿着国风仙衣的女子为主体，背景是花海，装饰有紫色宝石，整体具有浓厚的中国传统美学风格。根据决策树B2，判定为插画/国风。"
+      }
+    },
+    "wallpaper/desktop/插画/创意/4k-wpcoder-cn-2246-4mf3ypys1r.png": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "4k-wpcoder-cn-2246-4mf3ypys1r.png",
+      "createdAt": "2026-03-26T09:28:28.357Z",
+      "cdnTag": "v1.2.30",
+      "size": 3622293,
+      "format": "png",
+      "resolution": {
+        "width": 2000,
+        "height": 1052,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "插画",
+          "创意",
+          "秋天",
+          "森林"
+        ],
+        "description": "一幅梦幻的插画，展示了一个女孩在森林中与动物朋友们共度的欢乐时光。",
+        "filenameSuggestions": [
+          "秋日的童话插画.jpg",
+          "森林中的梦幻冒险.jpg"
+        ],
+        "displayTitle": "秋日童话",
+        "confidence": 0.9,
+        "reasoning": "图片具有强烈的绘画感和创意，展现了森林中一个梦幻般的场景。女孩与狐狸、鸭子等动物在一起，充满童话气息。根据图片的绘画风格和主题，判定为插画/创意。"
+      }
+    },
+    "wallpaper/desktop/动漫/二次元/二次元-八重神子.png": {
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "二次元-八重神子.png",
+      "createdAt": "2026-03-26T09:28:28.357Z",
+      "cdnTag": "v1.2.30",
+      "size": 1311045,
+      "format": "png",
+      "resolution": {
+        "width": 3822,
+        "height": 2160,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "二次元",
+        "subcategory": "二次元",
+        "filenameSuggestions": [
+          "梦幻灯海中的粉发少女.jpg",
+          "粉发少女与温柔的灯光.jpg"
+        ],
+        "filenames": [
+          "梦幻灯海中的粉发少女.jpg",
+          "粉发少女与温柔的灯光.jpg"
+        ],
+        "displayTitle": "梦幻灯海中的粉发少女",
+        "keywords": [
+          "动漫少女",
+          "二次元",
+          "粉色长发",
+          "八重神子"
+        ],
+        "description": "动漫风格的粉发少女置身于一片梦幻的灯海中，氛围感十足。",
+        "confidence": 0.9,
+        "reasoning": "图片具有典型的日式动漫风格，大眼睛、动画感明显，未识别出具体作品，因此归入动漫/二次元"
+      }
+    },
+    "wallpaper/desktop/动漫/完美世界/二次元-火灵儿-侧颜.png": {
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "二次元-火灵儿-侧颜.png",
+      "createdAt": "2026-03-26T09:28:28.357Z",
+      "cdnTag": "v1.2.30",
+      "size": 1384068,
+      "format": "png",
+      "resolution": {
+        "width": 3072,
+        "height": 1600,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "身穿白色衣裙的火灵儿在花海中.jpg",
+          "头戴凤冠的美丽火灵儿侧颜.jpg"
+        ],
+        "filenames": [
+          "身穿白色衣裙的火灵儿在花海中.jpg",
+          "头戴凤冠的美丽火灵儿侧颜.jpg"
+        ],
+        "displayTitle": "花海仙姿，凤鸣祥瑞",
+        "keywords": [
+          "火灵儿",
+          "仙女",
+          "花海",
+          "凤凰"
+        ],
+        "description": "火灵儿在花海中展现仙气，凤凰飞舞于上空，场景唯美梦幻。",
+        "confidence": 0.9,
+        "reasoning": "图片中人物具有明显国风特征，穿着传统服饰，佩戴凤冠和配饰，背景有中国传统建筑和花海，符合国风人像的定义。"
+      }
+    },
+    "wallpaper/desktop/动漫/完美世界/仙气-侧颜-古风发饰.png": {
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "仙气-侧颜-古风发饰.png",
+      "createdAt": "2026-03-26T09:28:28.357Z",
+      "cdnTag": "v1.2.30",
+      "size": 1325753,
+      "format": "png",
+      "resolution": {
+        "width": 3072,
+        "height": 1600,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "花海中的火灵儿.jpg",
+          "仙气飘逸的梦幻少女火灵儿.jpg"
+        ],
+        "filenames": [
+          "花海中的火灵儿.jpg",
+          "仙气飘逸的梦幻少女火灵儿.jpg"
+        ],
+        "displayTitle": "花瓣飞舞的仙幻美人",
+        "keywords": [
+          "国风",
+          "仙幻",
+          "花瓣",
+          "火灵儿"
+        ],
+        "description": "图像描绘身穿华丽国风服饰的火灵儿，周围环绕着花瓣和飞鸟，呈现出一种梦幻般的仙气氛围。",
+        "confidence": 0.9,
+        "reasoning": "图片以一位身穿国风服饰的女子为主体，背景充满仙幻色彩，根据人像分类决策树，判定为【国风】。"
+      }
+    },
+    "wallpaper/desktop/动漫/剑来/仙侠-冰雪-剑来.png": {
+      "category": "动漫",
+      "subcategory": "剑来",
+      "filename": "仙侠-冰雪-剑来.png",
+      "createdAt": "2026-03-26T09:28:28.357Z",
+      "cdnTag": "v1.2.30",
+      "size": 669518,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "剑来",
+        "subcategory": "剑来",
+        "filenameSuggestions": [
+          "身穿白色长袍的宁姚持剑雪中.jpg",
+          "雪花环绕中舞剑的宁姚.jpg"
+        ],
+        "filenames": [
+          "身穿白色长袍的宁姚持剑雪中.jpg",
+          "雪花环绕中舞剑的宁姚.jpg"
+        ],
+        "displayTitle": "雪舞长空，剑指乾坤",
+        "keywords": [
+          "宁姚",
+          "剑来",
+          "雪景",
+          "侠女"
+        ],
+        "description": "身穿白色长袍的女子在雪中持剑舞动，周围环绕着雪花和光环，展现出一种仙气飘渺的氛围。",
+        "confidence": 0.9,
+        "reasoning": "图片主要元素包括国风服饰、雪景、剑和光环特效，符合国风插画的特征。根据决策树B2，图片具有中国传统美学和奇幻元素，因此归类为插画/国风。"
+      }
+    },
+    "wallpaper/desktop/动漫/完美世界/cos-中式婚床.png": {
+      "category": "动漫",
+      "subcategory": "完美世界",
+      "filename": "cos-中式婚床.png",
+      "createdAt": "2026-03-26T09:28:28.357Z",
+      "cdnTag": "v1.2.30",
+      "size": 1680011,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2144,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "完美世界",
+        "subcategory": "完美世界",
+        "filenameSuggestions": [
+          "身穿红色汉服的火灵儿.jpg",
+          "红妆卧室风情火灵儿.jpg"
+        ],
+        "filenames": [
+          "身穿红色汉服的火灵儿.jpg",
+          "红妆卧室风情火灵儿.jpg"
+        ],
+        "displayTitle": "红妆卧美图",
+        "keywords": [
+          "国风",
+          "汉服",
+          "美女",
+          "火灵儿"
+        ],
+        "description": "身穿红色汉服的火灵儿，在豪华的卧室中展现出优雅的气质。",
+        "confidence": 0.9,
+        "reasoning": "图片中女子穿着具有中国传统风格的红色汉服，场景也是典型的中国传统卧室风格。根据决策树A的人像分类和B的动漫与插画决策树，判定为[人像/国风]。"
       }
     }
   }
