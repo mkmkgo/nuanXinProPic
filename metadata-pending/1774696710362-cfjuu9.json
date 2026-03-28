@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "createdAt": "2026-03-28T11:18:30.362Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/日落/image_wallpaper话题_ipad..._1.png",
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "image_wallpaper话题_ipad..._1.png",
+      "createdAt": "2026-03-28T11:18:30.362Z",
+      "size": 1388730,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "日落",
+        "subcategory": "日落",
+        "filenameSuggestions": [
+          "秋日暖阳下的古树.jpg",
+          "河边落日映红树.jpg"
+        ],
+        "filenames": [
+          "秋日暖阳下的古树.jpg",
+          "河边落日映红树.jpg"
+        ],
+        "displayTitle": "秋日暖阳下的古树",
+        "keywords": [
+          "风景",
+          "秋天",
+          "树"
+        ],
+        "description": "一棵枝繁叶茂的古树伫立在河边，夕阳的余晖洒在红色的树叶上，云彩被染成了橙红色。",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅自然风景，主体为一棵枝繁叶茂的古树，树叶呈现红色，位于河边。天空为夕阳余晖的景象。根据决策树C1，图片符合风景/通用的特征。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/星空/image_wallpaper话题_ipad..._0.png",
+      "category": "风景",
+      "subcategory": "星空",
+      "filename": "image_wallpaper话题_ipad..._0.png",
+      "createdAt": "2026-03-28T11:18:30.362Z",
+      "size": 467576,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "星空",
+        "subcategory": "星空",
+        "filenameSuggestions": [
+          "夕阳下的山谷流星.jpg",
+          "山间夕阳流星景观.jpg"
+        ],
+        "filenames": [
+          "夕阳下的山谷流星.jpg",
+          "山间夕阳流星景观.jpg"
+        ],
+        "displayTitle": "流星划过山谷夕阳",
+        "keywords": [
+          "风景",
+          "山谷",
+          "流星",
+          "夕阳"
+        ],
+        "description": "山谷中夕阳西下，流星划过天空的美丽景象。",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个山谷景观，日落时分，流星划过天空，根据规则C1，判定为[风景/通用]"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/插画/场景/image_wallpaper话题_ipad..._2.png",
+      "category": "插画",
+      "subcategory": "场景",
+      "filename": "image_wallpaper话题_ipad..._2.png",
+      "createdAt": "2026-03-28T11:18:30.362Z",
+      "size": 442741,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "场景",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "场景",
+        "keywords": [
+          "插画",
+          "场景",
+          "日落",
+          "海岸"
+        ],
+        "description": "一少女站在海边树旁，凝视着日落时分的海上风景。",
+        "filenameSuggestions": [
+          "夕阳海岸的少女遐思.jpg",
+          "海边日落下的宁静时刻.jpg"
+        ],
+        "displayTitle": "夕阳下的海岸遐思",
+        "confidence": 0.9,
+        "reasoning": "图片为一幅插画风格的风景画，描绘了一个少女在海边看着日落的场景。根据决策树B2，图片具有绘画感强、非动画截图感的特征，归为插画/场景。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/插画/场景/image_wallpaper话题_ipad..._3.png",
+      "category": "插画",
+      "subcategory": "场景",
+      "filename": "image_wallpaper话题_ipad..._3.png",
+      "createdAt": "2026-03-28T11:18:30.362Z",
+      "size": 596354,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "场景",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "场景",
+        "keywords": [
+          "插画",
+          "风景",
+          "海岛"
+        ],
+        "description": "插画风格的海岛风景，人物站在木平台上远眺大海。",
+        "filenameSuggestions": [
+          "海岛远眺的旅行者.jpg",
+          "站在木平台上的背影.jpg"
+        ],
+        "displayTitle": "海岛远眺",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现海岛风景，人物背对观众站在木平台上，眺望着远处的海岛和大海。根据决策树B2插画逻辑，图片具有绘画感强、非动画截图感的特征，且场景为主，因此判定为插画/场景。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/萌宠/猫咪/image_桌面壁纸话题_电脑壁纸话题_意境..._6.png",
+      "category": "萌宠",
+      "subcategory": "猫咪",
+      "filename": "image_桌面壁纸话题_电脑壁纸话题_意境..._6.png",
+      "createdAt": "2026-03-28T11:18:30.362Z",
+      "size": 505539,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "萌宠",
+        "subcategory": "猫咪",
+        "primary": "desktop",
+        "secondary": "萌宠",
+        "third": "猫咪",
+        "keywords": [
+          "萌宠",
+          "猫咪",
+          "水中"
+        ],
+        "description": "三只黑猫在水中好奇地看着小丑鱼",
+        "filenameSuggestions": [
+          "三只好奇的黑猫在水中看着小鱼.jpg",
+          "水面下的黑猫凝视小丑鱼.jpg"
+        ],
+        "displayTitle": "水中的好奇猫咪",
+        "confidence": 0.9,
+        "reasoning": "图片中为三只黑猫在水下看着一只小丑鱼，符合萌宠分类下的猫咪子类。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/插画/场景/image_桌面壁纸话题_电脑壁纸话题_意境..._7.png",
+      "category": "插画",
+      "subcategory": "场景",
+      "filename": "image_桌面壁纸话题_电脑壁纸话题_意境..._7.png",
+      "createdAt": "2026-03-28T11:18:30.362Z",
+      "size": 246875,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "场景",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "场景",
+        "keywords": [
+          "插画",
+          "场景",
+          "竖琴",
+          "小猫"
+        ],
+        "description": "竖琴与小猫在阳光下的宁静时刻",
+        "filenameSuggestions": [
+          "草地上竖琴与椅子的宁静时刻.jpg",
+          "阳光下的竖琴与小猫.jpg"
+        ],
+        "displayTitle": "阳光下的悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "图片为插画风格，场景为主，包含竖琴、椅子和小猫，根据决策树B2，判定为插画/场景"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/插画/场景/image_桌面壁纸话题_电脑壁纸话题_意境..._5.png",
+      "category": "插画",
+      "subcategory": "场景",
+      "filename": "image_桌面壁纸话题_电脑壁纸话题_意境..._5.png",
+      "createdAt": "2026-03-28T11:18:30.362Z",
+      "size": 677336,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "场景",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "场景",
+        "keywords": [
+          "插画",
+          "场景",
+          "花园",
+          "小屋"
+        ],
+        "description": "一幅充满生机的插画，描绘了一间白墙蓝门的小屋，周围盛开着橙色花朵的盆栽，屋前有一只小黑猫。",
+        "filenameSuggestions": [
+          "门前盛开橙色花的白墙小屋.jpg",
+          "小黑猫漫步在花园小屋前.jpg"
+        ],
+        "displayTitle": "阳光下的花园小屋",
+        "confidence": 0.9,
+        "reasoning": "图片主要以插画风格呈现，场景为一座小屋和花园。根据内容，判定为插画/场景。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/萌宠/狗狗/image_桌面壁纸话题_电脑壁纸话题_意境..._4.png",
+      "category": "萌宠",
+      "subcategory": "狗狗",
+      "filename": "image_桌面壁纸话题_电脑壁纸话题_意境..._4.png",
+      "createdAt": "2026-03-28T11:18:30.362Z",
+      "size": 262649,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "萌宠",
+        "subcategory": "狗狗",
+        "primary": "desktop",
+        "secondary": "萌宠",
+        "third": "狗狗",
+        "keywords": [
+          "纯白小狗",
+          "星空",
+          "仰望"
+        ],
+        "description": "一只纯白小狗仰望星空的治愈画面",
+        "filenameSuggestions": [
+          "仰望星空的纯白小狗.jpg",
+          "纯白小狗凝望星空.jpg"
+        ],
+        "displayTitle": "仰望星空的纯白小狗",
+        "confidence": 0.9,
+        "reasoning": "图片为一只纯白小狗仰望星空的场景，以萌宠/狗狗分类最为合适。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/萌宠/猫咪/image_桌面壁纸话题_电脑壁纸话题_意境..._1.png",
+      "category": "萌宠",
+      "subcategory": "猫咪",
+      "filename": "image_桌面壁纸话题_电脑壁纸话题_意境..._1.png",
+      "createdAt": "2026-03-28T11:18:30.362Z",
+      "size": 195455,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "萌宠",
+        "subcategory": "猫咪",
+        "primary": "desktop",
+        "secondary": "萌宠",
+        "third": "猫咪",
+        "keywords": [
+          "萌宠",
+          "猫咪",
+          "屋顶"
+        ],
+        "description": "一只黑白猫坐在屋顶上仰望天空",
+        "filenameSuggestions": [
+          "屋顶上的黑白猫.jpg",
+          "仰望天空的黑白猫.jpg"
+        ],
+        "displayTitle": "屋顶上的黑白猫",
+        "confidence": 0.9,
+        "reasoning": "图片中是一只黑白猫坐在屋顶上，背景是蓝天白云，根据图片内容和现有分类体系，判定为萌宠/猫咪。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/插画/卡通/image_桌面壁纸话题_电脑壁纸话题_意境..._3.png",
+      "category": "插画",
+      "subcategory": "卡通",
+      "filename": "image_桌面壁纸话题_电脑壁纸话题_意境..._3.png",
+      "createdAt": "2026-03-28T11:18:30.362Z",
+      "size": 214886,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "卡通",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "卡通",
+        "keywords": [
+          "卡通",
+          "插画",
+          "松鼠"
+        ],
+        "description": "可爱的卡通松鼠在绿草地浇花",
+        "filenameSuggestions": [
+          "可爱的红松鼠在绿草地.jpg",
+          "松鼠浇花趣图.jpg"
+        ],
+        "displayTitle": "田野里的松松",
+        "confidence": 0.9,
+        "reasoning": "图片为卡通风格的松鼠在绿草地场景，符合插画/卡通的特征"
+      }
+    }
+  ]
+}
