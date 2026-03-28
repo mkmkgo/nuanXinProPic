@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-03-27 17:52:11",
-  "count": 663,
+  "lastUpdated": "2026-03-28 10:38:55",
+  "count": 674,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -20335,6 +20335,408 @@
         "displayTitle": "冬日里的温馨小站",
         "confidence": 0.9,
         "reasoning": "图片为插画风格，含有明显的人物和宠物元素，且场景为冬日雪景，女孩和柴犬穿着冬衣，氛围温暖"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/兔子玩偶-可爱女孩.png": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "兔子玩偶-可爱女孩.png",
+      "createdAt": "2026-03-28T10:14:14.036Z",
+      "cdnTag": "v1.2.33",
+      "size": 180129,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "兔耳",
+          "冬日",
+          "微笑"
+        ],
+        "description": "冬日暖阳下，少女带着兔耳手套微笑。",
+        "filenameSuggestions": [
+          "戴兔耳手套的少女冬日暖阳.jpg",
+          "微笑的兔耳少女冬日风景.jpg"
+        ],
+        "displayTitle": "冬日里的温暖微笑",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女带有兔耳手套，面部部分被遮挡，背景简洁，符合氛围感的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/唯美-小清新.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "唯美-小清新.png",
+      "createdAt": "2026-03-28T10:14:14.036Z",
+      "cdnTag": "v1.2.33",
+      "size": 2428349,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2336,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "长发",
+          "蓝天",
+          "少女"
+        ],
+        "description": "阳光下的清新少女，饮茶自乐",
+        "filenameSuggestions": [
+          "户外饮茶的长发女孩.jpg",
+          "蓝天白云下的清新美少女.jpg"
+        ],
+        "displayTitle": "夏日清新少女",
+        "confidence": 0.9,
+        "reasoning": "图片展示一位少女在蓝天背景下，手持饮料，面带微笑。整体色调明亮，充满清新和治愈的氛围。根据规则A4【清新】的定义：明亮、治愈、氧气感，特征：高明度、色彩鲜艳自然、笑容甜美、背景通常是草地/蓝天/白墙，构图干净。因此判定为【人像/清新】。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/小清新-户外-拍照.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "小清新-户外-拍照.png",
+      "createdAt": "2026-03-28T10:14:14.036Z",
+      "cdnTag": "v1.2.33",
+      "size": 1662184,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2336,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "户外",
+          "阳光"
+        ],
+        "description": "阳光下的清新少女，拍照记录美好时刻。",
+        "filenameSuggestions": [
+          "身穿白色上衣的女孩在山石上拍照.jpg",
+          "山顶阳光下的青春女孩.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物穿着休闲，背景明亮且有自然光照，整体氛围轻松愉悦，符合【清新】(Fresh)的定义。"
+      }
+    },
+    "wallpaper/mobile/插画/氛围感/小清新-简洁.png": {
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "小清新-简洁.png",
+      "createdAt": "2026-03-28T10:14:14.036Z",
+      "cdnTag": "v1.2.33",
+      "size": 276119,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "氛围感",
+        "keywords": [
+          "插画",
+          "氛围感",
+          "校园风",
+          "浪漫"
+        ],
+        "description": "一幅描绘校园生活中少年撑伞与少女蹲下玩耍温馨场景的插画。",
+        "filenameSuggestions": [
+          "撑伞的少年与蹲下的少女.jpg",
+          "校园绿草地上的温馨瞬间.jpg"
+        ],
+        "displayTitle": "雨后初晴的校园浪漫",
+        "confidence": 0.9,
+        "reasoning": "根据画面中的插画风格、人物互动和校园场景，符合插画/氛围感的分类特征。"
+      }
+    },
+    "wallpaper/mobile/插画/氛围感/小清新-意境.png": {
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "小清新-意境.png",
+      "createdAt": "2026-03-28T10:14:14.036Z",
+      "cdnTag": "v1.2.33",
+      "size": 480899,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "氛围感",
+        "keywords": [
+          "插画",
+          "氛围感",
+          "绿轨迹"
+        ],
+        "description": "绿色的列车静静停靠，红灯闪烁，女孩背影悠闲前行。",
+        "filenameSuggestions": [
+          "绿轨迹上的背影.jpg",
+          "清晨的铁路故事.jpg"
+        ],
+        "displayTitle": "雨后清晨的绿轨迹",
+        "confidence": 0.9,
+        "reasoning": "图片具有强烈的绘画感，归为插画类。图片中没有露脸且重光影意境，判定为氛围感插画。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/Ios-冬季-围巾.png": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "Ios-冬季-围巾.png",
+      "createdAt": "2026-03-28T10:14:14.036Z",
+      "cdnTag": "v1.2.33",
+      "size": 461271,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2346,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "雪景",
+          "长发"
+        ],
+        "description": "雪花轻舞，一位长发女孩静立雪中，闭眼感受冬日宁静。",
+        "filenameSuggestions": [
+          "雪中闭眼的长发女孩.jpg",
+          "冬季雪景氛围感人像.jpg"
+        ],
+        "displayTitle": "雪中静谧",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物未露脸且重光影意境，符合【氛围感】(Atmosphere)的特征，因此归入人像/氛围感。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/Ios-枫叶.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "Ios-枫叶.png",
+      "createdAt": "2026-03-28T10:14:14.036Z",
+      "cdnTag": "v1.2.33",
+      "size": 413158,
+      "format": "png",
+      "resolution": {
+        "width": 1079,
+        "height": 2270,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "长发",
+          "少女",
+          "秋天"
+        ],
+        "description": "阳光下的少女，温柔微笑，手持秋叶，充满清新与自然的气息。",
+        "filenameSuggestions": [
+          "身穿白色长袖的长发少女.jpg",
+          "秋日阳光下的微笑女孩.jpg"
+        ],
+        "displayTitle": "秋日里的温暖邂逅",
+        "confidence": 0.9,
+        "reasoning": "图片中的女孩穿着清新自然的服装，背景是秋天的景色，整体氛围明亮且充满生机。根据规则A4【清新】的特征，如高明度、色彩鲜艳自然、笑容甜美、背景是草地/蓝天/白墙等，判定为【清新】。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/Ios-户外-清新.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "Ios-户外-清新.png",
+      "createdAt": "2026-03-28T10:14:14.037Z",
+      "cdnTag": "v1.2.33",
+      "size": 404252,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2338,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "蓝天",
+          "白衣"
+        ],
+        "description": "阳光下的美丽少女，秀发飞扬，面带微笑。",
+        "filenameSuggestions": [
+          "清新少女在蓝天背景下秀发飞扬.jpg",
+          "白衣蓝天下的俏皮女孩.jpg"
+        ],
+        "displayTitle": "阳光下的美丽少女",
+        "confidence": 0.9,
+        "reasoning": "图片中少女穿着白色清爽的衣服，站在蓝天白云的背景下，整体氛围明亮且充满活力，符合【清新】(Fresh)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/Ios-清新-玻璃杯.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "Ios-清新-玻璃杯.png",
+      "createdAt": "2026-03-28T10:14:14.037Z",
+      "cdnTag": "v1.2.33",
+      "size": 217283,
+      "format": "png",
+      "resolution": {
+        "width": 819,
+        "height": 1721,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "自然光",
+          "少女"
+        ],
+        "description": "一位穿着白色上衣、戴着眼镜的少女，在阳光下手持水杯，展现出清新自然的气质。",
+        "filenameSuggestions": [
+          "清新自然的白衣少女.jpg",
+          "手持水杯的阳光女孩.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女穿着轻薄的白色上衣，面带微笑，手持水杯，整体氛围明亮且自然，符合【清新】(Fresh)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/Ios-清新-温柔.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "Ios-清新-温柔.png",
+      "createdAt": "2026-03-28T10:14:14.037Z",
+      "cdnTag": "v1.2.33",
+      "size": 442420,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2279,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "长发",
+          "阳光"
+        ],
+        "description": "一位面带微笑的少女，享受清晨的阳光和柠檬汁的清爽。",
+        "filenameSuggestions": [
+          "清晨微笑的长发女孩.jpg",
+          "手握柠檬汁的阳光少女.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片的特征，少女面带微笑，表情甜美，背景光线明亮，色彩自然，符合【清新】(Fresh)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/Ios-双马尾.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "Ios-双马尾.png",
+      "createdAt": "2026-03-28T10:14:14.037Z",
+      "cdnTag": "v1.2.33",
+      "size": 494429,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2221,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "雨天",
+          "少女",
+          "透明雨伞"
+        ],
+        "description": "雨天里，一位面带微笑的少女撑着透明雨伞，周围飘落蓝色花瓣，氛围清新而唯美。",
+        "filenameSuggestions": [
+          "雨中持伞的清新少女.jpg",
+          "蓝色花瓣与透明雨伞的清新女孩.jpg"
+        ],
+        "displayTitle": "雨中清新少女",
+        "confidence": 0.9,
+        "reasoning": "图片中的少女面带微笑，撑着透明雨伞，周围是飘落的蓝色花瓣，整体氛围明亮且充满生机，符合【清新】风格的特征：高明度、色彩鲜艳自然、笑容甜美、背景干净。"
       }
     }
   }
