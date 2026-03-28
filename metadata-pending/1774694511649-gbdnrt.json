@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "createdAt": "2026-03-28T10:41:51.649Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/背影/image_氛围感女头话题_精选女头话题_高..._4.png",
+      "category": "人像",
+      "subcategory": "背影",
+      "filename": "image_氛围感女头话题_精选女头话题_高..._4.png",
+      "createdAt": "2026-03-28T10:41:51.649Z",
+      "size": 128400,
+      "format": "png",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "背影",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "背影",
+        "keywords": [
+          "背影",
+          "长发",
+          "海边"
+        ],
+        "description": "长发女子在海边拍摄风景",
+        "filenameSuggestions": [
+          "海边长发背影.jpg",
+          "白色连衣女子拍摄海景.jpg"
+        ],
+        "displayTitle": "海边背影",
+        "confidence": 0.9,
+        "reasoning": "根据决策树B. 人像分类决策树，图片主要展示人物的背影，符合'背影'的特征，归类为 人像/背影。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/背影/image_氛围感女头话题_精选女头话题_高..._3.png",
+      "category": "人像",
+      "subcategory": "背影",
+      "filename": "image_氛围感女头话题_精选女头话题_高..._3.png",
+      "createdAt": "2026-03-28T10:41:51.649Z",
+      "size": 87707,
+      "format": "png",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "背影",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "背影",
+        "keywords": [
+          "背影",
+          "日落",
+          "城市"
+        ],
+        "description": "一个长发女孩在日落时分拍摄城市美景的背影。",
+        "filenameSuggestions": [
+          "城市日落背影风景.jpg",
+          "长发女孩拍摄日落美景.jpg"
+        ],
+        "displayTitle": "日落下的城市剪影",
+        "confidence": 0.9,
+        "reasoning": "根据核心判定逻辑B. 人像分类决策树，图片展示了人物的背影且有明显的非正面、重光影意境的氛围，归类为 '人像/背影'。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/氛围感/image_氛围感女头话题_精选女头话题_高..._9.png",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "image_氛围感女头话题_精选女头话题_高..._9.png",
+      "createdAt": "2026-03-28T10:41:51.649Z",
+      "size": 67769,
+      "format": "png",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "剪影",
+          "日落"
+        ],
+        "description": "城市日落下的美丽剪影，充满温暖与宁静。",
+        "filenameSuggestions": [
+          "城市日落剪影美女.jpg",
+          "日落城市氛围感人像.jpg"
+        ],
+        "displayTitle": "日落下的城市剪影",
+        "confidence": 0.9,
+        "reasoning": "根据决策树B2特征：不露脸（背影/遮挡/模糊）、重光影意境，归类为：人像/氛围感"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/氛围感/image_氛围感女头话题_精选女头话题_高..._8.png",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "image_氛围感女头话题_精选女头话题_高..._8.png",
+      "createdAt": "2026-03-28T10:41:51.649Z",
+      "size": 104699,
+      "format": "png",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "背影",
+          "日落"
+        ],
+        "description": "夕阳下的静谧时刻，人物背影呈现出一种别样的美。",
+        "filenameSuggestions": [
+          "夕阳下的背影.jpg",
+          "海边日落氛围感人像.jpg"
+        ],
+        "displayTitle": "日落下的静谧时刻",
+        "confidence": 0.9,
+        "reasoning": "根据决策树B2，图片中人物背对着镜头，强调光影意境，归类为'人像/氛围感'。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/氛围感/image_氛围感女头话题_精选女头话题_高..._13.png",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "image_氛围感女头话题_精选女头话题_高..._13.png",
+      "createdAt": "2026-03-28T10:41:51.649Z",
+      "size": 74751,
+      "format": "png",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "背影",
+          "人像"
+        ],
+        "description": "夕阳下的美丽背影，微妙的光影交织，营造出温馨而梦幻的氛围。",
+        "filenameSuggestions": [
+          "温柔背影日落剪影.jpg",
+          "美丽氛围感人像摄影.jpg"
+        ],
+        "displayTitle": "日落下的剪影之美",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物背对镜头，侧重光影意境，归类为'人像/氛围感'。"
+      }
+    }
+  ]
+}
