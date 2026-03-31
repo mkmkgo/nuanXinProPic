@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-03-30 17:56:39",
+  "generatedAt": "2026-03-31 17:57:52",
   "total": 7,
   "items": [
+    {
+      "date": "2026-04-01",
+      "title": "跃入四月",
+      "copyright": "粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E6%97%A5%E6%9C%AC%E6%A0%91%E8%9B%99&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260331_JapaneseTreeFrog%22&FORM=HPQUIZ",
+      "hsh": "68b066b81c6d22a5a701ab93cb780b1c",
+      "urlbase": "/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766"
+    },
     {
       "date": "2026-03-31",
       "title": "地下天堂",
@@ -55,15 +64,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260325_LoganCreek%22&FORM=HPQUIZ",
       "hsh": "5f8d54374f300c8218179792bb688158",
       "urlbase": "/th?id=OHR.LoganCreek_ZH-CN5372283365"
-    },
-    {
-      "date": "2026-03-25",
-      "title": "海牛的秘密生活",
-      "copyright": "淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)",
-      "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E7%89%9B%E6%97%A5&form=hpcapt&mkt=zh-cn",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260324_ManateeSpring%22&FORM=HPQUIZ",
-      "hsh": "59da6c8be6a41d3ad6b37ecefc153469",
-      "urlbase": "/th?id=OHR.ManateeSpring_ZH-CN5252847120"
     }
   ]
 }
