@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "desktop",
-  "lastUpdated": "2026-03-30 17:57:05",
-  "count": 547,
+  "lastUpdated": "2026-03-31 09:46:47",
+  "count": 567,
   "images": {
     "wallpaper/desktop/IP形象/乌萨奇/乌撒奇-兔子-卡通.png": {
       "category": "IP形象",
@@ -15681,6 +15681,757 @@
         "displayTitle": "田野里的松松",
         "confidence": 0.9,
         "reasoning": "图片为卡通风格的松鼠在绿草地场景，符合插画/卡通的特征"
+      }
+    },
+    "wallpaper/desktop/风景/日落/image_电脑分区壁纸话题_电脑桌面话题_..._0.png": {
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._0.png",
+      "createdAt": "2026-03-31T09:35:47.793Z",
+      "cdnTag": "v1.2.39",
+      "size": 817508,
+      "format": "png",
+      "resolution": {
+        "width": 2696,
+        "height": 1926,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "富士山",
+          "日落",
+          "秋叶"
+        ],
+        "description": "富士山在秋日黄昏的美丽景象，红叶与山景交融。",
+        "filenameSuggestions": [
+          "富士山秋日黄昏.jpg",
+          "日落下的富士山景象.jpg"
+        ],
+        "displayTitle": "富士山下的秋日黄昏",
+        "confidence": 0.9,
+        "reasoning": "图片展示了富士山在日落时的景色，山峰被云雾环绕，前方有红叶树枝作为前景，根据风景分类决策树，判定为风景/日落。"
+      }
+    },
+    "wallpaper/desktop/风景/建筑/image_8.png": {
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "image_8.png",
+      "createdAt": "2026-03-31T09:35:47.793Z",
+      "cdnTag": "v1.2.39",
+      "size": 139418,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "现代简约",
+          "室内设计",
+          "客厅",
+          "建筑"
+        ],
+        "description": "现代简约风格的客厅，灰色调与简洁家具搭配，营造出静谧舒适的室内氛围。",
+        "filenameSuggestions": [
+          "极简主义风格的客厅内景.jpg",
+          "现代简约客厅的静谧氛围.jpg"
+        ],
+        "displayTitle": "现代简约客厅的静谧时光",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一间现代简约风格的客厅，包含具体的建筑和室内设计元素，根据规则C1，判定为风景/建筑。"
+      }
+    },
+    "wallpaper/desktop/风景/建筑/image_9.png": {
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "image_9.png",
+      "createdAt": "2026-03-31T09:35:47.793Z",
+      "cdnTag": "v1.2.39",
+      "size": 143129,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "现代简约",
+          "客厅",
+          "建筑"
+        ],
+        "description": "现代简约风格客厅，简洁而优雅。",
+        "filenameSuggestions": [
+          "现代简约风格客厅内景.jpg",
+          "简洁客厅电视背景墙设计.jpg"
+        ],
+        "displayTitle": "现代简约客厅风景",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个现代简约风格的客厅，包含电视柜、沙发等家具，整体风格简洁大方。根据决策树C1，图片应归类为风景/建筑。"
+      }
+    },
+    "wallpaper/desktop/风景/建筑/image_2.png": {
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "image_2.png",
+      "createdAt": "2026-03-31T09:35:47.793Z",
+      "cdnTag": "v1.2.39",
+      "size": 180357,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "现代简约",
+          "客厅",
+          "建筑"
+        ],
+        "description": "现代简约风格客厅，电视墙设计简洁大方，家具线条流畅。",
+        "filenameSuggestions": [
+          "现代简约风格客厅.jpg",
+          "客厅装饰效果图.jpg"
+        ],
+        "displayTitle": "现代简约风格客厅",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个现代简约风格的客厅，包含家具、装饰和建筑元素。根据决策树C1，图片主要为建筑场景，因此判定为风景/建筑。"
+      }
+    },
+    "wallpaper/desktop/风景/建筑/image_3.png": {
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "image_3.png",
+      "createdAt": "2026-03-31T09:35:47.793Z",
+      "cdnTag": "v1.2.39",
+      "size": 163868,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "现代简约",
+          "客厅",
+          "室内设计"
+        ],
+        "description": "现代简约风格客厅，注重线条与空间的流畅。",
+        "filenameSuggestions": [
+          "时尚现代客厅室内设计.jpg",
+          "简约风格客厅装饰.jpg"
+        ],
+        "displayTitle": "现代简约风格客厅",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一间现代简约风格的客厅，包含现代家具和装饰，根据规则C1，判定为风景/建筑。"
+      }
+    },
+    "wallpaper/desktop/风景/建筑/image_1.png": {
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "image_1.png",
+      "createdAt": "2026-03-31T09:35:47.793Z",
+      "cdnTag": "v1.2.39",
+      "size": 79616,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "建筑",
+        "subcategory": "建筑",
+        "filenameSuggestions": [
+          "现代简约风格客厅电视柜.jpg",
+          "简洁时尚的家居电视墙设计.jpg"
+        ],
+        "filenames": [
+          "现代简约风格客厅电视柜.jpg",
+          "简洁时尚的家居电视墙设计.jpg"
+        ],
+        "displayTitle": "现代简约家居客厅一角",
+        "keywords": [
+          "现代简约",
+          "家居",
+          "客厅"
+        ],
+        "description": "简洁的客厅角落，展现现代家居风格",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个现代简约风格的客厅一角，包括电视柜、衣柜和立灯，整体色调清淡，符合风景/通用的分类。"
+      }
+    },
+    "wallpaper/desktop/风景/建筑/image_4.png": {
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "image_4.png",
+      "createdAt": "2026-03-31T09:35:47.793Z",
+      "cdnTag": "v1.2.39",
+      "size": 142544,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "现代简约",
+          "室内设计",
+          "建筑"
+        ],
+        "description": "展现现代简约风格的客厅与餐厅，注重线条与空间的简洁。",
+        "filenameSuggestions": [
+          "现代简约风格客厅与餐厅.jpg",
+          "简洁明亮的家居室内设计.jpg"
+        ],
+        "displayTitle": "现代简约风格客厅与餐厅",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个现代简约风格的客厅和餐厅，包含建筑和室内设计元素，根据规则C1，判定为风景/建筑。"
+      }
+    },
+    "wallpaper/desktop/风景/建筑/image_5.png": {
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "image_5.png",
+      "createdAt": "2026-03-31T09:35:47.793Z",
+      "cdnTag": "v1.2.39",
+      "size": 157042,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "现代简约",
+          "客厅",
+          "室内设计"
+        ],
+        "description": "现代简约风格客厅，电视背景墙设计简洁，搭配浅色木质家具。",
+        "filenameSuggestions": [
+          "现代简约风格客厅.jpg",
+          "简洁舒适客厅背景.jpg"
+        ],
+        "displayTitle": "现代简约客厅",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个现代简约风格的客厅，重点突出建筑和室内设计元素，根据规则C1，判定为风景/建筑。"
+      }
+    },
+    "wallpaper/desktop/风景/建筑/image_6.png": {
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "image_6.png",
+      "createdAt": "2026-03-31T09:35:47.793Z",
+      "cdnTag": "v1.2.39",
+      "size": 274505,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "现代简约",
+          "客厅",
+          "室内设计"
+        ],
+        "description": "展现现代简约风格的客厅，注重线条与空间的简洁。",
+        "filenameSuggestions": [
+          "现代简约风格客厅室内设计.jpg",
+          "简洁时尚的客厅装饰效果图.jpg"
+        ],
+        "displayTitle": "现代简约客厅的静谧之美",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一间现代简约风格的客厅，重点突出建筑与室内设计元素，根据决策树C1，判定为风景/建筑。"
+      }
+    },
+    "wallpaper/desktop/风景/建筑/image_7.png": {
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "image_7.png",
+      "createdAt": "2026-03-31T09:35:47.793Z",
+      "cdnTag": "v1.2.39",
+      "size": 127136,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "现代简约",
+          "客厅",
+          "室内设计"
+        ],
+        "description": "现代简约风格客厅，素雅的色彩与简洁的线条，营造出静谧舒适的氛围。",
+        "filenameSuggestions": [
+          "极简风客厅背景墙.jpg",
+          "现代简约风格客厅设计.jpg"
+        ],
+        "displayTitle": "现代简约客厅的静谧时光",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一间现代简约风格的客厅，重点突出建筑与室内设计元素，根据决策树C1，判定为风景/建筑。"
+      }
+    },
+    "wallpaper/desktop/风景/日落/image_电脑分区壁纸话题_电脑桌面话题_..._1.png": {
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._1.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "cdnTag": "v1.2.39",
+      "size": 887152,
+      "format": "png",
+      "resolution": {
+        "width": 2784,
+        "height": 1988,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "日落",
+          "湖泊",
+          "山景",
+          "自然风光"
+        ],
+        "description": "日落时分，湖水与山景交映成一幅美丽的画卷。",
+        "filenameSuggestions": [
+          "湖边日落风景.jpg",
+          "山湖交映夕阳红.jpg"
+        ],
+        "displayTitle": "夕阳下的湖光山色",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个日落时分的湖景，山脉、湖水和夕阳构成典型的风景/日落场景，根据规则C1，判定为风景/日落。"
+      }
+    },
+    "wallpaper/desktop/风景/日落/image_电脑分区壁纸话题_电脑桌面话题_..._2.png": {
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._2.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "cdnTag": "v1.2.39",
+      "size": 803371,
+      "format": "png",
+      "resolution": {
+        "width": 2784,
+        "height": 1988,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "日落",
+          "海滨",
+          "花海",
+          "自然风光"
+        ],
+        "description": "日落时分，海面映照着夕阳的金色光辉，草坡上盛开的各色野花增添了一抹生机。",
+        "filenameSuggestions": [
+          "海边草坡上的日落黄昏.jpg",
+          "花海映衬下的温暖日落.jpg"
+        ],
+        "displayTitle": "海上日落的温柔时刻",
+        "confidence": 0.9,
+        "reasoning": "图片展示了日落时分的海滨风景，包含海面、夕阳和花草，根据规则C1，判定为风景/日落。"
+      }
+    },
+    "wallpaper/desktop/风景/天空/image_电脑分区壁纸话题_电脑桌面话题_..._3.png": {
+      "category": "风景",
+      "subcategory": "天空",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._3.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "cdnTag": "v1.2.39",
+      "size": 724451,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "天空",
+        "subcategory": "天空",
+        "filenameSuggestions": [
+          "草原上奔腾的三匹骏马.jpg",
+          "金色草原与蓝天白云下的马群.jpg"
+        ],
+        "filenames": [
+          "草原上奔腾的三匹骏马.jpg",
+          "金色草原与蓝天白云下的马群.jpg"
+        ],
+        "displayTitle": "草原上的自由",
+        "keywords": [
+          "风景",
+          "自然",
+          "马",
+          "草原"
+        ],
+        "description": "金色阳光下的草原，三匹骏马自由奔腾，蓝天白云为其添彩。",
+        "confidence": 0.9,
+        "reasoning": "图片展示了草原和马的自然景观，根据决策树C2规则，判定为风景/通用。"
+      }
+    },
+    "wallpaper/desktop/风景/花卉/image_电脑分区壁纸话题_电脑桌面话题_..._4.png": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._4.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "cdnTag": "v1.2.39",
+      "size": 1223885,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "花卉",
+          "风景",
+          "自然"
+        ],
+        "description": "一片生机盎然的田园风光，野花在绿茵中绽放，远处是温馨的乡村小屋。",
+        "filenameSuggestions": [
+          "阳光下的野花小村.jpg",
+          "绿茵花海乡村风景.jpg"
+        ],
+        "displayTitle": "田园花海风光",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅自然风景，花卉和绿草地是主要元素，有乡村小屋和树木，符合风景/花卉的特征。"
+      }
+    },
+    "wallpaper/desktop/插画/场景/image_电脑分区壁纸话题_电脑桌面话题_..._5.png": {
+      "category": "插画",
+      "subcategory": "场景",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._5.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "cdnTag": "v1.2.39",
+      "size": 145257,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "场景",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "场景",
+        "keywords": [
+          "插画",
+          "场景",
+          "云",
+          "房子"
+        ],
+        "description": "一座温馨的小房子坐落在绵延的云朵上，周围环绕着柔软的白云。",
+        "filenameSuggestions": [
+          "云端小屋与柔软白云.jpg",
+          "日落云海中的温馨小屋.jpg"
+        ],
+        "displayTitle": "云端之家",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅梦幻的场景，房子漂浮在云上，具备强烈的绘画感和梦幻色彩，归类为插画/场景。"
+      }
+    },
+    "wallpaper/desktop/风景/自然/image_电脑分区壁纸话题_电脑桌面话题_..._6.png": {
+      "category": "风景",
+      "subcategory": "自然",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._6.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "cdnTag": "v1.2.39",
+      "size": 882074,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "自然",
+        "subcategory": "自然",
+        "filenameSuggestions": [
+          "阳光下的秋叶.jpg",
+          "枫叶落满地的秋景.jpg"
+        ],
+        "filenames": [
+          "阳光下的秋叶.jpg",
+          "枫叶落满地的秋景.jpg"
+        ],
+        "displayTitle": "秋日枫叶",
+        "keywords": [
+          "秋天",
+          "枫叶",
+          "自然"
+        ],
+        "description": "阳光下的枫叶，铺满地面的秋色",
+        "confidence": 0.9,
+        "reasoning": "图片为自然风景，以枫叶为主要元素，没有具体到雪山、城市等特定场景，因此归类为风景/通用"
+      }
+    },
+    "wallpaper/desktop/风景/雪山/image_电脑分区壁纸话题_电脑桌面话题_..._7.png": {
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._7.png",
+      "createdAt": "2026-03-31T09:39:49.060Z",
+      "cdnTag": "v1.2.39",
+      "size": 753188,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "雪山",
+        "subcategory": "雪山",
+        "filenameSuggestions": [
+          "飞驰在山道上的跑车.jpg",
+          "日本富士山下的疾驰蓝车.jpg"
+        ],
+        "filenames": [
+          "飞驰在山道上的跑车.jpg",
+          "日本富士山下的疾驰蓝车.jpg"
+        ],
+        "displayTitle": "山道飞驰，风景如画",
+        "keywords": [
+          "风景",
+          "山景",
+          "跑车"
+        ],
+        "description": "富士山下疾驰的跑车，山道与湖光相映成趣。",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示一辆跑车在山道上疾驰，背景为富士山与自然风光，根据决策树C1，判定为风景/通用。"
+      }
+    },
+    "wallpaper/desktop/风景/日落/image_电脑分区壁纸话题_电脑桌面话题_..._8.png": {
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._8.png",
+      "createdAt": "2026-03-31T09:39:49.060Z",
+      "cdnTag": "v1.2.39",
+      "size": 359898,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "日落",
+        "subcategory": "日落",
+        "filenameSuggestions": [
+          "沙漠公路上的蓝色保时捷.jpg",
+          "日落时分疾驰的跑车.jpg"
+        ],
+        "filenames": [
+          "沙漠公路上的蓝色保时捷.jpg",
+          "日落时分疾驰的跑车.jpg"
+        ],
+        "displayTitle": "夕阳下的飞驰",
+        "keywords": [
+          "风景",
+          "跑车",
+          "日落"
+        ],
+        "description": "日落时分，一辆蓝色保时捷在沙漠公路上疾驰",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示风景，包含沙漠、公路、日落元素，根据规则C1，判定为[风景/通用]"
+      }
+    },
+    "wallpaper/desktop/风景/自然/image_电脑分区壁纸话题_电脑桌面话题_..._9.png": {
+      "category": "风景",
+      "subcategory": "自然",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._9.png",
+      "createdAt": "2026-03-31T09:39:49.060Z",
+      "cdnTag": "v1.2.39",
+      "size": 170292,
+      "format": "png",
+      "resolution": {
+        "width": 800,
+        "height": 800,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "自然",
+        "subcategory": "自然",
+        "filenameSuggestions": [
+          "秋日下的古树风景.jpg",
+          "树影婆娑的晴天.jpg"
+        ],
+        "filenames": [
+          "秋日下的古树风景.jpg",
+          "树影婆娑的晴天.jpg"
+        ],
+        "displayTitle": "秋日树影",
+        "keywords": [
+          "风景",
+          "树",
+          "秋天"
+        ],
+        "description": "一棵枝繁叶茂的树在秋日阳光下的美丽景象",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一棵树在秋季的景象，树枝上有黄色和橙色的叶子，背景是晴朗的蓝天。根据决策树C，图片应归类为风景/通用。"
+      }
+    },
+    "wallpaper/desktop/人像/魅力/girl.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "girl.png",
+      "createdAt": "2026-03-31T09:41:12.696Z",
+      "cdnTag": "v1.2.39",
+      "size": 20074729,
+      "format": "png",
+      "resolution": {
+        "width": 5016,
+        "height": 3344,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "丝袜",
+          "御姐风",
+          "群像",
+          "魅力",
+          "时尚"
+        ],
+        "description": "十位身着各异风情服饰的女性在深红背景前优雅落座，丝袜与高跟勾勒曼妙曲线，尽显成熟魅力与视觉张力。",
+        "filenameSuggestions": [
+          "丝袜美腿的时尚女郎群像.jpg",
+          "红墙前坐姿撩人的魅力女神.jpg"
+        ],
+        "displayTitle": "红幕下的优雅群芳",
+        "confidence": 0.9,
+        "reasoning": "图片主体为多位女性，均穿着丝袜、紧身衣或露肩装，姿态展现身材曲线，符合【人像】→【魅力】分类定义。无明星或IP识别，不适用其他分类。"
       }
     }
   }
