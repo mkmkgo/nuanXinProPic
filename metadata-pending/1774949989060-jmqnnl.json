@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "createdAt": "2026-03-31T09:39:49.060Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/雪山/image_电脑分区壁纸话题_电脑桌面话题_..._7.png",
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._7.png",
+      "createdAt": "2026-03-31T09:39:49.060Z",
+      "size": 753188,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "雪山",
+        "subcategory": "雪山",
+        "filenameSuggestions": [
+          "飞驰在山道上的跑车.jpg",
+          "日本富士山下的疾驰蓝车.jpg"
+        ],
+        "filenames": [
+          "飞驰在山道上的跑车.jpg",
+          "日本富士山下的疾驰蓝车.jpg"
+        ],
+        "displayTitle": "山道飞驰，风景如画",
+        "keywords": [
+          "风景",
+          "山景",
+          "跑车"
+        ],
+        "description": "富士山下疾驰的跑车，山道与湖光相映成趣。",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示一辆跑车在山道上疾驰，背景为富士山与自然风光，根据决策树C1，判定为风景/通用。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/日落/image_电脑分区壁纸话题_电脑桌面话题_..._8.png",
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._8.png",
+      "createdAt": "2026-03-31T09:39:49.060Z",
+      "size": 359898,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "日落",
+        "subcategory": "日落",
+        "filenameSuggestions": [
+          "沙漠公路上的蓝色保时捷.jpg",
+          "日落时分疾驰的跑车.jpg"
+        ],
+        "filenames": [
+          "沙漠公路上的蓝色保时捷.jpg",
+          "日落时分疾驰的跑车.jpg"
+        ],
+        "displayTitle": "夕阳下的飞驰",
+        "keywords": [
+          "风景",
+          "跑车",
+          "日落"
+        ],
+        "description": "日落时分，一辆蓝色保时捷在沙漠公路上疾驰",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示风景，包含沙漠、公路、日落元素，根据规则C1，判定为[风景/通用]"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/自然/image_电脑分区壁纸话题_电脑桌面话题_..._9.png",
+      "category": "风景",
+      "subcategory": "自然",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._9.png",
+      "createdAt": "2026-03-31T09:39:49.060Z",
+      "size": 170292,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "自然",
+        "subcategory": "自然",
+        "filenameSuggestions": [
+          "秋日下的古树风景.jpg",
+          "树影婆娑的晴天.jpg"
+        ],
+        "filenames": [
+          "秋日下的古树风景.jpg",
+          "树影婆娑的晴天.jpg"
+        ],
+        "displayTitle": "秋日树影",
+        "keywords": [
+          "风景",
+          "树",
+          "秋天"
+        ],
+        "description": "一棵枝繁叶茂的树在秋日阳光下的美丽景象",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一棵树在秋季的景象，树枝上有黄色和橙色的叶子，背景是晴朗的蓝天。根据决策树C，图片应归类为风景/通用。"
+      }
+    }
+  ]
+}
