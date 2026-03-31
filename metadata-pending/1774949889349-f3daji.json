@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "createdAt": "2026-03-31T09:38:09.349Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/日落/image_电脑分区壁纸话题_电脑桌面话题_..._1.png",
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._1.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "size": 887152,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "日落",
+          "湖泊",
+          "山景",
+          "自然风光"
+        ],
+        "description": "日落时分，湖水与山景交映成一幅美丽的画卷。",
+        "filenameSuggestions": [
+          "湖边日落风景.jpg",
+          "山湖交映夕阳红.jpg"
+        ],
+        "displayTitle": "夕阳下的湖光山色",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个日落时分的湖景，山脉、湖水和夕阳构成典型的风景/日落场景，根据规则C1，判定为风景/日落。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/日落/image_电脑分区壁纸话题_电脑桌面话题_..._2.png",
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._2.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "size": 803371,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "日落",
+          "海滨",
+          "花海",
+          "自然风光"
+        ],
+        "description": "日落时分，海面映照着夕阳的金色光辉，草坡上盛开的各色野花增添了一抹生机。",
+        "filenameSuggestions": [
+          "海边草坡上的日落黄昏.jpg",
+          "花海映衬下的温暖日落.jpg"
+        ],
+        "displayTitle": "海上日落的温柔时刻",
+        "confidence": 0.9,
+        "reasoning": "图片展示了日落时分的海滨风景，包含海面、夕阳和花草，根据规则C1，判定为风景/日落。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/天空/image_电脑分区壁纸话题_电脑桌面话题_..._3.png",
+      "category": "风景",
+      "subcategory": "天空",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._3.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "size": 724451,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "天空",
+        "subcategory": "天空",
+        "filenameSuggestions": [
+          "草原上奔腾的三匹骏马.jpg",
+          "金色草原与蓝天白云下的马群.jpg"
+        ],
+        "filenames": [
+          "草原上奔腾的三匹骏马.jpg",
+          "金色草原与蓝天白云下的马群.jpg"
+        ],
+        "displayTitle": "草原上的自由",
+        "keywords": [
+          "风景",
+          "自然",
+          "马",
+          "草原"
+        ],
+        "description": "金色阳光下的草原，三匹骏马自由奔腾，蓝天白云为其添彩。",
+        "confidence": 0.9,
+        "reasoning": "图片展示了草原和马的自然景观，根据决策树C2规则，判定为风景/通用。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/花卉/image_电脑分区壁纸话题_电脑桌面话题_..._4.png",
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._4.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "size": 1223885,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "花卉",
+          "风景",
+          "自然"
+        ],
+        "description": "一片生机盎然的田园风光，野花在绿茵中绽放，远处是温馨的乡村小屋。",
+        "filenameSuggestions": [
+          "阳光下的野花小村.jpg",
+          "绿茵花海乡村风景.jpg"
+        ],
+        "displayTitle": "田园花海风光",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅自然风景，花卉和绿草地是主要元素，有乡村小屋和树木，符合风景/花卉的特征。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/插画/场景/image_电脑分区壁纸话题_电脑桌面话题_..._5.png",
+      "category": "插画",
+      "subcategory": "场景",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._5.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "size": 145257,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "场景",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "场景",
+        "keywords": [
+          "插画",
+          "场景",
+          "云",
+          "房子"
+        ],
+        "description": "一座温馨的小房子坐落在绵延的云朵上，周围环绕着柔软的白云。",
+        "filenameSuggestions": [
+          "云端小屋与柔软白云.jpg",
+          "日落云海中的温馨小屋.jpg"
+        ],
+        "displayTitle": "云端之家",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅梦幻的场景，房子漂浮在云上，具备强烈的绘画感和梦幻色彩，归类为插画/场景。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/自然/image_电脑分区壁纸话题_电脑桌面话题_..._6.png",
+      "category": "风景",
+      "subcategory": "自然",
+      "filename": "image_电脑分区壁纸话题_电脑桌面话题_..._6.png",
+      "createdAt": "2026-03-31T09:38:09.349Z",
+      "size": 882074,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "风景",
+        "category": "风景",
+        "third": "自然",
+        "subcategory": "自然",
+        "filenameSuggestions": [
+          "阳光下的秋叶.jpg",
+          "枫叶落满地的秋景.jpg"
+        ],
+        "filenames": [
+          "阳光下的秋叶.jpg",
+          "枫叶落满地的秋景.jpg"
+        ],
+        "displayTitle": "秋日枫叶",
+        "keywords": [
+          "秋天",
+          "枫叶",
+          "自然"
+        ],
+        "description": "阳光下的枫叶，铺满地面的秋色",
+        "confidence": 0.9,
+        "reasoning": "图片为自然风景，以枫叶为主要元素，没有具体到雪山、城市等特定场景，因此归类为风景/通用"
+      }
+    }
+  ]
+}
