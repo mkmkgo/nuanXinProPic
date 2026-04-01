@@ -1,0 +1,253 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-01T16:11:47.343Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/樱桃小丸子/image_可爱搞怪卡通手机壁纸简约文字壁纸..._11.png",
+      "category": "动漫",
+      "subcategory": "樱桃小丸子",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._11.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "size": 59591,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "樱桃小丸子",
+        "subcategory": "樱桃小丸子",
+        "filenameSuggestions": [
+          "骑自行车的小丸子和猫.jpg",
+          "笑容满面的骑行生活.jpg"
+        ],
+        "filenames": [
+          "骑自行车的小丸子和猫.jpg",
+          "笑容满面的骑行生活.jpg"
+        ],
+        "displayTitle": "骑行童真",
+        "keywords": [
+          "动漫",
+          "童真",
+          "小丸子"
+        ],
+        "description": "小丸子骑着自行车，带着笑容，旁边有一只小猫。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现，女孩骑自行车的场景充满童趣，整体氛围轻松愉快。根据现有分类体系，该图片最匹配的分类是插画/通用。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/樱桃小丸子/image_可爱搞怪卡通手机壁纸简约文字壁纸..._12.png",
+      "category": "动漫",
+      "subcategory": "樱桃小丸子",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._12.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "size": 103792,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "樱桃小丸子",
+        "subcategory": "樱桃小丸子",
+        "filenameSuggestions": [
+          "田园风光中的欢乐童年.jpg",
+          "笑逐颜开的乡村生活.jpg"
+        ],
+        "filenames": [
+          "田园风光中的欢乐童年.jpg",
+          "笑逐颜开的乡村生活.jpg"
+        ],
+        "displayTitle": "花香四溢的童年时光",
+        "keywords": [
+          "插画",
+          "小丸子",
+          "田园风光"
+        ],
+        "description": "一幅充满童趣的插画，展现孩子们在田园中欢乐玩耍的场景。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现，具有强烈的绘画感和非动画截图的特征。内容以田园风光和童年生活为主题，没有特定的IP或动漫特征，因此归类为插画/通用。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/樱桃小丸子/image_可爱搞怪卡通手机壁纸简约文字壁纸..._13.png",
+      "category": "动漫",
+      "subcategory": "樱桃小丸子",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._13.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "size": 67111,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "樱桃小丸子",
+        "subcategory": "樱桃小丸子",
+        "filenameSuggestions": [
+          "享受西瓜的清凉瞬间.jpg",
+          "夏日里的快乐小风扇.jpg"
+        ],
+        "filenames": [
+          "享受西瓜的清凉瞬间.jpg",
+          "夏日里的快乐小风扇.jpg"
+        ],
+        "displayTitle": "清爽夏日",
+        "keywords": [
+          "清新",
+          "西瓜",
+          "小丸子"
+        ],
+        "description": "夏日清凉的插画，展现了孩子们享受西瓜和风扇的清爽瞬间。",
+        "confidence": 0.9,
+        "reasoning": "图片中以插画形式描绘了孩子们在夏日享受西瓜和风扇的场景，充满清新和治愈的氛围，符合插画/萌宠的分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/蜡笔小新/image_可爱搞怪卡通手机壁纸简约文字壁纸..._14.png",
+      "category": "动漫",
+      "subcategory": "蜡笔小新",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._14.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "size": 240377,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "蜡笔小新",
+        "subcategory": "蜡笔小新",
+        "filenameSuggestions": [
+          "躺在西瓜上的小新.jpg",
+          "绿意盎然的卡通风景.jpg"
+        ],
+        "filenames": [
+          "躺在西瓜上的小新.jpg",
+          "绿意盎然的卡通风景.jpg"
+        ],
+        "displayTitle": "九月的绿意童趣",
+        "keywords": [
+          "蜡笔小新",
+          "卡通",
+          "童趣"
+        ],
+        "description": "画面展示了蜡笔小新悠闲地躺在西瓜上，周围有绿意和飞舞的蝴蝶，传递出一种轻松愉快的九月氛围。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现，内容为卡通男孩与西瓜的组合，整体氛围轻松愉快，未明确指向任何特定IP或次级分类，故归类为插画/通用。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/萌宠/狗狗/image_可爱搞怪卡通手机壁纸简约文字壁纸..._15.png",
+      "category": "萌宠",
+      "subcategory": "狗狗",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._15.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "size": 477556,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "category": "萌宠",
+        "third": "狗狗",
+        "subcategory": "狗狗",
+        "filenameSuggestions": [
+          "治愈系萌犬日常.jpg",
+          "可爱狗狗表情包.jpg"
+        ],
+        "filenames": [
+          "治愈系萌犬日常.jpg",
+          "可爱狗狗表情包.jpg"
+        ],
+        "displayTitle": "治愈系狗狗表情包",
+        "keywords": [
+          "治愈系",
+          "萌宠",
+          "狗狗"
+        ],
+        "description": "一组充满治愈系的狗狗表情包插画",
+        "confidence": 0.9,
+        "reasoning": "图片主要以各种可爱的狗狗插画为主，表达不同的情绪和状态，属于萌宠分类下的通用子类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/创意/image_可爱搞怪卡通手机壁纸简约文字壁纸..._16.png",
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._16.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "size": 376628,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "创意",
+        "subcategory": "创意",
+        "filenameSuggestions": [
+          "黄色背景的治愈系文字图案.jpg",
+          "可爱插画风格的励志文字.jpg"
+        ],
+        "filenames": [
+          "黄色背景的治愈系文字图案.jpg",
+          "可爱插画风格的励志文字.jpg"
+        ],
+        "displayTitle": "治愈系文字插画",
+        "keywords": [
+          "插画",
+          "文字图案",
+          "治愈系"
+        ],
+        "description": "这是一幅带有励志文字的插画，整体为手绘风格，图案和文字结合，富有创意。",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，整体为手绘风格，包含文字和图案，符合插画通用分类。文字内容偏向励志且带有治愈系风格，故归类为插画/通用。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/插画/卡通/image_可爱搞怪卡通手机壁纸简约文字壁纸..._17.png",
+      "category": "插画",
+      "subcategory": "卡通",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._17.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "size": 270324,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "卡通",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "卡通",
+        "keywords": [
+          "卡通",
+          "插画",
+          "少女"
+        ],
+        "description": "一个充满爱心和微笑的卡通少女形象。",
+        "filenameSuggestions": [
+          "甜美微笑的卡通女孩.jpg",
+          "手绘风格的少女插画.jpg"
+        ],
+        "displayTitle": "治愈系卡通少女",
+        "confidence": 0.9,
+        "reasoning": "图片为手绘风格的卡通少女，背景有明显的卡通元素，如心形图案和夸张的表情，根据决策树B2，判定为插画/卡通。"
+      }
+    }
+  ]
+}
