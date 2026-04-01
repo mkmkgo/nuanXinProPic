@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-01T16:37:53.192Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/IP形象/乌萨奇/Chiikawa-乌萨奇.png",
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "Chiikawa-乌萨奇.png",
+      "createdAt": "2026-04-01T16:37:53.192Z",
+      "size": 607631,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "雪地里玩耍的乌萨奇.jpg",
+          "粉色小屋下的冬季卡通趣图.jpg"
+        ],
+        "filenames": [
+          "雪地里玩耍的乌萨奇.jpg",
+          "粉色小屋下的冬季卡通趣图.jpg"
+        ],
+        "displayTitle": "雪中嬉戏的治愈小世界",
+        "keywords": [
+          "卡通",
+          "乌萨奇",
+          "雪景",
+          "治愈"
+        ],
+        "description": "冬季雪景中的粉色小屋，乌萨奇和小伙伴在雪中嬉戏。",
+        "confidence": 0.9,
+        "reasoning": "图片以卡通风格的插画形式展现冬季雪景，几只小动物在雪中玩耍，背景有粉色小屋和光秃秃的树，符合插画/卡通的分类特征。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/海滨/大海-岛屿-栈桥.png",
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "大海-岛屿-栈桥.png",
+      "createdAt": "2026-04-01T16:37:53.192Z",
+      "size": 641070,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "灯塔",
+          "风景",
+          "蔚蓝天空"
+        ],
+        "description": "海滨风景，灯塔矗立，海天一色，景色怡人。",
+        "filenameSuggestions": [
+          "宁静海边的白色灯塔.jpg",
+          "蓝天白云下的海滨风景.jpg"
+        ],
+        "displayTitle": "海滨灯塔与蔚蓝天空",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一座白色灯塔位于海滨区域，背景为蓝天白云和大海，根据决策树C1，判定为风景/海滨。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/星空/夜晚-夜景-山.png",
+      "category": "风景",
+      "subcategory": "星空",
+      "filename": "夜晚-夜景-山.png",
+      "createdAt": "2026-04-01T16:37:53.192Z",
+      "size": 1403926,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "星空",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "星空",
+        "keywords": [
+          "星空",
+          "山脉",
+          "湖泊",
+          "夜景"
+        ],
+        "description": "星空闪烁，山脉起伏，湖泊宁静，夜色迷人。",
+        "filenameSuggestions": [
+          "梦幻星空下的山脉湖泊.jpg",
+          "星空闪烁的山水夜景.jpg"
+        ],
+        "displayTitle": "梦幻星空下的山脉湖泊",
+        "confidence": 0.9,
+        "reasoning": "图片展示了星空下的山脉和湖泊，根据决策树C1，判定为风景/星空。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/动漫/二次元/二次元-冰蓝少女.png",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "二次元-冰蓝少女.png",
+      "createdAt": "2026-04-01T16:37:53.192Z",
+      "size": 1933804,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "动漫",
+          "二次元",
+          "蓝发少女",
+          "星空背景"
+        ],
+        "description": "梦幻的星空背景下，一位蓝发少女展现出动漫风格的美丽。",
+        "filenameSuggestions": [
+          "星空下的梦幻少女.jpg",
+          "梦幻星空蓝发少女.jpg"
+        ],
+        "displayTitle": "星空下的梦幻少女",
+        "confidence": 0.9,
+        "reasoning": "图片具有典型的日式动漫风格，人物为二次元角色，且无具体IP可识别，因此归类为动漫/二次元。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/IP形象/乌萨奇/Chiikawa-二次元.png",
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "Chiikawa-二次元.png",
+      "createdAt": "2026-04-01T16:37:53.192Z",
+      "size": 492321,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "雪中三友.jpg",
+          "冬季的快乐小生物.jpg"
+        ],
+        "filenames": [
+          "雪中三友.jpg",
+          "冬季的快乐小生物.jpg"
+        ],
+        "displayTitle": "雪中三友",
+        "keywords": [
+          "卡通",
+          "乌萨奇",
+          "雪景"
+        ],
+        "description": "雪天中的三只可爱小动物，充满冬季的温馨与欢乐。",
+        "confidence": 0.9,
+        "reasoning": "图片以雪景为背景，出现三只可爱的小动物，整体具有卡通和插画的特点。根据图片内容，判定为插画/卡通。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/日落/层峦-山脉-日落.png",
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "层峦-山脉-日落.png",
+      "createdAt": "2026-04-01T16:37:53.192Z",
+      "size": 1491297,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "风景",
+          "日落",
+          "山脉"
+        ],
+        "description": "日落时分，山脉层叠，色彩渐变，景色壮丽。",
+        "filenameSuggestions": [
+          "日落下的层峦叠嶂.jpg",
+          "山脉与夕阳的交融.jpg"
+        ],
+        "displayTitle": "暮色山峦，渐变天际",
+        "confidence": 0.9,
+        "reasoning": "图片展示了山脉在日落时的景象，色彩丰富，层峦叠嶂，根据规则C1，判定为[风景/日落]"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/IP形象/乌萨奇/Chiikawa-冬季.png",
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "Chiikawa-冬季.png",
+      "createdAt": "2026-04-01T16:37:53.192Z",
+      "size": 377738,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "雪地树下悠闲的乌萨奇.jpg",
+          "冬季雪景中的快乐乌萨奇.jpg"
+        ],
+        "filenames": [
+          "雪地树下悠闲的乌萨奇.jpg",
+          "冬季雪景中的快乐乌萨奇.jpg"
+        ],
+        "displayTitle": "雪地悠闲趣",
+        "keywords": [
+          "乌萨奇",
+          "雪景",
+          "动物"
+        ],
+        "description": "雪地里一棵大树下，乌萨奇在秋千上嬉戏，享受冬日悠闲时光。",
+        "confidence": 0.9,
+        "reasoning": "图片为插画风格，场景以雪地、树和三只小动物为主，归类为插画/场景。"
+      }
+    }
+  ]
+}
