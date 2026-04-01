@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-03-31 17:58:24",
-  "count": 679,
+  "lastUpdated": "2026-04-01 16:42:00",
+  "count": 703,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -20938,6 +20938,923 @@
         "description": "一位身穿青绿古装的长发女子，坐于石台上，背景为传统建筑，展现古典美。",
         "confidence": 0.9,
         "reasoning": "根据图片内容，人物穿着古装，背景为传统建筑风格，符合古装分类。"
+      }
+    },
+    "wallpaper/mobile/影视/海绵宝宝/image_可爱搞怪卡通手机壁纸简约文字壁纸..._0.png": {
+      "category": "影视",
+      "subcategory": "海绵宝宝",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._0.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 391512,
+      "format": "png",
+      "resolution": {
+        "width": 1732,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "影视",
+        "subcategory": "海绵宝宝",
+        "primary": "mobile",
+        "secondary": "影视",
+        "third": "海绵宝宝",
+        "keywords": [
+          "海绵宝宝",
+          "卡通",
+          "休闲"
+        ],
+        "description": "海绵宝宝坐在沙发上，手持可乐，享受悠闲时光。",
+        "filenameSuggestions": [
+          "海绵宝宝悠闲沙发.jpg",
+          "躺在沙发上的海绵宝宝.jpg"
+        ],
+        "displayTitle": "海绵宝宝的悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "图片中海绵宝宝是明确的影视IP形象，归入影视/海绵宝宝分类。"
+      }
+    },
+    "wallpaper/mobile/动漫/蜡笔小新/image_可爱搞怪卡通手机壁纸简约文字壁纸..._1.png": {
+      "category": "动漫",
+      "subcategory": "蜡笔小新",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._1.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 321378,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2160,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "蜡笔小新",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "蜡笔小新",
+        "keywords": [
+          "蜡笔小新",
+          "动漫",
+          "童年回忆"
+        ],
+        "description": "蜡笔小新和他的朋友们在星空和彩虹中欢乐嬉戏。",
+        "filenameSuggestions": [
+          "蜡笔小新欢乐日常.jpg",
+          "充满童趣的卡通世界.jpg"
+        ],
+        "displayTitle": "童年欢乐多彩时光",
+        "confidence": 0.9,
+        "reasoning": "图片中出现了蜡笔小新及其经典角色，符合动漫分类下的蜡笔小新子类。"
+      }
+    },
+    "wallpaper/mobile/影视/猫和老鼠/image_可爱搞怪卡通手机壁纸简约文字壁纸..._2.png": {
+      "category": "影视",
+      "subcategory": "猫和老鼠",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._2.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 156105,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "影视",
+        "subcategory": "猫和老鼠",
+        "primary": "mobile",
+        "secondary": "影视",
+        "third": "猫和老鼠",
+        "keywords": [
+          "卡通",
+          "猫和老鼠",
+          "动漫",
+          "影视"
+        ],
+        "description": "经典动画角色汤姆和杰瑞的欢乐瞬间",
+        "filenameSuggestions": [
+          "快乐的汤姆与杰瑞.jpg",
+          "经典动画角色欢聚一堂.jpg"
+        ],
+        "displayTitle": "欢乐的卡通时刻",
+        "confidence": 0.9,
+        "reasoning": "图片中出现了汤姆和杰瑞，这是著名的影视卡通角色，根据现有分类体系，归入影视/猫和老鼠"
+      }
+    },
+    "wallpaper/mobile/插画/创意/image_可爱搞怪卡通手机壁纸简约文字壁纸..._3.png": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._3.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 391988,
+      "format": "png",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "创意",
+        "subcategory": "创意",
+        "filenameSuggestions": [
+          "充满正能量的生活插画.jpg",
+          "鼓励人心的日常小故事.jpg"
+        ],
+        "filenames": [
+          "充满正能量的生活插画.jpg",
+          "鼓励人心的日常小故事.jpg"
+        ],
+        "displayTitle": "生活中的小智慧",
+        "keywords": [
+          "插画",
+          "正能量",
+          "生活"
+        ],
+        "description": "这是一幅充满正能量的插画，鼓励人们积极面对生活。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现，包含多个生活场景和文字鼓励，整体氛围轻松积极。根据现有分类体系，归为插画/通用。"
+      }
+    },
+    "wallpaper/mobile/插画/创意/image_可爱搞怪卡通手机壁纸简约文字壁纸..._4.png": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._4.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 206726,
+      "format": "png",
+      "resolution": {
+        "width": 886,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "插画",
+          "创意",
+          "喜庆",
+          "财运"
+        ],
+        "description": "一幅充满喜庆氛围的插画，展现了财运亨通的主题。",
+        "filenameSuggestions": [
+          "喜庆的财运插画.jpg",
+          "创意卡通财运亨通.jpg"
+        ],
+        "displayTitle": "财运亨通的喜庆插画",
+        "confidence": 0.9,
+        "reasoning": "图片以绿色和彩色为基调，展示了五个卡通人物坐在写有吉利字样的方块上，具有明显的创意和插画风格。没有具体明星、动漫或游戏IP的特征，主要体现了财运和喜庆的主题，因此归类为插画/创意。"
+      }
+    },
+    "wallpaper/mobile/插画/创意/image_可爱搞怪卡通手机壁纸简约文字壁纸..._5.png": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._5.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 727960,
+      "format": "png",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "插画",
+          "创意",
+          "多巴胺女孩"
+        ],
+        "description": "这是一幅充满活力和快乐的插画，展现了一个女孩周围环绕着各种色彩鲜艳的物品。",
+        "filenameSuggestions": [
+          "多巴胺女孩的快乐瞬间.jpg",
+          "充满活力的创意插画女孩.jpg"
+        ],
+        "displayTitle": "多巴胺女孩的快乐瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据决策树B. 动漫与插画决策树 (Anime Logic)，图片具有强烈的绘画感和创意元素，归入插画/创意分类"
+      }
+    },
+    "wallpaper/mobile/插画/通用/image_可爱搞怪卡通手机壁纸简约文字壁纸..._6.png": {
+      "category": "插画",
+      "subcategory": "通用",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._6.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 197611,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 1963,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "通用",
+        "keywords": [
+          "插画",
+          "童真",
+          "甜品"
+        ],
+        "description": "一幅充满童趣的插画，男孩和女孩手持甜品，周围摆放着水果和面包，背景是蓝白格子图案。",
+        "filenameSuggestions": [
+          "手绘童年美好瞬间.jpg",
+          "蓝白格子背景的甜品童话.jpg"
+        ],
+        "displayTitle": "童真与甜蜜的瞬间",
+        "confidence": 0.9,
+        "reasoning": "图片具有明显的手绘风格，人物形象Q版可爱，场景和物品的绘制充满童真，归入插画类。图片未体现特定IP或特殊风格，故归入插画/通用。"
+      }
+    },
+    "wallpaper/mobile/插画/Hello Kitty/image_可爱搞怪卡通手机壁纸简约文字壁纸..._7.png": {
+      "category": "插画",
+      "subcategory": "Hello Kitty",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._7.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 142989,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 1963,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "Hello Kitty",
+        "subcategory": "Hello Kitty",
+        "filenameSuggestions": [
+          "可爱的Hello Kitty在粉色圆点背景下.jpg",
+          "Hello Kitty与朋友们的甜蜜对话.jpg"
+        ],
+        "filenames": [
+          "可爱的Hello Kitty在粉色圆点背景下.jpg",
+          "Hello Kitty与朋友们的甜蜜对话.jpg"
+        ],
+        "displayTitle": "可爱Hello Kitty与你倾诉心声",
+        "keywords": [
+          "Hello Kitty",
+          "IP形象",
+          "插画",
+          "可爱"
+        ],
+        "description": "Hello Kitty在粉色圆点背景下与朋友们甜蜜互动。",
+        "confidence": 0.9,
+        "reasoning": "图片中出现了Hello Kitty和My Melody，是知名IP形象，虽然现有分类中有IP形象，但具体到Hello Kitty这一形象时，并未在现有三级分类中，因此建议新增三级分类。"
+      }
+    },
+    "wallpaper/mobile/动漫/插画/image_可爱搞怪卡通手机壁纸简约文字壁纸..._8.png": {
+      "category": "动漫",
+      "subcategory": "插画",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._8.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 226714,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 1964,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "插画",
+        "subcategory": "插画",
+        "filenameSuggestions": [
+          "花生漫画嘉年华.jpg",
+          "星空下的Snoopy与朋友们.jpg"
+        ],
+        "filenames": [
+          "花生漫画嘉年华.jpg",
+          "星空下的Snoopy与朋友们.jpg"
+        ],
+        "displayTitle": "星空下的花生漫画嘉年华",
+        "keywords": [
+          "Snoopy",
+          "花生漫画",
+          "卡通角色",
+          "插画"
+        ],
+        "description": "Snoopy与花生漫画角色在星空下的欢乐聚会",
+        "confidence": 0.9,
+        "reasoning": "图片以Snoopy和花生漫画角色为主题，具有明显的动漫风格和插画特征，但现有目录中无对应细分类，故建议新增动漫/卡通角色分类"
+      }
+    },
+    "wallpaper/mobile/插画/萌宠/image_可爱搞怪卡通手机壁纸简约文字壁纸..._9.png": {
+      "category": "插画",
+      "subcategory": "萌宠",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._9.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 182792,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "萌宠",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "萌宠",
+        "keywords": [
+          "插画",
+          "兔子",
+          "春日",
+          "萌宠"
+        ],
+        "description": "色彩斑斓的方格背景下，两只兔子在花丛中嬉戏。",
+        "filenameSuggestions": [
+          "春日花丛中的兔子朋友.jpg",
+          "彩色方格中的兔子欢乐.jpg"
+        ],
+        "displayTitle": "兔子与春日花语",
+        "confidence": 0.9,
+        "reasoning": "图片以插画形式呈现两只兔子在花丛中嬉戏，背景为彩色方格图案，符合插画和萌宠的分类特征。"
+      }
+    },
+    "wallpaper/mobile/IP形象/多啦A梦/image_可爱搞怪卡通手机壁纸简约文字壁纸..._10.png": {
+      "category": "IP形象",
+      "subcategory": "多啦A梦",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._10.png",
+      "createdAt": "2026-04-01T15:36:28.630Z",
+      "cdnTag": "v1.2.41",
+      "size": 83812,
+      "format": "png",
+      "resolution": {
+        "width": 766,
+        "height": 1544,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "多啦A梦",
+        "subcategory": "多啦A梦",
+        "filenameSuggestions": [
+          "多啦A梦的四种表情.jpg",
+          "蓝天下的多啦A梦表情包.jpg"
+        ],
+        "filenames": [
+          "多啦A梦的四种表情.jpg",
+          "蓝天下的多啦A梦表情包.jpg"
+        ],
+        "displayTitle": "多啦A梦的四种表情",
+        "keywords": [
+          "多啦A梦",
+          "卡通角色",
+          "表情包"
+        ],
+        "description": "多啦A梦的四种不同表情，展现了它的各种心情。",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了多啦A梦的不同表情，属于卡通角色类别。根据现有分类体系，归为IP形象/卡通角色。"
+      }
+    },
+    "wallpaper/mobile/动漫/樱桃小丸子/image_可爱搞怪卡通手机壁纸简约文字壁纸..._11.png": {
+      "category": "动漫",
+      "subcategory": "樱桃小丸子",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._11.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "cdnTag": "v1.2.41",
+      "size": 59591,
+      "format": "png",
+      "resolution": {
+        "width": 778,
+        "height": 1544,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "樱桃小丸子",
+        "subcategory": "樱桃小丸子",
+        "filenameSuggestions": [
+          "骑自行车的小丸子和猫.jpg",
+          "笑容满面的骑行生活.jpg"
+        ],
+        "filenames": [
+          "骑自行车的小丸子和猫.jpg",
+          "笑容满面的骑行生活.jpg"
+        ],
+        "displayTitle": "骑行童真",
+        "keywords": [
+          "动漫",
+          "童真",
+          "小丸子"
+        ],
+        "description": "小丸子骑着自行车，带着笑容，旁边有一只小猫。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现，女孩骑自行车的场景充满童趣，整体氛围轻松愉快。根据现有分类体系，该图片最匹配的分类是插画/通用。"
+      }
+    },
+    "wallpaper/mobile/动漫/樱桃小丸子/image_可爱搞怪卡通手机壁纸简约文字壁纸..._12.png": {
+      "category": "动漫",
+      "subcategory": "樱桃小丸子",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._12.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "cdnTag": "v1.2.41",
+      "size": 103792,
+      "format": "png",
+      "resolution": {
+        "width": 705,
+        "height": 1528,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "樱桃小丸子",
+        "subcategory": "樱桃小丸子",
+        "filenameSuggestions": [
+          "田园风光中的欢乐童年.jpg",
+          "笑逐颜开的乡村生活.jpg"
+        ],
+        "filenames": [
+          "田园风光中的欢乐童年.jpg",
+          "笑逐颜开的乡村生活.jpg"
+        ],
+        "displayTitle": "花香四溢的童年时光",
+        "keywords": [
+          "插画",
+          "小丸子",
+          "田园风光"
+        ],
+        "description": "一幅充满童趣的插画，展现孩子们在田园中欢乐玩耍的场景。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现，具有强烈的绘画感和非动画截图的特征。内容以田园风光和童年生活为主题，没有特定的IP或动漫特征，因此归类为插画/通用。"
+      }
+    },
+    "wallpaper/mobile/动漫/樱桃小丸子/image_可爱搞怪卡通手机壁纸简约文字壁纸..._13.png": {
+      "category": "动漫",
+      "subcategory": "樱桃小丸子",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._13.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "cdnTag": "v1.2.41",
+      "size": 67111,
+      "format": "png",
+      "resolution": {
+        "width": 769,
+        "height": 1541,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "樱桃小丸子",
+        "subcategory": "樱桃小丸子",
+        "filenameSuggestions": [
+          "享受西瓜的清凉瞬间.jpg",
+          "夏日里的快乐小风扇.jpg"
+        ],
+        "filenames": [
+          "享受西瓜的清凉瞬间.jpg",
+          "夏日里的快乐小风扇.jpg"
+        ],
+        "displayTitle": "清爽夏日",
+        "keywords": [
+          "清新",
+          "西瓜",
+          "小丸子"
+        ],
+        "description": "夏日清凉的插画，展现了孩子们享受西瓜和风扇的清爽瞬间。",
+        "confidence": 0.9,
+        "reasoning": "图片中以插画形式描绘了孩子们在夏日享受西瓜和风扇的场景，充满清新和治愈的氛围，符合插画/萌宠的分类。"
+      }
+    },
+    "wallpaper/mobile/动漫/蜡笔小新/image_可爱搞怪卡通手机壁纸简约文字壁纸..._14.png": {
+      "category": "动漫",
+      "subcategory": "蜡笔小新",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._14.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "cdnTag": "v1.2.41",
+      "size": 240377,
+      "format": "png",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "蜡笔小新",
+        "subcategory": "蜡笔小新",
+        "filenameSuggestions": [
+          "躺在西瓜上的小新.jpg",
+          "绿意盎然的卡通风景.jpg"
+        ],
+        "filenames": [
+          "躺在西瓜上的小新.jpg",
+          "绿意盎然的卡通风景.jpg"
+        ],
+        "displayTitle": "九月的绿意童趣",
+        "keywords": [
+          "蜡笔小新",
+          "卡通",
+          "童趣"
+        ],
+        "description": "画面展示了蜡笔小新悠闲地躺在西瓜上，周围有绿意和飞舞的蝴蝶，传递出一种轻松愉快的九月氛围。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现，内容为卡通男孩与西瓜的组合，整体氛围轻松愉快，未明确指向任何特定IP或次级分类，故归类为插画/通用。"
+      }
+    },
+    "wallpaper/mobile/萌宠/狗狗/image_可爱搞怪卡通手机壁纸简约文字壁纸..._15.png": {
+      "category": "萌宠",
+      "subcategory": "狗狗",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._15.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "cdnTag": "v1.2.41",
+      "size": 477556,
+      "format": "png",
+      "resolution": {
+        "width": 1900,
+        "height": 4096,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "category": "萌宠",
+        "third": "狗狗",
+        "subcategory": "狗狗",
+        "filenameSuggestions": [
+          "治愈系萌犬日常.jpg",
+          "可爱狗狗表情包.jpg"
+        ],
+        "filenames": [
+          "治愈系萌犬日常.jpg",
+          "可爱狗狗表情包.jpg"
+        ],
+        "displayTitle": "治愈系狗狗表情包",
+        "keywords": [
+          "治愈系",
+          "萌宠",
+          "狗狗"
+        ],
+        "description": "一组充满治愈系的狗狗表情包插画",
+        "confidence": 0.9,
+        "reasoning": "图片主要以各种可爱的狗狗插画为主，表达不同的情绪和状态，属于萌宠分类下的通用子类。"
+      }
+    },
+    "wallpaper/mobile/插画/创意/image_可爱搞怪卡通手机壁纸简约文字壁纸..._16.png": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "image_可爱搞怪卡通手机壁纸简约文字壁纸..._16.png",
+      "createdAt": "2026-04-01T16:11:47.343Z",
+      "cdnTag": "v1.2.41",
+      "size": 376628,
+      "format": "png",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "创意",
+        "subcategory": "创意",
+        "filenameSuggestions": [
+          "黄色背景的治愈系文字图案.jpg",
+          "可爱插画风格的励志文字.jpg"
+        ],
+        "filenames": [
+          "黄色背景的治愈系文字图案.jpg",
+          "可爱插画风格的励志文字.jpg"
+        ],
+        "displayTitle": "治愈系文字插画",
+        "keywords": [
+          "插画",
+          "文字图案",
+          "治愈系"
+        ],
+        "description": "这是一幅带有励志文字的插画，整体为手绘风格，图案和文字结合，富有创意。",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，整体为手绘风格，包含文字和图案，符合插画通用分类。文字内容偏向励志且带有治愈系风格，故归类为插画/通用。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/吊带-森林-绿植.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "吊带-森林-绿植.png",
+      "createdAt": "2026-04-01T16:39:56.618Z",
+      "cdnTag": "v1.2.41",
+      "size": 1444938,
+      "format": "png",
+      "resolution": {
+        "width": 2560,
+        "height": 5546,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "长发",
+          "阳光"
+        ],
+        "description": "一位长发少女坐在阳光下的树荫中，面带微笑，散发着清新与自然的气息。",
+        "filenameSuggestions": [
+          "坐在阳光下的长发女孩.jpg",
+          "树荫下微笑的美丽少女.jpg"
+        ],
+        "displayTitle": "阳光下的美丽邂逅",
+        "confidence": 0.9,
+        "reasoning": "图片中少女面带微笑，坐在阳光照耀的树荫下，穿着轻薄的内衣，整体氛围明亮且自然，符合【清新】(Fresh)的特征：高明度、色彩鲜艳自然、笑容甜美、背景为草地/蓝天/白墙。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/壁纸-女神-室内.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "壁纸-女神-室内.png",
+      "createdAt": "2026-04-01T16:39:56.618Z",
+      "cdnTag": "v1.2.41",
+      "size": 482217,
+      "format": "png",
+      "resolution": {
+        "width": 1440,
+        "height": 2160,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "诱惑",
+          "办公室",
+          "魅力"
+        ],
+        "description": "一位身穿黑色丝袜的年轻女性，坐在椅子上，展现出一种优雅与诱惑。",
+        "filenameSuggestions": [
+          "身穿黑色丝袜的OL制服诱惑.jpg",
+          "侧坐黑丝美女的办公桌前风情.jpg"
+        ],
+        "displayTitle": "黑丝诱惑下的办公室风情",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【魅力】(Glamour)定义和特征，如丝袜、姿态撩人等，判定为[魅力]"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/城市景观-壁纸.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "城市景观-壁纸.png",
+      "createdAt": "2026-04-01T16:39:56.618Z",
+      "cdnTag": "v1.2.41",
+      "size": 355597,
+      "format": "png",
+      "resolution": {
+        "width": 1160,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "紧身衣",
+          "魅力",
+          "城市风"
+        ],
+        "description": "一个穿着白色紧身衣和黑色短裙的女孩站在城市窗口，展现出俏皮与魅力。",
+        "filenameSuggestions": [
+          "身穿白色紧身衣的城市女孩.jpg",
+          "黑色短裙与黑丝袜的诱惑.jpg"
+        ],
+        "displayTitle": "都市窗台上的俏皮女孩",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着紧身衣和黑色短裙，且有姿势撩人，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/休闲-地毯-室内.png": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "休闲-地毯-室内.png",
+      "createdAt": "2026-04-01T16:39:56.618Z",
+      "cdnTag": "v1.2.41",
+      "size": 808052,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2342,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "背影",
+          "阳光"
+        ],
+        "description": "女孩坐在阳光照耀的彩色地毯上，背对着镜头，享受温暖的阳光。",
+        "filenameSuggestions": [
+          "坐在阳光下的女孩.jpg",
+          "背影女孩与彩色地毯.jpg"
+        ],
+        "displayTitle": "阳光下的背影",
+        "confidence": 0.9,
+        "reasoning": "图片中女孩背对着镜头，坐在阳光照耀的彩色地毯上，氛围感强烈，没有露脸，符合【氛围感】的特征。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/壁纸-御姐-手机.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "壁纸-御姐-手机.png",
+      "createdAt": "2026-04-01T16:39:56.618Z",
+      "cdnTag": "v1.2.41",
+      "size": 369451,
+      "format": "png",
+      "resolution": {
+        "width": 1088,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "秘书风",
+          "魅力",
+          "优雅"
+        ],
+        "description": "一位穿着白色短T恤和灰色裙子的黑丝美女，坐姿优雅，手持文件夹。",
+        "filenameSuggestions": [
+          "黑丝秘书办公瞬间的优雅.jpg",
+          "侧坐黑丝美女手持文件夹.jpg"
+        ],
+        "displayTitle": "黑丝秘书的优雅瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着黑丝袜，展现身材曲线，姿态优雅，符合【魅力】类定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/优雅-坐姿-壁纸.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "优雅-坐姿-壁纸.png",
+      "createdAt": "2026-04-01T16:39:56.618Z",
+      "cdnTag": "v1.2.41",
+      "size": 294156,
+      "format": "png",
+      "resolution": {
+        "width": 1439,
+        "height": 1911,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "紧身衣",
+          "魅力",
+          "夜景"
+        ],
+        "description": "一位身穿黑色紧身裙的长发女孩，坐在一间昏暗的房间里，背景有几个毛绒玩具。",
+        "filenameSuggestions": [
+          "身穿黑色紧身裙的长发女孩.jpg",
+          "夜色中优雅的黑发美女.jpg"
+        ],
+        "displayTitle": "黑夜中的曼陀罗花",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物穿着紧身衣，展示身材曲线，且有夜景和姿态撩人，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    "wallpaper/mobile/人像/王楚然/浅灰露肩装-湖水.png": {
+      "category": "人像",
+      "subcategory": "王楚然",
+      "filename": "浅灰露肩装-湖水.png",
+      "createdAt": "2026-04-01T16:39:56.618Z",
+      "cdnTag": "v1.2.41",
+      "size": 1535419,
+      "format": "png",
+      "resolution": {
+        "width": 2358,
+        "height": 5112,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "王楚然",
+        "subcategory": "王楚然",
+        "filenameSuggestions": [
+          "身穿白色风衣的王楚然.jpg",
+          "阳光下微笑的白衣王楚然.jpg"
+        ],
+        "filenames": [
+          "身穿白色风衣的王楚然.jpg",
+          "阳光下微笑的白衣王楚然.jpg"
+        ],
+        "displayTitle": "白色风衣下的少女与蓝天",
+        "keywords": [
+          "清新",
+          "白衣",
+          "王楚然"
+        ],
+        "description": "王楚然在晴天中展现清新魅力",
+        "confidence": 0.9,
+        "reasoning": "根据图像特征，人物穿着白色衣物，背景是蓝天白云，整体氛围明亮且自然，符合【清新】风格的定义。"
       }
     }
   }
