@@ -1,9 +1,9 @@
 {
-  "lastUpdated": 1774979914.096585,
-  "cdnTag": "v1.2.40",
+  "lastUpdated": "2026-04-01 16:42:01",
+  "cdnTag": "v1.2.41",
   "series": {
     "desktop": {
-      "count": 567,
+      "count": 574,
       "categories": [
         "动漫",
         "插画",
@@ -17,11 +17,11 @@
       ]
     },
     "mobile": {
-      "count": 679,
+      "count": 703,
       "categories": [
         "人像",
-        "风景",
         "插画",
+        "风景",
         "动漫",
         "影视",
         "萌宠",
@@ -45,12 +45,21 @@
     }
   },
   "total": {
-    "desktop": 567,
-    "mobile": 679,
-    "avatar": 466,
-    "bing": 2501
+    "desktop": 574,
+    "mobile": 703,
+    "avatar": 466
   },
   "releases": [
+    {
+      "tag": "v1.2.41",
+      "date": "2026-04-02",
+      "added": {
+        "desktop": 7,
+        "mobile": 24,
+        "avatar": 0
+      },
+      "publisher": "IT-NuanxinPro"
+    },
     {
       "tag": "v1.2.40",
       "date": "2026-04-01",
