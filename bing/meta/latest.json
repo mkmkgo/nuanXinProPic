@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-03-31 17:57:52",
+  "generatedAt": "2026-04-01 17:53:06",
   "total": 7,
   "items": [
+    {
+      "date": "2026-04-02",
+      "title": "春天的图案",
+      "copyright": "野花绽放, 中央谷地, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)",
+      "copyrightlink": "https://www.bing.com/search?q=%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E4%B8%AD%E5%A4%AE%E8%B0%B7%E5%9C%B0&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260401_WildflowerValley%22&FORM=HPQUIZ",
+      "hsh": "cf85bd8a9f6c4ba0d1f88b0f11ae13a8",
+      "urlbase": "/th?id=OHR.WildflowerValley_ZH-CN7048300331"
+    },
     {
       "date": "2026-04-01",
       "title": "跃入四月",
@@ -55,15 +64,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260326_RadioCityHall%22&FORM=HPQUIZ",
       "hsh": "6860743d9cc275d309bd9c9c4e8ae96f",
       "urlbase": "/th?id=OHR.RadioCityHall_ZH-CN5492649461"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "凌驾荒野之上",
-      "copyright": "洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)",
-      "copyrightlink": "https://www.bing.com/search?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%A5%BF%E6%B5%B7%E5%B2%B8%E6%AD%A5%E9%81%93&form=hpcapt&mkt=zh-cn",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260325_LoganCreek%22&FORM=HPQUIZ",
-      "hsh": "5f8d54374f300c8218179792bb688158",
-      "urlbase": "/th?id=OHR.LoganCreek_ZH-CN5372283365"
     }
   ]
 }
