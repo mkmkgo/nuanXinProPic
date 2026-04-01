@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-01 16:42:01",
-  "cdnTag": "v1.2.41",
+  "lastUpdated": 1775066022.605566,
+  "cdnTag": "v1.2.42",
   "series": {
     "desktop": {
       "count": 574,
@@ -47,9 +47,21 @@
   "total": {
     "desktop": 574,
     "mobile": 703,
-    "avatar": 466
+    "avatar": 466,
+    "bing": 2502
   },
   "releases": [
+    {
+      "tag": "v1.2.42",
+      "date": "2026-04-02",
+      "added": {
+        "desktop": 0,
+        "mobile": 0,
+        "avatar": 0,
+        "bing": 1
+      },
+      "publisher": "github-actions[bot]"
+    },
     {
       "tag": "v1.2.41",
       "date": "2026-04-02",
