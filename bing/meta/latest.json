@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-04-01 17:53:06",
+  "generatedAt": "2026-04-02 17:51:10",
   "total": 7,
   "items": [
+    {
+      "date": "2026-04-03",
+      "title": "一次挥动桥臂，连接两岸",
+      "copyright": "阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E9%98%BF%E5%A7%86%E5%B8%83%E9%B2%81%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260402_ArmbrugBridge%22&FORM=HPQUIZ",
+      "hsh": "0cace775bc35c7cf2b3bae30a9078726",
+      "urlbase": "/th?id=OHR.ArmbrugBridge_ZH-CN4600005169"
+    },
     {
       "date": "2026-04-02",
       "title": "春天的图案",
@@ -55,15 +64,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260327_CapeBuffalo%22&FORM=HPQUIZ",
       "hsh": "ed5a12fee21722be7801ea45d1cdeb9d",
       "urlbase": "/th?id=OHR.CapeBuffalo_ZH-CN5591123662"
-    },
-    {
-      "date": "2026-03-27",
-      "title": "依然明亮地燃烧着",
-      "copyright": "纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)",
-      "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%88%8F%E5%89%A7%E6%97%A5&form=hpcapt&mkt=zh-cn",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260326_RadioCityHall%22&FORM=HPQUIZ",
-      "hsh": "6860743d9cc275d309bd9c9c4e8ae96f",
-      "urlbase": "/th?id=OHR.RadioCityHall_ZH-CN5492649461"
     }
   ]
 }
