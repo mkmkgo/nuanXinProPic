@@ -1,7 +1,16 @@
 {
   "year": 2026,
-  "total": 94,
+  "total": 95,
   "items": [
+    {
+      "date": "2026-04-05",
+      "title": "静静绽放的变化",
+      "copyright": "春天的雪钟花 (© klagyivik/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E9%9B%AA%E9%92%9F%E8%8A%B1&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_SpringSnowdrops%22&FORM=HPQUIZ",
+      "hsh": "0e04c62ff1cc802dc0ad2477031abe23",
+      "urlbase": "/th?id=OHR.SpringSnowdrops_ZH-CN2933051747"
+    },
     {
       "date": "2026-04-04",
       "title": "求偶展示场的故事",
@@ -849,5 +858,5 @@
       "urlbase": "/th?id=OHR.NewYearFox_ZH-CN9312618796"
     }
   ],
-  "updatedAt": "2026-04-03 17:36:17"
+  "updatedAt": "2026-04-04 17:31:42"
 }
