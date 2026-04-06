@@ -162,6 +162,68 @@ function getImageInfo(relativePath) {
   return { resolution, size }
 }
 
+function findActualImagePath(expectedRelativePath) {
+  const expectedPath = path.join(imageRepoRoot, expectedRelativePath)
+  if (fs.existsSync(expectedPath)) {
+    return expectedRelativePath
+  }
+
+  const parts = expectedRelativePath.split('/')
+  if (parts.length < 4) {
+    return expectedRelativePath
+  }
+
+  const series = parts[1]
+  const filename = parts[parts.length - 1]
+  const seriesRoot = path.join(imageRepoRoot, 'wallpaper', series)
+  if (!fs.existsSync(seriesRoot)) {
+    return expectedRelativePath
+  }
+
+  const stack = [seriesRoot]
+  while (stack.length > 0) {
+    const currentDir = stack.pop()
+    const entries = fs.readdirSync(currentDir, { withFileTypes: true })
+
+    for (const entry of entries) {
+      const fullPath = path.join(currentDir, entry.name)
+      if (entry.isDirectory()) {
+        stack.push(fullPath)
+        continue
+      }
+
+      if (entry.isFile() && entry.name === filename) {
+        return path.relative(imageRepoRoot, fullPath).replace(/\\/g, '/')
+      }
+    }
+  }
+
+  return expectedRelativePath
+}
+
+function reconcileMetadataImagePath(relativePath, imageData) {
+  const actualRelativePath = findActualImagePath(relativePath)
+  if (actualRelativePath === relativePath) {
+    return { relativePath, imageData, changed: false }
+  }
+
+  const pathParts = actualRelativePath.split('/')
+  const filename = pathParts[pathParts.length - 1]
+  const category = pathParts[2] || imageData.category || '未分类'
+  const subcategory = pathParts.length > 4 ? pathParts[3] : ''
+
+  return {
+    relativePath: actualRelativePath,
+    imageData: {
+      ...imageData,
+      category,
+      subcategory,
+      filename,
+    },
+    changed: true,
+  }
+}
+
 // 读取或初始化 metadata JSON
 function loadMetadata(filePath) {
   if (fs.existsSync(filePath)) {
@@ -326,6 +388,13 @@ function generateFrontendData(metadataMap, dataDir, newTag) {
     // 将 metadata 转换为前端需要的数组格式
     const wallpapers = []
     let index = 0
+
+    const reconciledImages = {}
+    for (const [relativePath, data] of Object.entries(metadata.images)) {
+      const reconciled = reconcileMetadataImagePath(relativePath, data)
+      reconciledImages[reconciled.relativePath] = reconciled.imageData
+    }
+    metadata.images = reconciledImages
 
     for (const [relativePath, data] of Object.entries(metadata.images)) {
       // 解析路径获取前端需要的格式
@@ -755,7 +824,14 @@ function extractKeywordsFromFilename(filename) {
   return [...new Set(parts)]
 }
 
-main().catch(e => {
-  console.error('执行失败:', e)
-  process.exit(1)
-})
+module.exports = {
+  findActualImagePath,
+  reconcileMetadataImagePath,
+}
+
+if (require.main === module) {
+  main().catch(e => {
+    console.error('执行失败:', e)
+    process.exit(1)
+  })
+}
