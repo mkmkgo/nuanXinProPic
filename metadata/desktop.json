@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "desktop",
-  "lastUpdated": "2026-04-06 13:18:42",
-  "count": 584,
+  "lastUpdated": "2026-04-06 21:33:46",
+  "count": 585,
   "images": {
     "wallpaper/desktop/IP形象/乌萨奇/乌撒奇-兔子-卡通.png": {
       "category": "IP形象",
@@ -16813,9 +16813,9 @@
         "reasoning": "图片以长城为主题，展现了中国传统国风与自然风景的结合，山脉、长城、红叶等元素符合国风与风景的特征。"
       }
     },
-    "wallpaper/desktop/通用/20260406200013.jpeg": {
-      "category": "通用",
-      "subcategory": "",
+    "wallpaper/desktop/萌宠/猫咪/20260406200013.jpeg": {
+      "category": "萌宠",
+      "subcategory": "猫咪",
       "filename": "20260406200013.jpeg",
       "createdAt": "2026-04-06T12:53:14.290Z",
       "cdnTag": "v1.2.47",
@@ -16829,18 +16829,28 @@
       },
       "ai": {
         "series": "desktop",
-        "category": "通用",
-        "subcategory": "",
+        "category": "萌宠",
+        "subcategory": "萌宠",
         "primary": "desktop",
-        "secondary": "通用",
-        "third": "",
-        "keywords": [],
-        "description": "",
-        "filenameSuggestions": [],
-        "displayTitle": null,
-        "confidence": 0,
-        "reasoning": null,
-        "error": "API 请求频率超限，请稍后再试。"
+        "secondary": "猫咪",
+        "third": "猫咪",
+        "keywords": [
+          "插画",
+          "猫咪",
+          "雨天"
+        ],
+        "description": "插画风格的猫咪在雨中绿植中的形象",
+        "filenames": [
+          "雨中绿意小猫.jpg",
+          "绿叶中的小猫插画.jpg"
+        ],
+        "filenameSuggestions": [
+          "雨中绿意小猫.jpg",
+          "绿叶中的小猫插画.jpg"
+        ],
+        "displayTitle": "雨中绿意小猫",
+        "confidence": 0.9,
+        "reasoning": "插画风格的猫咪在雨中绿植中的形象"
       }
     },
     "wallpaper/desktop/人像/清新/20260406195508.jpeg": {
@@ -17061,6 +17071,24 @@
         "displayTitle": "冬日里的雪中少女",
         "confidence": 0.9,
         "reasoning": "图片为动漫风格的二次元角色，场景为雪景，根据决策树B2，判定为动漫/二次元。"
+      }
+    },
+    "wallpaper/desktop/通用/20260406200013.jpeg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260406200013.jpeg",
+      "createdAt": "2026-04-06 20:55:01",
+      "cdnTag": "v1.2.47",
+      "size": 788416,
+      "format": "jpeg",
+      "resolution": null,
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
       }
     }
   }

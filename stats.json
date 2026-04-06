@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-06 13:18:42",
-  "cdnTag": "v1.2.48",
+  "lastUpdated": "2026-04-06 21:33:46",
+  "cdnTag": "local-test",
   "series": {
     "desktop": {
-      "count": 584,
+      "count": 585,
       "categories": [
         "动漫",
         "插画",
@@ -46,9 +46,10 @@
     }
   },
   "total": {
-    "desktop": 584,
+    "desktop": 585,
     "mobile": 717,
-    "avatar": 466
+    "avatar": 475,
+    "bing": 0
   },
   "releases": [
     {
