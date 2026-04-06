@@ -1,7 +1,16 @@
 {
   "year": 2026,
-  "total": 96,
+  "total": 97,
   "items": [
+    {
+      "date": "2026-04-07",
+      "title": "一根树枝，一点工程",
+      "copyright": "河狸，德国 (© Andyworks/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=beaver+rodent&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22&FORM=HPQUIZ",
+      "hsh": "127d39f2b06ac352cfbc108e92a2578b",
+      "urlbase": "/th?id=OHR.BeaverPortrait_ZH-CN4700069789"
+    },
     {
       "date": "2026-04-06",
       "title": "芬芳四月",
@@ -867,5 +876,5 @@
       "urlbase": "/th?id=OHR.NewYearFox_ZH-CN9312618796"
     }
   ],
-  "updatedAt": "2026-04-05 17:31:58"
+  "updatedAt": "2026-04-06 17:45:13"
 }
