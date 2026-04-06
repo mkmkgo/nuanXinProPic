@@ -17072,24 +17072,6 @@
         "confidence": 0.9,
         "reasoning": "图片为动漫风格的二次元角色，场景为雪景，根据决策树B2，判定为动漫/二次元。"
       }
-    },
-    "wallpaper/desktop/通用/20260406200013.jpeg": {
-      "category": "通用",
-      "subcategory": "",
-      "filename": "20260406200013.jpeg",
-      "createdAt": "2026-04-06 20:55:01",
-      "cdnTag": "v1.2.47",
-      "size": 788416,
-      "format": "jpeg",
-      "resolution": null,
-      "ai": {
-        "keywords": [],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
     }
   }
 }
