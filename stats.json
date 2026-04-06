@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-06 21:57:27",
-  "cdnTag": "local-test",
+  "lastUpdated": "2026-04-06 22:10:25",
+  "cdnTag": "v1.2.49",
   "series": {
     "desktop": {
       "count": 584,
@@ -51,6 +51,16 @@
     "bing": 0
   },
   "releases": [
+    {
+      "tag": "v1.2.49",
+      "date": "2026-04-06",
+      "added": {
+        "desktop": 0,
+        "mobile": 0,
+        "avatar": 0
+      },
+      "publisher": "IT-NuanxinPro"
+    },
     {
       "tag": "v1.2.48",
       "date": "2026-04-06",
