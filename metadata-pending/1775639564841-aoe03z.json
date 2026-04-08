@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-08T09:12:44.841Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140819_561.jpg",
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140819_561.jpg",
+      "createdAt": "2026-04-08T09:12:44.841Z",
+      "size": 135051,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "樱花树下的粉色小车与乌萨奇.jpg",
+          "春风吹过樱花树下的小车与乌萨奇.jpg"
+        ],
+        "filenames": [
+          "樱花树下的粉色小车与乌萨奇.jpg",
+          "春风吹过樱花树下的小车与乌萨奇.jpg"
+        ],
+        "displayTitle": "春日樱花小旅程",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "樱花",
+          "小车"
+        ],
+        "description": "可爱乌萨奇与小车在樱花树下",
+        "confidence": 0.9,
+        "reasoning": "图片展示了插画风格的熊猫在樱花树下的场景，符合插画和萌宠的分类特征"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140825_352.jpg",
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140825_352.jpg",
+      "createdAt": "2026-04-08T09:12:44.841Z",
+      "size": 129429,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "春风拂面三小只.jpg",
+          "樱花树下的欢乐时光.jpg"
+        ],
+        "filenames": [
+          "春风拂面三小只.jpg",
+          "樱花树下的欢乐时光.jpg"
+        ],
+        "displayTitle": "春日乐悠悠，笑靥盈枝头",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "樱花",
+          "春日"
+        ],
+        "description": "三只小动物在樱花树下悠闲荡秋千，享受春日乐趣。",
+        "confidence": 0.9,
+        "reasoning": "图片为插画风格，特征是绘画感强且为萌宠，符合插画/萌宠分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/20260408163908.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260408163908.jpeg",
+      "createdAt": "2026-04-08T09:12:44.841Z",
+      "size": 9651059,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "校园风",
+          "阳光",
+          "微笑"
+        ],
+        "description": "阳光照耀下的悠闲校园生活",
+        "filenameSuggestions": [
+          "阳光下的悠闲校园女孩.jpg",
+          "草地上放松的微笑少女.jpg"
+        ],
+        "displayTitle": "阳光下的校园悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "图片中人物穿着校服，躺在草地上，表情放松，背景明亮且有阳光照射，根据规则A4，判定为[清新]。"
+      }
+    }
+  ]
+}
