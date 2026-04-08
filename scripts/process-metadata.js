@@ -203,8 +203,14 @@ function findActualImagePath(expectedRelativePath) {
 
 function reconcileMetadataImagePath(relativePath, imageData) {
   const actualRelativePath = findActualImagePath(relativePath)
+  const absolutePath = path.join(imageRepoRoot, actualRelativePath)
+
+  if (!fs.existsSync(absolutePath)) {
+    return { relativePath, imageData, changed: false, missing: true }
+  }
+
   if (actualRelativePath === relativePath) {
-    return { relativePath, imageData, changed: false }
+    return { relativePath, imageData, changed: false, missing: false }
   }
 
   const pathParts = actualRelativePath.split('/')
@@ -221,6 +227,7 @@ function reconcileMetadataImagePath(relativePath, imageData) {
       filename,
     },
     changed: true,
+    missing: false,
   }
 }
 
@@ -392,6 +399,10 @@ function generateFrontendData(metadataMap, dataDir, newTag) {
     const reconciledImages = {}
     for (const [relativePath, data] of Object.entries(metadata.images)) {
       const reconciled = reconcileMetadataImagePath(relativePath, data)
+      if (reconciled.missing) {
+        console.warn(`  跳过缺失原图: ${relativePath}`)
+        continue
+      }
       reconciledImages[reconciled.relativePath] = reconciled.imageData
     }
     metadata.images = reconciledImages
@@ -720,6 +731,11 @@ async function main() {
       console.log('强制重新生成前端数据（metadata 可能已更新）...')
     }
 
+    // 生成前端数据
+    console.log()
+    console.log('生成前端数据...')
+    generateFrontendData(metadataMap, dataDir, newTag)
+
     console.log()
     console.log('保存 metadata...')
     for (const [series, metadata] of Object.entries(metadataMap)) {
@@ -727,11 +743,6 @@ async function main() {
       saveMetadata(metaFile, metadata)
       console.log(`  保存 ${series}.json (${metadata.count} 张)`)
     }
-
-    // 生成前端数据
-    console.log()
-    console.log('生成前端数据...')
-    generateFrontendData(metadataMap, dataDir, newTag)
   }
 
   // 输出处理数量
@@ -826,6 +837,7 @@ function extractKeywordsFromFilename(filename) {
 
 module.exports = {
   findActualImagePath,
+  generateFrontendData,
   reconcileMetadataImagePath,
 }
 
