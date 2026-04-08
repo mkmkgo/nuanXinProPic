@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-08 08:15:15",
-  "count": 717,
+  "lastUpdated": "2026-04-08 09:15:31",
+  "count": 733,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -22415,6 +22415,634 @@
         "description": "一位穿着白色裙子的少女坐在粉色凳子上，表情沉思，氛围清新甜美。",
         "confidence": 0.9,
         "reasoning": "根据决策树A4，清新风格的定义为明亮、治愈、氧气感。图片中少女穿着白色裙子，坐在粉色凳子上，背景干净，色彩明亮，符合清新风格的特征。"
+      }
+    },
+    "wallpaper/mobile/插画/创意/微信图片_20260408163631_674_4.jpg": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "微信图片_20260408163631_674_4.jpg",
+      "createdAt": "2026-04-08T09:02:02.662Z",
+      "cdnTag": "v1.2.53",
+      "size": 153765,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2342,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "创意",
+          "吉祥",
+          "喜庆",
+          "装饰品"
+        ],
+        "description": "两尊俏皮的粉红色吉祥福禄双全雕像摆件，置于现代简约客厅中。",
+        "filenameSuggestions": [
+          "客厅里的粉色吉祥双福娃摆件.jpg",
+          "现代简约风格家居装饰品福禄双全.jpg"
+        ],
+        "displayTitle": "俏皮福禄双全吉祥饰品",
+        "confidence": 0.9,
+        "reasoning": "图片中展示了两尊粉红色雕像，具有俏皮风格，融合了传统与现代元素。雕像的喜庆、吉祥寓意和客厅的现代简约风格装饰，符合'插画/创意'的分类。图片中的元素未直接匹配其他二级分类，故归为'插画/创意'。"
+      }
+    },
+    "wallpaper/mobile/插画/创意/微信图片_20260408163632_675_4.jpg": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "微信图片_20260408163632_675_4.jpg",
+      "createdAt": "2026-04-08T09:02:02.662Z",
+      "cdnTag": "v1.2.53",
+      "size": 86709,
+      "format": "jpg",
+      "resolution": {
+        "width": 810,
+        "height": 1758,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "创意",
+        "subcategory": "创意",
+        "filenameSuggestions": [
+          "两个惊讶的卡通人物.jpg",
+          "躲在门后的呆萌偶像.jpg"
+        ],
+        "filenames": [
+          "两个惊讶的卡通人物.jpg",
+          "躲在门后的呆萌偶像.jpg"
+        ],
+        "displayTitle": "呆萌双人组",
+        "keywords": [
+          "卡通",
+          "IP形象",
+          "呆萌"
+        ],
+        "description": "两个呆萌的卡通人物形象，表情惊讶，充满童趣。",
+        "confidence": 0.9,
+        "reasoning": "图片中的两个人物为卡通形象，具有明显的呆萌特征，不是具体明星或动漫IP，归类为IP形象/通用。"
+      }
+    },
+    "wallpaper/mobile/插画/氛围感/微信图片_20260408163632_676_4.jpg": {
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "微信图片_20260408163632_676_4.jpg",
+      "createdAt": "2026-04-08T09:02:02.662Z",
+      "cdnTag": "v1.2.53",
+      "size": 178299,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2342,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "氛围感",
+        "subcategory": "氛围感",
+        "filenameSuggestions": [
+          "黑灰色沙发上的迪奥玫瑰熊.jpg",
+          "Dior粉色玫瑰花束与小熊.jpg"
+        ],
+        "filenames": [
+          "黑灰色沙发上的迪奥玫瑰熊.jpg",
+          "Dior粉色玫瑰花束与小熊.jpg"
+        ],
+        "displayTitle": "Dior玫瑰之吻熊",
+        "keywords": [
+          "迪奥",
+          "玫瑰花",
+          "熊",
+          "礼物"
+        ],
+        "description": "黑灰色沙发上的迪奥玫瑰熊，温馨而优雅。",
+        "confidence": 0.9,
+        "reasoning": "图片中主要是熊和花，与萌宠相关，但无具体形象，归为通用萌宠"
+      }
+    },
+    "wallpaper/mobile/创意/文字/微信图片_20260408163633_677_4.jpg": {
+      "category": "创意",
+      "subcategory": "文字",
+      "filename": "微信图片_20260408163633_677_4.jpg",
+      "createdAt": "2026-04-08T09:02:02.662Z",
+      "cdnTag": "v1.2.53",
+      "size": 213337,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2342,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "创意",
+        "category": "创意",
+        "third": "文字",
+        "subcategory": "文字",
+        "filenameSuggestions": [
+          "玫瑰花与幸运祝福.jpg",
+          "好事发生的温馨桌面.jpg"
+        ],
+        "filenames": [
+          "玫瑰花与幸运祝福.jpg",
+          "好事发生的温馨桌面.jpg"
+        ],
+        "displayTitle": "花开富贵",
+        "keywords": [
+          "插画",
+          "玫瑰花",
+          "祝福"
+        ],
+        "description": "桌面上的玫瑰花束与祝福卡片",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现，桌上的玫瑰花束和带有祝福语的卡片构成画面主体，整体氛围温馨，归类为插画/通用。"
+      }
+    },
+    "wallpaper/mobile/风景/花卉/微信图片_20260408163634_678_4.jpg": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "微信图片_20260408163634_678_4.jpg",
+      "createdAt": "2026-04-08T09:02:02.662Z",
+      "cdnTag": "v1.2.53",
+      "size": 229629,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2342,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "莲花",
+          "花束",
+          "粉色",
+          "绿植"
+        ],
+        "description": "一束美丽的粉色莲花 bouquet。",
+        "filenameSuggestions": [
+          "包裹着的粉色莲花 bouquet.jpg",
+          "桌面上的莲花与绿植装饰.jpg"
+        ],
+        "displayTitle": "静谧时光中的粉色莲花",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，主要元素是花卉，符合风景/花卉的分类。图片中没有人物和动漫元素，因此归类为风景/花卉。"
+      }
+    },
+    "wallpaper/mobile/萌宠/通用/微信图片_20260408163627_671_4.jpg": {
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "微信图片_20260408163627_671_4.jpg",
+      "createdAt": "2026-04-08T09:04:50.202Z",
+      "cdnTag": "v1.2.53",
+      "size": 264525,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2342,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "毛绒玩具",
+          "治愈系",
+          "快乐"
+        ],
+        "description": "一组可爱的毛绒玩具堆叠在一起，传递着快乐和温暖。",
+        "filenameSuggestions": [
+          "可爱的毛绒玩具合影.jpg",
+          "让生活更快乐的毛绒朋友们.jpg"
+        ],
+        "displayTitle": "治愈系毛绒玩具的快乐角落",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一堆可爱的毛绒玩具，氛围轻松愉快，符合萌宠分类下的通用风格。"
+      }
+    },
+    "wallpaper/mobile/人像/萌宠/微信图片_20260408163628_672_4.jpg": {
+      "category": "人像",
+      "subcategory": "萌宠",
+      "filename": "微信图片_20260408163628_672_4.jpg",
+      "createdAt": "2026-04-08T09:04:50.202Z",
+      "cdnTag": "v1.2.53",
+      "size": 236178,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2342,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "萌宠",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "萌宠",
+        "keywords": [
+          "泰迪熊",
+          "女孩",
+          "欢乐",
+          "童真"
+        ],
+        "description": "一个女孩和泰迪熊在一起的快乐时刻",
+        "filenameSuggestions": [
+          "可爱的女孩与泰迪熊.jpg",
+          "笑容绽放的童真瞬间.jpg"
+        ],
+        "displayTitle": "阳光下的欢乐时光",
+        "confidence": 0.9,
+        "reasoning": "图片中出现了一个女孩和一个泰迪熊，女孩的表情和姿势展现出一种纯真和快乐的氛围。根据决策树，首先判断为人物相关分类。在人像分类中，由于图片中出现了泰迪熊，因此归入【萌宠】分类。"
+      }
+    },
+    "wallpaper/mobile/萌宠/通用/微信图片_20260408163629_673_4.jpg": {
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "微信图片_20260408163629_673_4.jpg",
+      "createdAt": "2026-04-08T09:04:50.202Z",
+      "cdnTag": "v1.2.53",
+      "size": 225270,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2342,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "拟人化娃娃",
+          "夏季",
+          "可爱",
+          "墨镜"
+        ],
+        "description": "两款呆萌的拟人化娃娃，穿着泳衣和墨镜，非常适合作为装饰品。",
+        "filenameSuggestions": [
+          "两个穿泳衣的拟人化娃娃.jpg",
+          "戴墨镜的夏季小人偶.jpg"
+        ],
+        "displayTitle": "可爱的夏季小娃娃",
+        "confidence": 0.9,
+        "reasoning": "图片中的两个娃娃具有拟人化的特征，穿着类似人类的衣服，带有可爱的表情和配饰（墨镜、玩具），整体氛围可爱，归类为‘萌宠/通用’。"
+      }
+    },
+    "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140714_447.jpg": {
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140714_447.jpg",
+      "createdAt": "2026-04-08T09:09:04.814Z",
+      "cdnTag": "v1.2.53",
+      "size": 286915,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 2772,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "乌萨奇在森林野餐.jpg",
+          "享受自然的乌萨奇朋友们.jpg"
+        ],
+        "filenames": [
+          "乌萨奇在森林野餐.jpg",
+          "享受自然的乌萨奇朋友们.jpg"
+        ],
+        "displayTitle": "田园中的乌萨奇野餐",
+        "keywords": [
+          "插画",
+          "乌萨奇",
+          "野餐",
+          "自然"
+        ],
+        "description": "可爱的乌萨奇在自然风景中享受野餐的插画，充满治愈系氛围。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现兔子在自然环境中进行野餐的场景，符合插画分类下的萌宠子类特征。"
+      }
+    },
+    "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140726_406.jpg": {
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140726_406.jpg",
+      "createdAt": "2026-04-08T09:09:04.814Z",
+      "cdnTag": "v1.2.53",
+      "size": 230209,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 2772,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "夜灯下的乌萨奇.jpg",
+          "可爱的乌萨奇朋友们.jpg"
+        ],
+        "filenames": [
+          "夜灯下的乌萨奇.jpg",
+          "可爱的乌萨奇朋友们.jpg"
+        ],
+        "displayTitle": "夜灯下的乌萨奇",
+        "keywords": [
+          "插画",
+          "乌萨奇",
+          "夜景"
+        ],
+        "description": "夜灯下展现温馨",
+        "confidence": 0.9,
+        "reasoning": "图片中为可爱的兔子形象，具有插画风格和明显的绘画感，归入插画/萌宠分类"
+      }
+    },
+    "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140745_236.png": {
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140745_236.png",
+      "createdAt": "2026-04-08T09:09:04.814Z",
+      "cdnTag": "v1.2.53",
+      "size": 2083560,
+      "format": "png",
+      "resolution": {
+        "width": 1152,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "春日暖阳下的森林小憩.jpg",
+          "森林中的乌萨奇野餐.jpg"
+        ],
+        "filenames": [
+          "春日暖阳下的森林小憩.jpg",
+          "森林中的乌萨奇野餐.jpg"
+        ],
+        "displayTitle": "春日暖阳下的森林小憩",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "春日",
+          "森林"
+        ],
+        "description": "春日暖阳下的森林小憩，萌宠与鲜花相伴。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现，内容以萌宠为主，场景为春日森林，符合插画-萌宠分类。"
+      }
+    },
+    "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140803_555.jpg": {
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140803_555.jpg",
+      "createdAt": "2026-04-08T09:09:04.814Z",
+      "cdnTag": "v1.2.53",
+      "size": 146728,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "花丛中的幸福小动物.jpg",
+          "可爱小动物与春天花朵.jpg"
+        ],
+        "filenames": [
+          "花丛中的幸福小动物.jpg",
+          "可爱小动物与春天花朵.jpg"
+        ],
+        "displayTitle": "三只幸福的小动物",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "乌萨奇",
+          "动物"
+        ],
+        "description": "三只可爱的小动物在花丛中玩耍。",
+        "confidence": 0.9,
+        "reasoning": "图片中出现了明显的插画风格，内容为可爱的小动物，符合插画和萌宠的分类特征。"
+      }
+    },
+    "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140812_369.jpg": {
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140812_369.jpg",
+      "createdAt": "2026-04-08T09:09:04.814Z",
+      "cdnTag": "v1.2.53",
+      "size": 137056,
+      "format": "jpg",
+      "resolution": {
+        "width": 736,
+        "height": 1204,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "森林中的卡通乌萨奇聚会.jpg",
+          "可爱的乌萨奇在一起玩耍.jpg"
+        ],
+        "filenames": [
+          "森林中的卡通乌萨奇聚会.jpg",
+          "可爱的乌萨奇在一起玩耍.jpg"
+        ],
+        "displayTitle": "森林里的欢乐聚会",
+        "keywords": [
+          "乌萨奇",
+          "萌宠",
+          "森林",
+          "卡通"
+        ],
+        "description": "一组可爱的卡通小动物在森林中聚会、玩耍的场景。",
+        "confidence": 0.9,
+        "reasoning": "图片中出现大量可爱的小动物，具备明显的插画风格和卡通特征，归入插画/萌宠分类。"
+      }
+    },
+    "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140819_561.jpg": {
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140819_561.jpg",
+      "createdAt": "2026-04-08T09:12:44.841Z",
+      "cdnTag": "v1.2.53",
+      "size": 135051,
+      "format": "jpg",
+      "resolution": {
+        "width": 716,
+        "height": 1272,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "樱花树下的粉色小车与乌萨奇.jpg",
+          "春风吹过樱花树下的小车与乌萨奇.jpg"
+        ],
+        "filenames": [
+          "樱花树下的粉色小车与乌萨奇.jpg",
+          "春风吹过樱花树下的小车与乌萨奇.jpg"
+        ],
+        "displayTitle": "春日樱花小旅程",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "樱花",
+          "小车"
+        ],
+        "description": "可爱乌萨奇与小车在樱花树下",
+        "confidence": 0.9,
+        "reasoning": "图片展示了插画风格的熊猫在樱花树下的场景，符合插画和萌宠的分类特征"
+      }
+    },
+    "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140825_352.jpg": {
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140825_352.jpg",
+      "createdAt": "2026-04-08T09:12:44.841Z",
+      "cdnTag": "v1.2.53",
+      "size": 129429,
+      "format": "jpg",
+      "resolution": {
+        "width": 600,
+        "height": 1300,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "春风拂面三小只.jpg",
+          "樱花树下的欢乐时光.jpg"
+        ],
+        "filenames": [
+          "春风拂面三小只.jpg",
+          "樱花树下的欢乐时光.jpg"
+        ],
+        "displayTitle": "春日乐悠悠，笑靥盈枝头",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "樱花",
+          "春日"
+        ],
+        "description": "三只小动物在樱花树下悠闲荡秋千，享受春日乐趣。",
+        "confidence": 0.9,
+        "reasoning": "图片为插画风格，特征是绘画感强且为萌宠，符合插画/萌宠分类。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/20260408163908.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260408163908.jpeg",
+      "createdAt": "2026-04-08T09:12:44.841Z",
+      "cdnTag": "v1.2.53",
+      "size": 9651059,
+      "format": "jpeg",
+      "resolution": {
+        "width": 3072,
+        "height": 4096,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "校园风",
+          "阳光",
+          "微笑"
+        ],
+        "description": "阳光照耀下的悠闲校园生活",
+        "filenameSuggestions": [
+          "阳光下的悠闲校园女孩.jpg",
+          "草地上放松的微笑少女.jpg"
+        ],
+        "displayTitle": "阳光下的校园悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "图片中人物穿着校服，躺在草地上，表情放松，背景明亮且有阳光照射，根据规则A4，判定为[清新]。"
       }
     }
   }
