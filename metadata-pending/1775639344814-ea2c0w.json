@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-08T09:09:04.814Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140714_447.jpg",
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140714_447.jpg",
+      "createdAt": "2026-04-08T09:09:04.814Z",
+      "size": 286915,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "乌萨奇在森林野餐.jpg",
+          "享受自然的乌萨奇朋友们.jpg"
+        ],
+        "filenames": [
+          "乌萨奇在森林野餐.jpg",
+          "享受自然的乌萨奇朋友们.jpg"
+        ],
+        "displayTitle": "田园中的乌萨奇野餐",
+        "keywords": [
+          "插画",
+          "乌萨奇",
+          "野餐",
+          "自然"
+        ],
+        "description": "可爱的乌萨奇在自然风景中享受野餐的插画，充满治愈系氛围。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现兔子在自然环境中进行野餐的场景，符合插画分类下的萌宠子类特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140726_406.jpg",
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140726_406.jpg",
+      "createdAt": "2026-04-08T09:09:04.814Z",
+      "size": 230209,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "夜灯下的乌萨奇.jpg",
+          "可爱的乌萨奇朋友们.jpg"
+        ],
+        "filenames": [
+          "夜灯下的乌萨奇.jpg",
+          "可爱的乌萨奇朋友们.jpg"
+        ],
+        "displayTitle": "夜灯下的乌萨奇",
+        "keywords": [
+          "插画",
+          "乌萨奇",
+          "夜景"
+        ],
+        "description": "夜灯下展现温馨",
+        "confidence": 0.9,
+        "reasoning": "图片中为可爱的兔子形象，具有插画风格和明显的绘画感，归入插画/萌宠分类"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140745_236.png",
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140745_236.png",
+      "createdAt": "2026-04-08T09:09:04.814Z",
+      "size": 2083560,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "春日暖阳下的森林小憩.jpg",
+          "森林中的乌萨奇野餐.jpg"
+        ],
+        "filenames": [
+          "春日暖阳下的森林小憩.jpg",
+          "森林中的乌萨奇野餐.jpg"
+        ],
+        "displayTitle": "春日暖阳下的森林小憩",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "春日",
+          "森林"
+        ],
+        "description": "春日暖阳下的森林小憩，萌宠与鲜花相伴。",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现，内容以萌宠为主，场景为春日森林，符合插画-萌宠分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140803_555.jpg",
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140803_555.jpg",
+      "createdAt": "2026-04-08T09:09:04.814Z",
+      "size": 146728,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "花丛中的幸福小动物.jpg",
+          "可爱小动物与春天花朵.jpg"
+        ],
+        "filenames": [
+          "花丛中的幸福小动物.jpg",
+          "可爱小动物与春天花朵.jpg"
+        ],
+        "displayTitle": "三只幸福的小动物",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "乌萨奇",
+          "动物"
+        ],
+        "description": "三只可爱的小动物在花丛中玩耍。",
+        "confidence": 0.9,
+        "reasoning": "图片中出现了明显的插画风格，内容为可爱的小动物，符合插画和萌宠的分类特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/IP形象/乌萨奇/微信图片_2026-03-27_140812_369.jpg",
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "微信图片_2026-03-27_140812_369.jpg",
+      "createdAt": "2026-04-08T09:09:04.814Z",
+      "size": 137056,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "乌萨奇",
+        "subcategory": "乌萨奇",
+        "filenameSuggestions": [
+          "森林中的卡通乌萨奇聚会.jpg",
+          "可爱的乌萨奇在一起玩耍.jpg"
+        ],
+        "filenames": [
+          "森林中的卡通乌萨奇聚会.jpg",
+          "可爱的乌萨奇在一起玩耍.jpg"
+        ],
+        "displayTitle": "森林里的欢乐聚会",
+        "keywords": [
+          "乌萨奇",
+          "萌宠",
+          "森林",
+          "卡通"
+        ],
+        "description": "一组可爱的卡通小动物在森林中聚会、玩耍的场景。",
+        "confidence": 0.9,
+        "reasoning": "图片中出现大量可爱的小动物，具备明显的插画风格和卡通特征，归入插画/萌宠分类。"
+      }
+    }
+  ]
+}
