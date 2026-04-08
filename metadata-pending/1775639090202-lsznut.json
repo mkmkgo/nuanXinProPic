@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-08T09:04:50.202Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/萌宠/通用/微信图片_20260408163627_671_4.jpg",
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "微信图片_20260408163627_671_4.jpg",
+      "createdAt": "2026-04-08T09:04:50.202Z",
+      "size": 264525,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "毛绒玩具",
+          "治愈系",
+          "快乐"
+        ],
+        "description": "一组可爱的毛绒玩具堆叠在一起，传递着快乐和温暖。",
+        "filenameSuggestions": [
+          "可爱的毛绒玩具合影.jpg",
+          "让生活更快乐的毛绒朋友们.jpg"
+        ],
+        "displayTitle": "治愈系毛绒玩具的快乐角落",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一堆可爱的毛绒玩具，氛围轻松愉快，符合萌宠分类下的通用风格。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/萌宠/微信图片_20260408163628_672_4.jpg",
+      "category": "人像",
+      "subcategory": "萌宠",
+      "filename": "微信图片_20260408163628_672_4.jpg",
+      "createdAt": "2026-04-08T09:04:50.202Z",
+      "size": 236178,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "萌宠",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "萌宠",
+        "keywords": [
+          "泰迪熊",
+          "女孩",
+          "欢乐",
+          "童真"
+        ],
+        "description": "一个女孩和泰迪熊在一起的快乐时刻",
+        "filenameSuggestions": [
+          "可爱的女孩与泰迪熊.jpg",
+          "笑容绽放的童真瞬间.jpg"
+        ],
+        "displayTitle": "阳光下的欢乐时光",
+        "confidence": 0.9,
+        "reasoning": "图片中出现了一个女孩和一个泰迪熊，女孩的表情和姿势展现出一种纯真和快乐的氛围。根据决策树，首先判断为人物相关分类。在人像分类中，由于图片中出现了泰迪熊，因此归入【萌宠】分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/萌宠/通用/微信图片_20260408163629_673_4.jpg",
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "微信图片_20260408163629_673_4.jpg",
+      "createdAt": "2026-04-08T09:04:50.202Z",
+      "size": 225270,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "拟人化娃娃",
+          "夏季",
+          "可爱",
+          "墨镜"
+        ],
+        "description": "两款呆萌的拟人化娃娃，穿着泳衣和墨镜，非常适合作为装饰品。",
+        "filenameSuggestions": [
+          "两个穿泳衣的拟人化娃娃.jpg",
+          "戴墨镜的夏季小人偶.jpg"
+        ],
+        "displayTitle": "可爱的夏季小娃娃",
+        "confidence": 0.9,
+        "reasoning": "图片中的两个娃娃具有拟人化的特征，穿着类似人类的衣服，带有可爱的表情和配饰（墨镜、玩具），整体氛围可爱，归类为‘萌宠/通用’。"
+      }
+    }
+  ]
+}
