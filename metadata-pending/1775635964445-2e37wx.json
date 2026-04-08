@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-08T08:12:44.445Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/风景/雪山/20260406200436.jpeg",
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "20260406200436.jpeg",
+      "createdAt": "2026-04-08T08:12:44.445Z",
+      "size": 6553451,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "雪山",
+          "山峰",
+          "云雾"
+        ],
+        "description": "北岭雪峰，云雾缭绕，雄伟壮丽。",
+        "filenameSuggestions": [
+          "北岭雪峰.jpg",
+          "云雾缭绕的雪山峰顶.jpg"
+        ],
+        "displayTitle": "北岭雪峰",
+        "confidence": 0.9,
+        "reasoning": "图片为雪山风景，山峰清晰可见，云雾环绕，根据规则C1，判定为[风景/雪山]"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/人像/清新/20260406200444.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260406200444.jpeg",
+      "createdAt": "2026-04-08T08:12:44.445Z",
+      "size": 1187440,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "甜美",
+          "光影"
+        ],
+        "description": "照片中的少女面带微笑，穿着蓝色条纹的白色毛衣，站在蓝色和白色背景前，享受着阳光的温暖。",
+        "filenameSuggestions": [
+          "温暖光影下的清新少女.jpg",
+          "蓝色条纹衫的甜美女孩.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女表情甜美，穿着清新，背景光影温暖，判定为[人像/清新]"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/IP形象/线条小狗/20260406200517.png",
+      "category": "IP形象",
+      "subcategory": "线条小狗",
+      "filename": "20260406200517.png",
+      "createdAt": "2026-04-08T08:12:44.445Z",
+      "size": 4929934,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "IP形象",
+        "category": "IP形象",
+        "third": "线条小狗",
+        "subcategory": "线条小狗",
+        "filenameSuggestions": [
+          "两只小狗在咖啡馆.jpg",
+          "小狗咖啡馆的日常.jpg"
+        ],
+        "filenames": [
+          "两只小狗在咖啡馆.jpg",
+          "小狗咖啡馆的日常.jpg"
+        ],
+        "displayTitle": "治愈的咖啡时光",
+        "keywords": [
+          "线条小狗",
+          "卡通",
+          "咖啡"
+        ],
+        "description": "两只小狗在咖啡馆的温馨场景",
+        "confidence": 0.9,
+        "reasoning": "图片为插画风格，特征是卡通小熊与咖啡相关元素，根据规则B2，判定为插画/卡通"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/人像/清新/20260406200537.png",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260406200537.png",
+      "createdAt": "2026-04-08T08:12:44.445Z",
+      "size": 3706185,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "蓝天",
+          "白云"
+        ],
+        "description": "蓝天白云下的少女，清新脱俗，姿态自然。",
+        "filenameSuggestions": [
+          "蓝天白云下的少女清影.jpg",
+          "低头凝视的清新少女.jpg"
+        ],
+        "displayTitle": "云间少女的诗意瞬间",
+        "confidence": 0.9,
+        "reasoning": "图片以少女为主体，背景是蓝天和白云，整体氛围明亮且清新。根据人像分类决策树，图片特征符合【清新】(Fresh)的定义：明亮、治愈、氧气感。因此，归类为人像/清新。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/动漫/二次元/20260406201328.jpeg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "20260406201328.jpeg",
+      "createdAt": "2026-04-08T08:12:44.445Z",
+      "size": 3210188,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "二次元",
+          "动漫风格",
+          "街头艺术"
+        ],
+        "description": "二次元风格的少女画像，背景是街头涂鸦墙壁。",
+        "filenameSuggestions": [
+          "街头涂鸦前的粉发少女.jpg",
+          "二次元女孩与城市壁画.jpg"
+        ],
+        "displayTitle": "街头艺术中的二次元少女",
+        "confidence": 0.9,
+        "reasoning": "图片具有典型的日式动画风格，人物特征和背景涂鸦墙壁符合二次元动漫特征，根据决策树B2，判定为动漫/二次元。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/插画/创意/20260406201407.jpeg",
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "20260406201407.jpeg",
+      "createdAt": "2026-04-08T08:12:44.445Z",
+      "size": 3504825,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "插画",
+          "创意",
+          "星空",
+          "树"
+        ],
+        "description": "一幅充满梦幻色彩的插画，展示了星空下的树木。",
+        "filenameSuggestions": [
+          "旋转星空下的森林.jpg",
+          "梦幻树语天空.jpg"
+        ],
+        "displayTitle": "梦幻星空下的树语",
+        "confidence": 0.9,
+        "reasoning": "图片具有强烈的绘画风格和创意元素，呈现出星空和树木的独特结合。根据决策树B2插画逻辑，图片特征符合插画/创意的定义。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/插画/场景/20260406201428.jpeg",
+      "category": "插画",
+      "subcategory": "场景",
+      "filename": "20260406201428.jpeg",
+      "createdAt": "2026-04-08T08:12:44.445Z",
+      "size": 1922793,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "场景",
+        "subcategory": "场景",
+        "filenameSuggestions": [
+          "充满绿意的学生宿舍.jpg",
+          "阳光下的双人宿舍.jpg"
+        ],
+        "filenames": [
+          "充满绿意的学生宿舍.jpg",
+          "阳光下的双人宿舍.jpg"
+        ],
+        "displayTitle": "阳光下的温馨宿舍",
+        "keywords": [
+          "室内",
+          "宿舍",
+          "自然光"
+        ],
+        "description": "充满自然光的温馨学生宿舍，绿意盎然，舒适整洁。",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一间学生宿舍，重点在于室内环境和自然光线下的细节。虽然包含部分自然景色（窗外绿树和天空），但主要内容是室内布置，因此归类为风景/通用。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/动漫/罪恶王冠/20260406201516.jpeg",
+      "category": "动漫",
+      "subcategory": "罪恶王冠",
+      "filename": "20260406201516.jpeg",
+      "createdAt": "2026-04-08T08:12:44.445Z",
+      "size": 5213654,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "罪恶王冠",
+        "subcategory": "罪恶王冠",
+        "filenameSuggestions": [
+          "城市夜景中的光芒少女楪祈.jpg",
+          "夜空下的蓝色光芒少女楪祈.jpg"
+        ],
+        "filenames": [
+          "城市夜景中的光芒少女楪祈.jpg",
+          "夜空下的蓝色光芒少女楪祈.jpg"
+        ],
+        "displayTitle": "夜空下的光芒少女",
+        "keywords": [
+          "动漫",
+          "二次元",
+          "楪祈"
+        ],
+        "description": "动漫风格的二次元少女楪祈，城市夜景背景，充满科技感和未来感。",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位动漫风格的少女，背景是城市夜景的蓝色光芒，根据决策树B1和B2，判定为动漫/二次元。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/人像/魅力/20260406201056.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "20260406201056.jpeg",
+      "createdAt": "2026-04-08T08:12:44.445Z",
+      "size": 6466827,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "人像",
+          "光影"
+        ],
+        "description": "照片聚焦于女性光滑的肌肤和曲线，搭配温柔的光影效果，展现成熟优雅的气质。",
+        "filenameSuggestions": [
+          "月光下的丝滑肌肤.jpg",
+          "沐浴在光影中的优雅身躯.jpg"
+        ],
+        "displayTitle": "月光下的丝滑肌肤",
+        "confidence": 0.9,
+        "reasoning": "图片展示女性身躯的曲线和肌肤，配合光影和水珠的细节，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/人像/魅力/20260406201122.png",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "20260406201122.png",
+      "createdAt": "2026-04-08T08:12:44.445Z",
+      "size": 12924968,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "长发",
+          "美女"
+        ],
+        "description": "一位长发女子在微风中展现魅力",
+        "filenameSuggestions": [
+          "微风中的长发美女.jpg",
+          "侧颜长发女子.jpg"
+        ],
+        "displayTitle": "风吹过你的长发",
+        "confidence": 0.9,
+        "reasoning": "图片为一位长发女子，表情妩媚，符合【魅力】(Glamour)的定义。"
+      }
+    }
+  ]
+}
