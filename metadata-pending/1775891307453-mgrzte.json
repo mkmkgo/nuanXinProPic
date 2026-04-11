@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-11T07:08:27.453Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152618_896.png",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152618_896.png",
+      "createdAt": "2026-04-11T07:08:27.453Z",
+      "size": 1377590,
+      "format": "png",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "自拍",
+          "少女"
+        ],
+        "description": "一个甜美可爱的少女在自拍，表情自然，氛围感十足。",
+        "filenameSuggestions": [
+          "清新甜美女孩自拍照.jpg",
+          "可爱少女手机自拍.jpg"
+        ],
+        "displayTitle": "甜美少女的自拍时刻",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩展现出甜美可爱、少女感的风格，归类为人像/甜妹。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152626_340.png",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152626_340.png",
+      "createdAt": "2026-04-11T07:08:27.453Z",
+      "size": 1115295,
+      "format": "png",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "绿衣",
+          "清新"
+        ],
+        "description": "一个穿着绿色动物连体服的少女，清新可爱。",
+        "filenameSuggestions": [
+          "清新绿衣少女写真.jpg",
+          "甜美风格女孩穿着绿色动物连体服.jpg"
+        ],
+        "displayTitle": "绿衣少女清新写真",
+        "confidence": 0.9,
+        "reasoning": "根据决策树B3，图片中的少女展现出甜美可爱、少女感、清新风格的特征，因此归类为 人像/甜妹。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152637_531.jpg",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152637_531.jpg",
+      "createdAt": "2026-04-11T07:08:27.453Z",
+      "size": 175888,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜美",
+          "少女",
+          "微笑"
+        ],
+        "description": "一个戴着帽子，露出甜美微笑的年轻女孩。",
+        "filenameSuggestions": [
+          "清新甜美女孩微笑.jpg",
+          "可爱少女戴帽自拍.jpg"
+        ],
+        "displayTitle": "甜美少女的微笑瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩面带微笑，装扮甜美，符合人像/甜妹的分类特征。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152643_002.jpg",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152643_002.jpg",
+      "createdAt": "2026-04-11T07:08:27.453Z",
+      "size": 141189,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "avatar",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152648_605.jpg",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152648_605.jpg",
+      "createdAt": "2026-04-11T07:08:27.453Z",
+      "size": 103181,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "清新",
+          "少女"
+        ],
+        "description": "一位穿着白色上衣和帽子的年轻女孩，在阳光下饮水，展现出清新甜美的气质。",
+        "filenameSuggestions": [
+          "清新甜美女孩饮水.jpg",
+          "阳光下的少女风采.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩具有甜美可爱、少女感、清新风格的面貌和姿态，归类为人像/甜妹。"
+      }
+    }
+  ]
+}
