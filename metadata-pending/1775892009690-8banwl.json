@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-11T07:20:09.690Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152758_334.jpg",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152758_334.jpg",
+      "createdAt": "2026-04-11T07:20:09.690Z",
+      "size": 177869,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜美",
+          "少女",
+          "微笑"
+        ],
+        "description": "一位面带微笑的少女，在阳光下展现出甜美的气质。",
+        "filenameSuggestions": [
+          "可爱少女阳光下微笑.jpg",
+          "甜美风格的年轻女孩.jpg"
+        ],
+        "displayTitle": "阳光下的甜美少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩面带微笑，表现出甜美可爱的气质，归类为'人像/甜妹'。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152804_578.jpg",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152804_578.jpg",
+      "createdAt": "2026-04-11T07:20:09.690Z",
+      "size": 186245,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "海边",
+          "长发"
+        ],
+        "description": "阳光下的海边少女，充满甜美与活力。",
+        "filenameSuggestions": [
+          "海边甜美少女阳光下的微笑.jpg",
+          "长发美女海崖边的优雅瞬间.jpg"
+        ],
+        "displayTitle": "海边少女的阳光心情",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物形象甜美可爱，展现出少女的清新风格，归类为人像/甜妹。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152813_300.jpg",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152813_300.jpg",
+      "createdAt": "2026-04-11T07:20:09.690Z",
+      "size": 225808,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜美",
+          "清新",
+          "长发"
+        ],
+        "description": "一位长发少女在咖啡店中悠闲地品着咖啡，展现出甜美与清新的气质。",
+        "filenameSuggestions": [
+          "清新风格长发女孩咖啡店闲暇.jpg",
+          "甜美少女手托脸颊品咖啡.jpg"
+        ],
+        "displayTitle": "清新少女的悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女具有长发、甜美表情和清新风格，符合人像/甜妹的分类特征。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152818_396.jpg",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152818_396.jpg",
+      "createdAt": "2026-04-11T07:20:09.690Z",
+      "size": 86892,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜美",
+          "微笑",
+          "海边"
+        ],
+        "description": "一位穿着黄色衣服的女孩在海边黄昏时分微笑。",
+        "filenameSuggestions": [
+          "海边黄昏少女微笑.jpg",
+          "黄昏海滩甜美女孩.jpg"
+        ],
+        "displayTitle": "海边黄昏少女微笑",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩表情甜美，环境为海边黄昏，符合人像/甜妹分类特征。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/插画/创意/微信图片_2026-04-11_145936_667.jpg",
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "微信图片_2026-04-11_145936_667.jpg",
+      "createdAt": "2026-04-11T07:20:09.690Z",
+      "size": 50010,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "avatar",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    }
+  ]
+}
