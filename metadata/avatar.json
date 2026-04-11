@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "avatar",
-  "lastUpdated": "2026-04-10 17:49:43",
-  "count": 466,
+  "lastUpdated": "2026-04-11 07:26:50",
+  "count": 503,
   "images": {
     "wallpaper/avatar/IP形象/Hello Kitty/HelloKitty_好运.png": {
       "category": "IP形象",
@@ -13925,6 +13925,1312 @@
         "displayTitle": "日暮中的背影",
         "confidence": 0.9,
         "reasoning": "图片展示一位长发女子的背影，面对夕阳，手持绿植，氛围感十足。根据决策树B. 人像分类决策树 1. 特征：主要展示背影，看不到正面，归类为：人像/背影。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/640 (1).jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "640 (1).jpg",
+      "createdAt": "2026-04-11T07:05:42.353Z",
+      "cdnTag": "v1.2.57",
+      "size": 89756,
+      "format": "jpg",
+      "resolution": {
+        "width": 1040,
+        "height": 1040,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "长发",
+          "自拍"
+        ],
+        "description": "一位甜美可爱的年轻女孩在床上自拍，微笑温暖，黑发长而顺滑。",
+        "filenameSuggestions": [
+          "甜美少女手机自拍.jpg",
+          "黑衣长发女孩微笑.jpg"
+        ],
+        "displayTitle": "甜美少女的温柔瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩面带微笑，甜美可爱，归类为人像/甜妹。"
+      }
+    },
+    "wallpaper/avatar/插画/创意/640 (2).jpg": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "640 (2).jpg",
+      "createdAt": "2026-04-11T07:05:42.353Z",
+      "cdnTag": "v1.2.57",
+      "size": 113109,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "avatar",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "禅意",
+          "童真",
+          "古风",
+          "插画"
+        ],
+        "description": "一幅充满禅意的儿童插画，展现静致远的美好品质。",
+        "filenameSuggestions": [
+          "禅意童真静致远插画.jpg",
+          "古风少僧侣祈祷.jpg"
+        ],
+        "displayTitle": "禅意童真：静致远",
+        "confidence": 0.9,
+        "reasoning": "根据决策树，首先判断图片为插画。图片风格为创意插画，充满禅意和古风元素，但未对应具体IP或动漫角色。故归类为插画/创意。"
+      }
+    },
+    "wallpaper/avatar/插画/二次元/640 (3).jpg": {
+      "category": "插画",
+      "subcategory": "二次元",
+      "filename": "640 (3).jpg",
+      "createdAt": "2026-04-11T07:05:42.353Z",
+      "cdnTag": "v1.2.57",
+      "size": 140837,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "插画",
+        "subcategory": "二次元",
+        "primary": "avatar",
+        "secondary": "插画",
+        "third": "二次元",
+        "keywords": [
+          "动漫",
+          "二次元",
+          "插画"
+        ],
+        "description": "一位黑发少女在温馨的房间里一边读书，一边从咖啡壶中将咖啡倒入米老鼠图案的杯子中。",
+        "filenameSuggestions": [
+          "二次元插画黑发少女.jpg",
+          "清新风格动漫女生饮咖啡.jpg"
+        ],
+        "displayTitle": "午后闲暇时光",
+        "confidence": 0.9,
+        "reasoning": "根据图片的动漫风格和二次元特征，判定为插画/二次元。"
+      }
+    },
+    "wallpaper/avatar/插画/二次元/640 (4).jpg": {
+      "category": "插画",
+      "subcategory": "二次元",
+      "filename": "640 (4).jpg",
+      "createdAt": "2026-04-11T07:05:42.353Z",
+      "cdnTag": "v1.2.57",
+      "size": 104334,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "avatar",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/avatar/动漫/哆啦A梦/640 (5).jpg": {
+      "category": "动漫",
+      "subcategory": "哆啦A梦",
+      "filename": "640 (5).jpg",
+      "createdAt": "2026-04-11T07:05:42.353Z",
+      "cdnTag": "v1.2.57",
+      "size": 77602,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "哆啦A梦",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "哆啦A梦",
+        "keywords": [
+          "哆啦A梦",
+          "动漫",
+          "星空"
+        ],
+        "description": "哆啦A梦坐在星空下，神情憨厚可爱。",
+        "filenameSuggestions": [
+          "哆啦A梦坐在星空下.jpg",
+          "蓝色机器人哆啦A梦星空背景.jpg"
+        ],
+        "displayTitle": "哆啦A梦的星空遐想",
+        "confidence": 0.9,
+        "reasoning": "图片中角色具有哆啦A梦的典型特征：蓝色机器人、红鼻子、白脸颊、额头有红色的铃铛。根据决策树A2，识别出具体动漫角色且现有目录中已有对应子类时，归入对应动漫子类。"
+      }
+    },
+    "wallpaper/avatar/人像/卡通简笔画/640 (6).jpg": {
+      "category": "人像",
+      "subcategory": "卡通简笔画",
+      "filename": "640 (6).jpg",
+      "createdAt": "2026-04-11T07:06:41.826Z",
+      "cdnTag": "v1.2.57",
+      "size": 84034,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "卡通简笔画",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "卡通简笔画",
+        "keywords": [
+          "卡通",
+          "玩偶",
+          "少女"
+        ],
+        "description": "这是一张充满时尚感的卡通风格玩偶形象，拥有大眼睛和卷发，穿着白色短袖和绿色裤子。",
+        "filenameSuggestions": [
+          "时尚少女玩偶卡通形象.jpg",
+          "可爱大眼娃娃写真.jpg"
+        ],
+        "displayTitle": "可爱少女玩偶形象",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别为卡通风格的人像，且具有Q版、可爱、非写实的特征，因此归类为 人像/卡通简笔画。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/640.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "640.jpg",
+      "createdAt": "2026-04-11T07:06:41.826Z",
+      "cdnTag": "v1.2.57",
+      "size": 48467,
+      "format": "jpg",
+      "resolution": {
+        "width": 700,
+        "height": 700,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "少女",
+          "微笑"
+        ],
+        "description": "一个面带微笑的少女，展现甜美与青春的气息。",
+        "filenameSuggestions": [
+          "清新甜美女孩微笑生活照.jpg",
+          "黑发少女甜美笑容自拍照.jpg"
+        ],
+        "displayTitle": "甜美少女微笑瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据图像特征，女孩面带微笑，展现出甜美可爱的气质，符合人像/甜妹的分类特征。"
+      }
+    },
+    "wallpaper/avatar/动漫/海贼王/微信图片_2026-03-26_160956_703.jpg": {
+      "category": "动漫",
+      "subcategory": "海贼王",
+      "filename": "微信图片_2026-03-26_160956_703.jpg",
+      "createdAt": "2026-04-11T07:06:41.826Z",
+      "cdnTag": "v1.2.57",
+      "size": 144364,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 1280,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "海贼王",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "海贼王",
+        "keywords": [
+          "海贼王",
+          "路飞",
+          "动漫角色"
+        ],
+        "description": "路飞是海贼王系列的主角，以他的勇气和橡胶果实能力而闻名。",
+        "filenameSuggestions": [
+          "路飞持枪搞笑瞬间.jpg",
+          "海贼王路飞个性表情包.jpg"
+        ],
+        "displayTitle": "蒙奇·D·路飞霸气侧漏",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别出该角色为海贼王中的路飞，根据决策树A2，归类为动漫/海贼王。"
+      }
+    },
+    "wallpaper/avatar/动漫/海贼王/微信图片_2026-03-26_161016_178.jpg": {
+      "category": "动漫",
+      "subcategory": "海贼王",
+      "filename": "微信图片_2026-03-26_161016_178.jpg",
+      "createdAt": "2026-04-11T07:06:41.826Z",
+      "cdnTag": "v1.2.57",
+      "size": 103156,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 1280,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "海贼王",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "海贼王",
+        "keywords": [
+          "路飞",
+          "海贼王",
+          "动漫",
+          "童年"
+        ],
+        "description": "路飞的童年时光，海贼王系列角色插画。",
+        "filenameSuggestions": [
+          "路飞童年插画.jpg",
+          "海贼王路飞卡通形象.jpg"
+        ],
+        "displayTitle": "路飞的童年时光",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别出该角色为海贼王中的路飞，归类为动漫/海贼王。"
+      }
+    },
+    "wallpaper/avatar/动漫/海贼王/微信图片_2026-03-26_161033_439.jpg": {
+      "category": "动漫",
+      "subcategory": "海贼王",
+      "filename": "微信图片_2026-03-26_161033_439.jpg",
+      "createdAt": "2026-04-11T07:06:41.826Z",
+      "cdnTag": "v1.2.57",
+      "size": 183835,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 1280,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "海贼王",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "海贼王",
+        "keywords": [
+          "动漫",
+          "海贼王",
+          "路飞",
+          "雨天"
+        ],
+        "description": "路飞在雨中快乐地踢水洼，展现童真与活力。",
+        "filenameSuggestions": [
+          "可爱蒙奇D路飞雨天欢乐.jpg",
+          "动漫风格路飞雨中嬉戏.jpg"
+        ],
+        "displayTitle": "雨中童真蒙奇·D·路飞",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别出该角色为海贼王中的蒙奇·D·路飞，因此归类为动漫/海贼王。"
+      }
+    },
+    "wallpaper/avatar/动漫/海贼王/微信图片_2026-03-26_161050_310.jpg": {
+      "category": "动漫",
+      "subcategory": "海贼王",
+      "filename": "微信图片_2026-03-26_161050_310.jpg",
+      "createdAt": "2026-04-11T07:07:36.318Z",
+      "cdnTag": "v1.2.57",
+      "size": 108490,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 1280,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "通用",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "通用",
+        "keywords": [
+          "动漫",
+          "草帽少年",
+          "卡通"
+        ],
+        "description": "动漫风格的草帽少年形象，呆萌可爱。",
+        "filenameSuggestions": [
+          "呆萌草帽少年动漫形象.jpg",
+          "动漫风格草帽少年卡通图.jpg"
+        ],
+        "displayTitle": "呆萌草帽少年动漫形象",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位动漫风格的少年，戴着草帽和墨镜，符合动漫角色特征，但未识别出具体IP角色，因此归类为动漫/通用。"
+      }
+    },
+    "wallpaper/avatar/动漫/蜡笔小新/微信图片_2026-03-27_135040_803.jpg": {
+      "category": "动漫",
+      "subcategory": "蜡笔小新",
+      "filename": "微信图片_2026-03-27_135040_803.jpg",
+      "createdAt": "2026-04-11T07:07:36.318Z",
+      "cdnTag": "v1.2.57",
+      "size": 76129,
+      "format": "jpg",
+      "resolution": {
+        "width": 1242,
+        "height": 1242,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "蜡笔小新",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "蜡笔小新",
+        "keywords": [
+          "蜡笔小新",
+          "动漫",
+          "卡通"
+        ],
+        "description": "蜡笔小新是一个非常受欢迎的动漫角色，以其独特的形象和搞笑的表情而闻名。",
+        "filenameSuggestions": [
+          "可爱蜡笔小新吃饭表情.jpg",
+          "蜡笔小新卡通形象.jpg"
+        ],
+        "displayTitle": "蜡笔小新吃米饭",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别出该角色为蜡笔小新，因此归类为动漫/蜡笔小新。"
+      }
+    },
+    "wallpaper/avatar/动漫/蜡笔小新/微信图片_2026-03-27_135058_509.jpg": {
+      "category": "动漫",
+      "subcategory": "蜡笔小新",
+      "filename": "微信图片_2026-03-27_135058_509.jpg",
+      "createdAt": "2026-04-11T07:07:36.318Z",
+      "cdnTag": "v1.2.57",
+      "size": 54338,
+      "format": "jpg",
+      "resolution": {
+        "width": 1242,
+        "height": 1242,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "蜡笔小新",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "蜡笔小新",
+        "keywords": [
+          "蜡笔小新",
+          "动漫",
+          "搞怪"
+        ],
+        "description": "蜡笔小新搞怪表情，动漫风格",
+        "filenameSuggestions": [
+          "搞怪蜡笔小新卡通形象.jpg",
+          "蜡笔小新搞笑表情包.jpg"
+        ],
+        "displayTitle": "蜡笔小新搞怪表情",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别出为蜡笔小新角色，归类为动漫/蜡笔小新"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152559_128.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152559_128.jpg",
+      "createdAt": "2026-04-11T07:07:36.318Z",
+      "cdnTag": "v1.2.57",
+      "size": 126019,
+      "format": "jpg",
+      "resolution": {
+        "width": 1040,
+        "height": 1040,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜美",
+          "少女",
+          "美食"
+        ],
+        "description": "一位甜美少女与巧克力饼干的愉快瞬间。",
+        "filenameSuggestions": [
+          "可爱少女巧克力饼干甜美瞬间.jpg",
+          "甜妹与美食的愉快时光.jpg"
+        ],
+        "displayTitle": "甜美少女与巧克力饼干",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女展现出甜美可爱、少女感、清新风格，归类为 人像/甜妹。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152612_665.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152612_665.jpg",
+      "createdAt": "2026-04-11T07:07:36.318Z",
+      "cdnTag": "v1.2.57",
+      "size": 100184,
+      "format": "jpg",
+      "resolution": {
+        "width": 1040,
+        "height": 1040,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "美食",
+          "寿司"
+        ],
+        "description": "一位甜美可爱的少女享受寿司的瞬间。",
+        "filenameSuggestions": [
+          "可爱少女享受寿司时刻.jpg",
+          "甜美女孩的美食分享.jpg"
+        ],
+        "displayTitle": "甜美少女的寿司盛宴",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别为一位甜美可爱的少女，归类为人像/甜妹。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152618_896.png": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152618_896.png",
+      "createdAt": "2026-04-11T07:08:27.453Z",
+      "cdnTag": "v1.2.57",
+      "size": 1377590,
+      "format": "png",
+      "resolution": {
+        "width": 1079,
+        "height": 1057,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "自拍",
+          "少女"
+        ],
+        "description": "一个甜美可爱的少女在自拍，表情自然，氛围感十足。",
+        "filenameSuggestions": [
+          "清新甜美女孩自拍照.jpg",
+          "可爱少女手机自拍.jpg"
+        ],
+        "displayTitle": "甜美少女的自拍时刻",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩展现出甜美可爱、少女感的风格，归类为人像/甜妹。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152626_340.png": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152626_340.png",
+      "createdAt": "2026-04-11T07:08:27.453Z",
+      "cdnTag": "v1.2.57",
+      "size": 1115295,
+      "format": "png",
+      "resolution": {
+        "width": 1079,
+        "height": 1074,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "绿衣",
+          "清新"
+        ],
+        "description": "一个穿着绿色动物连体服的少女，清新可爱。",
+        "filenameSuggestions": [
+          "清新绿衣少女写真.jpg",
+          "甜美风格女孩穿着绿色动物连体服.jpg"
+        ],
+        "displayTitle": "绿衣少女清新写真",
+        "confidence": 0.9,
+        "reasoning": "根据决策树B3，图片中的少女展现出甜美可爱、少女感、清新风格的特征，因此归类为 人像/甜妹。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152637_531.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152637_531.jpg",
+      "createdAt": "2026-04-11T07:08:27.453Z",
+      "cdnTag": "v1.2.57",
+      "size": 175888,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜美",
+          "少女",
+          "微笑"
+        ],
+        "description": "一个戴着帽子，露出甜美微笑的年轻女孩。",
+        "filenameSuggestions": [
+          "清新甜美女孩微笑.jpg",
+          "可爱少女戴帽自拍.jpg"
+        ],
+        "displayTitle": "甜美少女的微笑瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩面带微笑，装扮甜美，符合人像/甜妹的分类特征。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152643_002.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152643_002.jpg",
+      "createdAt": "2026-04-11T07:08:27.453Z",
+      "cdnTag": "v1.2.57",
+      "size": 141189,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "avatar",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152648_605.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152648_605.jpg",
+      "createdAt": "2026-04-11T07:08:27.453Z",
+      "cdnTag": "v1.2.57",
+      "size": 103181,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "清新",
+          "少女"
+        ],
+        "description": "一位穿着白色上衣和帽子的年轻女孩，在阳光下饮水，展现出清新甜美的气质。",
+        "filenameSuggestions": [
+          "清新甜美女孩饮水.jpg",
+          "阳光下的少女风采.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩具有甜美可爱、少女感、清新风格的面貌和姿态，归类为人像/甜妹。"
+      }
+    },
+    "wallpaper/avatar/人像/氛围感/微信图片_2026-04-09_152654_691.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "微信图片_2026-04-09_152654_691.jpg",
+      "createdAt": "2026-04-11T07:13:46.965Z",
+      "cdnTag": "v1.2.57",
+      "size": 164717,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像摄影",
+          "户外"
+        ],
+        "description": "阳光透过树叶，少女倚树凝视远方，氛围感十足。",
+        "filenameSuggestions": [
+          "自然光影下的少女倩影.jpg",
+          "树影婆娑湖边风景.jpg"
+        ],
+        "displayTitle": "阳光下的自然之美",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位少女在自然环境中的姿态，强调光影和环境的氛围感，根据决策树B2，归类为'人像/氛围感'。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152705_750.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152705_750.jpg",
+      "createdAt": "2026-04-11T07:13:46.965Z",
+      "cdnTag": "v1.2.57",
+      "size": 167609,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "俏皮",
+          "自拍"
+        ],
+        "description": "一位戴着熊耳帽的少女在卫生间自拍，表情俏皮可爱。",
+        "filenameSuggestions": [
+          "可爱少女戴熊耳帽子.jpg",
+          "甜美风格的俏皮自拍.jpg"
+        ],
+        "displayTitle": "甜美少女俏皮自拍",
+        "confidence": 0.9,
+        "reasoning": "根据决策树B3，图片中的少女具有甜美可爱、少女感、清新风格的特征，因此归类为'人像/甜妹'。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152716_389.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152716_389.jpg",
+      "createdAt": "2026-04-11T07:13:46.965Z",
+      "cdnTag": "v1.2.57",
+      "size": 150500,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "校园风",
+          "学生装"
+        ],
+        "description": "一位穿着校园服的女孩手持糖葫芦，展现甜美微笑。",
+        "filenameSuggestions": [
+          "校园甜美女孩手持糖葫芦.jpg",
+          "清新学生妹微笑生活照.jpg"
+        ],
+        "displayTitle": "校园甜美少女手持糖葫芦",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩具有甜美可爱、少女感、清新风格，归类为人像/甜妹。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152721_644.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152721_644.jpg",
+      "createdAt": "2026-04-11T07:13:46.965Z",
+      "cdnTag": "v1.2.57",
+      "size": 324738,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "少女",
+          "可爱"
+        ],
+        "description": "一个甜美可爱的年轻女孩，拿着相机在户外拍照。",
+        "filenameSuggestions": [
+          "可爱少女拿着相机.jpg",
+          "甜美风格的年轻女孩.jpg"
+        ],
+        "displayTitle": "阳光下的甜美少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩展现出甜美可爱、少女感的风格，符合人像/甜妹的分类特征。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152751_224.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152751_224.jpg",
+      "createdAt": "2026-04-11T07:13:46.965Z",
+      "cdnTag": "v1.2.57",
+      "size": 159661,
+      "format": "jpg",
+      "resolution": {
+        "width": 978,
+        "height": 978,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "海边",
+          "清新"
+        ],
+        "description": "一位穿着蓝色印花裙的女孩站在海边，享受着阳光和海风，散发着青春的活力与美丽。",
+        "filenameSuggestions": [
+          "清新风格的海边少女.jpg",
+          "甜美女孩在海边风景.jpg"
+        ],
+        "displayTitle": "海边少女的清新之美",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩展现出甜美可爱、少女感、清新风格，归类为 人像/甜妹。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152758_334.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152758_334.jpg",
+      "createdAt": "2026-04-11T07:20:09.690Z",
+      "cdnTag": "v1.2.57",
+      "size": 177869,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 1280,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜美",
+          "少女",
+          "微笑"
+        ],
+        "description": "一位面带微笑的少女，在阳光下展现出甜美的气质。",
+        "filenameSuggestions": [
+          "可爱少女阳光下微笑.jpg",
+          "甜美风格的年轻女孩.jpg"
+        ],
+        "displayTitle": "阳光下的甜美少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩面带微笑，表现出甜美可爱的气质，归类为'人像/甜妹'。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152804_578.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152804_578.jpg",
+      "createdAt": "2026-04-11T07:20:09.690Z",
+      "cdnTag": "v1.2.57",
+      "size": 186245,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "海边",
+          "长发"
+        ],
+        "description": "阳光下的海边少女，充满甜美与活力。",
+        "filenameSuggestions": [
+          "海边甜美少女阳光下的微笑.jpg",
+          "长发美女海崖边的优雅瞬间.jpg"
+        ],
+        "displayTitle": "海边少女的阳光心情",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物形象甜美可爱，展现出少女的清新风格，归类为人像/甜妹。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152813_300.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152813_300.jpg",
+      "createdAt": "2026-04-11T07:20:09.690Z",
+      "cdnTag": "v1.2.57",
+      "size": 225808,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 1280,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜美",
+          "清新",
+          "长发"
+        ],
+        "description": "一位长发少女在咖啡店中悠闲地品着咖啡，展现出甜美与清新的气质。",
+        "filenameSuggestions": [
+          "清新风格长发女孩咖啡店闲暇.jpg",
+          "甜美少女手托脸颊品咖啡.jpg"
+        ],
+        "displayTitle": "清新少女的悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女具有长发、甜美表情和清新风格，符合人像/甜妹的分类特征。"
+      }
+    },
+    "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152818_396.jpg": {
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152818_396.jpg",
+      "createdAt": "2026-04-11T07:20:09.690Z",
+      "cdnTag": "v1.2.57",
+      "size": 86892,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜美",
+          "微笑",
+          "海边"
+        ],
+        "description": "一位穿着黄色衣服的女孩在海边黄昏时分微笑。",
+        "filenameSuggestions": [
+          "海边黄昏少女微笑.jpg",
+          "黄昏海滩甜美女孩.jpg"
+        ],
+        "displayTitle": "海边黄昏少女微笑",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩表情甜美，环境为海边黄昏，符合人像/甜妹分类特征。"
+      }
+    },
+    "wallpaper/avatar/插画/创意/微信图片_2026-04-11_145936_667.jpg": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "微信图片_2026-04-11_145936_667.jpg",
+      "createdAt": "2026-04-11T07:20:09.690Z",
+      "cdnTag": "v1.2.57",
+      "size": 50010,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 926,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "avatar",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_145953_146.jpg": {
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_145953_146.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "cdnTag": "v1.2.57",
+      "size": 34245,
+      "format": "jpg",
+      "resolution": {
+        "width": 540,
+        "height": 540,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "IP形象",
+        "subcategory": "通用",
+        "primary": "avatar",
+        "secondary": "IP形象",
+        "third": "通用",
+        "keywords": [
+          "水豚噜噜",
+          "卡通",
+          "可爱"
+        ],
+        "description": "可爱的卡通水豚形象，享受着美味的面包。",
+        "filenameSuggestions": [
+          "水豚噜噜吃面包.jpg",
+          "卡通水豚与早餐.jpg"
+        ],
+        "displayTitle": "可爱水豚与美味面包",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别出该角色与水豚噜噜相似，但现有分类中未明确收录该角色。因此，归类为IP形象/通用，并建议新增分类IP形象/水豚噜噜。"
+      }
+    },
+    "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150001_639.jpg": {
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150001_639.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "cdnTag": "v1.2.57",
+      "size": 52933,
+      "format": "jpg",
+      "resolution": {
+        "width": 540,
+        "height": 540,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "插画",
+        "subcategory": "二次元",
+        "primary": "avatar",
+        "secondary": "插画",
+        "third": "二次元",
+        "keywords": [
+          "二次元",
+          "插画",
+          "呆萌"
+        ],
+        "description": "一幅呆萌的羊在办公室学习的插画，充满二次元风格。",
+        "filenameSuggestions": [
+          "呆萌小羊办公场景插画.jpg",
+          "可爱羊角色办公桌前学习.jpg"
+        ],
+        "displayTitle": "办公室里的呆萌羊角色插画",
+        "confidence": 0.9,
+        "reasoning": "该图片为动漫风格的插画，但未识别出具体动漫IP，符合插画/二次元的特征。"
+      }
+    },
+    "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150009_018.jpg": {
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150009_018.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "cdnTag": "v1.2.57",
+      "size": 94691,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1080,
+        "label": "标清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "插画",
+        "subcategory": "二次元",
+        "primary": "avatar",
+        "secondary": "插画",
+        "third": "二次元",
+        "keywords": [
+          "二次元",
+          "插画",
+          "可爱"
+        ],
+        "description": "可爱的羊仔角色插画，头戴复古电话。",
+        "filenameSuggestions": [
+          "可爱羊仔与复古电话插画.jpg",
+          "二次元风格羊电话形象.jpg"
+        ],
+        "displayTitle": "可爱羊仔与复古电话插画",
+        "confidence": 0.9,
+        "reasoning": "图片为动漫风格插画，非特定IP角色，归类为插画/二次元。"
+      }
+    },
+    "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150118_877.jpg": {
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150118_877.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "cdnTag": "v1.2.57",
+      "size": 122460,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 1280,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "表情包",
+        "subcategory": "搞怪",
+        "primary": "avatar",
+        "secondary": "表情包",
+        "third": "搞怪",
+        "keywords": [
+          "搞怪",
+          "可爱",
+          "表情包"
+        ],
+        "description": "一个可爱的羊表情包，带有搞怪和惊讶的表情。",
+        "filenameSuggestions": [
+          "搞怪羊表情.jpg",
+          "可爱羊惊讶表情.jpg"
+        ],
+        "displayTitle": "可爱羊表情包",
+        "confidence": 0.9,
+        "reasoning": "根据决策树C1，图片显示为搞怪表情，归类为表情包/搞怪。"
+      }
+    },
+    "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150129_157.jpg": {
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150129_157.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "cdnTag": "v1.2.57",
+      "size": 119542,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 1280,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "IP形象",
+        "subcategory": "通用",
+        "primary": "avatar",
+        "secondary": "IP形象",
+        "third": "通用",
+        "keywords": [
+          "动漫",
+          "小八",
+          "角色形象",
+          "闪耀表情"
+        ],
+        "description": "动漫风格的角色形象，表情夸张可爱，充满活力。",
+        "filenameSuggestions": [
+          "可爱小八动漫形象.jpg",
+          "闪耀表情小八卡通.jpg"
+        ],
+        "displayTitle": "闪耀的动漫小八形象",
+        "confidence": 0.9,
+        "reasoning": "根据图片的动漫风格和角色特征，初步判断为《以家人之名》中的小八，但现有分类体系中未明确收录该角色，因此归为IP形象/通用，并建议新增分类IP形象/小八。"
+      }
+    },
+    "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150140_005.jpg": {
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150140_005.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "cdnTag": "v1.2.57",
+      "size": 102888,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 1280,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "avatar",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150149_668.jpg": {
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150149_668.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "cdnTag": "v1.2.57",
+      "size": 103792,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 1274,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "avatar",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "avatar",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
       }
     }
   }
