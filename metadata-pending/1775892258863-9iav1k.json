@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-11T07:24:18.863Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_145953_146.jpg",
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_145953_146.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "size": 34245,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "IP形象",
+        "subcategory": "通用",
+        "primary": "avatar",
+        "secondary": "IP形象",
+        "third": "通用",
+        "keywords": [
+          "水豚噜噜",
+          "卡通",
+          "可爱"
+        ],
+        "description": "可爱的卡通水豚形象，享受着美味的面包。",
+        "filenameSuggestions": [
+          "水豚噜噜吃面包.jpg",
+          "卡通水豚与早餐.jpg"
+        ],
+        "displayTitle": "可爱水豚与美味面包",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别出该角色与水豚噜噜相似，但现有分类中未明确收录该角色。因此，归类为IP形象/通用，并建议新增分类IP形象/水豚噜噜。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150001_639.jpg",
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150001_639.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "size": 52933,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "插画",
+        "subcategory": "二次元",
+        "primary": "avatar",
+        "secondary": "插画",
+        "third": "二次元",
+        "keywords": [
+          "二次元",
+          "插画",
+          "呆萌"
+        ],
+        "description": "一幅呆萌的羊在办公室学习的插画，充满二次元风格。",
+        "filenameSuggestions": [
+          "呆萌小羊办公场景插画.jpg",
+          "可爱羊角色办公桌前学习.jpg"
+        ],
+        "displayTitle": "办公室里的呆萌羊角色插画",
+        "confidence": 0.9,
+        "reasoning": "该图片为动漫风格的插画，但未识别出具体动漫IP，符合插画/二次元的特征。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150009_018.jpg",
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150009_018.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "size": 94691,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "插画",
+        "subcategory": "二次元",
+        "primary": "avatar",
+        "secondary": "插画",
+        "third": "二次元",
+        "keywords": [
+          "二次元",
+          "插画",
+          "可爱"
+        ],
+        "description": "可爱的羊仔角色插画，头戴复古电话。",
+        "filenameSuggestions": [
+          "可爱羊仔与复古电话插画.jpg",
+          "二次元风格羊电话形象.jpg"
+        ],
+        "displayTitle": "可爱羊仔与复古电话插画",
+        "confidence": 0.9,
+        "reasoning": "图片为动漫风格插画，非特定IP角色，归类为插画/二次元。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150118_877.jpg",
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150118_877.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "size": 122460,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "表情包",
+        "subcategory": "搞怪",
+        "primary": "avatar",
+        "secondary": "表情包",
+        "third": "搞怪",
+        "keywords": [
+          "搞怪",
+          "可爱",
+          "表情包"
+        ],
+        "description": "一个可爱的羊表情包，带有搞怪和惊讶的表情。",
+        "filenameSuggestions": [
+          "搞怪羊表情.jpg",
+          "可爱羊惊讶表情.jpg"
+        ],
+        "displayTitle": "可爱羊表情包",
+        "confidence": 0.9,
+        "reasoning": "根据决策树C1，图片显示为搞怪表情，归类为表情包/搞怪。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150129_157.jpg",
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150129_157.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "size": 119542,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "IP形象",
+        "subcategory": "通用",
+        "primary": "avatar",
+        "secondary": "IP形象",
+        "third": "通用",
+        "keywords": [
+          "动漫",
+          "小八",
+          "角色形象",
+          "闪耀表情"
+        ],
+        "description": "动漫风格的角色形象，表情夸张可爱，充满活力。",
+        "filenameSuggestions": [
+          "可爱小八动漫形象.jpg",
+          "闪耀表情小八卡通.jpg"
+        ],
+        "displayTitle": "闪耀的动漫小八形象",
+        "confidence": 0.9,
+        "reasoning": "根据图片的动漫风格和角色特征，初步判断为《以家人之名》中的小八，但现有分类体系中未明确收录该角色，因此归为IP形象/通用，并建议新增分类IP形象/小八。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150140_005.jpg",
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150140_005.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "size": 102888,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "avatar",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150149_668.jpg",
+      "category": "动漫",
+      "subcategory": "喜羊羊与灰太狼",
+      "filename": "微信图片_2026-04-11_150149_668.jpg",
+      "createdAt": "2026-04-11T07:24:18.863Z",
+      "size": 103792,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "avatar",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    }
+  ]
+}
