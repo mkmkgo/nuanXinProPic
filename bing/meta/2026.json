@@ -1,7 +1,16 @@
 {
   "year": 2026,
-  "total": 101,
+  "total": 102,
   "items": [
+    {
+      "date": "2026-04-12",
+      "title": "离开地球的第一步",
+      "copyright": "城市灯光在下方划过, 拍摄于国际空间站 (© NASA)",
+      "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E4%BA%BA%E7%B1%BB%E8%88%AA%E5%A4%A9%E6%97%A5&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+      "hsh": "c4b71ecc2cdff3cf5ed78dd6f376319a",
+      "urlbase": "/th?id=OHR.SpaceTrails_ZH-CN8377463217"
+    },
     {
       "date": "2026-04-11",
       "title": "火山外衣",
@@ -912,5 +921,5 @@
       "urlbase": "/th?id=OHR.NewYearFox_ZH-CN9312618796"
     }
   ],
-  "updatedAt": "2026-04-10 17:49:23"
+  "updatedAt": "2026-04-11 17:32:25"
 }
