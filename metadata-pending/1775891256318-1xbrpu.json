@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-11T07:07:36.318Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/海贼王/微信图片_2026-03-26_161050_310.jpg",
+      "category": "动漫",
+      "subcategory": "海贼王",
+      "filename": "微信图片_2026-03-26_161050_310.jpg",
+      "createdAt": "2026-04-11T07:07:36.318Z",
+      "size": 108490,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "通用",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "通用",
+        "keywords": [
+          "动漫",
+          "草帽少年",
+          "卡通"
+        ],
+        "description": "动漫风格的草帽少年形象，呆萌可爱。",
+        "filenameSuggestions": [
+          "呆萌草帽少年动漫形象.jpg",
+          "动漫风格草帽少年卡通图.jpg"
+        ],
+        "displayTitle": "呆萌草帽少年动漫形象",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位动漫风格的少年，戴着草帽和墨镜，符合动漫角色特征，但未识别出具体IP角色，因此归类为动漫/通用。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/蜡笔小新/微信图片_2026-03-27_135040_803.jpg",
+      "category": "动漫",
+      "subcategory": "蜡笔小新",
+      "filename": "微信图片_2026-03-27_135040_803.jpg",
+      "createdAt": "2026-04-11T07:07:36.318Z",
+      "size": 76129,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "蜡笔小新",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "蜡笔小新",
+        "keywords": [
+          "蜡笔小新",
+          "动漫",
+          "卡通"
+        ],
+        "description": "蜡笔小新是一个非常受欢迎的动漫角色，以其独特的形象和搞笑的表情而闻名。",
+        "filenameSuggestions": [
+          "可爱蜡笔小新吃饭表情.jpg",
+          "蜡笔小新卡通形象.jpg"
+        ],
+        "displayTitle": "蜡笔小新吃米饭",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别出该角色为蜡笔小新，因此归类为动漫/蜡笔小新。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/蜡笔小新/微信图片_2026-03-27_135058_509.jpg",
+      "category": "动漫",
+      "subcategory": "蜡笔小新",
+      "filename": "微信图片_2026-03-27_135058_509.jpg",
+      "createdAt": "2026-04-11T07:07:36.318Z",
+      "size": 54338,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "蜡笔小新",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "蜡笔小新",
+        "keywords": [
+          "蜡笔小新",
+          "动漫",
+          "搞怪"
+        ],
+        "description": "蜡笔小新搞怪表情，动漫风格",
+        "filenameSuggestions": [
+          "搞怪蜡笔小新卡通形象.jpg",
+          "蜡笔小新搞笑表情包.jpg"
+        ],
+        "displayTitle": "蜡笔小新搞怪表情",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别出为蜡笔小新角色，归类为动漫/蜡笔小新"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152559_128.jpg",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152559_128.jpg",
+      "createdAt": "2026-04-11T07:07:36.318Z",
+      "size": 126019,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜美",
+          "少女",
+          "美食"
+        ],
+        "description": "一位甜美少女与巧克力饼干的愉快瞬间。",
+        "filenameSuggestions": [
+          "可爱少女巧克力饼干甜美瞬间.jpg",
+          "甜妹与美食的愉快时光.jpg"
+        ],
+        "displayTitle": "甜美少女与巧克力饼干",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女展现出甜美可爱、少女感、清新风格，归类为 人像/甜妹。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152612_665.jpg",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "微信图片_2026-04-09_152612_665.jpg",
+      "createdAt": "2026-04-11T07:07:36.318Z",
+      "size": 100184,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "美食",
+          "寿司"
+        ],
+        "description": "一位甜美可爱的少女享受寿司的瞬间。",
+        "filenameSuggestions": [
+          "可爱少女享受寿司时刻.jpg",
+          "甜美女孩的美食分享.jpg"
+        ],
+        "displayTitle": "甜美少女的寿司盛宴",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，识别为一位甜美可爱的少女，归类为人像/甜妹。"
+      }
+    }
+  ]
+}
