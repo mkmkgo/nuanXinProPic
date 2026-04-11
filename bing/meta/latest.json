@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-04-10 17:49:23",
+  "generatedAt": "2026-04-11 17:32:25",
   "total": 7,
   "items": [
+    {
+      "date": "2026-04-12",
+      "title": "离开地球的第一步",
+      "copyright": "城市灯光在下方划过, 拍摄于国际空间站 (© NASA)",
+      "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E4%BA%BA%E7%B1%BB%E8%88%AA%E5%A4%A9%E6%97%A5&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
+      "hsh": "c4b71ecc2cdff3cf5ed78dd6f376319a",
+      "urlbase": "/th?id=OHR.SpaceTrails_ZH-CN8377463217"
+    },
     {
       "date": "2026-04-11",
       "title": "火山外衣",
@@ -55,15 +64,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260405_CastleBlossoms%22&FORM=HPQUIZ",
       "hsh": "714897061eb82f361fbb5733d89e140a",
       "urlbase": "/th?id=OHR.CastleBlossoms_ZH-CN3064288127"
-    },
-    {
-      "date": "2026-04-05",
-      "title": "静静绽放的变化",
-      "copyright": "春天的雪钟花 (© klagyivik/Getty Images)",
-      "copyrightlink": "https://www.bing.com/search?q=%E9%9B%AA%E9%92%9F%E8%8A%B1&form=hpcapt&mkt=zh-cn",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260404_SpringSnowdrops%22&FORM=HPQUIZ",
-      "hsh": "0e04c62ff1cc802dc0ad2477031abe23",
-      "urlbase": "/th?id=OHR.SpringSnowdrops_ZH-CN2933051747"
     }
   ]
 }
