@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-11T07:05:42.353Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/人像/甜妹/640 (1).jpg",
+      "category": "人像",
+      "subcategory": "甜妹",
+      "filename": "640 (1).jpg",
+      "createdAt": "2026-04-11T07:05:42.353Z",
+      "size": 89756,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "人像",
+        "subcategory": "甜妹",
+        "primary": "avatar",
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "长发",
+          "自拍"
+        ],
+        "description": "一位甜美可爱的年轻女孩在床上自拍，微笑温暖，黑发长而顺滑。",
+        "filenameSuggestions": [
+          "甜美少女手机自拍.jpg",
+          "黑衣长发女孩微笑.jpg"
+        ],
+        "displayTitle": "甜美少女的温柔瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩面带微笑，甜美可爱，归类为人像/甜妹。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/插画/创意/640 (2).jpg",
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "640 (2).jpg",
+      "createdAt": "2026-04-11T07:05:42.353Z",
+      "size": 113109,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "avatar",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "禅意",
+          "童真",
+          "古风",
+          "插画"
+        ],
+        "description": "一幅充满禅意的儿童插画，展现静致远的美好品质。",
+        "filenameSuggestions": [
+          "禅意童真静致远插画.jpg",
+          "古风少僧侣祈祷.jpg"
+        ],
+        "displayTitle": "禅意童真：静致远",
+        "confidence": 0.9,
+        "reasoning": "根据决策树，首先判断图片为插画。图片风格为创意插画，充满禅意和古风元素，但未对应具体IP或动漫角色。故归类为插画/创意。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/插画/二次元/640 (3).jpg",
+      "category": "插画",
+      "subcategory": "二次元",
+      "filename": "640 (3).jpg",
+      "createdAt": "2026-04-11T07:05:42.353Z",
+      "size": 140837,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "插画",
+        "subcategory": "二次元",
+        "primary": "avatar",
+        "secondary": "插画",
+        "third": "二次元",
+        "keywords": [
+          "动漫",
+          "二次元",
+          "插画"
+        ],
+        "description": "一位黑发少女在温馨的房间里一边读书，一边从咖啡壶中将咖啡倒入米老鼠图案的杯子中。",
+        "filenameSuggestions": [
+          "二次元插画黑发少女.jpg",
+          "清新风格动漫女生饮咖啡.jpg"
+        ],
+        "displayTitle": "午后闲暇时光",
+        "confidence": 0.9,
+        "reasoning": "根据图片的动漫风格和二次元特征，判定为插画/二次元。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/插画/二次元/640 (4).jpg",
+      "category": "插画",
+      "subcategory": "二次元",
+      "filename": "640 (4).jpg",
+      "createdAt": "2026-04-11T07:05:42.353Z",
+      "size": 104334,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "avatar",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "avatar",
+      "relativePath": "wallpaper/avatar/动漫/哆啦A梦/640 (5).jpg",
+      "category": "动漫",
+      "subcategory": "哆啦A梦",
+      "filename": "640 (5).jpg",
+      "createdAt": "2026-04-11T07:05:42.353Z",
+      "size": 77602,
+      "format": "jpg",
+      "ai": {
+        "series": "avatar",
+        "category": "动漫",
+        "subcategory": "哆啦A梦",
+        "primary": "avatar",
+        "secondary": "动漫",
+        "third": "哆啦A梦",
+        "keywords": [
+          "哆啦A梦",
+          "动漫",
+          "星空"
+        ],
+        "description": "哆啦A梦坐在星空下，神情憨厚可爱。",
+        "filenameSuggestions": [
+          "哆啦A梦坐在星空下.jpg",
+          "蓝色机器人哆啦A梦星空背景.jpg"
+        ],
+        "displayTitle": "哆啦A梦的星空遐想",
+        "confidence": 0.9,
+        "reasoning": "图片中角色具有哆啦A梦的典型特征：蓝色机器人、红鼻子、白脸颊、额头有红色的铃铛。根据决策树A2，识别出具体动漫角色且现有目录中已有对应子类时，归入对应动漫子类。"
+      }
+    }
+  ]
+}
