@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "desktop",
-  "lastUpdated": "2026-04-11 17:32:55",
-  "count": 594,
+  "lastUpdated": "2026-04-12 13:37:14",
+  "count": 607,
   "images": {
     "wallpaper/desktop/IP形象/乌萨奇/乌撒奇-兔子-卡通.png": {
       "category": "IP形象",
@@ -17446,6 +17446,486 @@
         "displayTitle": "风吹过你的长发",
         "confidence": 0.9,
         "reasoning": "图片为一位长发女子，表情妩媚，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/desktop/动漫/插画/20260408171629.jpeg": {
+      "category": "动漫",
+      "subcategory": "插画",
+      "filename": "20260408171629.jpeg",
+      "createdAt": "2026-04-12T13:31:13.837Z",
+      "cdnTag": "v1.2.59",
+      "size": 1337218,
+      "format": "jpeg",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "动漫",
+        "subcategory": "插画",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "third": "插画",
+        "keywords": [
+          "动漫",
+          "插画",
+          "雪景",
+          "古风"
+        ],
+        "description": "动漫风格插画，展现雪中伞下动漫人物。",
+        "filenameSuggestions": [
+          "雪中红伞下的动漫情侣.jpg",
+          "日本风情动漫插画.jpg"
+        ],
+        "displayTitle": "雪中红伞下的动漫佳人",
+        "confidence": 0.9,
+        "reasoning": "图片具有动漫和插画的双重特征，未识别出具体IP，归类为动漫/插画"
+      }
+    },
+    "wallpaper/desktop/插画/国风/20260408171652.jpeg": {
+      "category": "插画",
+      "subcategory": "国风",
+      "filename": "20260408171652.jpeg",
+      "createdAt": "2026-04-12T13:31:13.837Z",
+      "cdnTag": "v1.2.59",
+      "size": 2843830,
+      "format": "jpeg",
+      "resolution": {
+        "width": 6900,
+        "height": 3974,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "国风",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "国风",
+        "keywords": [
+          "国风",
+          "插画",
+          "水乡",
+          "月夜"
+        ],
+        "description": "一幅充满中国古典韵味的夜景插画，描绘了月光下的水乡古镇。",
+        "filenameSuggestions": [
+          "月光下的古镇水乡风景.jpg",
+          "夜月小舟古建筑.jpg"
+        ],
+        "displayTitle": "月夜下的古韵水乡",
+        "confidence": 0.9,
+        "reasoning": "图片具有浓厚的中国传统风格，展现了古建筑、湖泊和月夜的意境。根据决策树B2，图片具有国风元素，且以场景为主，因此归类为插画/国风。"
+      }
+    },
+    "wallpaper/desktop/风景/海滨/20260408171714.jpeg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260408171714.jpeg",
+      "createdAt": "2026-04-12T13:31:13.837Z",
+      "cdnTag": "v1.2.59",
+      "size": 4447374,
+      "format": "jpeg",
+      "resolution": {
+        "width": 5802,
+        "height": 3264,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "desktop",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "灯塔",
+          "航海",
+          "风景"
+        ],
+        "description": "风景如画的海滨风光，白色的灯塔矗立在岩石海岸旁。",
+        "filenameSuggestions": [
+          "阳光下的海滨灯塔.jpg",
+          "岩石海岸边的白色灯塔.jpg"
+        ],
+        "displayTitle": "海天一色，灯塔守望",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅海滨风景，包含灯塔、岩石、海洋、船只和蓝天白云。根据决策树C1，图片中海滨元素明显，因此归类为风景/海滨。"
+      }
+    },
+    "wallpaper/desktop/人像/魅力/20260408171800.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "20260408171800.jpeg",
+      "createdAt": "2026-04-12T13:31:13.837Z",
+      "cdnTag": "v1.2.59",
+      "size": 7630958,
+      "format": "jpeg",
+      "resolution": {
+        "width": 8486,
+        "height": 5662,
+        "label": "8K",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "人像",
+          "闭目养神"
+        ],
+        "description": "一位黑发女子斜躺在沙发上，闭目养神，旁边放着小提琴。",
+        "filenameSuggestions": [
+          "沙发上闭目养神的长发美女.jpg",
+          "斜躺在沙发上的优雅黑发女子.jpg"
+        ],
+        "displayTitle": "琴边倦卧",
+        "confidence": 0.9,
+        "reasoning": "图片为一位黑发女子斜躺在沙发上，闭目养神，旁有小提琴，展现出成熟优雅的魅力。根据人像分类决策树A2，包含丝袜或明显身材展示，优先选魅力类。"
+      }
+    },
+    "wallpaper/desktop/插画/场景/20260408171904.png": {
+      "category": "插画",
+      "subcategory": "场景",
+      "filename": "20260408171904.png",
+      "createdAt": "2026-04-12T13:31:13.837Z",
+      "cdnTag": "v1.2.59",
+      "size": 7026550,
+      "format": "png",
+      "resolution": {
+        "width": 2912,
+        "height": 1632,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "场景",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "场景",
+        "keywords": [
+          "插画",
+          "场景",
+          "莓果",
+          "园艺"
+        ],
+        "description": "绿意盎然的草地上，莓果成熟待摘。",
+        "filenameSuggestions": [
+          "绿意莓香的夏日风景.jpg",
+          "草间采摘的悠闲时刻.jpg"
+        ],
+        "displayTitle": "夏日莓果园的惬意时光",
+        "confidence": 0.9,
+        "reasoning": "图片以插画形式展现了一个充满绿意的草地场景，中间有采摘的莓果和园艺剪刀，根据决策树B2，判定为插画/场景。"
+      }
+    },
+    "wallpaper/desktop/插画/文字/20260406200458.jpeg": {
+      "category": "插画",
+      "subcategory": "文字",
+      "filename": "20260406200458.jpeg",
+      "createdAt": "2026-04-12T13:31:13.837Z",
+      "cdnTag": "v1.2.59",
+      "size": 584983,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2160,
+        "height": 1216,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "文字",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "文字",
+        "keywords": [
+          "中国风",
+          "书法",
+          "喜庆"
+        ],
+        "description": "这是一幅充满中国风韵的喜庆插画，背景是彩带纷飞，左上角有篆刻印章，整体氛围喜庆。",
+        "filenameSuggestions": [
+          "人生小雨初晴时.jpg",
+          "初晴小雨人生.jpg"
+        ],
+        "displayTitle": "人生小雨初晴时",
+        "confidence": 0.9,
+        "reasoning": "图片主要以中国书法和篆刻元素为主，整体风格偏向传统中国美学，背景有彩带飞舞的喜庆感。根据决策树B2，图片具有中国传统元素和现代设计感，因此归类为插画/文字。"
+      }
+    },
+    "wallpaper/desktop/人像/魅力/20260406201149.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "20260406201149.jpeg",
+      "createdAt": "2026-04-12T13:31:13.837Z",
+      "cdnTag": "v1.2.59",
+      "size": 1192979,
+      "format": "jpeg",
+      "resolution": {
+        "width": 4000,
+        "height": 2250,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "美女",
+          "日落",
+          "魅力"
+        ],
+        "description": "一位黑衣黑丝美少女坐在墙头，背景是夕阳西下，云彩缭绕，氛围感十足。",
+        "filenameSuggestions": [
+          "日落下黑丝女孩坐在墙头.jpg",
+          "黑衣黑丝美少女.jpg"
+        ],
+        "displayTitle": "日落下的神秘黑丝少女",
+        "confidence": 0.9,
+        "reasoning": "图片是一张人像照片，人物穿着黑衣黑丝，姿势撩人，背景是日落景象，根据决策树A2，判定为【魅力】。"
+      }
+    },
+    "wallpaper/desktop/动漫/喜洋洋与灰太狼/20260406201250.png": {
+      "category": "动漫",
+      "subcategory": "喜洋洋与灰太狼",
+      "filename": "20260406201250.png",
+      "createdAt": "2026-04-12T13:31:13.837Z",
+      "cdnTag": "v1.2.59",
+      "size": 1602417,
+      "format": "png",
+      "resolution": {
+        "width": 5120,
+        "height": 2880,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "primary": "desktop",
+        "secondary": "动漫",
+        "category": "动漫",
+        "third": "喜洋洋与灰太狼",
+        "subcategory": "喜洋洋与灰太狼",
+        "filenameSuggestions": [
+          "好奇的懒羊羊.jpg",
+          "探头好奇的懒羊羊.jpg"
+        ],
+        "filenames": [
+          "好奇的懒羊羊.jpg",
+          "探头好奇的懒羊羊.jpg"
+        ],
+        "displayTitle": "好奇的动画懒羊羊",
+        "keywords": [
+          "动漫",
+          "懒羊羊",
+          "卡通"
+        ],
+        "description": "可爱动画懒羊羊探头好奇的表情瞬间",
+        "confidence": 0.9,
+        "reasoning": "图片为典型的动漫风格，角色设计类似卡通或动漫中的形象，且无法识别出具体作品，因此归类为动漫/二次元。"
+      }
+    },
+    "wallpaper/desktop/政治/通用/20260406201304.jpeg": {
+      "category": "政治",
+      "subcategory": "通用",
+      "filename": "20260406201304.jpeg",
+      "createdAt": "2026-04-12T13:31:13.837Z",
+      "cdnTag": "v1.2.59",
+      "size": 4176723,
+      "format": "jpeg",
+      "resolution": {
+        "width": 6000,
+        "height": 4000,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "政治",
+        "subcategory": "通用",
+        "primary": "desktop",
+        "secondary": "政治",
+        "third": "通用",
+        "keywords": [
+          "政治建筑",
+          "飞鸽",
+          "庄严",
+          "建筑景观"
+        ],
+        "description": "建筑物上的国徽和飞翔的白鸽，象征着和平与庄严。",
+        "filenameSuggestions": [
+          "庄严建筑前的飞鸽.jpg",
+          "白鸽飞翔的政治建筑景观.jpg"
+        ],
+        "displayTitle": "庄严的建筑与飞翔的白鸽",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一栋具有政治意义的建筑物上的国徽，周围有飞翔的白鸽，根据图片内容，符合政治类别下的通用子类别。"
+      }
+    },
+    "wallpaper/desktop/插画/创意/20260406201533.png": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "20260406201533.png",
+      "createdAt": "2026-04-12T13:31:13.837Z",
+      "cdnTag": "v1.2.59",
+      "size": 16241963,
+      "format": "png",
+      "resolution": {
+        "width": 5120,
+        "height": 2880,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "desktop",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "插画",
+          "创意",
+          "樱花",
+          "梦幻"
+        ],
+        "description": "樱花教室中的梦幻少女，充满创意与美感。",
+        "filenameSuggestions": [
+          "樱花梦幻少女.jpg",
+          "梦幻樱花教室.jpg"
+        ],
+        "displayTitle": "樱花绽放下的梦幻少女",
+        "confidence": 0.9,
+        "reasoning": "图片具有浓厚的插画风格，场景以教室和樱花为主题，少女形象梦幻且富有创意。根据决策树B2，图片的绘画感强，非动画截图感，且包含创意元素，因此归入插画/创意。"
+      }
+    },
+    "wallpaper/desktop/人像/魅力/2026040620060.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "2026040620060.jpeg",
+      "createdAt": "2026-04-12T13:33:22.708Z",
+      "cdnTag": "v1.2.59",
+      "size": 6250571,
+      "format": "jpeg",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "人像",
+          "都市丽人"
+        ],
+        "description": "一位穿着黑色礼服的女性躺在沙发上，背景是城市夜景。",
+        "filenameSuggestions": [
+          "身穿黑色礼服的都市丽人.jpg",
+          "高楼窗前慵懒美人.jpg"
+        ],
+        "displayTitle": "都市夜色中的优雅女郎",
+        "confidence": 0.9,
+        "reasoning": "图片中的女性穿着黑色礼服和丝袜，姿势优雅，背景是城市夜景。根据人像分类决策树中的魅力定义，强调身材曲线、成熟美、吸引力，特征包括丝袜、紧身衣、姿态撩人、夜景霓虹，判定为【魅力】。"
+      }
+    },
+    "wallpaper/desktop/人像/清新/20260408164010.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260408164010.jpeg",
+      "createdAt": "2026-04-12T13:33:22.708Z",
+      "cdnTag": "v1.2.59",
+      "size": 366871,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2560,
+        "height": 1440,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "校园",
+          "人像",
+          "双马尾"
+        ],
+        "description": "两名穿着校服的少女在教室中欢笑。",
+        "filenameSuggestions": [
+          "笑容满溢的校园双马尾少女.jpg",
+          "清新脱俗的双人校园写真.jpg"
+        ],
+        "displayTitle": "清新校园风采",
+        "confidence": 0.9,
+        "reasoning": "图片中两名少女穿着校服，表情甜美，环境为教室，整体氛围清新自然，根据人像分类决策树，判定为[人像/清新]"
+      }
+    },
+    "wallpaper/desktop/人像/魅力/20260408171457.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "20260408171457.jpeg",
+      "createdAt": "2026-04-12T13:33:22.708Z",
+      "cdnTag": "v1.2.59",
+      "size": 6713307,
+      "format": "jpeg",
+      "resolution": {
+        "width": 8000,
+        "height": 4500,
+        "label": "8K",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "人像",
+          "清新"
+        ],
+        "description": "阳光下的少女，自由而充满活力。",
+        "filenameSuggestions": [
+          "阳光下展露笑颜的少女.jpg",
+          "蓝天白云下的清新少女.jpg"
+        ],
+        "displayTitle": "夏日里的自由灵魂",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位少女在蓝天白云下，穿着轻便的服装，姿态充满魅力，根据人像分类决策树中的魅力定义，判定为[人像/魅力]"
       }
     }
   }

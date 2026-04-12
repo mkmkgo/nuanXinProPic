@@ -1,9 +1,9 @@
 {
-  "lastUpdated": 1775928778.111025,
-  "cdnTag": "v1.2.58",
+  "lastUpdated": "2026-04-12 13:37:14",
+  "cdnTag": "v1.2.59",
   "series": {
     "desktop": {
-      "count": 594,
+      "count": 607,
       "categories": [
         "动漫",
         "插画",
@@ -11,13 +11,13 @@
         "风景",
         "IP形象",
         "萌宠",
-        "游戏",
         "政治",
+        "游戏",
         "影视"
       ]
     },
     "mobile": {
-      "count": 733,
+      "count": 739,
       "categories": [
         "人像",
         "插画",
@@ -45,12 +45,21 @@
     }
   },
   "total": {
-    "desktop": 594,
-    "mobile": 733,
-    "avatar": 503,
-    "bing": 2512
+    "desktop": 607,
+    "mobile": 739,
+    "avatar": 503
   },
   "releases": [
+    {
+      "tag": "v1.2.59",
+      "date": "2026-04-12",
+      "added": {
+        "desktop": 13,
+        "mobile": 6,
+        "avatar": 0
+      },
+      "publisher": "IT-NuanxinPro"
+    },
     {
       "tag": "v1.2.58",
       "date": "2026-04-12",

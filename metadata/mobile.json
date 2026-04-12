@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-11 17:32:55",
-  "count": 733,
+  "lastUpdated": "2026-04-12 13:37:14",
+  "count": 739,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -23043,6 +23043,225 @@
         "displayTitle": "阳光下的校园悠闲时光",
         "confidence": 0.9,
         "reasoning": "图片中人物穿着校服，躺在草地上，表情放松，背景明亮且有阳光照射，根据规则A4，判定为[清新]。"
+      }
+    },
+    "wallpaper/mobile/插画/动漫/20260408163808.jpeg": {
+      "category": "插画",
+      "subcategory": "动漫",
+      "filename": "20260408163808.jpeg",
+      "createdAt": "2026-04-12T13:34:46.933Z",
+      "cdnTag": "v1.2.59",
+      "size": 858273,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1957,
+        "height": 4234,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "动漫",
+        "keywords": [
+          "初音未来",
+          "动漫",
+          "插画",
+          "甜美"
+        ],
+        "description": "初音未来与朋友们的梦幻瞬间",
+        "filenameSuggestions": [
+          "甜美初音未来与朋友们.jpg",
+          "动漫初音未来三人组.jpg"
+        ],
+        "displayTitle": "梦幻中的初音未来与朋友们",
+        "confidence": 0.9,
+        "reasoning": "根据图片的动漫风格，特别是角色的发型和服饰，判定为动漫/初音未来"
+      }
+    },
+    "wallpaper/mobile/插画/国风/20260408163824.jpeg": {
+      "category": "插画",
+      "subcategory": "国风",
+      "filename": "20260408163824.jpeg",
+      "createdAt": "2026-04-12T13:34:46.933Z",
+      "cdnTag": "v1.2.59",
+      "size": 877999,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1440,
+        "height": 3124,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "国风",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "国风",
+        "keywords": [
+          "国风",
+          "插画",
+          "樱花"
+        ],
+        "description": "三位身穿传统服饰的少女在樱花树下欢笑",
+        "filenameSuggestions": [
+          "身穿传统服饰的三位少女在樱花树下.jpg",
+          "樱花飘落的三人行.jpg"
+        ],
+        "displayTitle": "樱花下的国风少女",
+        "confidence": 0.9,
+        "reasoning": "图片中三位少女穿着具有传统中国或日本风格的服饰，背景是樱花飘落的场景，整体具有浓厚的国风和樱花季的氛围，归类为插画/国风。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/20260408164632.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "20260408164632.jpeg",
+      "createdAt": "2026-04-12T13:34:46.933Z",
+      "cdnTag": "v1.2.59",
+      "size": 146653,
+      "format": "jpeg",
+      "resolution": {
+        "width": 886,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "学生装",
+          "魅力"
+        ],
+        "description": "一位穿着黑色学生装的少女，展现优雅魅力。",
+        "filenameSuggestions": [
+          "身穿黑色制服的优雅女孩.jpg",
+          "侧坐沉思的长发美少女.jpg"
+        ],
+        "displayTitle": "黑白之间的优雅学生",
+        "confidence": 0.9,
+        "reasoning": "图片中的少女穿着学生装，但整体氛围偏向成熟和魅力，丝袜和姿势展现出魅力。"
+      }
+    },
+    "wallpaper/mobile/人像/插画/20260408165518.jpeg": {
+      "category": "人像",
+      "subcategory": "插画",
+      "filename": "20260408165518.jpeg",
+      "createdAt": "2026-04-12T13:34:46.933Z",
+      "cdnTag": "v1.2.59",
+      "size": 1226800,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1206,
+        "height": 1602,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "插画",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "插画",
+        "keywords": [
+          "漫画风格",
+          "时尚女孩",
+          "自拍"
+        ],
+        "description": "一位时尚女孩在漫画风格壁画前自拍。",
+        "filenameSuggestions": [
+          "时尚女孩与漫画壁画的自拍.jpg",
+          "黑白漫画背景下的清新少女.jpg"
+        ],
+        "displayTitle": "漫画墙前自拍的时尚女孩",
+        "confidence": 0.9,
+        "reasoning": "根据决策树，首先判断图片为主像分类。人像中无明星、非特定古装、魅力、日系或清新风格，判定为插画类。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/20260408170344.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "20260408170344.jpeg",
+      "createdAt": "2026-04-12T13:34:46.933Z",
+      "cdnTag": "v1.2.59",
+      "size": 722931,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1080,
+        "height": 2314,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "长发",
+          "纹身",
+          "时尚"
+        ],
+        "description": "一位身穿米色花裙的长发女孩，低头微笑，露出精致的纹身。",
+        "filenameSuggestions": [
+          "身穿米色花裙的长发女孩.jpg",
+          "低头微笑的黑发美女.jpg"
+        ],
+        "displayTitle": "月光下的丝语",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中的女孩身穿时尚服装，露肤面积较大，且姿态有一定撩人感觉，根据【魅力】(Glamour)的定义和特征，优先归入【魅力】分类。"
+      }
+    },
+    "wallpaper/mobile/插画/萌宠/20260408170413.jpeg": {
+      "category": "插画",
+      "subcategory": "萌宠",
+      "filename": "20260408170413.jpeg",
+      "createdAt": "2026-04-12T13:34:46.933Z",
+      "cdnTag": "v1.2.59",
+      "size": 5708580,
+      "format": "jpeg",
+      "resolution": {
+        "width": 3080,
+        "height": 5476,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "萌宠",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "萌宠",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "白色小动物",
+          "快乐玩耍"
+        ],
+        "description": "三只白色小动物在阳光下的草地上快乐玩耍。",
+        "filenameSuggestions": [
+          "快乐的三只小动物.jpg",
+          "草地上玩耍的白色小宠物.jpg"
+        ],
+        "displayTitle": "阳光下的快乐玩耍",
+        "confidence": 0.9,
+        "reasoning": "图片中为三只白色小动物，在草地上玩耍，带有插画风格，归类为插画/萌宠。"
       }
     }
   }
