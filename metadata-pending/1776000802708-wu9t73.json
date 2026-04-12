@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-12T13:33:22.708Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "IT-NuanxinPro",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/人像/魅力/2026040620060.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "2026040620060.jpeg",
+      "createdAt": "2026-04-12T13:33:22.708Z",
+      "size": 6250571,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "人像",
+          "都市丽人"
+        ],
+        "description": "一位穿着黑色礼服的女性躺在沙发上，背景是城市夜景。",
+        "filenameSuggestions": [
+          "身穿黑色礼服的都市丽人.jpg",
+          "高楼窗前慵懒美人.jpg"
+        ],
+        "displayTitle": "都市夜色中的优雅女郎",
+        "confidence": 0.9,
+        "reasoning": "图片中的女性穿着黑色礼服和丝袜，姿势优雅，背景是城市夜景。根据人像分类决策树中的魅力定义，强调身材曲线、成熟美、吸引力，特征包括丝袜、紧身衣、姿态撩人、夜景霓虹，判定为【魅力】。"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/人像/清新/20260408164010.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260408164010.jpeg",
+      "createdAt": "2026-04-12T13:33:22.708Z",
+      "size": 366871,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "校园",
+          "人像",
+          "双马尾"
+        ],
+        "description": "两名穿着校服的少女在教室中欢笑。",
+        "filenameSuggestions": [
+          "笑容满溢的校园双马尾少女.jpg",
+          "清新脱俗的双人校园写真.jpg"
+        ],
+        "displayTitle": "清新校园风采",
+        "confidence": 0.9,
+        "reasoning": "图片中两名少女穿着校服，表情甜美，环境为教室，整体氛围清新自然，根据人像分类决策树，判定为[人像/清新]"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/人像/魅力/20260408171457.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "20260408171457.jpeg",
+      "createdAt": "2026-04-12T13:33:22.708Z",
+      "size": 6713307,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "人像",
+          "清新"
+        ],
+        "description": "阳光下的少女，自由而充满活力。",
+        "filenameSuggestions": [
+          "阳光下展露笑颜的少女.jpg",
+          "蓝天白云下的清新少女.jpg"
+        ],
+        "displayTitle": "夏日里的自由灵魂",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位少女在蓝天白云下，穿着轻便的服装，姿态充满魅力，根据人像分类决策树中的魅力定义，判定为[人像/魅力]"
+      }
+    }
+  ]
+}
