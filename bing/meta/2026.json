@@ -1,7 +1,16 @@
 {
   "year": 2026,
-  "total": 102,
+  "total": 103,
   "items": [
+    {
+      "date": "2026-04-13",
+      "title": "当灯光熄灭之后",
+      "copyright": "安扎-博雷戈沙漠州立公园上空的银河, 加利福尼亚州, 美国 (© Kevin Key/Slworking)/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E9%93%B6%E6%B2%B3&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_BorregoStars%22&FORM=HPQUIZ",
+      "hsh": "821e32f99e638492aacc75da27ee5279",
+      "urlbase": "/th?id=OHR.BorregoStars_ZH-CN8915519147"
+    },
     {
       "date": "2026-04-12",
       "title": "离开地球的第一步",
@@ -921,5 +930,5 @@
       "urlbase": "/th?id=OHR.NewYearFox_ZH-CN9312618796"
     }
   ],
-  "updatedAt": "2026-04-11 17:32:25"
+  "updatedAt": "2026-04-12 17:35:51"
 }
