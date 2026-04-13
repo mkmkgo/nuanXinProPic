@@ -1,7 +1,7 @@
 {
   "version": 2,
   "series": "avatar",
-  "lastUpdated": "2026-04-13 10:59:12",
+  "lastUpdated": "2026-04-13 11:11:05",
   "count": 503,
   "images": {
     "wallpaper/avatar/IP形象/Hello Kitty/HelloKitty_好运.png": {
@@ -14594,18 +14594,24 @@
       },
       "ai": {
         "series": "avatar",
-        "category": "通用",
-        "subcategory": "",
+        "category": "人像",
+        "subcategory": "甜妹",
         "primary": "avatar",
-        "secondary": "通用",
-        "third": "",
-        "keywords": [],
-        "description": "",
-        "filenameSuggestions": [],
-        "displayTitle": null,
-        "confidence": 0,
-        "reasoning": null,
-        "error": "API 请求频率超限，请稍后再试。"
+        "secondary": "人像",
+        "third": "甜妹",
+        "keywords": [
+          "甜妹",
+          "长发",
+          "温柔"
+        ],
+        "description": "一位黑长发少女手捧饮品靠坐室内，神情安静温柔，整体氛围清新又带一点甜美感。",
+        "filenameSuggestions": [
+          "长发甜妹室内自拍.jpg",
+          "温柔少女抱饮品头像.jpg"
+        ],
+        "displayTitle": "温柔长发甜妹头像",
+        "confidence": 0.95,
+        "reasoning": "画面主体为真人少女近景头像，人物气质偏甜美清新，符合人像/甜妹分类特征，关键词可围绕长发、温柔和饮品场景补全。"
       }
     },
     "wallpaper/avatar/人像/甜妹/微信图片_2026-04-09_152648_605.jpg": {
@@ -14984,18 +14990,24 @@
       },
       "ai": {
         "series": "avatar",
-        "category": "通用",
-        "subcategory": "",
+        "category": "萌宠",
+        "subcategory": "通用",
         "primary": "avatar",
-        "secondary": "通用",
-        "third": "",
-        "keywords": [],
-        "description": "",
-        "filenameSuggestions": [],
-        "displayTitle": null,
-        "confidence": 0,
-        "reasoning": null,
-        "error": "API 请求频率超限，请稍后再试。"
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "小羊",
+          "治愈",
+          "软萌"
+        ],
+        "description": "一只圆滚滚的小羊趴在地上，线条简洁，绒毛蓬松，呈现出温柔治愈的萌系插画头像风格。",
+        "filenameSuggestions": [
+          "软萌小羊趴地头像.jpg",
+          "治愈系小羊简笔插画.jpg"
+        ],
+        "displayTitle": "软萌治愈系小羊",
+        "confidence": 0.94,
+        "reasoning": "主体是简化风格的小羊形象，重点在可爱和宠物感，虽然画法偏插画，但从站内检索和展示角度更适合补到萌宠/通用而不是通用兜底。"
       }
     },
     "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_145953_146.jpg": {
