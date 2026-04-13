@@ -1,7 +1,7 @@
 {
   "version": 2,
   "series": "desktop",
-  "lastUpdated": "2026-04-12 17:36:22",
+  "lastUpdated": "2026-04-13 10:59:12",
   "count": 607,
   "images": {
     "wallpaper/desktop/IP形象/乌萨奇/乌撒奇-兔子-卡通.png": {
@@ -17660,10 +17660,10 @@
         ],
         "description": "这是一幅充满中国风韵的喜庆插画，背景是彩带纷飞，左上角有篆刻印章，整体氛围喜庆。",
         "filenameSuggestions": [
-          "人生小雨初晴时.jpg",
+          "人生小满，胜万全。.jpg",
           "初晴小雨人生.jpg"
         ],
-        "displayTitle": "人生小雨初晴时",
+        "displayTitle": "人生小满，胜万全。",
         "confidence": 0.9,
         "reasoning": "图片主要以中国书法和篆刻元素为主，整体风格偏向传统中国美学，背景有彩带飞舞的喜庆感。根据决策树B2，图片具有中国传统元素和现代设计感，因此归类为插画/文字。"
       }
@@ -17690,17 +17690,16 @@
         "secondary": "人像",
         "third": "魅力",
         "keywords": [
-          "黑丝",
           "美女",
           "日落",
           "魅力"
         ],
-        "description": "一位黑衣黑丝美少女坐在墙头，背景是夕阳西下，云彩缭绕，氛围感十足。",
+        "description": "一位黑衣美少女坐在墙头，背景是夕阳西下，云彩缭绕，氛围感十足。",
         "filenameSuggestions": [
-          "日落下黑丝女孩坐在墙头.jpg",
-          "黑衣黑丝美少女.jpg"
+          "日落下女孩坐在墙头.jpg",
+          "黑衣美少女.jpg"
         ],
-        "displayTitle": "日落下的神秘黑丝少女",
+        "displayTitle": "日落下的神秘少女",
         "confidence": 0.9,
         "reasoning": "图片是一张人像照片，人物穿着黑衣黑丝，姿势撩人，背景是日落景象，根据决策树A2，判定为【魅力】。"
       }

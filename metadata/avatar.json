@@ -1,7 +1,7 @@
 {
   "version": 2,
   "series": "avatar",
-  "lastUpdated": "2026-04-12 17:36:22",
+  "lastUpdated": "2026-04-13 10:59:12",
   "count": 503,
   "images": {
     "wallpaper/avatar/IP形象/Hello Kitty/HelloKitty_好运.png": {
@@ -14052,18 +14052,24 @@
       },
       "ai": {
         "series": "avatar",
-        "category": "通用",
-        "subcategory": "",
+        "category": "插画",
+        "subcategory": "二次元",
         "primary": "avatar",
-        "secondary": "通用",
-        "third": "",
-        "keywords": [],
-        "description": "",
-        "filenameSuggestions": [],
-        "displayTitle": null,
-        "confidence": 0,
-        "reasoning": null,
-        "error": "API 请求频率超限，请稍后再试。"
+        "secondary": "插画",
+        "third": "二次元",
+        "keywords": [
+          "二次元",
+          "Q版少女",
+          "可爱兔耳"
+        ],
+        "description": "粉发 Q 版少女露出灿烂笑容，头顶两只兔耳小团子，整体色调明亮柔和，带有可爱治愈的二次元头像风格。",
+        "filenameSuggestions": [
+          "粉发少女兔耳头像.jpg",
+          "可爱Q版二次元少女.jpg"
+        ],
+        "displayTitle": "粉发兔耳少女头像",
+        "confidence": 0.95,
+        "reasoning": "画面主体是明显的二次元 Q 版少女头像，人物造型夸张可爱，搭配兔耳元素与粉嫩配色，符合插画/二次元分类特征。"
       }
     },
     "wallpaper/avatar/动漫/哆啦A梦/640 (5).jpg": {
@@ -15189,18 +15195,24 @@
       },
       "ai": {
         "series": "avatar",
-        "category": "通用",
-        "subcategory": "",
+        "category": "动漫",
+        "subcategory": "喜羊羊与灰太狼",
         "primary": "avatar",
-        "secondary": "通用",
-        "third": "",
-        "keywords": [],
-        "description": "",
-        "filenameSuggestions": [],
-        "displayTitle": null,
-        "confidence": 0,
-        "reasoning": null,
-        "error": "API 请求频率超限，请稍后再试。"
+        "secondary": "动漫",
+        "third": "喜羊羊与灰太狼",
+        "keywords": [
+          "喜羊羊",
+          "挥手",
+          "开心"
+        ],
+        "description": "喜羊羊露出灿烂笑容并挥手打招呼，整体画面明亮轻松，带有经典动画角色头像风格。",
+        "filenameSuggestions": [
+          "喜羊羊开心挥手.jpg",
+          "喜羊羊卡通头像.jpg"
+        ],
+        "displayTitle": "开心挥手的喜羊羊",
+        "confidence": 0.96,
+        "reasoning": "图片主体是《喜羊羊与灰太狼》中的喜羊羊角色，近景头像构图明显，适合归类为动漫/喜羊羊与灰太狼，并补全角色与动作特征关键词。"
       }
     },
     "wallpaper/avatar/动漫/喜羊羊与灰太狼/微信图片_2026-04-11_150149_668.jpg": {
@@ -15219,18 +15231,24 @@
       },
       "ai": {
         "series": "avatar",
-        "category": "通用",
-        "subcategory": "",
+        "category": "动漫",
+        "subcategory": "喜羊羊与灰太狼",
         "primary": "avatar",
-        "secondary": "通用",
-        "third": "",
-        "keywords": [],
-        "description": "",
-        "filenameSuggestions": [],
-        "displayTitle": null,
-        "confidence": 0,
-        "reasoning": null,
-        "error": "API 请求频率超限，请稍后再试。"
+        "secondary": "动漫",
+        "third": "喜羊羊与灰太狼",
+        "keywords": [
+          "灰太狼",
+          "挥手",
+          "搞怪"
+        ],
+        "description": "灰太狼张嘴微笑并抬手示意，表情夸张生动，保留了经典动画角色的搞怪和亲切感。",
+        "filenameSuggestions": [
+          "灰太狼挥手头像.jpg",
+          "灰太狼搞怪微笑.jpg"
+        ],
+        "displayTitle": "挥手打招呼的灰太狼",
+        "confidence": 0.96,
+        "reasoning": "图片主体是《喜羊羊与灰太狼》中的灰太狼角色，角色辨识度高，适合归类为动漫/喜羊羊与灰太狼，并补全表情和动作描述。"
       }
     }
   }
