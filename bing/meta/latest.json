@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-04-13 18:01:54",
+  "generatedAt": "2026-04-14 18:06:18",
   "total": 7,
   "items": [
+    {
+      "date": "2026-04-15",
+      "title": "走进这幅鲜活的画布",
+      "copyright": "光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E8%89%BA%E6%9C%AF%E6%97%A5&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_VanGoghFields%22&FORM=HPQUIZ",
+      "hsh": "0bade557bcb3291f0c5833bf525d3f99",
+      "urlbase": "/th?id=OHR.VanGoghFields_ZH-CN3495668941"
+    },
     {
       "date": "2026-04-14",
       "title": "珊瑚礁邻居",
@@ -55,15 +64,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260408_WalesWaterfall%22&FORM=HPQUIZ",
       "hsh": "941e3325116376df48714ec556da1485",
       "urlbase": "/th?id=OHR.WalesWaterfall_ZH-CN3175091833"
-    },
-    {
-      "date": "2026-04-08",
-      "title": "翡翠之城",
-      "copyright": "西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)",
-      "copyrightlink": "https://www.bing.com/search?q=%E8%A5%BF%E9%9B%85%E5%9B%BE&form=hpcapt&mkt=zh-cn",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260407_SeattleSunrise%22&FORM=HPQUIZ",
-      "hsh": "b3d4790f6038e7425caebe55c94e9d45",
-      "urlbase": "/th?id=OHR.SeattleSunrise_ZH-CN2884575647"
     }
   ]
 }

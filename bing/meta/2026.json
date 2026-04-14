@@ -1,7 +1,16 @@
 {
   "year": 2026,
-  "total": 104,
+  "total": 105,
   "items": [
+    {
+      "date": "2026-04-15",
+      "title": "走进这幅鲜活的画布",
+      "copyright": "光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E8%89%BA%E6%9C%AF%E6%97%A5&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260414_VanGoghFields%22&FORM=HPQUIZ",
+      "hsh": "0bade557bcb3291f0c5833bf525d3f99",
+      "urlbase": "/th?id=OHR.VanGoghFields_ZH-CN3495668941"
+    },
     {
       "date": "2026-04-14",
       "title": "珊瑚礁邻居",
@@ -939,5 +948,5 @@
       "urlbase": "/th?id=OHR.NewYearFox_ZH-CN9312618796"
     }
   ],
-  "updatedAt": "2026-04-13 18:01:54"
+  "updatedAt": "2026-04-14 18:06:18"
 }
