@@ -1,7 +1,16 @@
 {
   "year": 2026,
-  "total": 105,
+  "total": 106,
   "items": [
+    {
+      "date": "2026-04-16",
+      "title": "花瓣巡游",
+      "copyright": "斯卡吉特谷地郁金香花田, 华盛顿, 美国 (© Alan Majchrowicz/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E6%96%AF%E5%8D%A1%E5%90%89%E7%89%B9%E8%B0%B7&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260415_SkagitTulips%22&FORM=HPQUIZ",
+      "hsh": "8c8d09f483afa126ec0b35f48f180049",
+      "urlbase": "/th?id=OHR.SkagitTulips_ZH-CN4234324174"
+    },
     {
       "date": "2026-04-15",
       "title": "走进这幅鲜活的画布",
@@ -948,5 +957,5 @@
       "urlbase": "/th?id=OHR.NewYearFox_ZH-CN9312618796"
     }
   ],
-  "updatedAt": "2026-04-14 18:06:18"
+  "updatedAt": "2026-04-15 18:06:03"
 }
