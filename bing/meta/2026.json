@@ -1,7 +1,16 @@
 {
   "year": 2026,
-  "total": 106,
+  "total": 107,
   "items": [
+    {
+      "date": "2026-04-17",
+      "title": "蝙蝠信号：开启",
+      "copyright": "灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)",
+      "copyrightlink": "https://www.bing.com/search?q=%E8%9D%99%E8%9D%A0&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260416_FlyingFoxMom%22&FORM=HPQUIZ",
+      "hsh": "043f29f910dede498ae0d959767e3cba",
+      "urlbase": "/th?id=OHR.FlyingFoxMom_ZH-CN2913012516"
+    },
     {
       "date": "2026-04-16",
       "title": "花瓣巡游",
@@ -957,5 +966,5 @@
       "urlbase": "/th?id=OHR.NewYearFox_ZH-CN9312618796"
     }
   ],
-  "updatedAt": "2026-04-15 18:06:03"
+  "updatedAt": "2026-04-16 18:10:52"
 }
