@@ -1,0 +1,218 @@
+{
+  "version": 2,
+  "series": "video",
+  "lastUpdated": "2026-04-16 12:09:31",
+  "count": 7,
+  "images": {
+    "wallpaper/video/desktop/IP形象/HelloKitty_秋日秋千.mp4": {
+      "category": "desktop",
+      "subcategory": "IP形象",
+      "filename": "HelloKitty_秋日秋千.mp4",
+      "createdAt": "2026-04-15 13:05:07",
+      "cdnTag": "v1.1.30",
+      "size": 34555278,
+      "format": "mp4",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": 26.2,
+      "mediaType": "video",
+      "usage": "desktop",
+      "topic": "IP形象",
+      "ai": {
+        "keywords": [
+          "HelloKitty",
+          "秋日秋千"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/video/desktop/动漫/彩瞳少女特写_碎光倒影.mp4": {
+      "category": "desktop",
+      "subcategory": "动漫",
+      "filename": "彩瞳少女特写_碎光倒影.mp4",
+      "createdAt": "2026-04-15 13:05:07",
+      "cdnTag": "v1.1.30",
+      "size": 1360740,
+      "format": "mp4",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "duration": 5.2,
+      "mediaType": "video",
+      "usage": "desktop",
+      "topic": "动漫",
+      "ai": {
+        "keywords": [
+          "彩瞳少女特写",
+          "碎光倒影"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/video/desktop/动漫/窗边白发少女_晨光飞鸟.mp4": {
+      "category": "desktop",
+      "subcategory": "动漫",
+      "filename": "窗边白发少女_晨光飞鸟.mp4",
+      "createdAt": "2026-04-15 13:05:07",
+      "cdnTag": "v1.1.30",
+      "size": 1582159,
+      "format": "mp4",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "duration": 6.2,
+      "mediaType": "video",
+      "usage": "desktop",
+      "topic": "动漫",
+      "ai": {
+        "keywords": [
+          "窗边白发少女",
+          "晨光飞鸟"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/video/desktop/风景/晴空云朵笑脸_屋顶阳光.mp4": {
+      "category": "desktop",
+      "subcategory": "风景",
+      "filename": "晴空云朵笑脸_屋顶阳光.mp4",
+      "createdAt": "2026-04-15 13:05:07",
+      "cdnTag": "v1.1.30",
+      "size": 28860699,
+      "format": "mp4",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": 10,
+      "mediaType": "video",
+      "usage": "desktop",
+      "topic": "风景",
+      "ai": {
+        "keywords": [
+          "晴空云朵笑脸",
+          "屋顶阳光"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/video/desktop/风景/雨滴玻璃_紫色光影.mp4": {
+      "category": "desktop",
+      "subcategory": "风景",
+      "filename": "雨滴玻璃_紫色光影.mp4",
+      "createdAt": "2026-04-15 13:05:07",
+      "cdnTag": "v1.1.30",
+      "size": 10575104,
+      "format": "mp4",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": 27.1,
+      "mediaType": "video",
+      "usage": "desktop",
+      "topic": "风景",
+      "ai": {
+        "keywords": [
+          "雨滴玻璃",
+          "紫色光影"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/video/desktop/IP形象/水豚噜噜_聚光帅舞.mp4": {
+      "category": "desktop",
+      "subcategory": "IP形象",
+      "filename": "水豚噜噜_聚光帅舞.mp4",
+      "createdAt": "2026-04-15 13:59:49",
+      "cdnTag": "v1.1.30",
+      "size": 1498877,
+      "format": "mp4",
+      "resolution": {
+        "width": 1280,
+        "height": 720,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "duration": 15.3,
+      "mediaType": "video",
+      "usage": "desktop",
+      "topic": "IP形象",
+      "ai": {
+        "keywords": [
+          "水豚噜噜",
+          "聚光帅舞"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/video/mobile/萌宠/柴犬_贴脸卖萌.mp4": {
+      "category": "mobile",
+      "subcategory": "萌宠",
+      "filename": "柴犬_贴脸卖萌.mp4",
+      "createdAt": "2026-04-15 13:59:49",
+      "cdnTag": "v1.1.30",
+      "size": 1325360,
+      "format": "mp4",
+      "resolution": {
+        "width": 720,
+        "height": 1280,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "duration": 8.4,
+      "mediaType": "video",
+      "usage": "mobile",
+      "topic": "萌宠",
+      "ai": {
+        "keywords": [
+          "柴犬",
+          "贴脸卖萌"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    }
+  }
+}
