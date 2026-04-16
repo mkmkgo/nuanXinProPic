@@ -130,6 +130,7 @@ const CONFIG = {
 
   // 支持的图片格式
   IMAGE_EXTENSIONS: ['.jpg', '.jpeg', '.png', '.gif', '.webp'],
+  VIDEO_EXTENSIONS: ['.mp4', '.webm', '.mov', '.m4v'],
 
   // 输出路径
   OUTPUT_DIR: path.resolve(__dirname, '../public/data'),
@@ -166,6 +167,18 @@ const CONFIG = {
       outputFile: 'avatar.json',
       hasPreview: false,
     },
+    video: {
+      id: 'video',
+      name: '动态壁纸',
+      wallpaperDir: 'wallpaper/video',
+      thumbnailDir: 'thumbnail/video',
+      previewDir: 'preview/video',
+      outputFile: 'video.json',
+      hasPreview: true,
+      isVideo: true,
+      mediaExtensions: ['.mp4', '.webm', '.mov', '.m4v'],
+      keepGenericSubcategory: true,
+    },
     bing: {
       id: 'bing',
       name: '每日Bing',
@@ -180,8 +193,10 @@ const CONFIG = {
  * 递归扫描目录获取所有图片文件
  * 支持二级分类文件夹结构：wallpaper/desktop/游戏/原神/xxx.jpg
  */
-function scanDirectoryRecursive(dir, baseDir = dir) {
+function scanDirectoryRecursive(dir, baseDir = dir, options = {}) {
   const files = []
+  const supportedExtensions = options.supportedExtensions || CONFIG.IMAGE_EXTENSIONS
+  const keepGenericSubcategory = options.keepGenericSubcategory === true
 
   if (!fs.existsSync(dir)) {
     return files
@@ -193,11 +208,11 @@ function scanDirectoryRecursive(dir, baseDir = dir) {
     const fullPath = path.join(dir, entry.name)
 
     if (entry.isDirectory()) {
-      files.push(...scanDirectoryRecursive(fullPath, baseDir))
+      files.push(...scanDirectoryRecursive(fullPath, baseDir, options))
     }
     else if (entry.isFile()) {
       const ext = path.extname(entry.name).toLowerCase()
-      if (CONFIG.IMAGE_EXTENSIONS.includes(ext)) {
+      if (supportedExtensions.includes(ext)) {
         const stats = fs.statSync(fullPath)
         const relativePath = path.relative(baseDir, fullPath)
         const pathParts = relativePath.split(path.sep)
@@ -209,8 +224,8 @@ function scanDirectoryRecursive(dir, baseDir = dir) {
           // 二级分类结构: L1/L2/filename.jpg
           category = pathParts[0]
           const l2 = pathParts[1]
-          // "通用" 表示没有二级分类，设为 null
-          subcategory = l2 === '通用' ? null : l2
+          // 图片系列保留旧行为，视频系列固定保留“通用”二级分类
+          subcategory = l2 === '通用' && !keepGenericSubcategory ? null : l2
         }
         else if (pathParts.length === 2) {
           // 一级分类结构: L1/filename.jpg
@@ -291,6 +306,43 @@ function getImageDimensions(filePath) {
   return null
 }
 
+function getVideoMetadata(filePath) {
+  if (process.env.SKIP_VIDEO_METADATA === 'true') {
+    return null
+  }
+
+  try {
+    const result = execSync(`ffprobe -v quiet -print_format json -show_format -show_streams "${filePath}"`, {
+      encoding: 'utf-8',
+      stdio: ['pipe', 'pipe', 'ignore'],
+    }).trim()
+
+    if (!result) {
+      return null
+    }
+
+    const parsed = JSON.parse(result)
+    const videoStream = Array.isArray(parsed.streams)
+      ? parsed.streams.find(stream => stream.codec_type === 'video')
+      : null
+
+    const width = Number(videoStream?.width || 0)
+    const height = Number(videoStream?.height || 0)
+    const durationRaw = Number(parsed.format?.duration || videoStream?.duration || 0)
+    const sizeRaw = Number(parsed.format?.size || 0)
+
+    return {
+      width: width > 0 ? width : null,
+      height: height > 0 ? height : null,
+      duration: Number.isFinite(durationRaw) && durationRaw > 0 ? Number(durationRaw.toFixed(1)) : null,
+      size: Number.isFinite(sizeRaw) && sizeRaw > 0 ? sizeRaw : null,
+    }
+  }
+  catch {
+    return null
+  }
+}
+
 /**
  * 根据分辨率生成标签（与前端完全一致）
  */
@@ -345,6 +397,28 @@ function buildImageUrl(relativePath, baseDir) {
   return `/${baseDir}/${encodedPath.replace(/%2F/g, '/')}`
 }
 
+function resolveDerivedAssetPath(rootDir, baseDir, relativeDir, filenameNoExt, preferredExt = '.webp') {
+  const extensionCandidates = [preferredExt, '.png', '.jpg', '.jpeg']
+
+  for (const ext of extensionCandidates) {
+    const relativeAssetPath = relativeDir
+      ? `${relativeDir}/${filenameNoExt}${ext}`
+      : `${filenameNoExt}${ext}`
+    const absoluteAssetPath = path.join(rootDir, baseDir, relativeAssetPath)
+
+    if (fs.existsSync(absoluteAssetPath)) {
+      return buildImageUrl(relativeAssetPath, baseDir)
+    }
+  }
+
+  return buildImageUrl(
+    relativeDir
+      ? `${relativeDir}/${filenameNoExt}${preferredExt}`
+      : `${filenameNoExt}${preferredExt}`,
+    baseDir,
+  )
+}
+
 /**
  * 获取当前最新的 Git tag
  */
@@ -377,6 +451,8 @@ function generateWallpaperData(files, seriesConfig) {
     // 分类
     const category = file.category || extractCategoryFromFilename(file.name)
     const subcategory = file.subcategory || null
+    const usage = seriesConfig.isVideo ? category : null
+    const topic = seriesConfig.isVideo ? (subcategory || '通用') : null
 
     // 构建路径
     const imagePath = buildImageUrl(file.relativePath, seriesConfig.wallpaperDir)
@@ -384,22 +460,32 @@ function generateWallpaperData(files, seriesConfig) {
     let thumbnailPath, previewPath
     if (isInSubfolder) {
       const subdir = pathParts.slice(0, -1).join('/')
-      thumbnailPath = buildImageUrl(`${subdir}/${filenameNoExt}.webp`, seriesConfig.thumbnailDir)
+      thumbnailPath = resolveDerivedAssetPath(CONFIG.ROOT_DIR, seriesConfig.thumbnailDir, subdir, filenameNoExt)
       previewPath = seriesConfig.hasPreview
-        ? buildImageUrl(`${subdir}/${filenameNoExt}.webp`, seriesConfig.previewDir)
+        ? resolveDerivedAssetPath(CONFIG.ROOT_DIR, seriesConfig.previewDir, subdir, filenameNoExt)
         : null
     }
     else {
-      thumbnailPath = buildImageUrl(`${filenameNoExt}.webp`, seriesConfig.thumbnailDir)
+      thumbnailPath = resolveDerivedAssetPath(CONFIG.ROOT_DIR, seriesConfig.thumbnailDir, '', filenameNoExt)
       previewPath = seriesConfig.hasPreview
-        ? buildImageUrl(`${filenameNoExt}.webp`, seriesConfig.previewDir)
+        ? resolveDerivedAssetPath(CONFIG.ROOT_DIR, seriesConfig.previewDir, '', filenameNoExt)
         : null
     }
 
     // 获取分辨率
     let resolution = null
-    const dimensions = getImageDimensions(file.fullPath)
-    if (dimensions) {
+    let duration = null
+    let mediaSize = file.size
+    const dimensions = seriesConfig.isVideo
+      ? getVideoMetadata(file.fullPath)
+      : getImageDimensions(file.fullPath)
+
+    if (seriesConfig.isVideo && dimensions) {
+      duration = dimensions.duration
+      mediaSize = dimensions.size || mediaSize
+    }
+
+    if (dimensions?.width && dimensions?.height) {
       const labelInfo = getResolutionLabel(dimensions.width, dimensions.height)
       resolution = {
         width: dimensions.width,
@@ -439,7 +525,7 @@ function generateWallpaperData(files, seriesConfig) {
       category,
       path: imagePath,
       thumbnailPath,
-      size: file.size,
+      size: mediaSize,
       format: ext,
       createdAt,
       cdnTag, // 新增: 每张图片的专属 CDN tag
@@ -451,10 +537,26 @@ function generateWallpaperData(files, seriesConfig) {
       wallpaperData.subcategory = subcategory
     }
 
+    if (seriesConfig.isVideo) {
+      wallpaperData.mediaType = 'video'
+      wallpaperData.usage = usage
+      wallpaperData.topic = topic
+      wallpaperData.subcategory = topic
+      if (duration !== null) {
+        wallpaperData.duration = duration
+      }
+    }
+
     // 自动生成 tags（与前端一致）
     const autoTags = [category]
     if (subcategory) {
       autoTags.push(subcategory)
+    }
+    if (seriesConfig.isVideo && usage && !autoTags.includes(usage)) {
+      autoTags.push(usage)
+    }
+    if (seriesConfig.isVideo && topic && !autoTags.includes(topic)) {
+      autoTags.push(topic)
     }
     wallpaperData.tags = autoTags
 
@@ -650,8 +752,11 @@ async function processSeries(seriesId, seriesConfig) {
   }
 
   // 扫描目录
-  const files = scanDirectoryRecursive(wallpaperDir)
-  console.log(`  Found ${files.length} image files`)
+  const files = scanDirectoryRecursive(wallpaperDir, wallpaperDir, {
+    supportedExtensions: seriesConfig.mediaExtensions || CONFIG.IMAGE_EXTENSIONS,
+    keepGenericSubcategory: seriesConfig.keepGenericSubcategory === true,
+  })
+  console.log(`  Found ${files.length} ${seriesConfig.isVideo ? 'media' : 'image'} files`)
 
   if (files.length === 0) {
     return { seriesId, count: 0, wallpapers: [], newTimestamps: new Map() }
@@ -792,21 +897,24 @@ async function main() {
     console.log(`Output: ${CONFIG.OUTPUT_DIR}`)
 
     // 格式统计
-    const formatStats = { jpg: 0, png: 0 }
+    const formatStats = { jpg: 0, png: 0, video: 0 }
     results.forEach((result) => {
       result.wallpapers.forEach((w) => {
         if (w.format === 'JPG' || w.format === 'JPEG')
           formatStats.jpg++
         else if (w.format === 'PNG')
           formatStats.png++
+        else if (w.mediaType === 'video')
+          formatStats.video++
       })
     })
 
-    if (formatStats.jpg > 0 || formatStats.png > 0) {
+    if (formatStats.jpg > 0 || formatStats.png > 0 || formatStats.video > 0) {
       console.log('')
       console.log('Format Statistics:')
       console.log(`  JPG: ${formatStats.jpg}`)
       console.log(`  PNG: ${formatStats.png}`)
+      console.log(`  VIDEO: ${formatStats.video}`)
     }
 
     console.log('')

@@ -108,6 +108,42 @@ function getImageDimensions(filePath) {
   return null
 }
 
+function getVideoMetadata(filePath) {
+  if (!fs.existsSync(filePath)) {
+    return null
+  }
+
+  try {
+    const result = execSync(`ffprobe -v quiet -print_format json -show_format -show_streams "${filePath}"`, {
+      encoding: 'utf-8',
+      stdio: ['pipe', 'pipe', 'ignore'],
+    }).trim()
+
+    if (!result) {
+      return null
+    }
+
+    const parsed = JSON.parse(result)
+    const videoStream = Array.isArray(parsed.streams)
+      ? parsed.streams.find(stream => stream.codec_type === 'video')
+      : null
+
+    const width = Number(videoStream?.width || 0)
+    const height = Number(videoStream?.height || 0)
+    const duration = Number(parsed.format?.duration || videoStream?.duration || 0)
+    const size = Number(parsed.format?.size || 0)
+
+    return {
+      width: width > 0 ? width : null,
+      height: height > 0 ? height : null,
+      duration: Number.isFinite(duration) && duration > 0 ? Number(duration.toFixed(1)) : null,
+      size: Number.isFinite(size) && size > 0 ? size : 0,
+    }
+  } catch {
+    return null
+  }
+}
+
 // 根据分辨率生成标签信息
 function getResolutionLabel(width, height) {
   const maxDim = Math.max(width, height)
@@ -133,23 +169,22 @@ function getResolutionLabel(width, height) {
   }
 }
 
-// 获取图片的分辨率信息（包含标签）和文件大小
-function getImageInfo(relativePath) {
+// 获取媒体资源信息（分辨率、时长、文件大小）
+function getMediaInfo(relativePath) {
   const filePath = path.join(imageRepoRoot, relativePath)
 
   if (!fs.existsSync(filePath)) {
-    return { resolution: null, size: 0 }
+    return { resolution: null, size: 0, duration: null, mediaType: 'image' }
   }
 
-  // 读取文件大小
+  const extension = path.extname(relativePath).toLowerCase()
+  const isVideo = ['.mp4', '.webm', '.mov', '.m4v'].includes(extension)
   const stats = fs.statSync(filePath)
   const size = stats.size
-
-  // 计算分辨率
-  const dimensions = getImageDimensions(filePath)
+  const dimensions = isVideo ? getVideoMetadata(filePath) : getImageDimensions(filePath)
 
   let resolution = null
-  if (dimensions) {
+  if (dimensions?.width && dimensions?.height) {
     const labelInfo = getResolutionLabel(dimensions.width, dimensions.height)
     resolution = {
       width: dimensions.width,
@@ -159,7 +194,12 @@ function getImageInfo(relativePath) {
     }
   }
 
-  return { resolution, size }
+  return {
+    resolution,
+    size: dimensions?.size || size,
+    duration: isVideo ? (dimensions?.duration || null) : null,
+    mediaType: isVideo ? 'video' : 'image',
+  }
 }
 
 function findActualImagePath(expectedRelativePath) {
@@ -231,6 +271,27 @@ function reconcileMetadataImagePath(relativePath, imageData) {
   }
 }
 
+function resolveDerivedAssetPath(projectRoot, series, subdir, filenameNoExt, type) {
+  const extensionCandidates = ['.webp', '.png', '.jpg', '.jpeg']
+
+  for (const ext of extensionCandidates) {
+    const relativeAssetPath = subdir
+      ? `${type}/${series}/${subdir}/${filenameNoExt}${ext}`
+      : `${type}/${series}/${filenameNoExt}${ext}`
+    const absoluteAssetPath = path.join(projectRoot, relativeAssetPath)
+
+    if (fs.existsSync(absoluteAssetPath)) {
+      return `/${relativeAssetPath}`.replace(/\\/g, '/')
+    }
+  }
+
+  const fallbackPath = subdir
+    ? `${type}/${series}/${subdir}/${filenameNoExt}.webp`
+    : `${type}/${series}/${filenameNoExt}.webp`
+
+  return `/${fallbackPath}`.replace(/\\/g, '/')
+}
+
 // 读取或初始化 metadata JSON
 function loadMetadata(filePath) {
   if (fs.existsSync(filePath)) {
@@ -278,18 +339,27 @@ function processPendingFile(pendingFile, metadataMap, newTag) {
     
     if (!existingImage) {
       // 图片不存在，创建新记录
-      // 获取图片信息（分辨率 + 文件大小）
-      let imageInfo = { resolution: image.resolution, size: image.size || 0 }
+      // 获取资源信息（分辨率 + 文件大小 + 视频时长）
+      let imageInfo = {
+        resolution: image.resolution,
+        size: image.size || 0,
+        duration: image.duration || null,
+        mediaType: image.mediaType || 'image',
+      }
 
       // 如果 pending 数据中没有提供完整信息，从文件读取
-      if (!imageInfo.resolution || imageInfo.size === 0) {
-        const fileInfo = getImageInfo(key)
+      if (!imageInfo.resolution || imageInfo.size === 0 || (imageInfo.mediaType === 'video' && imageInfo.duration == null)) {
+        const fileInfo = getMediaInfo(key)
         if (!imageInfo.resolution) {
           imageInfo.resolution = fileInfo.resolution
         }
         if (imageInfo.size === 0) {
           imageInfo.size = fileInfo.size
         }
+        if (imageInfo.duration == null) {
+          imageInfo.duration = fileInfo.duration
+        }
+        imageInfo.mediaType = imageInfo.mediaType || fileInfo.mediaType
       }
 
       // 处理 AI 元数据：从 filename 提取 displayTitle
@@ -321,12 +391,16 @@ function processPendingFile(pendingFile, metadataMap, newTag) {
       metadataMap[series].images[key] = {
         category: image.category,
         subcategory: image.subcategory || '',
+        usage: image.usage || (series === 'video' ? image.category : undefined),
+        topic: image.topic || (series === 'video' ? (image.subcategory || '通用') : undefined),
         filename: image.filename,
         createdAt: image.createdAt,
         cdnTag: newTag,
         size: imageInfo.size,
         format: image.format || 'jpg',
         resolution: imageInfo.resolution,
+        duration: imageInfo.duration,
+        mediaType: imageInfo.mediaType || 'image',
         ai: aiData
       }
       processed++
@@ -418,14 +492,17 @@ function generateFrontendData(metadataMap, dataDir, newTag) {
       // 构建路径（保持与 generate-data.js 一致）
       const imagePath = `/${parts.join('/')}/${encodeURIComponent(filename).replace(/%2F/g, '/')}`
       const subdir = pathParts.length > 0 ? pathParts.join('/') : ''
+      const mediaType = data.mediaType || (series === 'video' ? 'video' : 'image')
+      const usage = series === 'video' ? (data.usage || pathParts[0] || data.category || 'desktop') : undefined
+      const topic = series === 'video' ? (data.topic || pathParts[1] || data.subcategory || '通用') : undefined
 
       let thumbnailPath, previewPath
       if (subdir) {
-        thumbnailPath = `/thumbnail/${series}/${subdir}/${encodeURIComponent(filenameNoExt)}.webp`
-        previewPath = series !== 'avatar' ? `/preview/${series}/${subdir}/${encodeURIComponent(filenameNoExt)}.webp` : null
+        thumbnailPath = resolveDerivedAssetPath(imageRepoRoot, series, subdir, filenameNoExt, 'thumbnail')
+        previewPath = series !== 'avatar' ? resolveDerivedAssetPath(imageRepoRoot, series, subdir, filenameNoExt, 'preview') : null
       } else {
-        thumbnailPath = `/thumbnail/${series}/${encodeURIComponent(filenameNoExt)}.webp`
-        previewPath = series !== 'avatar' ? `/preview/${series}/${encodeURIComponent(filenameNoExt)}.webp` : null
+        thumbnailPath = resolveDerivedAssetPath(imageRepoRoot, series, '', filenameNoExt, 'thumbnail')
+        previewPath = series !== 'avatar' ? resolveDerivedAssetPath(imageRepoRoot, series, '', filenameNoExt, 'preview') : null
       }
 
       const wallpaperData = {
@@ -439,6 +516,7 @@ function generateFrontendData(metadataMap, dataDir, newTag) {
         createdAt: data.createdAt,
         sha: '',
         cdnTag: data.cdnTag || newTag,
+        mediaType,
         // AI 扩展字段
         keywords: data.ai?.keywords || [],
         description: data.ai?.description || '',
@@ -463,6 +541,13 @@ function generateFrontendData(metadataMap, dataDir, newTag) {
       // 添加二级分类（仅当存在时）
       if (data.subcategory) {
         wallpaperData.subcategory = data.subcategory
+      }
+
+      if (series === 'video') {
+        wallpaperData.usage = usage
+        wallpaperData.topic = topic || '通用'
+        wallpaperData.subcategory = topic || '通用'
+        wallpaperData.duration = data.duration || null
       }
 
       // 添加预览图路径（avatar 不需要）
@@ -608,6 +693,7 @@ function generateFrontendData(metadataMap, dataDir, newTag) {
       desktop: stats.series.desktop?.count || 0,
       mobile: stats.series.mobile?.count || 0,
       avatar: stats.series.avatar?.count || 0,
+      video: stats.series.video?.count || 0,
       bing: existingStats.total?.bing || 0  // bing 不在此脚本处理，保留原值
     },
     releases: existingStats.releases || []
@@ -661,7 +747,8 @@ async function main() {
   const metadataMap = {
     desktop: loadMetadata(path.join(metadataDir, 'desktop.json')),
     mobile: loadMetadata(path.join(metadataDir, 'mobile.json')),
-    avatar: loadMetadata(path.join(metadataDir, 'avatar.json'))
+    avatar: loadMetadata(path.join(metadataDir, 'avatar.json')),
+    video: loadMetadata(path.join(metadataDir, 'video.json'))
   }
 
   let totalProcessed = 0
@@ -713,15 +800,15 @@ async function main() {
   console.log()
 
   // ========================================
-  // 步骤 2: 从 timestamps-backup-all.txt 同步缺失的图片
+  // 步骤 2: 从 timestamps-backup-all.txt 同步缺失的媒体资源
   // ========================================
-  // 这会处理通过 Gitee 同步或其他方式直接添加的图片
-  console.log('步骤 2: 从 timestamps 同步缺失的图片...')
+  // 这会处理通过 Gitee 同步或其他方式直接添加的资源
+  console.log('步骤 2: 从 timestamps 同步缺失的资源...')
   const syncedFromTimestamps = syncFromTimestamps(timestampsFile, metadataMap, newTag)
   totalProcessed += syncedFromTimestamps
-  console.log(`  从 timestamps 同步了 ${syncedFromTimestamps} 张图片`)
+  console.log(`  从 timestamps 同步了 ${syncedFromTimestamps} 个资源`)
   console.log()
-  console.log(`共处理 ${totalProcessed} 张图片`)
+  console.log(`共处理 ${totalProcessed} 个资源`)
 
   // 保存更新后的 metadata 并生成前端数据
   // 条件：有新增图片 OR 强制重新生成
@@ -750,7 +837,7 @@ async function main() {
 
   console.log()
   console.log('========================================')
-  console.log(`处理完成! 共处理 ${totalProcessed} 张图片`)
+  console.log(`处理完成! 共处理 ${totalProcessed} 个资源`)
   console.log('========================================')
 }
 
@@ -767,11 +854,27 @@ function syncFromTimestamps(timestampsFile, metadataMap, defaultTag) {
   let synced = 0
 
   for (const line of lines) {
-    // 格式: series|relativePath|timestamp|cdnTag
+    // 格式兼容：
+    // series|relativePath|timestamp|cdnTag
+    // series|relativePath|timestamp
+    // relativePath|timestamp (历史桌面图)
     const parts = line.split('|')
-    if (parts.length < 4) continue
+    if (parts.length < 2) continue
 
-    const [series, relativePath, timestamp, cdnTag] = parts
+    let series = 'desktop'
+    let relativePath = ''
+    let timestamp = ''
+    let cdnTag = defaultTag
+
+    if (parts.length >= 4) {
+      [series, relativePath, timestamp, cdnTag] = parts
+    }
+    else if (parts.length === 3) {
+      [series, relativePath, timestamp] = parts
+    }
+    else if (parts.length === 2) {
+      [relativePath, timestamp] = parts
+    }
 
     // 只处理已知的 series
     if (!metadataMap[series]) continue
@@ -787,14 +890,15 @@ function syncFromTimestamps(timestampsFile, metadataMap, defaultTag) {
     const filename = pathParts.pop()
     const category = pathParts[0] || '未分类'
     const subcategory = pathParts.length > 1 ? pathParts[1] : ''
-    // 如果 subcategory 是 "通用"，设为空
-    const finalSubcategory = subcategory === '通用' ? '' : subcategory
+    const isVideoSeries = series === 'video'
+    // 图片系列沿用旧行为，视频系列保留“通用”二级目录
+    const finalSubcategory = subcategory === '通用' && !isVideoSeries ? '' : subcategory
 
     // 从文件名提取关键词
     const keywords = extractKeywordsFromFilename(filename)
 
-    // 获取图片信息（分辨率 + 文件大小）
-    const imageInfo = getImageInfo(key)
+    // 获取资源信息（分辨率 + 文件大小 + 视频时长）
+    const imageInfo = getMediaInfo(key)
 
     // 创建 metadata 记录
     metadataMap[series].images[key] = {
@@ -806,6 +910,14 @@ function syncFromTimestamps(timestampsFile, metadataMap, defaultTag) {
       size: imageInfo.size,
       format: filename.split('.').pop()?.toLowerCase() || 'jpg',
       resolution: imageInfo.resolution,
+      duration: imageInfo.duration,
+      mediaType: imageInfo.mediaType,
+      ...(isVideoSeries
+        ? {
+            usage: category,
+            topic: finalSubcategory || '通用',
+          }
+        : {}),
       ai: {
         keywords: keywords,
         description: '',
@@ -831,7 +943,7 @@ function extractKeywordsFromFilename(filename) {
     .map(s => s.trim())
     .filter(s => s.length > 0 && s.length < 20)
     .filter(s => !/^\d+$/.test(s))
-    .filter(s => !/^(jpg|png|webp|gif|jpeg)$/i.test(s))
+    .filter(s => !/^(jpg|png|webp|gif|jpeg|mp4|webm|mov|m4v)$/i.test(s))
   return [...new Set(parts)]
 }
 
