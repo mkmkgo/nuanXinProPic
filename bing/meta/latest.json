@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-04-16 18:10:52",
+  "generatedAt": "2026-04-17 17:51:40",
   "total": 7,
   "items": [
+    {
+      "date": "2026-04-18",
+      "title": "未完成巨像的静默",
+      "copyright": "摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)",
+      "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%E6%97%A5&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260417_MaoiStatues%22&FORM=HPQUIZ",
+      "hsh": "c707952097721367ddb1ab8b6d323373",
+      "urlbase": "/th?id=OHR.MaoiStatues_ZH-CN3219447748"
+    },
     {
       "date": "2026-04-17",
       "title": "蝙蝠信号：开启",
@@ -55,15 +64,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
       "hsh": "c4b71ecc2cdff3cf5ed78dd6f376319a",
       "urlbase": "/th?id=OHR.SpaceTrails_ZH-CN8377463217"
-    },
-    {
-      "date": "2026-04-11",
-      "title": "火山外衣",
-      "copyright": "帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙 (© Gavin Hellier/Getty Images)",
-      "copyrightlink": "https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B2%9B%E5%85%B0%E8%90%A8%E7%BD%97%E7%89%B9%E5%B2%9B&form=hpcapt&mkt=zh-cn",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260410_PlayaPapagayo%22&FORM=HPQUIZ",
-      "hsh": "83de4c1b872b717cbcfa04498d4718ce",
-      "urlbase": "/th?id=OHR.PlayaPapagayo_ZH-CN7708804019"
     }
   ]
 }
