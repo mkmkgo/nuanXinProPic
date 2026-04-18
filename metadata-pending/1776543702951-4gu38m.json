@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-18T20:21:42.951Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13392640562708212.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13392640562708212.jpeg",
+      "createdAt": "2026-04-18T20:21:42.951Z",
+      "size": 1574093,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "长发",
+          "少女"
+        ],
+        "description": "清新自然的长发少女写真",
+        "filenameSuggestions": [
+          "身穿白色上衣的清新少女.jpg",
+          "长发飘逸的优雅女孩.jpg"
+        ],
+        "displayTitle": "清新脱俗的长发少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物面部干净，表情甜美，背景简洁，整体呈现明亮、治愈的氛围，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13392640628576132.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13392640628576132.jpeg",
+      "createdAt": "2026-04-18T20:21:42.951Z",
+      "size": 1547600,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "黑丝",
+          "诱惑"
+        ],
+        "description": "一位黑发黑衣黑框眼镜的女孩，坐在杂乱的房间中，展现一种沉默的诱惑力。",
+        "filenameSuggestions": [
+          "黑衣黑发黑框眼镜诱惑少.jpg",
+          "沉默的黑白魅力.jpg"
+        ],
+        "displayTitle": "黑白魅力，沉默的诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中人物未露脸，但强调了身材和姿势，符合【氛围感】(Atmosphere)的特征。"
+      }
+    }
+  ]
+}
