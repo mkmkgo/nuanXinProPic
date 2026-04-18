@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-18 18:40:30",
-  "count": 739,
+  "lastUpdated": "2026-04-18 19:28:25",
+  "count": 741,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -23262,6 +23262,80 @@
         "displayTitle": "阳光下的快乐玩耍",
         "confidence": 0.9,
         "reasoning": "图片中为三只白色小动物，在草地上玩耍，带有插画风格，归类为插画/萌宠。"
+      }
+    },
+    "wallpaper/mobile/人像/萌宠/13392639982870693.jpeg": {
+      "category": "人像",
+      "subcategory": "萌宠",
+      "filename": "13392639982870693.jpeg",
+      "createdAt": "2026-04-18T19:23:26.393Z",
+      "cdnTag": "v1.2.68",
+      "size": 1227586,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1728,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "萌宠",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "萌宠",
+        "keywords": [
+          "甜美",
+          "玩偶",
+          "阳光",
+          "温柔"
+        ],
+        "description": "女孩与白色玩偶在阳光下温柔相伴",
+        "filenameSuggestions": [
+          "白色玩偶陪伴的甜美女孩.jpg",
+          "温柔阳光下的小玩偶故事.jpg"
+        ],
+        "displayTitle": "阳光下的温柔玩偶时光",
+        "confidence": 0.9,
+        "reasoning": "图片中女孩与玩偶的亲密接触，氛围温暖甜美，符合萌宠分类特征"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13392640551191058.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13392640551191058.jpeg",
+      "createdAt": "2026-04-18T19:23:26.393Z",
+      "cdnTag": "v1.2.68",
+      "size": 952798,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1729,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝袜",
+          "黑丝",
+          "诱惑"
+        ],
+        "description": "一位穿着白色心形连衣裙的长发女孩，散发着优雅与魅力。",
+        "filenameSuggestions": [
+          "身穿白色心形连衣裙的长发女孩.jpg",
+          "夜色中优雅的白衣少女.jpg"
+        ],
+        "displayTitle": "月光下的诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着具有魅力的服装，表现出典型的成熟美和吸引力，符合【魅力】分类的定义。"
       }
     }
   }
