@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-18 19:28:25",
-  "cdnTag": "v1.2.68",
+  "lastUpdated": "2026-04-18 20:24:24",
+  "cdnTag": "v1.2.69",
   "series": {
     "desktop": {
       "count": 607,
@@ -17,7 +17,7 @@
       ]
     },
     "mobile": {
-      "count": 741,
+      "count": 743,
       "categories": [
         "人像",
         "插画",
@@ -46,10 +46,20 @@
   },
   "total": {
     "desktop": 607,
-    "mobile": 741,
+    "mobile": 743,
     "avatar": 503
   },
   "releases": [
+    {
+      "tag": "v1.2.69",
+      "date": "2026-04-19",
+      "added": {
+        "desktop": 0,
+        "mobile": 2,
+        "avatar": 0
+      },
+      "publisher": "mkmkgo"
+    },
     {
       "tag": "v1.2.68",
       "date": "2026-04-19",
