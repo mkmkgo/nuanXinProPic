@@ -1,7 +1,16 @@
 {
   "year": 2026,
-  "total": 108,
+  "total": 109,
   "items": [
+    {
+      "date": "2026-04-19",
+      "title": "潮汐留下的印记",
+      "copyright": "镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E8%A5%BF%E5%B7%B4%E4%BC%8A%E4%BA%9A%E5%B7%9E&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260418_TranBA%22&FORM=HPQUIZ",
+      "hsh": "cae9ebaf7277159fcab1dd417b7c58fb",
+      "urlbase": "/th?id=OHR.TranBA_ZH-CN3467060262"
+    },
     {
       "date": "2026-04-18",
       "title": "未完成巨像的静默",
@@ -975,5 +984,5 @@
       "urlbase": "/th?id=OHR.NewYearFox_ZH-CN9312618796"
     }
   ],
-  "updatedAt": "2026-04-17 17:51:40"
+  "updatedAt": "2026-04-18 17:38:11"
 }

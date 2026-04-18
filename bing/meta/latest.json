@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-04-17 17:51:40",
+  "generatedAt": "2026-04-18 17:38:11",
   "total": 7,
   "items": [
+    {
+      "date": "2026-04-19",
+      "title": "潮汐留下的印记",
+      "copyright": "镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E5%B7%B4%E8%A5%BF%E5%B7%B4%E4%BC%8A%E4%BA%9A%E5%B7%9E&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260418_TranBA%22&FORM=HPQUIZ",
+      "hsh": "cae9ebaf7277159fcab1dd417b7c58fb",
+      "urlbase": "/th?id=OHR.TranBA_ZH-CN3467060262"
+    },
     {
       "date": "2026-04-18",
       "title": "未完成巨像的静默",
@@ -55,15 +64,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260412_BorregoStars%22&FORM=HPQUIZ",
       "hsh": "821e32f99e638492aacc75da27ee5279",
       "urlbase": "/th?id=OHR.BorregoStars_ZH-CN8915519147"
-    },
-    {
-      "date": "2026-04-12",
-      "title": "离开地球的第一步",
-      "copyright": "城市灯光在下方划过, 拍摄于国际空间站 (© NASA)",
-      "copyrightlink": "https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E4%BA%BA%E7%B1%BB%E8%88%AA%E5%A4%A9%E6%97%A5&form=hpcapt&mkt=zh-cn",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20260411_SpaceTrails%22&FORM=HPQUIZ",
-      "hsh": "c4b71ecc2cdff3cf5ed78dd6f376319a",
-      "urlbase": "/th?id=OHR.SpaceTrails_ZH-CN8377463217"
     }
   ]
 }
