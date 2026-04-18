@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-18 20:24:24",
-  "count": 743,
+  "lastUpdated": "2026-04-18 20:34:56",
+  "count": 748,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -23408,6 +23408,208 @@
         "displayTitle": "黑白魅力，沉默的诱惑",
         "confidence": 0.9,
         "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中人物未露脸，但强调了身材和姿势，符合【氛围感】(Atmosphere)的特征。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (8).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (8).png",
+      "createdAt": "2026-04-18T20:33:13.158Z",
+      "cdnTag": "v1.2.70",
+      "size": 91817,
+      "format": "png",
+      "resolution": {
+        "width": 906,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "蒙眼白衣长发少女.jpg",
+          "纯白背影神秘女子.jpg"
+        ],
+        "filenames": [
+          "蒙眼白衣长发少女.jpg",
+          "纯白背影神秘女子.jpg"
+        ],
+        "displayTitle": "月光下的沉默之美",
+        "keywords": [
+          "氛围感",
+          "蒙眼",
+          "长发",
+          "白衣"
+        ],
+        "description": "一位蒙着眼睛的长发少女，穿着白色上衣，展现神秘与宁静之美。",
+        "confidence": 0.9,
+        "reasoning": "图片中的少女蒙着眼睛，面部部分被遮挡，重点突出神秘感和氛围感，根据决策树A5，归入【氛围感】分类。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (9).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (9).png",
+      "createdAt": "2026-04-18T20:33:13.158Z",
+      "cdnTag": "v1.2.70",
+      "size": 184736,
+      "format": "png",
+      "resolution": {
+        "width": 917,
+        "height": 1985,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "白色丝带遮眼的长发少女.jpg",
+          "优雅坐姿的蒙眼美人.jpg"
+        ],
+        "filenames": [
+          "白色丝带遮眼的长发少女.jpg",
+          "优雅坐姿的蒙眼美人.jpg"
+        ],
+        "displayTitle": "月光下的丝带秘密",
+        "keywords": [
+          "氛围感",
+          "丝带",
+          "蒙眼"
+        ],
+        "description": "一位长发少女坐姿优雅，眼睛被白色丝带遮住，散发着神秘气息。",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【氛围感】(Atmosphere)特征：不露脸（眼睛被遮挡）、重光影意境、看不清具体五官，判定为[氛围感]。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (10).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (10).png",
+      "createdAt": "2026-04-18T20:33:13.158Z",
+      "cdnTag": "v1.2.70",
+      "size": 237036,
+      "format": "png",
+      "resolution": {
+        "width": 1680,
+        "height": 2240,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "身穿黑色泳衣的长发女孩坐在墙头.jpg",
+          "夕阳下的黑衣泳衣美女.jpg"
+        ],
+        "filenames": [
+          "身穿黑色泳衣的长发女孩坐在墙头.jpg",
+          "夕阳下的黑衣泳衣美女.jpg"
+        ],
+        "displayTitle": "夕阳下的黑衣佳人",
+        "keywords": [
+          "黑丝泳衣",
+          "魅力",
+          "夕阳",
+          "长发"
+        ],
+        "description": "一位穿着黑色泳衣的长发女孩坐在墙头，背景是美丽的夕阳云彩。",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中的人物穿着泳衣，展现身材曲线，背景是夕阳和云彩，符合【魅力】(Glamour)的特征，因此归入人像/魅力。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (11).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (11).png",
+      "createdAt": "2026-04-18T20:33:13.158Z",
+      "cdnTag": "v1.2.70",
+      "size": 270394,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2401,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "黑丝短裙的时尚女孩.jpg",
+          "低角度拍摄的黑衣美女.jpg"
+        ],
+        "filenames": [
+          "黑丝短裙的时尚女孩.jpg",
+          "低角度拍摄的黑衣美女.jpg"
+        ],
+        "displayTitle": "黑丝诱惑下的都市丽人",
+        "keywords": [
+          "黑丝",
+          "魅力",
+          "都市丽人"
+        ],
+        "description": "一位穿着黑色短裙和黑丝的女孩坐在一张橙色凳子上，摆出优雅姿势。",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着黑丝和短裙，姿势撩人，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/纯欲小姐姐 (12).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "纯欲小姐姐 (12).png",
+      "createdAt": "2026-04-18T20:33:13.158Z",
+      "cdnTag": "v1.2.70",
+      "size": 428064,
+      "format": "png",
+      "resolution": {
+        "width": 1164,
+        "height": 2254,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "身穿黑色短裙的长发女孩仰望天空.jpg",
+          "阳光下展现曼妙曲线的少女.jpg"
+        ],
+        "filenames": [
+          "身穿黑色短裙的长发女孩仰望天空.jpg",
+          "阳光下展现曼妙曲线的少女.jpg"
+        ],
+        "displayTitle": "云间轻语",
+        "keywords": [
+          "魅力",
+          "黑短裙",
+          "仰望天空"
+        ],
+        "description": "阳光下的少女，充满魅力和生气。",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【魅力】(Glamour)定义，该图片中人物身穿黑色短裙，展现身材曲线，背景为仰望天空的姿态，符合魅力类特征，因此归入【魅力】分类。"
       }
     }
   }
