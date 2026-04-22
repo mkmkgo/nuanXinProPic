@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-21 18:05:27",
-  "count": 757,
+  "lastUpdated": "2026-04-22 13:48:24",
+  "count": 769,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -23941,6 +23941,443 @@
         "displayTitle": "夏日里的清新少女",
         "confidence": 0.9,
         "reasoning": "图片中的女孩穿着休闲服装，背景是明亮的蓝天和白云，整体氛围明亮且充满活力。根据规则A4，清新风格的定义是明亮、治愈、氧气感，特征包括高明度、色彩鲜艳自然、笑容甜美、背景通常是草地/蓝天/白墙等。因此，判定为【清新】。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13400696236352607.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13400696236352607.jpg",
+      "createdAt": "2026-04-22T13:36:28.538Z",
+      "cdnTag": "v1.2.75",
+      "size": 6031282,
+      "format": "jpg",
+      "resolution": {
+        "width": 1943,
+        "height": 4318,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "蕾丝短裙",
+          "优雅"
+        ],
+        "description": "穿着蓝色蕾丝短裙的女孩，展现优雅与魅力。",
+        "filenameSuggestions": [
+          "身穿蓝色蕾丝短裙的优雅女孩.jpg",
+          "夜色中展现魅力的长发女子.jpg"
+        ],
+        "displayTitle": "优雅的夜晚邂逅",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩穿着蕾丝短裙，展现身材曲线，符合【魅力】分类的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/13400696339290821.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13400696339290821.jpeg",
+      "createdAt": "2026-04-22T13:36:28.538Z",
+      "cdnTag": "v1.2.75",
+      "size": 2137474,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1767,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "海边",
+          "阳光"
+        ],
+        "description": "海边阳光下的清新少女，面带微笑，沐浴在温暖的阳光中。",
+        "filenameSuggestions": [
+          "阳光下的海边少女.jpg",
+          "海风吹拂的长发女孩.jpg"
+        ],
+        "displayTitle": "海边阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "图片中少女面带微笑，背景是海景和蓝天白云，整体氛围明亮且治愈，符合【清新】(Fresh)的定义。"
+      }
+    },
+    "wallpaper/mobile/插画/动漫/爆爆-金克丝.png": {
+      "category": "插画",
+      "subcategory": "动漫",
+      "filename": "爆爆-金克丝.png",
+      "createdAt": "2026-04-22T13:36:28.538Z",
+      "cdnTag": "v1.2.75",
+      "size": 119568,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2341,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "动漫",
+        "keywords": [
+          "动漫少女",
+          "双色渐变发",
+          "二次元"
+        ],
+        "description": "一位梦幻双色渐变发的少女，置身于充满化妆品的房间中，充满未来感和奇幻色彩。",
+        "filenameSuggestions": [
+          "俏皮双色渐变发少女.jpg",
+          "二次元化妆品主题美少女.jpg"
+        ],
+        "displayTitle": "梦幻双色渐变发少女",
+        "confidence": 0.9,
+        "reasoning": "图片具有明显的动漫风格，大眼睛、特殊发色和二次元特征明显，未识别出具体作品，因此归为动漫/二次元"
+      }
+    },
+    "wallpaper/mobile/人像/清新/壁纸-手机.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "壁纸-手机.png",
+      "createdAt": "2026-04-22T13:36:28.538Z",
+      "cdnTag": "v1.2.75",
+      "size": 311046,
+      "format": "png",
+      "resolution": {
+        "width": 836,
+        "height": 2006,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "毛衣",
+          "微笑"
+        ],
+        "description": "一位穿着灰色毛衣的少女在窗边微笑，散发着温暖与清新气息。",
+        "filenameSuggestions": [
+          "穿灰色毛衣的微笑少女.jpg",
+          "坐在沙发上的清新女孩.jpg"
+        ],
+        "displayTitle": "窗边少女的温暖微笑",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女穿着宽松的毛衣，面带微笑，背景光线明亮，色彩自然。根据决策树A. 人像分类决策树中的【清新】(Fresh)定义和特征，判定为[清新]。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/纯欲小姐姐 (2).jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "纯欲小姐姐 (2).jpg",
+      "createdAt": "2026-04-22T13:36:28.538Z",
+      "cdnTag": "v1.2.75",
+      "size": 4885101,
+      "format": "jpg",
+      "resolution": {
+        "width": 3547,
+        "height": 2365,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像摄影",
+          "甜美"
+        ],
+        "description": "枕下的沉思，微笑中的梦境。",
+        "filenameSuggestions": [
+          "枕下沉思的长发女孩.jpg",
+          "微笑下的甜美梦境.jpg"
+        ],
+        "displayTitle": "枕下的沉思",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物未露脸且有重光影意境，符合【氛围感】的特征，因此归入人像/氛围感。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/纯欲小姐姐 (3).jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "纯欲小姐姐 (3).jpg",
+      "createdAt": "2026-04-22T13:36:28.538Z",
+      "cdnTag": "v1.2.75",
+      "size": 1675068,
+      "format": "jpg",
+      "resolution": {
+        "width": 2103,
+        "height": 3988,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "时尚",
+          "胶片感"
+        ],
+        "description": "一个充满魅力的年轻女孩，享受阳光的温暖，展现时尚与美丽。",
+        "filenameSuggestions": [
+          "身穿白色上衣的时尚女孩.jpg",
+          "帽子下的美丽瞬间.jpg"
+        ],
+        "displayTitle": "阳光下的时尚魅力",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中的女孩展示了身材曲线，穿着时尚且具有吸引力，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/2K-时尚-穿搭.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "2K-时尚-穿搭.png",
+      "createdAt": "2026-04-22T13:36:28.538Z",
+      "cdnTag": "v1.2.75",
+      "size": 359533,
+      "format": "png",
+      "resolution": {
+        "width": 1200,
+        "height": 2249,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "日常穿搭",
+          "阳光"
+        ],
+        "description": "一位穿着黄色运动套衫和白色短裤的少女，坐在白色背景前，表情甜美，氛围清新自然。",
+        "filenameSuggestions": [
+          "穿着黄色运动套衫的微笑少女.jpg",
+          "白色背景下的清新日常穿搭.jpg"
+        ],
+        "displayTitle": "阳光下的温暖少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女穿着休闲服装，表情甜美，背景简洁明亮，符合【清新】风格的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/纯欲小姐姐 (4).jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "纯欲小姐姐 (4).jpg",
+      "createdAt": "2026-04-22T13:44:22.657Z",
+      "cdnTag": "v1.2.75",
+      "size": 2545300,
+      "format": "jpg",
+      "resolution": {
+        "width": 1969,
+        "height": 4260,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "女仆",
+          "丝袜",
+          "清新",
+          "魅力"
+        ],
+        "description": "一位穿着蓝白色女仆装的女孩站在白色圆桌上，拿着手机和一块布料，背景是温馨的室内环境。",
+        "filenameSuggestions": [
+          "白色圆桌上的蓝衣清新女仆.jpg",
+          "蓝白色女仆装的长发女孩.jpg"
+        ],
+        "displayTitle": "白色圆桌上的蓝衣清新女仆",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中人物穿着女仆装，带有一定程度的魅力和俏皮感，但整体风格更倾向于清新和魅力结合，判定为[魅力]。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/纯欲小姐姐 (5).jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "纯欲小姐姐 (5).jpg",
+      "createdAt": "2026-04-22T13:44:22.657Z",
+      "cdnTag": "v1.2.75",
+      "size": 4271501,
+      "format": "jpg",
+      "resolution": {
+        "width": 1970,
+        "height": 4259,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "都市丽人",
+          "紧身裙"
+        ],
+        "description": "一位身穿灰色紧身裙的年轻女子，展现都市丽人的时尚与魅力。",
+        "filenameSuggestions": [
+          "身穿灰色紧身裙的时尚都市女郎.jpg",
+          "手持白色小包的优雅街头风情.jpg"
+        ],
+        "displayTitle": "都市丽人风采",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物穿着紧身裙，姿态优雅，背景为都市建筑风格，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/个性穿搭-交叉绑带.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "个性穿搭-交叉绑带.png",
+      "createdAt": "2026-04-22T13:44:22.657Z",
+      "cdnTag": "v1.2.75",
+      "size": 263753,
+      "format": "png",
+      "resolution": {
+        "width": 1242,
+        "height": 2688,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑纱",
+          "蕾丝",
+          "魅力",
+          "山景"
+        ],
+        "description": "黑纱蕾丝装束的少女在山间展现神秘魅力，黑发红唇，姿态撩人。",
+        "filenameSuggestions": [
+          "身穿黑色蕾丝长裙的山间少女.jpg",
+          "山间黑纱少女的侧颜.jpg"
+        ],
+        "displayTitle": "山间黑纱少女的神秘魅力",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中人物穿着暴露且具有吸引力，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/个性-时尚-氛围感.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "个性-时尚-氛围感.png",
+      "createdAt": "2026-04-22T13:44:22.657Z",
+      "cdnTag": "v1.2.75",
+      "size": 225880,
+      "format": "png",
+      "resolution": {
+        "width": 1060,
+        "height": 2360,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑夜",
+          "长发",
+          "黑衣"
+        ],
+        "description": "一位长发少女在黑夜中展现的成熟魅力",
+        "filenameSuggestions": [
+          "黑夜中的长发魅力少女.jpg",
+          "床上黑衣黑发美人.jpg"
+        ],
+        "displayTitle": "月光下的黑夜女神",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物以身材和长发为特色，穿着黑色衣物，且表情有一定魅力，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/卡通丝袜-时尚穿搭.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "卡通丝袜-时尚穿搭.png",
+      "createdAt": "2026-04-22T13:44:22.657Z",
+      "cdnTag": "v1.2.75",
+      "size": 2904003,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "丝袜",
+          "兔子图案",
+          "魅力"
+        ],
+        "description": "一位身穿丝袜的少妇坐于长椅，袜上兔子图案引人注目。",
+        "filenameSuggestions": [
+          "身穿白色兔子丝袜的优雅少妇.jpg",
+          "坐在长椅上的丝袜美腿.jpg"
+        ],
+        "displayTitle": "丝袜美人",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着丝袜并有明显的身材展示，符合【魅力】类定义。"
       }
     }
   }
