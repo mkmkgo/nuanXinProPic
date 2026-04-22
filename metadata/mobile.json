@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-22 13:48:24",
-  "count": 769,
+  "lastUpdated": "2026-04-22 14:18:30",
+  "count": 775,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -24378,6 +24378,220 @@
         "displayTitle": "丝袜美人",
         "confidence": 0.9,
         "reasoning": "根据图片内容，人物穿着丝袜并有明显的身材展示，符合【魅力】类定义。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/女孩-美女 (2).png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "女孩-美女 (2).png",
+      "createdAt": "2026-04-22T14:16:13.200Z",
+      "cdnTag": "v1.2.76",
+      "size": 1046914,
+      "format": "png",
+      "resolution": {
+        "width": 1775,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "日常",
+          "阳光"
+        ],
+        "description": "一个充满活力与希望的年轻女孩，坐在床上享受阳光的温暖。",
+        "filenameSuggestions": [
+          "清新少女的日常瞬间.jpg",
+          "坐在床上的微笑女孩.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A4，清新类定义为明亮、治愈、氧气感。图片中女孩面带微笑，坐在床上，穿着清新自然，背景光线明亮，色彩鲜艳，符合清新类特征。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/女孩-美女.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "女孩-美女.png",
+      "createdAt": "2026-04-22T14:16:13.200Z",
+      "cdnTag": "v1.2.76",
+      "size": 1366790,
+      "format": "png",
+      "resolution": {
+        "width": 1858,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "露脐装",
+          "诱惑"
+        ],
+        "description": "一位身穿白色露脐装的年轻女性，散发着神秘的魅力。",
+        "filenameSuggestions": [
+          "身穿白色露脐装的神秘少女.jpg",
+          "低胸诱惑的都市丽人.jpg"
+        ],
+        "displayTitle": "月光下的诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着露脐装，展现身材曲线，且姿态具有吸引力，根据决策树A2【魅力】的定义和特征，判定为[魅力]"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/少女-日系-死库水.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "少女-日系-死库水.png",
+      "createdAt": "2026-04-22T14:16:13.200Z",
+      "cdnTag": "v1.2.76",
+      "size": 2573204,
+      "format": "png",
+      "resolution": {
+        "width": 1350,
+        "height": 2400,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "丝袜",
+          "泳衣",
+          "魅力",
+          "湿身"
+        ],
+        "description": "一位少女身穿泳衣坐在储物柜旁，丝袜被水浸湿，展现出一种独特的魅力。",
+        "filenameSuggestions": [
+          "身穿泳衣的长腿少女.jpg",
+          "水滴下的性感身影.jpg"
+        ],
+        "displayTitle": "水边魅影",
+        "confidence": 0.9,
+        "reasoning": "图片中少女穿着泳衣和丝袜，表现出一种成熟的魅力，背景是储物柜和水池，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/夏日风情-少女穿搭.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "夏日风情-少女穿搭.png",
+      "createdAt": "2026-04-22T14:16:13.200Z",
+      "cdnTag": "v1.2.76",
+      "size": 3162991,
+      "format": "png",
+      "resolution": {
+        "width": 1350,
+        "height": 2400,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "泳衣",
+          "丝袜",
+          "清新"
+        ],
+        "description": "一位身穿蓝色泳衣的少女，站在泳池边，展现夏日活力。",
+        "filenameSuggestions": [
+          "身穿蓝色泳衣的清新少女.jpg",
+          "泳池边的时尚丽人.jpg"
+        ],
+        "displayTitle": "夏日泳池的时尚女郎",
+        "confidence": 0.9,
+        "reasoning": "图片中的少女穿着泳衣和丝袜，展现身材曲线，背景是泳池和建筑，整体氛围感较为成熟且吸引人，根据规则A2，判定为[魅力]"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/写真-美女.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "写真-美女.png",
+      "createdAt": "2026-04-22T14:16:13.200Z",
+      "cdnTag": "v1.2.76",
+      "size": 1615694,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 5120,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "优雅",
+          "女神",
+          "丝袜"
+        ],
+        "description": "一位穿着白色衬衫的年轻女性，坐在沙发上，展现优雅姿态。",
+        "filenameSuggestions": [
+          "身穿白色衬衫的优雅少女.jpg",
+          "沙发上的曼妙姿态.jpg"
+        ],
+        "displayTitle": "月光下的优雅女神",
+        "confidence": 0.9,
+        "reasoning": "根据图像内容，人物穿着轻薄的白色衬衫，展现身材曲线，姿势优雅，符合【魅力】分类的特征。"
+      }
+    },
+    "wallpaper/mobile/通用/写真-性感-户外.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "写真-性感-户外.png",
+      "createdAt": "2026-04-22T14:16:13.200Z",
+      "cdnTag": "v1.2.76",
+      "size": 98439,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 1676,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
       }
     }
   }
