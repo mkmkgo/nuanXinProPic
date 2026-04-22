@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-22T13:39:33.228Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/人像/氛围感/纯欲小姐姐 (2).jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "纯欲小姐姐 (2).jpeg",
+      "createdAt": "2026-04-22T13:39:33.228Z",
+      "size": 1730530,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像摄影",
+          "甜美"
+        ],
+        "description": "一位少女在晨光中展现的温暖与甜美",
+        "filenameSuggestions": [
+          "晨曦中的温暖少女.jpg",
+          "卧室里的微笑瞬间.jpg"
+        ],
+        "displayTitle": "晨光下的温暖倩影",
+        "confidence": 0.9,
+        "reasoning": "图片以人物为主，展现出一种氛围感，少女在卧室中呈现出一种甜美与羞涩的表情，根据决策树A4，判定为[人像/氛围感]"
+      }
+    },
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/人像/魅力/纯欲小姐姐 (1).jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "纯欲小姐姐 (1).jpeg",
+      "createdAt": "2026-04-22T13:39:33.228Z",
+      "size": 965592,
+      "format": "jpeg",
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "丝袜",
+          "美足",
+          "魅力"
+        ],
+        "description": "黑丝包裹的纤细脚趾，充满诱惑力与成熟美感。",
+        "filenameSuggestions": [
+          "黑丝美足.jpg",
+          "性感丝袜脚部.jpg"
+        ],
+        "displayTitle": "丝袜美足的诱惑",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示黑丝袜包裹的女性脚部，具有明显的身材展示和成熟魅力，符合【魅力】分类的特征。"
+      }
+    }
+  ]
+}
