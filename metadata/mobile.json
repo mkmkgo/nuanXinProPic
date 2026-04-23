@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-22 18:29:15",
-  "count": 775,
+  "lastUpdated": "2026-04-23 14:42:57",
+  "count": 788,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -24577,6 +24577,468 @@
         "height": 1676,
         "label": "高清",
         "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/纸-室内-性感.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "纸-室内-性感.png",
+      "createdAt": "2026-04-23T14:21:36.492Z",
+      "cdnTag": "v1.2.78",
+      "size": 733685,
+      "format": "png",
+      "resolution": {
+        "width": 1740,
+        "height": 3072,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝绸",
+          "蕾丝",
+          "成熟风"
+        ],
+        "description": "一位穿着紫色蕾丝女神，室内光线柔和，表情优雅。",
+        "filenameSuggestions": [
+          "身穿紫色蕾丝长裙的成熟美女.jpg",
+          "手握橙子的优雅紫衣女子.jpg"
+        ],
+        "displayTitle": "紫色魅惑",
+        "confidence": 0.9,
+        "reasoning": "根据图像内容，人物穿着暴露且具有魅力的服装，场景优雅且有光泽，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/甜美女孩.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "甜美女孩.jpg",
+      "createdAt": "2026-04-23T14:21:36.492Z",
+      "cdnTag": "v1.2.78",
+      "size": 864710,
+      "format": "jpg",
+      "resolution": {
+        "width": 1949,
+        "height": 4096,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑发",
+          "少女"
+        ],
+        "description": "一位穿着白色上衣和黑色短裙的少女在夜色中展现优雅。",
+        "filenameSuggestions": [
+          "身穿白色上衣的黑发女孩.jpg",
+          "夜色中优雅漫步的长发女孩.jpg"
+        ],
+        "displayTitle": "夜色中的优雅少女",
+        "confidence": 0.9,
+        "reasoning": "根据图像特征，少女穿着暴露的服装且姿势优雅，背景为夜色，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/美女.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "美女.jpg",
+      "createdAt": "2026-04-23T14:21:36.492Z",
+      "cdnTag": "v1.2.78",
+      "size": 1212512,
+      "format": "jpg",
+      "resolution": {
+        "width": 1897,
+        "height": 4096,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑丝诱惑",
+          "户外光影"
+        ],
+        "description": "户外阳光下展现魅力的年轻女性。",
+        "filenameSuggestions": [
+          "身穿粉色上衣的诱惑少妇.jpg",
+          "户外展现魅力的长发女孩.jpg"
+        ],
+        "displayTitle": "阳光下的诱惑",
+        "confidence": 0.9,
+        "reasoning": "图片中的女性穿着暴露的服装，姿势具有诱惑力，背景是户外阳光照射的场景，根据决策树A. 人像分类决策树中的【魅力】(Glamour)定义和特征，优先归入【魅力】分类。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/运动系女孩.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "运动系女孩.jpg",
+      "createdAt": "2026-04-23T14:21:36.492Z",
+      "cdnTag": "v1.2.78",
+      "size": 991810,
+      "format": "jpg",
+      "resolution": {
+        "width": 1732,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "活力",
+          "街头风格",
+          "少女"
+        ],
+        "description": "充满活力的少女站在街头涂鸦墙前，展现青春魅力。",
+        "filenameSuggestions": [
+          "清新少女与街头涂鸦.jpg",
+          "白色短衫与运动裤的活力女孩.jpg"
+        ],
+        "displayTitle": "阳光下的青春活力",
+        "confidence": 0.9,
+        "reasoning": "图片中的少女穿着休闲服装，面带微笑，背景是色彩鲜艳的涂鸦墙，整体氛围明亮且充满活力。根据规则A4【清新】的定义：明亮、治愈、氧气感，图片符合高明度、色彩鲜艳自然、笑容甜美的特征，因此归类为【清新】。"
+      }
+    },
+    "wallpaper/mobile/萌宠/通用/围巾-墨镜-小黄鸭.png": {
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "围巾-墨镜-小黄鸭.png",
+      "createdAt": "2026-04-23T14:21:36.492Z",
+      "cdnTag": "v1.2.78",
+      "size": 321209,
+      "format": "png",
+      "resolution": {
+        "width": 1024,
+        "height": 2218,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "萌宠",
+          "雪山",
+          "时尚",
+          "猫咪"
+        ],
+        "description": "一只时尚的猫咪戴着墨镜和耳暖，站在雪山之巅，享受冬日阳光。",
+        "filenameSuggestions": [
+          "时尚猫咪登上雪山.jpg",
+          "雪山上的墨镜猫.jpg"
+        ],
+        "displayTitle": "冬日雪山上的时尚猫咪",
+        "confidence": 0.9,
+        "reasoning": "图片中是一只猫咪，戴着墨镜、耳暖和围巾，站在雪山上，符合萌宠分类下的通用风格。"
+      }
+    },
+    "wallpaper/mobile/通用/Ios-户外-时尚.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "Ios-户外-时尚.png",
+      "createdAt": "2026-04-23T14:21:36.492Z",
+      "cdnTag": "v1.2.78",
+      "size": 369970,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/Ios-修身背心.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "Ios-修身背心.png",
+      "createdAt": "2026-04-23T14:35:56.724Z",
+      "cdnTag": "v1.2.78",
+      "size": 582761,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "咖啡馆",
+          "时尚"
+        ],
+        "description": "一位穿着白色背心的女孩在咖啡馆中微笑。",
+        "filenameSuggestions": [
+          "身穿白色背心在咖啡馆的时尚女孩.jpg",
+          "咖啡店里微笑的短发美女.jpg"
+        ],
+        "displayTitle": "夏日清晨的咖啡馆邂逅",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物展示了身材曲线，穿着暴露，符合【魅力】(Glamour)的特征。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/Ios-剪刀手-发带.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "Ios-剪刀手-发带.png",
+      "createdAt": "2026-04-23T14:35:56.724Z",
+      "cdnTag": "v1.2.78",
+      "size": 603006,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2336,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "户外",
+          "咖啡"
+        ],
+        "description": "一位穿着白色上衣和牛仔裤的年轻女孩，在户外享受咖啡，表情甜美。",
+        "filenameSuggestions": [
+          "清新少女与咖啡.jpg",
+          "户外休闲的年轻女孩.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中女孩的穿着和环境符合【清新】(Fresh)的特征：明亮的背景（蓝天），色彩自然（白色上衣和牛仔裤），笑容甜美，构图干净。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/Ios-好身材-户外.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "Ios-好身材-户外.png",
+      "createdAt": "2026-04-23T14:35:56.724Z",
+      "cdnTag": "v1.2.78",
+      "size": 269054,
+      "format": "png",
+      "resolution": {
+        "width": 864,
+        "height": 1921,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "露肩",
+          "湖边",
+          "少女"
+        ],
+        "description": "阳光下的湖边，少女穿着灰色露肩T恤，展现优雅魅力。",
+        "filenameSuggestions": [
+          "身穿灰色露肩T恤的美丽少女.jpg",
+          "湖边微笑的长发女孩.jpg"
+        ],
+        "displayTitle": "夏日湖边的优雅少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女穿着露肩T恤，展现身材曲线，背景是湖边景色，根据决策树A. 人像分类决策树中的【魅力】(Glamour)定义和特征，优先归入【魅力】分类。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/-好身材-户外.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "-好身材-户外.png",
+      "createdAt": "2026-04-23T14:35:56.724Z",
+      "cdnTag": "v1.2.78",
+      "size": 696881,
+      "format": "png",
+      "resolution": {
+        "width": 1898,
+        "height": 3676,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "露脐装",
+          "短裤",
+          "长发"
+        ],
+        "description": "阳光下的优雅身影，充满魅力和自信。",
+        "filenameSuggestions": [
+          "身穿白色短衣的长发女孩.jpg",
+          "阳光下的优雅身影.jpg"
+        ],
+        "displayTitle": "夏日里的优雅曲线",
+        "confidence": 0.9,
+        "reasoning": "图片中的人物穿着露脐装和短裤，展现出成熟的魅力，且姿势撩人，符合【魅力】的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/冷色调-妆容-御姐.png": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "冷色调-妆容-御姐.png",
+      "createdAt": "2026-04-23T14:35:56.724Z",
+      "cdnTag": "v1.2.78",
+      "size": 124750,
+      "format": "png",
+      "resolution": {
+        "width": 888,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "低调神秘",
+          "黑发"
+        ],
+        "description": "一位黑发少女在暗影中低语，充满神秘感。",
+        "filenameSuggestions": [
+          "黑衣低语的神秘少女.jpg",
+          "暗影中闪耀的黑发美人.jpg"
+        ],
+        "displayTitle": "暗影中的低语者",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A的人像分类决策树，图片中人物未露脸且有重光影意境，符合【氛围感】的特征，因此归入人像/氛围感。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/室内-窗边-美腿.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "室内-窗边-美腿.png",
+      "createdAt": "2026-04-23T14:35:56.724Z",
+      "cdnTag": "v1.2.78",
+      "size": 698632,
+      "format": "png",
+      "resolution": {
+        "width": 1881,
+        "height": 3484,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑丝",
+          "美腿"
+        ],
+        "description": "一位穿着黑纱裙的女孩，展现优雅姿态与美丽长腿。",
+        "filenameSuggestions": [
+          "黑纱短裙的优雅长腿美女.jpg",
+          "交叉美腿与黑纱高跟鞋.jpg"
+        ],
+        "displayTitle": "黑纱魅影",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着黑纱裙和黑高跟鞋，展现出成熟魅力，符合【魅力】分类的特征。"
+      }
+    },
+    "wallpaper/mobile/通用/Ios-发夹.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "Ios-发夹.png",
+      "createdAt": "2026-04-23T14:35:56.724Z",
+      "cdnTag": "v1.2.78",
+      "size": 319829,
+      "format": "png",
+      "resolution": {
+        "width": 1024,
+        "height": 2276,
+        "label": "2K",
+        "type": "info"
       },
       "ai": {
         "series": "mobile",
