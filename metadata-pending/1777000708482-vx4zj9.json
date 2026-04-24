@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-24T03:18:28.482Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/通用/20260424-040122-bd3206.jpg",
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "20260424-040122-bd3206.jpg",
+      "createdAt": "2026-04-24T03:18:28.482Z",
+      "size": 737953,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "风景",
+          "自然",
+          "阳光"
+        ],
+        "description": "一片宁静的草地，阳光从树林间洒落，带来一抹温暖的光辉。",
+        "filenameSuggestions": [
+          "宁静的森林边缘草地.jpg",
+          "阳光洒落的林间草地.jpg"
+        ],
+        "displayTitle": "阳光下的绿野仙踪",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅典型的自然风景，没有特定的主题或人物，符合风景/通用的分类特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/花卉/20260424-040122-cea54e.jpg",
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "20260424-040122-cea54e.jpg",
+      "createdAt": "2026-04-24T03:18:28.482Z",
+      "size": 267111,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "秋景",
+          "湖泊",
+          "树叶变色"
+        ],
+        "description": "晴朗秋日里湖泊与变色树叶的美丽景色",
+        "filenameSuggestions": [
+          "秋色满溢的湖岸风光.jpg",
+          "湖光秋色树木绽放.jpg"
+        ],
+        "displayTitle": "秋日湖畔的绚丽画卷",
+        "confidence": 0.9,
+        "reasoning": "图片展示了湖泊与秋季树叶变色的景象，根据规则B，归入风景/花卉类"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/日落/20260424-040122-f33e57.jpg",
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "20260424-040122-f33e57.jpg",
+      "createdAt": "2026-04-24T03:18:28.482Z",
+      "size": 622632,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "日落",
+          "乡村",
+          "风景"
+        ],
+        "description": "夕阳西下，乡村小道宁静而美丽。",
+        "filenameSuggestions": [
+          "宁静的乡村小径在日落时分.jpg",
+          "日落乡村风景.jpg"
+        ],
+        "displayTitle": "夕阳下的乡村小道",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个典型的自然风景，包含夕阳、乡村小道、绿草和房屋，符合风景分类下的日落子类。"
+      }
+    }
+  ]
+}
