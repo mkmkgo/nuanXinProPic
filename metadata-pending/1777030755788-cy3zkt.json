@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-24T11:39:15.787Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/1000018524.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018524.jpg",
+      "createdAt": "2026-04-24T11:39:15.787Z",
+      "size": 280131,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/1000018523.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018523.jpg",
+      "createdAt": "2026-04-24T11:39:15.787Z",
+      "size": 2039752,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/1000018528.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018528.jpg",
+      "createdAt": "2026-04-24T11:39:15.787Z",
+      "size": 1277414,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/1000018532.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "1000018532.jpg",
+      "createdAt": "2026-04-24T11:39:15.787Z",
+      "size": 1457656,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "小姐姐"
+        ],
+        "filenames": [
+          "小姐姐"
+        ],
+        "displayTitle": "小姐姐",
+        "keywords": [
+          "小姐姐"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/1000018531.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "1000018531.jpg",
+      "createdAt": "2026-04-24T11:39:15.787Z",
+      "size": 1338683,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "小姐姐"
+        ],
+        "filenames": [
+          "小姐姐"
+        ],
+        "displayTitle": "小姐姐",
+        "keywords": [
+          "小姐姐"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/1000018530.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "1000018530.jpg",
+      "createdAt": "2026-04-24T11:39:15.787Z",
+      "size": 1139935,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "小姐姐"
+        ],
+        "filenames": [
+          "小姐姐"
+        ],
+        "displayTitle": "小姐姐",
+        "keywords": [
+          "小姐姐"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/1000018539.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018539.jpg",
+      "createdAt": "2026-04-24T11:39:15.787Z",
+      "size": 241822,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/1000018534.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "1000018534.jpg",
+      "createdAt": "2026-04-24T11:39:15.788Z",
+      "size": 561097,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "小姐姐"
+        ],
+        "filenames": [
+          "小姐姐"
+        ],
+        "displayTitle": "小姐姐",
+        "keywords": [
+          "小姐姐"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/1000018533.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "1000018533.jpg",
+      "createdAt": "2026-04-24T11:39:15.788Z",
+      "size": 1413990,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "小姐姐"
+        ],
+        "filenames": [
+          "小姐姐"
+        ],
+        "displayTitle": "小姐姐",
+        "keywords": [
+          "小姐姐"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/1000018529.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "1000018529.jpg",
+      "createdAt": "2026-04-24T11:39:15.788Z",
+      "size": 1480499,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "小姐姐"
+        ],
+        "filenames": [
+          "小姐姐"
+        ],
+        "displayTitle": "小姐姐",
+        "keywords": [
+          "小姐姐"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    }
+  ]
+}
