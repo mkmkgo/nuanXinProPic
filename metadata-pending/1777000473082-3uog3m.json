@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-24T03:14:33.082Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/海滨/20260424-040023-44cad5.jpg",
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424-040023-44cad5.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "size": 337297,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "粉色浪潮",
+          "黑沙滩"
+        ],
+        "description": "黑沙海滩上粉色海浪的梦幻景象",
+        "filenameSuggestions": [
+          "粉色浪潮下的黑沙海滩.jpg",
+          "海浪轻吻黑沙岸.jpg"
+        ],
+        "displayTitle": "梦幻海滨日落",
+        "confidence": 0.9,
+        "reasoning": "根据图像特征，主要元素为海滨风景，且具有独特的粉色海浪和黑沙滩，归类为风景/海滨。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/城市/20260424-040023-b0554f.jpg",
+      "category": "风景",
+      "subcategory": "城市",
+      "filename": "20260424-040023-b0554f.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "size": 120214,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "城市",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "城市",
+        "keywords": [
+          "城市夜景",
+          "雾气",
+          "霓虹灯",
+          "空旷"
+        ],
+        "description": "夜晚的城市街道笼罩在雾气中，紫色霓虹灯投下神秘的光芒。",
+        "filenameSuggestions": [
+          "雾夜下的城市街道.jpg",
+          "紫色霓虹灯下的空旷街道.jpg"
+        ],
+        "displayTitle": "雾夜下的城市街道",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一个夜间城市街道的场景，有明显的城市风景特征，街道、路灯和雾气都指向城市主题。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/海滨/20260424-040023-b0888d.jpg",
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424-040023-b0888d.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "size": 257144,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "极光",
+          "魔幻",
+          "夜景"
+        ],
+        "description": "海边夜景中神秘的粉色光迹",
+        "filenameSuggestions": [
+          "魔幻极光下的海滨夜景.jpg",
+          "海边神秘的粉色光迹.jpg"
+        ],
+        "displayTitle": "海边魔幻极光",
+        "confidence": 0.9,
+        "reasoning": "图片展现了海滨夜景中出现的一种魔幻的粉色光迹，符合风景/海滨的分类。光迹在水面延伸，营造出一种神秘而梦幻的氛围。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/通用/20260424-040023-ced882.jpg",
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "20260424-040023-ced882.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "size": 374297,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "风景",
+          "梦幻",
+          "峡谷",
+          "粉色河流"
+        ],
+        "description": "紫色河流贯穿神秘峡谷，雾气缭绕，景色奇异壮丽。",
+        "filenameSuggestions": [
+          "迷雾中山间奇异粉河.jpg",
+          "紫色光芒笼罩的峡谷风景.jpg"
+        ],
+        "displayTitle": "梦幻紫色峡谷奇观",
+        "confidence": 0.9,
+        "reasoning": "图像显示为一幅风景画，展现峡谷和粉色河流的奇幻景象，无具体人物或动漫特征，根据现有分类体系，归类为风景/通用。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/星空/20260424-040023-dcf7d5.jpg",
+      "category": "风景",
+      "subcategory": "星空",
+      "filename": "20260424-040023-dcf7d5.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "size": 255941,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "星空",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "星空",
+        "keywords": [
+          "星空",
+          "风景",
+          "梦幻",
+          "山脉"
+        ],
+        "description": "星空下的山脉，河流闪烁着梦幻般的光芒。",
+        "filenameSuggestions": [
+          "流淌着星光的梦幻峡谷.jpg",
+          "紫色极光下的山脉奇观.jpg"
+        ],
+        "displayTitle": "星河下的魔幻山脉",
+        "confidence": 0.9,
+        "reasoning": "图片展现了山脉与闪烁的河流，带有星空梦幻的氛围，符合风景/星空的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/20260424-040040-00b4bc.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040040-00b4bc.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "size": 1689066,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/20260424-040040-83ef1f.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040040-83ef1f.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "size": 268270,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/20260424-040041-90ae00.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040041-90ae00.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "size": 205556,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/森林/20260424-040041-616122.jpg",
+      "category": "风景",
+      "subcategory": "森林",
+      "filename": "20260424-040041-616122.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "size": 439932,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "森林",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "森林",
+        "keywords": [
+          "森林",
+          "树木",
+          "自然"
+        ],
+        "description": "一棵古老巨树的近景，树皮粗糙且充满纹理，树枝向上延伸，充满生机。",
+        "filenameSuggestions": [
+          "树干上的苔藓与光影.jpg",
+          "森林深处的巨人树.jpg"
+        ],
+        "displayTitle": "古老巨树的静谧时刻",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一棵巨树的树干和部分树枝，背景是森林环境。根据决策树，首先判断图片内容以风景为主，具体的森林场景，因此归类为风景/森林。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/20260424-040041-a2bc4c.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040041-a2bc4c.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "size": 508741,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    }
+  ]
+}
