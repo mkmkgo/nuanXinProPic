@@ -1,0 +1,297 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-24T03:13:03.449Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/海滨/20260424-035924-4a4490.jpg",
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424-035924-4a4490.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "size": 687607,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "波浪",
+          "蓝天",
+          "白云"
+        ],
+        "description": "海天一色，波澜壮阔，蓝天白云下的海滨美景。",
+        "filenameSuggestions": [
+          "海滨波浪涌动的景象.jpg",
+          "蓝天白云下的海滨风光.jpg"
+        ],
+        "displayTitle": "海天一色，波澜壮阔",
+        "confidence": 0.9,
+        "reasoning": "图片展示了海滨的自然景观，波浪汹涌，蓝天白云，符合风景/海滨的分类特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/星空/20260424-035924-74eb43.jpg",
+      "category": "风景",
+      "subcategory": "星空",
+      "filename": "20260424-035924-74eb43.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "size": 805048,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "星空",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "星空",
+        "keywords": [
+          "极光",
+          "海湾",
+          "夜景",
+          "星空"
+        ],
+        "description": "夜空中极光闪烁，海湾剪影清晰可见，呈现一幅梦幻般的自然景观。",
+        "filenameSuggestions": [
+          "绚丽极光下的海湾夜景.jpg",
+          "星空下的海岸线剪影.jpg"
+        ],
+        "displayTitle": "极光下的梦幻海湾",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了海湾在夜空下的景象，极光的色彩丰富且明显，符合风景/星空的分类特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/海滨/20260424-035924-dc767c.jpg",
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424-035924-dc767c.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "size": 1070785,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "沙漠",
+          "棕榈树",
+          "黄昏",
+          "海滨"
+        ],
+        "description": "黄昏下的沙漠绿洲，椰子树挺拔，沙丘起伏。",
+        "filenameSuggestions": [
+          "黄昏沙漠中的棕榈绿洲.jpg",
+          "日落沙丘与椰子树.jpg"
+        ],
+        "displayTitle": "黄昏下的沙漠绿洲",
+        "confidence": 0.9,
+        "reasoning": "图片展示了沙漠中的棕榈树和沙丘，背景有海滨的特征，符合风景/海滨的分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/森林/20260424-035925-6c197a.jpg",
+      "category": "风景",
+      "subcategory": "森林",
+      "filename": "20260424-035925-6c197a.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "size": 556838,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "森林",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "森林",
+        "keywords": [
+          "森林",
+          "光影",
+          "黄昏",
+          "神秘"
+        ],
+        "description": "黄昏时分的森林，光线透过树木，投射在地面上的光影交错，营造出一种神秘的氛围。",
+        "filenameSuggestions": [
+          "森林小径上的黄昏光影.jpg",
+          "迷雾森林中的阳光穿透树林.jpg"
+        ],
+        "displayTitle": "暮色森林中的神秘光芒",
+        "confidence": 0.9,
+        "reasoning": "根据图像内容，图片展示了一个森林的场景，黄昏时分的光线透过树木，投射在地面上，形成光影交错的效果。因此，归类为风景/森林。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/雪山/20260424-035925-1178e3.jpg",
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "20260424-035925-1178e3.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "size": 656468,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "雪山",
+          "绿谷",
+          "云雾",
+          "自然风光"
+        ],
+        "description": "云雾缭绕的雪山与绿草如茵的山谷风光",
+        "filenameSuggestions": [
+          "云雾中的雪山绿谷.jpg",
+          "绿草如茵的山谷风光.jpg"
+        ],
+        "displayTitle": "云雾缭绕的雪山绿谷",
+        "confidence": 0.9,
+        "reasoning": "图片展示了雪山、绿谷和云雾的自然景观，根据决策树直接归入风景/雪山类"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/20260424-035925-f459cf.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-035925-f459cf.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "size": 1804230,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/20260424-040006-58bb78.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040006-58bb78.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "size": 1702158,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/20260424-040006-881d78.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040006-881d78.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "size": 1686590,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/20260424-040006-152708.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040006-152708.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "size": 1496347,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/20260424-040006-afc235.jpg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040006-afc235.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "size": 1415408,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    }
+  ]
+}
