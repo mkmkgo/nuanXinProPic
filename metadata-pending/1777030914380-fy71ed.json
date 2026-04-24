@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-24T11:41:54.380Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/风景/1000018538.jpg",
+      "category": "插画",
+      "subcategory": "风景",
+      "filename": "1000018538.jpg",
+      "createdAt": "2026-04-24T11:41:54.380Z",
+      "size": 111441,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "风景",
+        "subcategory": "风景",
+        "filenameSuggestions": [
+          "插画"
+        ],
+        "filenames": [
+          "插画"
+        ],
+        "displayTitle": "插画",
+        "keywords": [
+          "插画"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/风景/1000018537.jpg",
+      "category": "插画",
+      "subcategory": "风景",
+      "filename": "1000018537.jpg",
+      "createdAt": "2026-04-24T11:41:54.380Z",
+      "size": 302912,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "风景",
+        "subcategory": "风景",
+        "filenameSuggestions": [
+          "插画"
+        ],
+        "filenames": [
+          "插画"
+        ],
+        "displayTitle": "插画",
+        "keywords": [
+          "插画"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/风景/1000018536.jpg",
+      "category": "插画",
+      "subcategory": "风景",
+      "filename": "1000018536.jpg",
+      "createdAt": "2026-04-24T11:41:54.380Z",
+      "size": 186494,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "风景",
+        "subcategory": "风景",
+        "filenameSuggestions": [
+          "插画"
+        ],
+        "filenames": [
+          "插画"
+        ],
+        "displayTitle": "插画",
+        "keywords": [
+          "插画"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/风景/1000018535.jpg",
+      "category": "插画",
+      "subcategory": "风景",
+      "filename": "1000018535.jpg",
+      "createdAt": "2026-04-24T11:41:54.380Z",
+      "size": 347063,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "风景",
+        "subcategory": "风景",
+        "filenameSuggestions": [
+          "插画"
+        ],
+        "filenames": [
+          "插画"
+        ],
+        "displayTitle": "插画",
+        "keywords": [
+          "插画"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    }
+  ]
+}
