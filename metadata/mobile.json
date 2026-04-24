@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-23 18:15:10",
-  "count": 798,
+  "lastUpdated": "2026-04-24 03:21:31",
+  "count": 902,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -25421,6 +25421,3328 @@
         "displayTitle": "阳光下的运动女孩",
         "confidence": 0.9,
         "reasoning": "根据图片内容，人物穿着运动服，姿势自然，背景简洁，整体氛围明亮清新，符合【清新】(Fresh)的特征。"
+      }
+    },
+    "wallpaper/mobile/通用/1000018187.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018187.jpg",
+      "createdAt": "2026-04-23T19:54:21.455Z",
+      "cdnTag": "v1.2.81",
+      "size": 73627,
+      "format": "jpg",
+      "resolution": {
+        "width": 884,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018186.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018186.jpg",
+      "createdAt": "2026-04-23T19:54:21.455Z",
+      "cdnTag": "v1.2.81",
+      "size": 308728,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018185.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018185.jpg",
+      "createdAt": "2026-04-23T19:54:21.455Z",
+      "cdnTag": "v1.2.81",
+      "size": 540864,
+      "format": "jpg",
+      "resolution": {
+        "width": 2036,
+        "height": 4073,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018195.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018195.jpg",
+      "createdAt": "2026-04-23T19:54:21.455Z",
+      "cdnTag": "v1.2.81",
+      "size": 769754,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 2844,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018194.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018194.jpg",
+      "createdAt": "2026-04-23T19:54:21.455Z",
+      "cdnTag": "v1.2.81",
+      "size": 931817,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 2844,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018193.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018193.jpg",
+      "createdAt": "2026-04-23T19:54:21.455Z",
+      "cdnTag": "v1.2.81",
+      "size": 876865,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 2844,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018198.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018198.jpg",
+      "createdAt": "2026-04-23T19:54:21.455Z",
+      "cdnTag": "v1.2.81",
+      "size": 86455,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018197.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018197.jpg",
+      "createdAt": "2026-04-23T19:54:21.455Z",
+      "cdnTag": "v1.2.81",
+      "size": 71901,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018196.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018196.jpg",
+      "createdAt": "2026-04-23T19:54:21.455Z",
+      "cdnTag": "v1.2.81",
+      "size": 109400,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018199.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018199.jpg",
+      "createdAt": "2026-04-23T19:54:21.455Z",
+      "cdnTag": "v1.2.81",
+      "size": 139331,
+      "format": "jpg",
+      "resolution": {
+        "width": 1439,
+        "height": 3128,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018206.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018206.jpg",
+      "createdAt": "2026-04-23T20:02:58.426Z",
+      "cdnTag": "v1.2.81",
+      "size": 1570882,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018205.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018205.jpg",
+      "createdAt": "2026-04-23T20:02:58.426Z",
+      "cdnTag": "v1.2.81",
+      "size": 1416284,
+      "format": "jpg",
+      "resolution": {
+        "width": 1953,
+        "height": 4243,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018204.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018204.jpg",
+      "createdAt": "2026-04-23T20:02:58.426Z",
+      "cdnTag": "v1.2.81",
+      "size": 1247299,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018203.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018203.jpg",
+      "createdAt": "2026-04-23T20:02:58.426Z",
+      "cdnTag": "v1.2.81",
+      "size": 1262639,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018202.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018202.jpg",
+      "createdAt": "2026-04-23T20:02:58.426Z",
+      "cdnTag": "v1.2.81",
+      "size": 1249858,
+      "format": "jpg",
+      "resolution": {
+        "width": 1495,
+        "height": 3247,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018201.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018201.jpg",
+      "createdAt": "2026-04-23T20:02:58.426Z",
+      "cdnTag": "v1.2.81",
+      "size": 1314029,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018200.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018200.jpg",
+      "createdAt": "2026-04-23T20:02:58.426Z",
+      "cdnTag": "v1.2.81",
+      "size": 1413402,
+      "format": "jpg",
+      "resolution": {
+        "width": 1863,
+        "height": 4032,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018208.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018208.jpg",
+      "createdAt": "2026-04-23T20:02:58.427Z",
+      "cdnTag": "v1.2.81",
+      "size": 1685834,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018207.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018207.jpg",
+      "createdAt": "2026-04-23T20:02:58.427Z",
+      "cdnTag": "v1.2.81",
+      "size": 1161907,
+      "format": "jpg",
+      "resolution": {
+        "width": 2112,
+        "height": 4224,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018214.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018214.jpg",
+      "createdAt": "2026-04-23T20:02:58.427Z",
+      "cdnTag": "v1.2.81",
+      "size": 1776476,
+      "format": "jpg",
+      "resolution": {
+        "width": 1285,
+        "height": 2781,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018213.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018213.jpg",
+      "createdAt": "2026-04-23T20:05:24.860Z",
+      "cdnTag": "v1.2.81",
+      "size": 979677,
+      "format": "jpg",
+      "resolution": {
+        "width": 1285,
+        "height": 2781,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018212.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018212.jpg",
+      "createdAt": "2026-04-23T20:05:24.860Z",
+      "cdnTag": "v1.2.81",
+      "size": 1912273,
+      "format": "jpg",
+      "resolution": {
+        "width": 1285,
+        "height": 2781,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018211.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018211.jpg",
+      "createdAt": "2026-04-23T20:05:24.860Z",
+      "cdnTag": "v1.2.81",
+      "size": 556589,
+      "format": "jpg",
+      "resolution": {
+        "width": 1285,
+        "height": 2781,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018210.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018210.jpg",
+      "createdAt": "2026-04-23T20:05:24.860Z",
+      "cdnTag": "v1.2.81",
+      "size": 699767,
+      "format": "jpg",
+      "resolution": {
+        "width": 1285,
+        "height": 2781,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018209.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018209.jpg",
+      "createdAt": "2026-04-23T20:05:24.860Z",
+      "cdnTag": "v1.2.81",
+      "size": 1989178,
+      "format": "jpg",
+      "resolution": {
+        "width": 1285,
+        "height": 2781,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018215.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018215.jpg",
+      "createdAt": "2026-04-23T20:05:24.860Z",
+      "cdnTag": "v1.2.81",
+      "size": 1716371,
+      "format": "jpg",
+      "resolution": {
+        "width": 1285,
+        "height": 2781,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018222.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018222.jpg",
+      "createdAt": "2026-04-23T20:05:24.860Z",
+      "cdnTag": "v1.2.81",
+      "size": 624213,
+      "format": "jpg",
+      "resolution": {
+        "width": 944,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018221.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018221.jpg",
+      "createdAt": "2026-04-23T20:05:24.860Z",
+      "cdnTag": "v1.2.81",
+      "size": 1071163,
+      "format": "jpg",
+      "resolution": {
+        "width": 944,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018220.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018220.jpg",
+      "createdAt": "2026-04-23T20:05:24.860Z",
+      "cdnTag": "v1.2.81",
+      "size": 668393,
+      "format": "jpg",
+      "resolution": {
+        "width": 944,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018219.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018219.jpg",
+      "createdAt": "2026-04-23T20:05:24.860Z",
+      "cdnTag": "v1.2.81",
+      "size": 872010,
+      "format": "jpg",
+      "resolution": {
+        "width": 944,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018218.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018218.jpg",
+      "createdAt": "2026-04-23T20:06:56.125Z",
+      "cdnTag": "v1.2.81",
+      "size": 1052385,
+      "format": "jpg",
+      "resolution": {
+        "width": 944,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018217.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018217.jpg",
+      "createdAt": "2026-04-23T20:06:56.125Z",
+      "cdnTag": "v1.2.81",
+      "size": 567284,
+      "format": "jpg",
+      "resolution": {
+        "width": 944,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018216.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018216.jpg",
+      "createdAt": "2026-04-23T20:06:56.125Z",
+      "cdnTag": "v1.2.81",
+      "size": 830320,
+      "format": "jpg",
+      "resolution": {
+        "width": 944,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018224.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018224.jpg",
+      "createdAt": "2026-04-23T20:06:56.125Z",
+      "cdnTag": "v1.2.81",
+      "size": 523976,
+      "format": "jpg",
+      "resolution": {
+        "width": 944,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018223.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018223.jpg",
+      "createdAt": "2026-04-23T20:06:56.125Z",
+      "cdnTag": "v1.2.81",
+      "size": 372098,
+      "format": "jpg",
+      "resolution": {
+        "width": 944,
+        "height": 2048,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018229.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018229.jpg",
+      "createdAt": "2026-04-23T20:06:56.125Z",
+      "cdnTag": "v1.2.81",
+      "size": 179879,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018228.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018228.jpg",
+      "createdAt": "2026-04-23T20:06:56.125Z",
+      "cdnTag": "v1.2.81",
+      "size": 199789,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018227.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018227.jpg",
+      "createdAt": "2026-04-23T20:06:56.125Z",
+      "cdnTag": "v1.2.81",
+      "size": 181550,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3122,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018226.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018226.jpg",
+      "createdAt": "2026-04-23T20:06:56.125Z",
+      "cdnTag": "v1.2.81",
+      "size": 180374,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018225.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018225.jpg",
+      "createdAt": "2026-04-23T20:06:56.125Z",
+      "cdnTag": "v1.2.81",
+      "size": 272947,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018230.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018230.jpg",
+      "createdAt": "2026-04-23T20:09:57.934Z",
+      "cdnTag": "v1.2.81",
+      "size": 199172,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018238.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018238.jpg",
+      "createdAt": "2026-04-23T20:09:57.934Z",
+      "cdnTag": "v1.2.81",
+      "size": 290884,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018237.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018237.jpg",
+      "createdAt": "2026-04-23T20:09:57.934Z",
+      "cdnTag": "v1.2.81",
+      "size": 341710,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018236.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018236.jpg",
+      "createdAt": "2026-04-23T20:09:57.934Z",
+      "cdnTag": "v1.2.81",
+      "size": 375992,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018235.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018235.jpg",
+      "createdAt": "2026-04-23T20:09:57.934Z",
+      "cdnTag": "v1.2.81",
+      "size": 455393,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018231.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018231.jpg",
+      "createdAt": "2026-04-23T20:09:57.934Z",
+      "cdnTag": "v1.2.81",
+      "size": 230997,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018232.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018232.jpg",
+      "createdAt": "2026-04-23T20:09:57.934Z",
+      "cdnTag": "v1.2.81",
+      "size": 466354,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018233.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018233.jpg",
+      "createdAt": "2026-04-23T20:09:57.934Z",
+      "cdnTag": "v1.2.81",
+      "size": 454925,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018234.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018234.jpg",
+      "createdAt": "2026-04-23T20:09:57.934Z",
+      "cdnTag": "v1.2.81",
+      "size": 447504,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018239.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018239.jpg",
+      "createdAt": "2026-04-23T20:09:57.934Z",
+      "cdnTag": "v1.2.81",
+      "size": 440405,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018240.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018240.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 1499185,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3064,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "ModelScope API Key 无效或已过期。请检查您的 API Key 是否正确配置。"
+      }
+    },
+    "wallpaper/mobile/通用/1000018241.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018241.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 1443822,
+      "format": "jpg",
+      "resolution": {
+        "width": 1500,
+        "height": 2000,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018242.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018242.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 607415,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3064,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018243.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018243.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 652645,
+      "format": "jpg",
+      "resolution": {
+        "width": 1710,
+        "height": 2540,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018244.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018244.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 870890,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018245.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018245.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 1044797,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018259.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018259.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 1360145,
+      "format": "jpg",
+      "resolution": {
+        "width": 2732,
+        "height": 3984,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018258.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018258.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 835338,
+      "format": "jpg",
+      "resolution": {
+        "width": 2386,
+        "height": 3475,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018257.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018257.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 831848,
+      "format": "jpg",
+      "resolution": {
+        "width": 2384,
+        "height": 3476,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018256.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018256.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 1467685,
+      "format": "jpg",
+      "resolution": {
+        "width": 2732,
+        "height": 3980,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/通用/1000018255.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "1000018255.jpg",
+      "createdAt": "2026-04-23T20:13:43.457Z",
+      "cdnTag": "v1.2.81",
+      "size": 840462,
+      "format": "jpg",
+      "resolution": {
+        "width": 2387,
+        "height": 3473,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/20260424-035854-235294.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260424-035854-235294.jpg",
+      "createdAt": "2026-04-24T03:06:06.935Z",
+      "cdnTag": "v1.2.81",
+      "size": 818156,
+      "format": "jpg",
+      "resolution": {
+        "width": 2385,
+        "height": 3476,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "时尚白领丽人办公桌前沉思.jpg",
+          "现代都市女性的优雅瞬间.jpg"
+        ],
+        "filenames": [
+          "时尚白领丽人办公桌前沉思.jpg",
+          "现代都市女性的优雅瞬间.jpg"
+        ],
+        "displayTitle": "优雅的OL风格白领丽人",
+        "keywords": [
+          "OL风格",
+          "插画",
+          "白领丽人"
+        ],
+        "description": "一位穿着现代办公装的年轻女性，坐在桌子上，表情沉思。",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着类似OL风格的职业装，没有明显的特定明星或古装特征。图片带有插画风格，色彩和光线处理具有艺术感，因此归类为'人像/插画'。由于没有特定的IP或明星特征，未在三级分类中进一步细分。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/20260424-035854-ef71cf.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260424-035854-ef71cf.jpg",
+      "createdAt": "2026-04-24T03:06:06.935Z",
+      "cdnTag": "v1.2.81",
+      "size": 870774,
+      "format": "jpg",
+      "resolution": {
+        "width": 2388,
+        "height": 3471,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "桌前沉思",
+          "优雅"
+        ],
+        "description": "一位穿着蓝色裙装的长发少女坐在桌前沉思，表情宁静优雅。",
+        "filenameSuggestions": [
+          "身穿蓝色裙装的长发少女沉思.jpg",
+          "桌前沉思的优雅女孩.jpg"
+        ],
+        "displayTitle": "桌前沉思的优雅少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，少女穿着清新自然的服装，表情宁静，坐在桌前沉思，整体氛围明亮优雅。根据任务规则A，判定为[人像/清新]。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/20260424-035855-5bef5a.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "20260424-035855-5bef5a.jpg",
+      "createdAt": "2026-04-24T03:06:06.935Z",
+      "cdnTag": "v1.2.81",
+      "size": 853957,
+      "format": "jpg",
+      "resolution": {
+        "width": 2385,
+        "height": 3476,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "时尚",
+          "OL",
+          "职场风"
+        ],
+        "description": "现代职场女性充满自信与优雅的瞬间。",
+        "filenameSuggestions": [
+          "时尚白领办公室写真.jpg",
+          "现代女性职业装风格.jpg"
+        ],
+        "displayTitle": "办公室里的时尚OL",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，该图片中人物未露脸，但有重光影意境，符合【氛围感】的特征。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/20260424-035855-13523d.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260424-035855-13523d.jpg",
+      "createdAt": "2026-04-24T03:06:06.935Z",
+      "cdnTag": "v1.2.81",
+      "size": 1483496,
+      "format": "jpg",
+      "resolution": {
+        "width": 2732,
+        "height": 3982,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "身穿蓝色制服的自信少女.jpg",
+          "背着书包的清新学生.jpg"
+        ],
+        "filenames": [
+          "身穿蓝色制服的自信少女.jpg",
+          "背着书包的清新学生.jpg"
+        ],
+        "displayTitle": "清新学生风采",
+        "keywords": [
+          "学生装",
+          "插画风格",
+          "清新",
+          "少女"
+        ],
+        "description": "一位穿着蓝色学生服的少女，表情自信，充满活力。",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女的穿着和姿势更倾向于插画风格的学生形象，整体氛围清新自然，故分类为人像/插画。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/20260424-035855-878085.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260424-035855-878085.jpg",
+      "createdAt": "2026-04-24T03:06:06.935Z",
+      "cdnTag": "v1.2.81",
+      "size": 879127,
+      "format": "jpg",
+      "resolution": {
+        "width": 2387,
+        "height": 3473,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "校服",
+          "少女"
+        ],
+        "description": "一位穿着校服的少女坐在桌边，展现出清新自然的校园风采。",
+        "filenameSuggestions": [
+          "身穿校服的清新少女.jpg",
+          "坐在桌边的明亮女孩.jpg"
+        ],
+        "displayTitle": "校园风采的清新瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A4，清新风格的定义是明亮、治愈、氧气感。图片中少女穿着校服，面带微笑，背景简洁明亮，符合清新风格的特征。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/20260424-035855-884891.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260424-035855-884891.jpg",
+      "createdAt": "2026-04-24T03:06:06.935Z",
+      "cdnTag": "v1.2.81",
+      "size": 865572,
+      "format": "jpg",
+      "resolution": {
+        "width": 2387,
+        "height": 3473,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "学生风",
+          "办公室",
+          "甜美"
+        ],
+        "description": "一位穿着蓝色裙装的女孩坐在办公室桌旁，展现出清新甜美的气质。",
+        "filenameSuggestions": [
+          "身穿蓝色裙装的清新办公室女孩.jpg",
+          "坐在办公桌旁的甜美学生.jpg"
+        ],
+        "displayTitle": "办公室里的清新学生妹",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着学生装，坐在办公室桌旁，整体氛围明亮且甜美，符合【清新】的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/20260424-035855-bf2f40.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260424-035855-bf2f40.jpg",
+      "createdAt": "2026-04-24T03:06:06.935Z",
+      "cdnTag": "v1.2.81",
+      "size": 832004,
+      "format": "jpg",
+      "resolution": {
+        "width": 2386,
+        "height": 3475,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "人像",
+        "category": "人像",
+        "third": "清新",
+        "subcategory": "清新",
+        "filenameSuggestions": [
+          "时尚都市白领丽人.jpg",
+          "会议桌上的优雅女郎.jpg"
+        ],
+        "filenames": [
+          "时尚都市白领丽人.jpg",
+          "会议桌上的优雅女郎.jpg"
+        ],
+        "displayTitle": "现代都市中的清新OL风采",
+        "keywords": [
+          "清新",
+          "现代",
+          "OL",
+          "插画风格"
+        ],
+        "description": "一位穿着现代办公装的女性，展现都市丽人的清新风采。",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A4，清新风格定义为明亮、治愈、氧气感。图中女性穿着现代办公装，背景简洁明亮，整体给人一种清新、自然的感觉，因此归入人像/清新。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/20260424-035855-c7eb4a.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260424-035855-c7eb4a.jpg",
+      "createdAt": "2026-04-24T03:06:06.935Z",
+      "cdnTag": "v1.2.81",
+      "size": 1405543,
+      "format": "jpg",
+      "resolution": {
+        "width": 2732,
+        "height": 3984,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "学生装",
+          "少女"
+        ],
+        "description": "一位穿着清新学生装的美丽少女，展现校园风采。",
+        "filenameSuggestions": [
+          "清新学生装少女.jpg",
+          "校园风光中的美丽女生.jpg"
+        ],
+        "displayTitle": "校园风采的美丽学子",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A4，清新类定义为明亮、治愈、氧气感。图片中少女穿着学生装，背景明亮，色彩自然，笑容甜美，符合清新类特征。"
+      }
+    },
+    "wallpaper/mobile/插画/萌宠/20260424-035909-978afb.jpg": {
+      "category": "插画",
+      "subcategory": "萌宠",
+      "filename": "20260424-035909-978afb.jpg",
+      "createdAt": "2026-04-24T03:06:06.935Z",
+      "cdnTag": "v1.2.81",
+      "size": 704867,
+      "format": "jpg",
+      "resolution": {
+        "width": 1890,
+        "height": 4096,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "插画",
+        "category": "插画",
+        "third": "萌宠",
+        "subcategory": "萌宠",
+        "filenameSuggestions": [
+          "猫咪"
+        ],
+        "filenames": [
+          "猫咪"
+        ],
+        "displayTitle": "猫咪",
+        "keywords": [
+          "猫咪"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    },
+    "wallpaper/mobile/萌宠/IP形象/20260424-035909-b0ec31.jpg": {
+      "category": "萌宠",
+      "subcategory": "IP形象",
+      "filename": "20260424-035909-b0ec31.jpg",
+      "createdAt": "2026-04-24T03:06:06.935Z",
+      "cdnTag": "v1.2.81",
+      "size": 554819,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 2838,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "category": "萌宠",
+        "third": "IP形象",
+        "subcategory": "IP形象",
+        "filenameSuggestions": [
+          "猫咪"
+        ],
+        "filenames": [
+          "猫咪"
+        ],
+        "displayTitle": "猫咪",
+        "keywords": [
+          "猫咪"
+        ],
+        "description": "",
+        "confidence": 0.9,
+        "reasoning": null
+      }
+    },
+    "wallpaper/mobile/风景/海滨/20260424-035924-4a4490.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424-035924-4a4490.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "cdnTag": "v1.2.81",
+      "size": 687607,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "波浪",
+          "蓝天",
+          "白云"
+        ],
+        "description": "海天一色，波澜壮阔，蓝天白云下的海滨美景。",
+        "filenameSuggestions": [
+          "海滨波浪涌动的景象.jpg",
+          "蓝天白云下的海滨风光.jpg"
+        ],
+        "displayTitle": "海天一色，波澜壮阔",
+        "confidence": 0.9,
+        "reasoning": "图片展示了海滨的自然景观，波浪汹涌，蓝天白云，符合风景/海滨的分类特征。"
+      }
+    },
+    "wallpaper/mobile/风景/星空/20260424-035924-74eb43.jpg": {
+      "category": "风景",
+      "subcategory": "星空",
+      "filename": "20260424-035924-74eb43.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "cdnTag": "v1.2.81",
+      "size": 805048,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2338,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "星空",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "星空",
+        "keywords": [
+          "极光",
+          "海湾",
+          "夜景",
+          "星空"
+        ],
+        "description": "夜空中极光闪烁，海湾剪影清晰可见，呈现一幅梦幻般的自然景观。",
+        "filenameSuggestions": [
+          "绚丽极光下的海湾夜景.jpg",
+          "星空下的海岸线剪影.jpg"
+        ],
+        "displayTitle": "极光下的梦幻海湾",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了海湾在夜空下的景象，极光的色彩丰富且明显，符合风景/星空的分类特征。"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/20260424-035924-dc767c.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424-035924-dc767c.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "cdnTag": "v1.2.81",
+      "size": 1070785,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "沙漠",
+          "棕榈树",
+          "黄昏",
+          "海滨"
+        ],
+        "description": "黄昏下的沙漠绿洲，椰子树挺拔，沙丘起伏。",
+        "filenameSuggestions": [
+          "黄昏沙漠中的棕榈绿洲.jpg",
+          "日落沙丘与椰子树.jpg"
+        ],
+        "displayTitle": "黄昏下的沙漠绿洲",
+        "confidence": 0.9,
+        "reasoning": "图片展示了沙漠中的棕榈树和沙丘，背景有海滨的特征，符合风景/海滨的分类。"
+      }
+    },
+    "wallpaper/mobile/风景/森林/20260424-035925-6c197a.jpg": {
+      "category": "风景",
+      "subcategory": "森林",
+      "filename": "20260424-035925-6c197a.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "cdnTag": "v1.2.81",
+      "size": 556838,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "森林",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "森林",
+        "keywords": [
+          "森林",
+          "光影",
+          "黄昏",
+          "神秘"
+        ],
+        "description": "黄昏时分的森林，光线透过树木，投射在地面上的光影交错，营造出一种神秘的氛围。",
+        "filenameSuggestions": [
+          "森林小径上的黄昏光影.jpg",
+          "迷雾森林中的阳光穿透树林.jpg"
+        ],
+        "displayTitle": "暮色森林中的神秘光芒",
+        "confidence": 0.9,
+        "reasoning": "根据图像内容，图片展示了一个森林的场景，黄昏时分的光线透过树木，投射在地面上，形成光影交错的效果。因此，归类为风景/森林。"
+      }
+    },
+    "wallpaper/mobile/风景/雪山/20260424-035925-1178e3.jpg": {
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "20260424-035925-1178e3.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "cdnTag": "v1.2.81",
+      "size": 656468,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "雪山",
+          "绿谷",
+          "云雾",
+          "自然风光"
+        ],
+        "description": "云雾缭绕的雪山与绿草如茵的山谷风光",
+        "filenameSuggestions": [
+          "云雾中的雪山绿谷.jpg",
+          "绿草如茵的山谷风光.jpg"
+        ],
+        "displayTitle": "云雾缭绕的雪山绿谷",
+        "confidence": 0.9,
+        "reasoning": "图片展示了雪山、绿谷和云雾的自然景观，根据决策树直接归入风景/雪山类"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-035925-f459cf.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-035925-f459cf.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "cdnTag": "v1.2.81",
+      "size": 1804230,
+      "format": "jpg",
+      "resolution": {
+        "width": 1290,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040006-58bb78.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040006-58bb78.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "cdnTag": "v1.2.81",
+      "size": 1702158,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040006-881d78.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040006-881d78.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "cdnTag": "v1.2.81",
+      "size": 1686590,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040006-152708.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040006-152708.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "cdnTag": "v1.2.81",
+      "size": 1496347,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040006-afc235.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040006-afc235.jpg",
+      "createdAt": "2026-04-24T03:13:03.449Z",
+      "cdnTag": "v1.2.81",
+      "size": 1415408,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/20260424-040023-44cad5.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424-040023-44cad5.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "cdnTag": "v1.2.81",
+      "size": 337297,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "粉色浪潮",
+          "黑沙滩"
+        ],
+        "description": "黑沙海滩上粉色海浪的梦幻景象",
+        "filenameSuggestions": [
+          "粉色浪潮下的黑沙海滩.jpg",
+          "海浪轻吻黑沙岸.jpg"
+        ],
+        "displayTitle": "梦幻海滨日落",
+        "confidence": 0.9,
+        "reasoning": "根据图像特征，主要元素为海滨风景，且具有独特的粉色海浪和黑沙滩，归类为风景/海滨。"
+      }
+    },
+    "wallpaper/mobile/风景/城市/20260424-040023-b0554f.jpg": {
+      "category": "风景",
+      "subcategory": "城市",
+      "filename": "20260424-040023-b0554f.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "cdnTag": "v1.2.81",
+      "size": 120214,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "城市",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "城市",
+        "keywords": [
+          "城市夜景",
+          "雾气",
+          "霓虹灯",
+          "空旷"
+        ],
+        "description": "夜晚的城市街道笼罩在雾气中，紫色霓虹灯投下神秘的光芒。",
+        "filenameSuggestions": [
+          "雾夜下的城市街道.jpg",
+          "紫色霓虹灯下的空旷街道.jpg"
+        ],
+        "displayTitle": "雾夜下的城市街道",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一个夜间城市街道的场景，有明显的城市风景特征，街道、路灯和雾气都指向城市主题。"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/20260424-040023-b0888d.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424-040023-b0888d.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "cdnTag": "v1.2.81",
+      "size": 257144,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "极光",
+          "魔幻",
+          "夜景"
+        ],
+        "description": "海边夜景中神秘的粉色光迹",
+        "filenameSuggestions": [
+          "魔幻极光下的海滨夜景.jpg",
+          "海边神秘的粉色光迹.jpg"
+        ],
+        "displayTitle": "海边魔幻极光",
+        "confidence": 0.9,
+        "reasoning": "图片展现了海滨夜景中出现的一种魔幻的粉色光迹，符合风景/海滨的分类。光迹在水面延伸，营造出一种神秘而梦幻的氛围。"
+      }
+    },
+    "wallpaper/mobile/风景/通用/20260424-040023-ced882.jpg": {
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "20260424-040023-ced882.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "cdnTag": "v1.2.81",
+      "size": 374297,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "风景",
+          "梦幻",
+          "峡谷",
+          "粉色河流"
+        ],
+        "description": "紫色河流贯穿神秘峡谷，雾气缭绕，景色奇异壮丽。",
+        "filenameSuggestions": [
+          "迷雾中山间奇异粉河.jpg",
+          "紫色光芒笼罩的峡谷风景.jpg"
+        ],
+        "displayTitle": "梦幻紫色峡谷奇观",
+        "confidence": 0.9,
+        "reasoning": "图像显示为一幅风景画，展现峡谷和粉色河流的奇幻景象，无具体人物或动漫特征，根据现有分类体系，归类为风景/通用。"
+      }
+    },
+    "wallpaper/mobile/风景/星空/20260424-040023-dcf7d5.jpg": {
+      "category": "风景",
+      "subcategory": "星空",
+      "filename": "20260424-040023-dcf7d5.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "cdnTag": "v1.2.81",
+      "size": 255941,
+      "format": "jpg",
+      "resolution": {
+        "width": 1320,
+        "height": 2868,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "星空",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "星空",
+        "keywords": [
+          "星空",
+          "风景",
+          "梦幻",
+          "山脉"
+        ],
+        "description": "星空下的山脉，河流闪烁着梦幻般的光芒。",
+        "filenameSuggestions": [
+          "流淌着星光的梦幻峡谷.jpg",
+          "紫色极光下的山脉奇观.jpg"
+        ],
+        "displayTitle": "星河下的魔幻山脉",
+        "confidence": 0.9,
+        "reasoning": "图片展现了山脉与闪烁的河流，带有星空梦幻的氛围，符合风景/星空的特征。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040040-00b4bc.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040040-00b4bc.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "cdnTag": "v1.2.81",
+      "size": 1689066,
+      "format": "jpg",
+      "resolution": {
+        "width": 1581,
+        "height": 3424,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040040-83ef1f.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040040-83ef1f.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "cdnTag": "v1.2.81",
+      "size": 268270,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040041-90ae00.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040041-90ae00.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "cdnTag": "v1.2.81",
+      "size": 205556,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/森林/20260424-040041-616122.jpg": {
+      "category": "风景",
+      "subcategory": "森林",
+      "filename": "20260424-040041-616122.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "cdnTag": "v1.2.81",
+      "size": 439932,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2346,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "森林",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "森林",
+        "keywords": [
+          "森林",
+          "树木",
+          "自然"
+        ],
+        "description": "一棵古老巨树的近景，树皮粗糙且充满纹理，树枝向上延伸，充满生机。",
+        "filenameSuggestions": [
+          "树干上的苔藓与光影.jpg",
+          "森林深处的巨人树.jpg"
+        ],
+        "displayTitle": "古老巨树的静谧时刻",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一棵巨树的树干和部分树枝，背景是森林环境。根据决策树，首先判断图片内容以风景为主，具体的森林场景，因此归类为风景/森林。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040041-a2bc4c.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040041-a2bc4c.jpg",
+      "createdAt": "2026-04-24T03:14:33.082Z",
+      "cdnTag": "v1.2.81",
+      "size": 508741,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2345,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/雪山/20260424-040041-c49799.jpg": {
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "20260424-040041-c49799.jpg",
+      "createdAt": "2026-04-24T03:17:33.737Z",
+      "cdnTag": "v1.2.81",
+      "size": 1889314,
+      "format": "jpg",
+      "resolution": {
+        "width": 1956,
+        "height": 4239,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "雪山",
+          "云雾",
+          "风景"
+        ],
+        "description": "雪山巍峨，云雾缭绕，景色壮丽。",
+        "filenameSuggestions": [
+          "云雾缭绕的巍峨雪山.jpg",
+          "雪山与云海的完美邂逅.jpg"
+        ],
+        "displayTitle": "云雾缭绕的巍峨雪山",
+        "confidence": 0.9,
+        "reasoning": "图片显示为雪山景观，符合风景/雪山的分类特征。"
+      }
+    },
+    "wallpaper/mobile/风景/冬日雪景/20260424-040041-ce4ebb.jpg": {
+      "category": "风景",
+      "subcategory": "冬日雪景",
+      "filename": "20260424-040041-ce4ebb.jpg",
+      "createdAt": "2026-04-24T03:17:33.737Z",
+      "cdnTag": "v1.2.81",
+      "size": 169907,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "冬日雪景",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "冬日雪景",
+        "keywords": [
+          "雪山",
+          "滑雪",
+          "冬日"
+        ],
+        "description": "雪山上的滑雪胜地，人们在雪中享受滑雪的乐趣。",
+        "filenameSuggestions": [
+          "滑雪小镇的雪山风景.jpg",
+          "冬日白雪覆盖的滑雪胜地.jpg"
+        ],
+        "displayTitle": "冬日雪峰滑雪胜地",
+        "confidence": 0.9,
+        "reasoning": "图片展示了雪山、滑雪缆车和人们滑雪的场景，根据核心判定逻辑，归类为风景/冬日雪景。"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/20260424-040041-dc6485.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424-040041-dc6485.jpg",
+      "createdAt": "2026-04-24T03:17:33.737Z",
+      "cdnTag": "v1.2.81",
+      "size": 1146761,
+      "format": "jpg",
+      "resolution": {
+        "width": 1956,
+        "height": 4238,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "帆船",
+          "地中海风格建筑",
+          "风景"
+        ],
+        "description": "地中海海滨的宁静与美丽",
+        "filenameSuggestions": [
+          "地中海海滨的白色帆船.jpg",
+          "西班牙风格建筑与蓝色大海.jpg"
+        ],
+        "displayTitle": "地中海上的帆影",
+        "confidence": 0.9,
+        "reasoning": "图片展示了典型的海滨风景，包含海水、帆船和地中海风格的建筑，根据现有分类体系，归类为风景/海滨。"
+      }
+    },
+    "wallpaper/mobile/风景/花卉/20260424-040041-ee38b2.jpg": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "20260424-040041-ee38b2.jpg",
+      "createdAt": "2026-04-24T03:17:33.737Z",
+      "cdnTag": "v1.2.81",
+      "size": 240166,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "风景",
+          "棕榈树",
+          "山景"
+        ],
+        "description": "山间雾气与棕榈树",
+        "filenameSuggestions": [
+          "山间雾气与棕榈树.jpg",
+          "棕榈树与山景.jpg"
+        ],
+        "displayTitle": "山间雾气与棕榈树",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了山景、棕榈树和雾气，符合风景分类下的花卉子类。"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/20260424-040056-2b3cfd.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424-040056-2b3cfd.jpg",
+      "createdAt": "2026-04-24T03:17:33.737Z",
+      "cdnTag": "v1.2.81",
+      "size": 1427751,
+      "format": "jpg",
+      "resolution": {
+        "width": 1956,
+        "height": 4237,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "夜景",
+          "荧光",
+          "蓝色"
+        ],
+        "description": "夜幕下的海湾，海水呈现梦幻般的荧光蓝色，与山脉和黑夜形成鲜明对比。",
+        "filenameSuggestions": [
+          "夜幕下的荧光海湾.jpg",
+          "太平洋中的发光海水.jpg"
+        ],
+        "displayTitle": "夜幕下的荧光海湾",
+        "confidence": 0.9,
+        "reasoning": "图片展示了海湾在夜晚的景象，海水呈现出荧光效果，背景是黑夜和山脉剪影。根据决策树，首先判断图片属于风景类，再具体归类为风景/海滨。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040057-5e6c88.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040057-5e6c88.jpg",
+      "createdAt": "2026-04-24T03:17:33.737Z",
+      "cdnTag": "v1.2.81",
+      "size": 1680466,
+      "format": "jpg",
+      "resolution": {
+        "width": 1956,
+        "height": 4237,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040057-41cc8b.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040057-41cc8b.jpg",
+      "createdAt": "2026-04-24T03:17:33.737Z",
+      "cdnTag": "v1.2.81",
+      "size": 1394841,
+      "format": "jpg",
+      "resolution": {
+        "width": 1956,
+        "height": 4237,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040057-4805d0.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040057-4805d0.jpg",
+      "createdAt": "2026-04-24T03:17:33.737Z",
+      "cdnTag": "v1.2.81",
+      "size": 1692223,
+      "format": "jpg",
+      "resolution": {
+        "width": 1956,
+        "height": 4237,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040057-a48e06.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040057-a48e06.jpg",
+      "createdAt": "2026-04-24T03:17:33.737Z",
+      "cdnTag": "v1.2.81",
+      "size": 825309,
+      "format": "jpg",
+      "resolution": {
+        "width": 1956,
+        "height": 4237,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/20260424-040057-c05be8.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "20260424-040057-c05be8.jpg",
+      "createdAt": "2026-04-24T03:17:33.737Z",
+      "cdnTag": "v1.2.81",
+      "size": 1577901,
+      "format": "jpg",
+      "resolution": {
+        "width": 1956,
+        "height": 4237,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/通用/20260424-040122-bd3206.jpg": {
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "20260424-040122-bd3206.jpg",
+      "createdAt": "2026-04-24T03:18:28.482Z",
+      "cdnTag": "v1.2.81",
+      "size": 737953,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "风景",
+          "自然",
+          "阳光"
+        ],
+        "description": "一片宁静的草地，阳光从树林间洒落，带来一抹温暖的光辉。",
+        "filenameSuggestions": [
+          "宁静的森林边缘草地.jpg",
+          "阳光洒落的林间草地.jpg"
+        ],
+        "displayTitle": "阳光下的绿野仙踪",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅典型的自然风景，没有特定的主题或人物，符合风景/通用的分类特征。"
+      }
+    },
+    "wallpaper/mobile/风景/花卉/20260424-040122-cea54e.jpg": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "20260424-040122-cea54e.jpg",
+      "createdAt": "2026-04-24T03:18:28.482Z",
+      "cdnTag": "v1.2.81",
+      "size": 267111,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 2781,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "秋景",
+          "湖泊",
+          "树叶变色"
+        ],
+        "description": "晴朗秋日里湖泊与变色树叶的美丽景色",
+        "filenameSuggestions": [
+          "秋色满溢的湖岸风光.jpg",
+          "湖光秋色树木绽放.jpg"
+        ],
+        "displayTitle": "秋日湖畔的绚丽画卷",
+        "confidence": 0.9,
+        "reasoning": "图片展示了湖泊与秋季树叶变色的景象，根据规则B，归入风景/花卉类"
+      }
+    },
+    "wallpaper/mobile/风景/日落/20260424-040122-f33e57.jpg": {
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "20260424-040122-f33e57.jpg",
+      "createdAt": "2026-04-24T03:18:28.482Z",
+      "cdnTag": "v1.2.81",
+      "size": 622632,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "日落",
+          "乡村",
+          "风景"
+        ],
+        "description": "夕阳西下，乡村小道宁静而美丽。",
+        "filenameSuggestions": [
+          "宁静的乡村小径在日落时分.jpg",
+          "日落乡村风景.jpg"
+        ],
+        "displayTitle": "夕阳下的乡村小道",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个典型的自然风景，包含夕阳、乡村小道、绿草和房屋，符合风景分类下的日落子类。"
       }
     }
   }
