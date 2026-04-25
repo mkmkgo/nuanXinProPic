@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-24 17:57:46",
-  "count": 966,
+  "lastUpdated": "2026-04-25 17:36:32",
+  "count": 1015,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -24440,17 +24440,18 @@
         "third": "魅力",
         "keywords": [
           "魅力",
-          "露脐装",
-          "诱惑"
+          "诱惑",
+          "丝袜",
+          "低俗词汇"
         ],
-        "description": "一位身穿白色露脐装的年轻女性，散发着神秘的魅力。",
+        "description": "一个穿着白色吊带和牛仔短裤的女孩坐在床上，戴着耳机，展现出她的魅力。",
         "filenameSuggestions": [
-          "身穿白色露脐装的神秘少女.jpg",
-          "低胸诱惑的都市丽人.jpg"
+          "身穿白色上衣和牛仔短裤的诱惑女孩.jpg",
+          "耳机下的撩人姿势.jpg"
         ],
-        "displayTitle": "月光下的诱惑",
+        "displayTitle": "耳语间的诱惑",
         "confidence": 0.9,
-        "reasoning": "根据图片内容，人物穿着露脐装，展现身材曲线，且姿态具有吸引力，根据决策树A2【魅力】的定义和特征，判定为[魅力]"
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中的女孩展现出成熟魅力，优先归入【魅力】(Glamour)分类。"
       }
     },
     "wallpaper/mobile/人像/魅力/少女-日系-死库水.png": {
@@ -30723,6 +30724,1650 @@
         "description": "",
         "confidence": 0.9,
         "reasoning": null
+      }
+    },
+    "wallpaper/mobile/人像/魅力/渔网丝袜-满意系列1.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "渔网丝袜-满意系列1.png",
+      "createdAt": "2026-04-25T08:43:10.294Z",
+      "cdnTag": "v1.2.84",
+      "size": 356352,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2344,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "丝袜",
+          "魅力",
+          "粉色系",
+          "梦幻"
+        ],
+        "description": "一个穿着白色丝袜的女孩在粉色房间里自拍。",
+        "filenameSuggestions": [
+          "身穿白色丝袜的少女在粉色房间.jpg",
+          "粉色房间里的可爱女孩.jpg"
+        ],
+        "displayTitle": "粉色梦幻中的魅力瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着白色丝袜，坐在粉色房间里自拍，表现出魅力和可爱。根据决策树A. 人像分类决策树 (Portrait Logic)中的【魅力】(Glamour)定义和特征，优先归入【魅力】分类。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13400089734147360.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13400089734147360.jpg",
+      "createdAt": "2026-04-25T08:43:10.294Z",
+      "cdnTag": "v1.2.84",
+      "size": 3565014,
+      "format": "jpg",
+      "resolution": {
+        "width": 1760,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "诱惑",
+          "魅力"
+        ],
+        "description": "低调奢华的黑白魅力，展现成熟女性的曲线美。",
+        "filenameSuggestions": [
+          "身穿格子裙的诱惑姿势.jpg",
+          "黑白魅力风情的室内写真.jpg"
+        ],
+        "displayTitle": "月光下的黑白交响",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【魅力】(Glamour)定义，图片中人物穿着短裙，姿势撩人，符合魅力类的特征，因此归入【魅力】分类。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/4k手机-4K手机壁纸.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "4k手机-4K手机壁纸.png",
+      "createdAt": "2026-04-25T08:46:14.976Z",
+      "cdnTag": "v1.2.84",
+      "size": 2052837,
+      "format": "png",
+      "resolution": {
+        "width": 1157,
+        "height": 2500,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "长发",
+          "白色运动装"
+        ],
+        "description": "一位穿着白色运动装的长发少女，悠闲地坐在椅子上。",
+        "filenameSuggestions": [
+          "穿白色运动套装的长发女孩.jpg",
+          "靠门坐着的清新少女.jpg"
+        ],
+        "displayTitle": "清新少女的悠闲时刻",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，首先排除特定明星和古装分类。该图片不具备明显的魅力（丝袜、紧身衣、露背/露肩、姿态撩人、夜景霓虹等特征均无）。图片色调明亮，女孩笑容甜美，背景简洁，具备清新风格的特征（高明度、色彩鲜艳自然、笑容甜美、背景干净）。因此归类为 人像/清新。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/11女孩-美女.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "11女孩-美女.png",
+      "createdAt": "2026-04-25T08:46:14.976Z",
+      "cdnTag": "v1.2.84",
+      "size": 613224,
+      "format": "png",
+      "resolution": {
+        "width": 1436,
+        "height": 3006,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "人像",
+          "床上"
+        ],
+        "description": "一位少女在床上悠闲地躺着，穿着白色短袖衫，表情宁静。",
+        "filenameSuggestions": [
+          "床上静谧时光的少女.jpg",
+          "白色床单上的悠闲女孩.jpg"
+        ],
+        "displayTitle": "床上静谧时光",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着清新，表情宁静，背景简洁，符合【清新】(Fresh)的定义。"
+      }
+    },
+    "wallpaper/mobile/通用/乖乖女友-口腔检查.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "乖乖女友-口腔检查.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "cdnTag": "v1.2.84",
+      "size": 3174804,
+      "format": "png",
+      "resolution": {
+        "width": 1600,
+        "height": 3600,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/口腔检查-惊讶美女.png": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "口腔检查-惊讶美女.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "cdnTag": "v1.2.84",
+      "size": 1886073,
+      "format": "png",
+      "resolution": {
+        "width": 1575,
+        "height": 3600,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "惊讶",
+          "人像"
+        ],
+        "description": "一个充满惊讶和好奇的年轻女孩，表情生动，氛围感十足。",
+        "filenameSuggestions": [
+          "低头惊讶的长发女孩.jpg",
+          "面带惊讶表情的年轻女孩自拍.jpg"
+        ],
+        "displayTitle": "惊讶的凝视",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A的人像分类决策树，图片中女孩的表情和姿势符合氛围感的特征，决定归类为人像/氛围感。"
+      }
+    },
+    "wallpaper/mobile/通用/女孩-美女1.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "女孩-美女1.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "cdnTag": "v1.2.84",
+      "size": 176626,
+      "format": "png",
+      "resolution": {
+        "width": 1280,
+        "height": 2796,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/女孩-性感美女.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "女孩-性感美女.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "cdnTag": "v1.2.84",
+      "size": 330811,
+      "format": "png",
+      "resolution": {
+        "width": 2098,
+        "height": 3952,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/手机壁纸-沙发.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "手机壁纸-沙发.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "cdnTag": "v1.2.84",
+      "size": 659934,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "魅力",
+          "诱惑"
+        ],
+        "description": "一位穿着黑丝的女孩坐在沙发上，展现出优雅与诱惑。",
+        "filenameSuggestions": [
+          "沙发上的黑丝美女.jpg",
+          "午后黑丝诱惑.jpg"
+        ],
+        "displayTitle": "黑丝诱惑的午后时光",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着黑丝袜，短裙，坐在沙发上，姿势撩人，符合【魅力】的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/性感-时尚-穿搭.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "性感-时尚-穿搭.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "cdnTag": "v1.2.84",
+      "size": 122343,
+      "format": "png",
+      "resolution": {
+        "width": 878,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝滑肌肤",
+          "诱惑"
+        ],
+        "description": "一位身穿白色内衣的女性，展现丝滑肌肤与诱惑姿态。",
+        "filenameSuggestions": [
+          "身穿白色内衣的诱惑美女.jpg",
+          "丝滑肌肤的性感姿态.jpg"
+        ],
+        "displayTitle": "月光下的丝滑诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物身穿暴露的白色内衣，展现出成熟的魅力，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/玉足-迷人.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "玉足-迷人.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "cdnTag": "v1.2.84",
+      "size": 151785,
+      "format": "png",
+      "resolution": {
+        "width": 1280,
+        "height": 1707,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "曲线",
+          "日落",
+          "泳衣"
+        ],
+        "description": "一位长发女子穿着黑色泳衣，坐于石栏上，背景是美丽的日落天空。",
+        "filenameSuggestions": [
+          "身穿黑色泳衣的长发女孩坐于石栏上.jpg",
+          "夕阳下的优雅曲线.jpg"
+        ],
+        "displayTitle": "日落下的曼妙身姿",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【魅力】(Glamour)定义和特征，图片中女子穿着黑色泳衣，展现身材曲线，背景是日落景象，符合魅力类的特征。"
+      }
+    },
+    "wallpaper/mobile/影视/疯狂动物城/4K-动漫角色-卡通.png": {
+      "category": "影视",
+      "subcategory": "疯狂动物城",
+      "filename": "4K-动漫角色-卡通.png",
+      "createdAt": "2026-04-25T08:50:33.628Z",
+      "cdnTag": "v1.2.84",
+      "size": 3782745,
+      "format": "png",
+      "resolution": {
+        "width": 1280,
+        "height": 2774,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "影视",
+        "subcategory": "疯狂动物城",
+        "primary": "mobile",
+        "secondary": "影视",
+        "third": "疯狂动物城",
+        "keywords": [
+          "Stitch",
+          "疯狂动物城",
+          "外星萌宠",
+          "迪士尼角色"
+        ],
+        "description": "Stitch是迪士尼电影疯狂动物城中深受喜爱的蓝色外星生物，以其俏皮和可爱而闻名。",
+        "filenameSuggestions": [
+          "蓝色外星人Stitch的笑容.jpg",
+          "Stitch俏皮表情特写.jpg"
+        ],
+        "displayTitle": "蓝色外星萌宠的俏皮瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，Stitch是电影疯狂动物城中的角色，因此归类为影视/疯狂动物城"
+      }
+    },
+    "wallpaper/mobile/萌宠/通用/IPhone-渐变.png": {
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "IPhone-渐变.png",
+      "createdAt": "2026-04-25T08:50:33.628Z",
+      "cdnTag": "v1.2.84",
+      "size": 620044,
+      "format": "png",
+      "resolution": {
+        "width": 2364,
+        "height": 5120,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "萌宠",
+          "小猫",
+          "背影"
+        ],
+        "description": "五只小猫并排坐立，背对着观众，面朝大海，享受阳光与美景。",
+        "filenameSuggestions": [
+          "五只猫凝望大海.jpg",
+          "背靠背的五只小猫.jpg"
+        ],
+        "displayTitle": "五猫背影望蓝天",
+        "confidence": 0.9,
+        "reasoning": "图片中五只小猫背对着观众，坐在一堵白色墙上，面朝大海和蓝天，符合萌宠类别下的通用风格。"
+      }
+    },
+    "wallpaper/mobile/萌宠/通用/LABUBU-光影.png": {
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "LABUBU-光影.png",
+      "createdAt": "2026-04-25T08:50:33.628Z",
+      "cdnTag": "v1.2.84",
+      "size": 99209,
+      "format": "png",
+      "resolution": {
+        "width": 1280,
+        "height": 2774,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "蓬松小怪兽",
+          "手电筒",
+          "夜间探险"
+        ],
+        "description": "一个蓬松的小怪兽在黑夜中手持手电筒探险的场景。",
+        "filenameSuggestions": [
+          "手持手电筒的蓬松小怪兽.jpg",
+          "黑夜中的好奇小精灵.jpg"
+        ],
+        "displayTitle": "夜深探秘的蓬松小怪兽",
+        "confidence": 0.9,
+        "reasoning": "图片中是一个类似怪兽的蓬松小生物，手持手电筒，处于黑暗环境中，符合萌宠分类下的通用风格。"
+      }
+    },
+    "wallpaper/mobile/插画/萌宠/LABUBU-卡通形象.png": {
+      "category": "插画",
+      "subcategory": "萌宠",
+      "filename": "LABUBU-卡通形象.png",
+      "createdAt": "2026-04-25T08:50:33.628Z",
+      "cdnTag": "v1.2.84",
+      "size": 7744914,
+      "format": "png",
+      "resolution": {
+        "width": 2700,
+        "height": 6000,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "萌宠",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "萌宠",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "兔子",
+          "浴缸"
+        ],
+        "description": "两只兔子在浴缸中嬉戏，周围有橡胶鸭子玩具。",
+        "filenameSuggestions": [
+          "浴缸里的兔子朋友们.jpg",
+          "水中嬉戏的白色和棕色兔子.jpg"
+        ],
+        "displayTitle": "水中的兔子朋友们",
+        "confidence": 0.9,
+        "reasoning": "图片中两只兔子形象明显属于萌宠类别，且整体风格为插画，因此归类为插画/萌宠。"
+      }
+    },
+    "wallpaper/mobile/风景/通用/草原-草原风光.png": {
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "草原-草原风光.png",
+      "createdAt": "2026-04-25T08:50:33.628Z",
+      "cdnTag": "v1.2.84",
+      "size": 329561,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2338,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "风景",
+          "自然",
+          "绿色",
+          "风力发电"
+        ],
+        "description": "一片绿色的草地上，矗立着风力发电机，蓝天白云，景色优美。",
+        "filenameSuggestions": [
+          "风电场下的绿草地.jpg",
+          "青翠山坡上的风力发电景观.jpg"
+        ],
+        "displayTitle": "风电场下的绿草地",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅自然风景，包含风力发电机、绿草地和蓝天白云，没有人物和明显的动漫或插画风格，根据现有分类体系，归类为风景/通用。"
+      }
+    },
+    "wallpaper/mobile/动漫/名侦探柯南/动漫情侣-名侦探柯南.png": {
+      "category": "动漫",
+      "subcategory": "名侦探柯南",
+      "filename": "动漫情侣-名侦探柯南.png",
+      "createdAt": "2026-04-25T08:50:33.628Z",
+      "cdnTag": "v1.2.84",
+      "size": 171513,
+      "format": "png",
+      "resolution": {
+        "width": 1280,
+        "height": 2323,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/女孩-浴室背景.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "女孩-浴室背景.png",
+      "createdAt": "2026-04-25T08:50:33.628Z",
+      "cdnTag": "v1.2.84",
+      "size": 599319,
+      "format": "png",
+      "resolution": {
+        "width": 1889,
+        "height": 4096,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/国风/8k-风景.png": {
+      "category": "风景",
+      "subcategory": "国风",
+      "filename": "8k-风景.png",
+      "createdAt": "2026-04-25T08:59:07.527Z",
+      "cdnTag": "v1.2.84",
+      "size": 11317248,
+      "format": "png",
+      "resolution": {
+        "width": 5180,
+        "height": 9500,
+        "label": "8K",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "国风",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "国风",
+        "keywords": [
+          "国风",
+          "桃花",
+          "古建筑"
+        ],
+        "description": "古亭旁桃花盛开，春意盎然。",
+        "filenameSuggestions": [
+          "古亭映桃枝.jpg",
+          "春日桃花盛开的古建筑.jpg"
+        ],
+        "displayTitle": "桃花依旧笑春风",
+        "confidence": 0.9,
+        "reasoning": "图片以桃花和传统建筑为主要元素，展现了浓厚的中国传统风格，符合国风分类。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/13392640544411690.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13392640544411690.jpeg",
+      "createdAt": "2026-04-25T12:15:33.874Z",
+      "cdnTag": "v1.2.84",
+      "size": 900425,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "侧颜",
+          "红唇"
+        ],
+        "description": "清新脱俗的少女侧颜，红唇点缀增添一丝俏皮。",
+        "filenameSuggestions": [
+          "侧颜清新的少女.jpg",
+          "红唇诱惑的清新女孩.jpg"
+        ],
+        "displayTitle": "清新少女的侧颜",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物面部清晰可见，表情甜美，背景干净，符合【清新】(Fresh)的定义。"
+      }
+    },
+    "wallpaper/mobile/插画/动漫/13392640571258181.jpeg": {
+      "category": "插画",
+      "subcategory": "动漫",
+      "filename": "13392640571258181.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 732429,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "动漫",
+        "keywords": [
+          "动漫",
+          "二次元",
+          "绿发少女"
+        ],
+        "description": "一位绿发动漫少女微笑，手持小花。",
+        "filenameSuggestions": [
+          "清新绿发少女.jpg",
+          "手持小花的动漫少女.jpg"
+        ],
+        "displayTitle": "绿发少女的微笑",
+        "confidence": 0.9,
+        "reasoning": "根据图片的动漫风格和未识别出具体作品，判定为动漫/二次元"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13392640501345000.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13392640501345000.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 929932,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1774,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝袜",
+          "短裙",
+          "山景"
+        ],
+        "description": "一位身穿浅色上衣和破洞牛仔短裙的女孩，站在山景优美的木桥上，展现都市丽人的魅力。",
+        "filenameSuggestions": [
+          "身穿浅色上衣的时尚短裙女孩.jpg",
+          "山间木桥上的优雅少女.jpg"
+        ],
+        "displayTitle": "山光映衬下的都市丽人",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着打扮具有一定魅力，展现身材曲线，背景有山景和木桥，属于人像/魅力分类。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13392640510900449.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13392640510900449.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 921770,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1819,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "魅力",
+          "学院风"
+        ],
+        "description": "一位身穿白色紧身衣和黑色短裙的女孩，手持书本，展现出一种校园风尚与魅力。",
+        "filenameSuggestions": [
+          "身穿白色紧身衣的黑裙女孩.jpg",
+          "手持书本的学院风女孩.jpg"
+        ],
+        "displayTitle": "黑白交织的校园风尚",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中的女孩穿着紧身衣和短裙，展现出一定的身材曲线和魅力，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/13392640527023561.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13392640527023561.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1006419,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1774,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/13392640656113312.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13392640656113312.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1521786,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1775,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "花",
+          "粉色",
+          "阳光"
+        ],
+        "description": "阳光下的少女，手持鲜花，笑容甜美。",
+        "filenameSuggestions": [
+          "身穿粉色套装的少女与花.jpg",
+          "夏日阳光下的花瓣少女.jpg"
+        ],
+        "displayTitle": "花瓣轻语的夏日少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着清新，背景明亮且有自然光照射，符合【清新】(Fresh)的特征。图片中少女的穿着、表情和环境都给人一种明亮、治愈的感觉，因此归类为【人像/清新】。"
+      }
+    },
+    "wallpaper/mobile/动漫/海贼王/13392640663282281.jpeg": {
+      "category": "动漫",
+      "subcategory": "海贼王",
+      "filename": "13392640663282281.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1486707,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1770,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "海贼王",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "海贼王",
+        "keywords": [
+          "海贼王",
+          "路飞",
+          "萨博",
+          "动漫风格"
+        ],
+        "description": "路飞与萨博的兄弟之魂",
+        "filenameSuggestions": [
+          "路飞与萨博的兄弟之魂.jpg",
+          "海贼王中的兄弟情深.jpg"
+        ],
+        "displayTitle": "草帽海贼团的荣耀时刻",
+        "confidence": 0.9,
+        "reasoning": "图片中人物具有典型的动漫风格，尤其是路飞的特征明显，背景和色调也符合海贼王的设定，属于特定IP分类。"
+      }
+    },
+    "wallpaper/mobile/通用/13392640599233634.jpeg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13392640599233634.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1439775,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/13392640606835058.jpeg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13392640606835058.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1812248,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/13392640615123728.jpeg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13392640615123728.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 863229,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/13392640621800049.jpeg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13392640621800049.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1207344,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2160,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/13392640634406063.jpeg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13392640634406063.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1538668,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2629,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/13392640641055331.jpeg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13392640641055331.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1884119,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1767,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/13392640650216274.jpeg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13392640650216274.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1416089,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1767,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13392640670301637.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13392640670301637.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 2267306,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1775,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "时尚",
+          "室内写真"
+        ],
+        "description": "时尚女郎展现优雅姿态",
+        "filenameSuggestions": [
+          "时尚女郎的优雅姿态.jpg",
+          "室内时尚写真短发女孩.jpg"
+        ],
+        "displayTitle": "月光下的时尚女郎",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【魅力】(Glamour)定义和特征，图片中人物穿着时尚且具有吸引力的服装，姿态优雅，符合【魅力】分类。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/13392640678322382.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13392640678322382.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1891960,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/通用/13392640690567834.jpeg": {
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "13392640690567834.jpeg",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 2588166,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2194,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "风景",
+          "沙漠",
+          "岩石"
+        ],
+        "description": "沙漠中的岩石拱门，呈现出独特的自然景观。",
+        "filenameSuggestions": [
+          "拱门下的荒漠奇观.jpg",
+          "沙漠中的岩石拱门风景.jpg"
+        ],
+        "displayTitle": "拱门下的荒漠奇观",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅自然形成的岩石拱门，通向一片开阔的沙漠风景，有山脉和独特的岩石形成，符合风景/通用的分类。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/13392640699712131.png": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13392640699712131.png",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1976049,
+      "format": "png",
+      "resolution": {
+        "width": 1943,
+        "height": 4318,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/13392640705488336.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13392640705488336.png",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 1437365,
+      "format": "png",
+      "resolution": {
+        "width": 1961,
+        "height": 4278,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/13392640711070231.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13392640711070231.png",
+      "createdAt": "2026-04-25T12:15:33.875Z",
+      "cdnTag": "v1.2.84",
+      "size": 2795264,
+      "format": "png",
+      "resolution": {
+        "width": 2164,
+        "height": 3876,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13397236179667125.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13397236179667125.jpeg",
+      "createdAt": "2026-04-25T13:48:35.268Z",
+      "cdnTag": "v1.2.84",
+      "size": 552128,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1961,
+        "height": 4278,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "曲线",
+          "白衣"
+        ],
+        "description": "一位身穿白色T恤的女孩，姿势优雅，曲线玲珑。",
+        "filenameSuggestions": [
+          "身穿白色T恤的优雅女孩.jpg",
+          "沙发上的红衣佳人.jpg"
+        ],
+        "displayTitle": "白衣红数，曲线玲珑",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩身穿白色T恤，姿势撩人，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13397236215631674.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13397236215631674.jpeg",
+      "createdAt": "2026-04-25T13:48:35.268Z",
+      "cdnTag": "v1.2.84",
+      "size": 306677,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1767,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑发",
+          "紧身衣",
+          "黑背景"
+        ],
+        "description": "一位黑发女孩穿着白色紧身衣和绿色牛仔裤，摆出优雅姿势。",
+        "filenameSuggestions": [
+          "身穿白色紧身衣的优雅黑发女孩.jpg",
+          "黑夜中闪耀的白衣女郎.jpg"
+        ],
+        "displayTitle": "月光下的轻语者",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩穿着紧身衣，姿势撩人，背景为黑背景，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/13397236229974425.jpeg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13397236229974425.jpeg",
+      "createdAt": "2026-04-25T13:48:35.268Z",
+      "cdnTag": "v1.2.84",
+      "size": 688257,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1997,
+        "height": 4202,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像",
+          "温柔"
+        ],
+        "description": "一个温暖的瞬间，手心传递希望。",
+        "filenameSuggestions": [
+          "温柔的手心.jpg",
+          "从掌心传递温暖的瞬间.jpg"
+        ],
+        "displayTitle": "手心的温暖",
+        "confidence": 0.9,
+        "reasoning": "图片主要突出人物的手和情感交流，带有强烈的氛围感，人物表情和背景都营造出一种温馨的氛围。根据决策树A. 人像分类决策树中的【氛围感】特征：不露脸（背影/遮挡/模糊）、重光影意境、看不清具体五官，因此归类为 人像/氛围感。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13397236244158646.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13397236244158646.jpeg",
+      "createdAt": "2026-04-25T13:48:35.268Z",
+      "cdnTag": "v1.2.84",
+      "size": 1045216,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1959,
+        "height": 4281,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝绸",
+          "和室",
+          "长发"
+        ],
+        "description": "一位身穿灰色丝绸长衫的少女静坐于和室中，展现成熟优雅的气质。",
+        "filenameSuggestions": [
+          "身穿灰色丝绸长衫的优雅少女.jpg",
+          "静坐于和室中的长发美人.jpg"
+        ],
+        "displayTitle": "月光下的丝绸诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着暴露且姿势优雅，背景为和室且光线昏暗，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/13397236254841073.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13397236254841073.jpeg",
+      "createdAt": "2026-04-25T13:48:35.268Z",
+      "cdnTag": "v1.2.84",
+      "size": 562894,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1969,
+        "height": 4260,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "读书",
+          "时尚"
+        ],
+        "description": "一个穿着时尚的女孩专注阅读",
+        "filenameSuggestions": [
+          "专注阅读的时尚女孩.jpg",
+          "书本与时尚的完美结合.jpg"
+        ],
+        "displayTitle": "书香中的清新少女",
+        "confidence": 0.9,
+        "reasoning": "图片中女孩穿着 casual 且清新，专注于读书，没有明显的魅力或氛围感，符合【清新】的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13397236269551274.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13397236269551274.jpeg",
+      "createdAt": "2026-04-25T13:48:35.268Z",
+      "cdnTag": "v1.2.84",
+      "size": 409575,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2172,
+        "height": 3862,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/13397236283073829.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13397236283073829.jpeg",
+      "createdAt": "2026-04-25T13:48:35.268Z",
+      "cdnTag": "v1.2.84",
+      "size": 489918,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2205,
+        "height": 3805,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13397236295903415.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13397236295903415.jpeg",
+      "createdAt": "2026-04-25T13:48:35.268Z",
+      "cdnTag": "v1.2.84",
+      "size": 670486,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1959,
+        "height": 4281,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/13397236316377510.jpeg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13397236316377510.jpeg",
+      "createdAt": "2026-04-25T13:48:35.268Z",
+      "cdnTag": "v1.2.84",
+      "size": 404196,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1969,
+        "height": 4260,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/13397236324571973.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13397236324571973.jpeg",
+      "createdAt": "2026-04-25T13:48:35.268Z",
+      "cdnTag": "v1.2.84",
+      "size": 481040,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2971,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
       }
     }
   }
