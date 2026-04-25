@@ -1,0 +1,307 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-25T08:46:14.976Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/4k手机-4K手机壁纸.png",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "4k手机-4K手机壁纸.png",
+      "createdAt": "2026-04-25T08:46:14.976Z",
+      "size": 2052837,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "长发",
+          "白色运动装"
+        ],
+        "description": "一位穿着白色运动装的长发少女，悠闲地坐在椅子上。",
+        "filenameSuggestions": [
+          "穿白色运动套装的长发女孩.jpg",
+          "靠门坐着的清新少女.jpg"
+        ],
+        "displayTitle": "清新少女的悠闲时刻",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，首先排除特定明星和古装分类。该图片不具备明显的魅力（丝袜、紧身衣、露背/露肩、姿态撩人、夜景霓虹等特征均无）。图片色调明亮，女孩笑容甜美，背景简洁，具备清新风格的特征（高明度、色彩鲜艳自然、笑容甜美、背景干净）。因此归类为 人像/清新。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/11女孩-美女.png",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "11女孩-美女.png",
+      "createdAt": "2026-04-25T08:46:14.976Z",
+      "size": 613224,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "人像",
+          "床上"
+        ],
+        "description": "一位少女在床上悠闲地躺着，穿着白色短袖衫，表情宁静。",
+        "filenameSuggestions": [
+          "床上静谧时光的少女.jpg",
+          "白色床单上的悠闲女孩.jpg"
+        ],
+        "displayTitle": "床上静谧时光",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着清新，表情宁静，背景简洁，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/乖乖女友-口腔检查.png",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "乖乖女友-口腔检查.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "size": 3174804,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/口腔检查-惊讶美女.png",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "口腔检查-惊讶美女.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "size": 1886073,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "惊讶",
+          "人像"
+        ],
+        "description": "一个充满惊讶和好奇的年轻女孩，表情生动，氛围感十足。",
+        "filenameSuggestions": [
+          "低头惊讶的长发女孩.jpg",
+          "面带惊讶表情的年轻女孩自拍.jpg"
+        ],
+        "displayTitle": "惊讶的凝视",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A的人像分类决策树，图片中女孩的表情和姿势符合氛围感的特征，决定归类为人像/氛围感。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/女孩-美女.png",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "女孩-美女.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "size": 1381883,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "诱惑",
+          "丝袜",
+          "低俗词汇"
+        ],
+        "description": "一个穿着白色吊带和牛仔短裤的女孩坐在床上，戴着耳机，展现出她的魅力。",
+        "filenameSuggestions": [
+          "身穿白色上衣和牛仔短裤的诱惑女孩.jpg",
+          "耳机下的撩人姿势.jpg"
+        ],
+        "displayTitle": "耳语间的诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中的女孩展现出成熟魅力，优先归入【魅力】(Glamour)分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/女孩-美女1.png",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "女孩-美女1.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "size": 176626,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/女孩-性感美女.png",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "女孩-性感美女.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "size": 330811,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/手机壁纸-沙发.png",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "手机壁纸-沙发.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "size": 659934,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "魅力",
+          "诱惑"
+        ],
+        "description": "一位穿着黑丝的女孩坐在沙发上，展现出优雅与诱惑。",
+        "filenameSuggestions": [
+          "沙发上的黑丝美女.jpg",
+          "午后黑丝诱惑.jpg"
+        ],
+        "displayTitle": "黑丝诱惑的午后时光",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着黑丝袜，短裙，坐在沙发上，姿势撩人，符合【魅力】的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/性感-时尚-穿搭.png",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "性感-时尚-穿搭.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "size": 122343,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝滑肌肤",
+          "诱惑"
+        ],
+        "description": "一位身穿白色内衣的女性，展现丝滑肌肤与诱惑姿态。",
+        "filenameSuggestions": [
+          "身穿白色内衣的诱惑美女.jpg",
+          "丝滑肌肤的性感姿态.jpg"
+        ],
+        "displayTitle": "月光下的丝滑诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物身穿暴露的白色内衣，展现出成熟的魅力，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/玉足-迷人.png",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "玉足-迷人.png",
+      "createdAt": "2026-04-25T08:46:14.977Z",
+      "size": 151785,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "曲线",
+          "日落",
+          "泳衣"
+        ],
+        "description": "一位长发女子穿着黑色泳衣，坐于石栏上，背景是美丽的日落天空。",
+        "filenameSuggestions": [
+          "身穿黑色泳衣的长发女孩坐于石栏上.jpg",
+          "夕阳下的优雅曲线.jpg"
+        ],
+        "displayTitle": "日落下的曼妙身姿",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【魅力】(Glamour)定义和特征，图片中女子穿着黑色泳衣，展现身材曲线，背景是日落景象，符合魅力类的特征。"
+      }
+    }
+  ]
+}
