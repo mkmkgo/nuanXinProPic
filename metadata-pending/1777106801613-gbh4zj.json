@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "createdAt": "2026-04-25T08:46:41.612Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "desktop",
+      "relativePath": "wallpaper/desktop/人像/清新/户外-晴天-蓝天白云.png",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "户外-晴天-蓝天白云.png",
+      "createdAt": "2026-04-25T08:46:41.613Z",
+      "size": 911927,
+      "format": "png",
+      "ai": {
+        "series": "desktop",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "desktop",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "人像",
+          "自然光"
+        ],
+        "description": "一位少女在蓝天白云下展现清新脱俗的气质。",
+        "filenameSuggestions": [
+          "微风中的云端少女.jpg",
+          "蓝天白云下的优雅身影.jpg"
+        ],
+        "displayTitle": "云端轻语的少女",
+        "confidence": 0.9,
+        "reasoning": "图片中少女穿着轻盈的衣裙，站在蓝天白云的背景下，整体氛围明亮且自然，符合【清新】(Fresh)的特征。"
+      }
+    }
+  ]
+}
