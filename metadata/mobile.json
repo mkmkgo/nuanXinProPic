@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-26 09:29:58",
-  "count": 1015,
+  "lastUpdated": "2026-04-26 02:06:24",
+  "count": 1029,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -32368,6 +32368,381 @@
         "confidence": 0,
         "reasoning": null,
         "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/插画/爱国主题/20260424170135.png": {
+      "category": "插画",
+      "subcategory": "爱国主题",
+      "filename": "20260424170135.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 2810933,
+      "format": "png",
+      "resolution": {
+        "width": 1500,
+        "height": 3189,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/风景/建筑/创意设计-商业空间.png": {
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "创意设计-商业空间.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 5390994,
+      "format": "png",
+      "resolution": {
+        "width": 3000,
+        "height": 4500,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "创意设计",
+          "商业空间"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/风景/星空/20260424170100.png": {
+      "category": "风景",
+      "subcategory": "星空",
+      "filename": "20260424170100.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 12328883,
+      "format": "png",
+      "resolution": {
+        "width": 2752,
+        "height": 4960,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/风景/花卉/手捧花-暖调-清新.png": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "手捧花-暖调-清新.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 855370,
+      "format": "png",
+      "resolution": {
+        "width": 1280,
+        "height": 2781,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "手捧花",
+          "暖调",
+          "清新"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/风景/城市/品红色-城市-天空.png": {
+      "category": "风景",
+      "subcategory": "城市",
+      "filename": "品红色-城市-天空.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 10498132,
+      "format": "png",
+      "resolution": {
+        "width": 3884,
+        "height": 4926,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "品红色",
+          "城市",
+          "天空"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/动漫/斗破苍穹/薰儿.jpg": {
+      "category": "动漫",
+      "subcategory": "斗破苍穹",
+      "filename": "薰儿.jpg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 943355,
+      "format": "jpg",
+      "resolution": {
+        "width": 1534,
+        "height": 2640,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "薰儿"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/魅力/包臀裙-壁纸-室内.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "包臀裙-壁纸-室内.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 166209,
+      "format": "png",
+      "resolution": {
+        "width": 868,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "包臀裙",
+          "壁纸",
+          "室内"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/魅力/20260424165339.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "20260424165339.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 3663764,
+      "format": "png",
+      "resolution": {
+        "width": 1600,
+        "height": 3413,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/魅力/壁纸-夜景-御姐.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "壁纸-夜景-御姐.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 415449,
+      "format": "png",
+      "resolution": {
+        "width": 1328,
+        "height": 1772,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "壁纸",
+          "夜景",
+          "御姐"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/20260408170413.jpeg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "20260408170413.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 366337,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1280,
+        "height": 2787,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/侧颜-壁纸-女性.png": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "侧颜-壁纸-女性.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 252159,
+      "format": "png",
+      "resolution": {
+        "width": 1086,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "侧颜",
+          "壁纸",
+          "女性"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/20260424_165556.jpeg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "20260424_165556.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 1087315,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2400,
+        "height": 5120,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/20260424_165548.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260424_165548.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 3713610,
+      "format": "png",
+      "resolution": {
+        "width": 1600,
+        "height": 3413,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/人像/清新/20260424_165615.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260424_165615.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 4419556,
+      "format": "png",
+      "resolution": {
+        "width": 1600,
+        "height": 3413,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
       }
     }
   }
