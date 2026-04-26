@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-26 02:06:24",
-  "count": 1029,
+  "lastUpdated": "2026-04-26 14:03:07",
+  "count": 1188,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -32743,6 +32743,5279 @@
         "confidence": 0,
         "model": "filename-inference",
         "analyzedAt": null
+      }
+    },
+    "wallpaper/mobile/风景/花卉/超赞壁纸43.jpg": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "超赞壁纸43.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 3837087,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 2277,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "花卉",
+          "春日",
+          "自然"
+        ],
+        "description": "春日花开，绿意盎然。",
+        "filenameSuggestions": [
+          "盛开的粉色花朵与绿叶.jpg",
+          "晴天下的花海.jpg"
+        ],
+        "displayTitle": "春日花语",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示花卉和绿叶，背景为蓝天，符合风景/花卉分类。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸40.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸40.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 2901186,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "红墙",
+          "沉思"
+        ],
+        "description": "一位少女坐在红墙前，表情沉思，手抚面颊，周围摆放着一些装饰物。",
+        "filenameSuggestions": [
+          "红墙下的沉思少女.jpg",
+          "穿棕色大衣的思绪女孩.jpg"
+        ],
+        "displayTitle": "红墙下的沉思少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中人物未露脸，但有重光影意境，符合【氛围感】(Atmosphere)的特征。"
+      }
+    },
+    "wallpaper/mobile/插画/氛围感/超赞壁纸19.jpg": {
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸19.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 2393247,
+      "format": "jpg",
+      "resolution": {
+        "width": 1440,
+        "height": 3120,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "插画",
+          "风"
+        ],
+        "description": "风吹过少女的头发，她的眼睛透露出一丝神秘。",
+        "filenameSuggestions": [
+          "风中低语的少女.jpg",
+          "神秘的眼神.jpg"
+        ],
+        "displayTitle": "风中的秘密",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅插画风格的作品，聚焦于人物的眼睛和头发，带有明显的艺术处理痕迹和氛围感，根据决策树B2和A5，判定为插画/氛围感。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸22.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸22.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 2004956,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2336,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "光影",
+          "楼梯"
+        ],
+        "description": "阳光透过楼梯栏杆，洒在少女身上，营造出一种独特的氛围感。",
+        "filenameSuggestions": [
+          "楼梯上的光影少女.jpg",
+          "绿色楼梯的阳光女孩.jpg"
+        ],
+        "displayTitle": "楼梯上的光影舞者",
+        "confidence": 0.9,
+        "reasoning": "图片中少女处于楼梯上，面部被部分遮挡，主要通过光影营造氛围，根据规则A5，判定为[氛围感]"
+      }
+    },
+    "wallpaper/mobile/萌宠/通用/超赞壁纸23.jpg": {
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "超赞壁纸23.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 1898724,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "小羊",
+          "田园",
+          "秋日",
+          "自然"
+        ],
+        "description": "一只小白羊在秋日田园中漫步。",
+        "filenameSuggestions": [
+          "秋日田园小羊.jpg",
+          "草原上的小白羊.jpg"
+        ],
+        "displayTitle": "秋日田园小羊",
+        "confidence": 0.9,
+        "reasoning": "图片中出现小羊，且无明显特定分类特征，根据现有分类体系，归入【萌宠/通用】"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸26.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸26.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 1794146,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/星空/超赞壁纸11.png": {
+      "category": "风景",
+      "subcategory": "星空",
+      "filename": "超赞壁纸11.png",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 1655301,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2240,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸41.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸41.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 1433888,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸27.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸27.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 1382000,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸18.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸18.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 1353262,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2338,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/雪山/超赞壁纸10.png": {
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "超赞壁纸10.png",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 1052262,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2240,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "雪山",
+          "飞鸟",
+          "蔚蓝",
+          "自然景观"
+        ],
+        "description": "雪山飞跃的黑鸦，蔚蓝海面与蓝天交汇。",
+        "filenameSuggestions": [
+          "飞跃雪峰的黑鸦.jpg",
+          "雪山飞翔的乌鸦.jpg"
+        ],
+        "displayTitle": "飞跃雪峰与蔚蓝海面",
+        "confidence": 0.9,
+        "reasoning": "图片中主要元素为雪山、飞翔的黑鸦和蔚蓝的海面，符合风景类中的雪山和自然景观特征。"
+      }
+    },
+    "wallpaper/mobile/风景/花卉/超赞壁纸116.jpg": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "超赞壁纸116.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 891053,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "花卉",
+          "砖墙",
+          "火红",
+          "自然风景"
+        ],
+        "description": "砖墙上覆盖着盛开的火红花海，自然美丽，静谧祥和。",
+        "filenameSuggestions": [
+          "覆盖砖墙的火红花海.jpg",
+          "墙角的静谧花卉风景.jpg"
+        ],
+        "displayTitle": "盛开在砖墙上的火红花海",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一幅砖墙上覆盖着茂盛的绿植和火红花朵的景象，带有自然风光的氛围，符合风景分类下的花卉子类。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸33.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸33.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 823047,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2272,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像",
+          "脸部彩绘"
+        ],
+        "description": "眼神与彩绘的神秘魅力",
+        "filenameSuggestions": [
+          "脸部彩绘的时尚美女.jpg",
+          "眼神中的深夜低语.jpg"
+        ],
+        "displayTitle": "月光下的神秘低语",
+        "confidence": 0.9,
+        "reasoning": "图片为人物特写，强调眼神与脸部彩绘，具有强烈的氛围感和艺术感。根据决策树A. 人像分类决策树中的【氛围感】(Atmosphere)特征：不露脸（背影/遮挡/模糊）、重光影意境、看不清具体五官，判定为 人像/氛围感。"
+      }
+    },
+    "wallpaper/mobile/插画/萌宠/超赞壁纸14.jpg": {
+      "category": "插画",
+      "subcategory": "萌宠",
+      "filename": "超赞壁纸14.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 771010,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2244,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "萌宠",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "萌宠",
+        "keywords": [
+          "插画",
+          "柴犬",
+          "冬季",
+          "温馨"
+        ],
+        "description": "画面描绘了一个小女孩被柴犬围绕的温馨场景，整体色调暖和，给人一种舒适的感觉。",
+        "filenameSuggestions": [
+          "冬季暖色调小女孩与柴犬.jpg",
+          "小女孩与柴犬温馨相伴.jpg"
+        ],
+        "displayTitle": "温馨的冬季邂逅",
+        "confidence": 0.9,
+        "reasoning": "根据画面内容，图片以插画风格呈现，重点是小女孩与多只柴犬的互动，符合插画分类下的萌宠子类。"
+      }
+    },
+    "wallpaper/mobile/风景/通用/超赞壁纸9.jpg": {
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "超赞壁纸9.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 761280,
+      "format": "jpg",
+      "resolution": {
+        "width": 2160,
+        "height": 4680,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "风景",
+          "蓝天",
+          "白云",
+          "电力线"
+        ],
+        "description": "蓝天白云下电线与树梢的美丽交织",
+        "filenameSuggestions": [
+          "蓝天白云下的电力线.jpg",
+          "树梢与电线交织的美景.jpg"
+        ],
+        "displayTitle": "云间电舞",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了蓝天、白云、电力线和树梢的风景，符合风景分类下的通用子类特征。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸29.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸29.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 718324,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 2772,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸15.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸15.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 662320,
+      "format": "jpg",
+      "resolution": {
+        "width": 1242,
+        "height": 2688,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "蓝天白云",
+          "少年"
+        ],
+        "description": "蓝天白云下，少年穿着白色衬衫和红色围巾，姿势优雅，充满活力。",
+        "filenameSuggestions": [
+          "白衬衫红围巾少年在蓝天白云下舞动.jpg",
+          "剪影下的青春活力少年.jpg"
+        ],
+        "displayTitle": "蓝天下的剪影舞者",
+        "confidence": 0.9,
+        "reasoning": "图片中少年穿着白色衬衫和红色围巾，在蓝天白云下舞动，姿势优雅，充满活力。根据决策树A. 人像分类决策树 (Portrait Logic) 中的【氛围感】(Atmosphere)特征：不露脸（背影/遮挡/模糊）、重光影意境、看不清具体五官。因此判定为 人像/氛围感。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸17.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸17.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 642482,
+      "format": "jpg",
+      "resolution": {
+        "width": 1114,
+        "height": 2409,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸44.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸44.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 616367,
+      "format": "jpg",
+      "resolution": {
+        "width": 1400,
+        "height": 3034,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/动漫/蜡笔小新/超赞壁纸112.jpg": {
+      "category": "动漫",
+      "subcategory": "蜡笔小新",
+      "filename": "超赞壁纸112.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 575576,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/城市/超赞壁纸16.jpg": {
+      "category": "风景",
+      "subcategory": "城市",
+      "filename": "超赞壁纸16.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 469263,
+      "format": "jpg",
+      "resolution": {
+        "width": 1125,
+        "height": 2436,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "城市",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "城市",
+        "keywords": [
+          "城市风景",
+          "未来建筑",
+          "云雾效果"
+        ],
+        "description": "一座现代化的城市塔楼，部分被云雾笼罩，展现出一种神秘的未来感。",
+        "filenameSuggestions": [
+          "笼罩在云雾中的现代化城市塔楼.jpg",
+          "云雾缭绕的城市未来建筑.jpg"
+        ],
+        "displayTitle": "云雾中的未来都市塔楼",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一座城市中的现代化塔楼，周围被云雾环绕，符合风景分类下的城市子类。图片中没有人物，主要元素是建筑和自然景观，因此归类为风景/城市。"
+      }
+    },
+    "wallpaper/mobile/通用/通用/超赞壁纸3.jpg": {
+      "category": "通用",
+      "subcategory": "通用",
+      "filename": "超赞壁纸3.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 456699,
+      "format": "jpg",
+      "resolution": {
+        "width": 2000,
+        "height": 4333,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "通用",
+        "keywords": [
+          "科技感",
+          "按键",
+          "蓝色背景"
+        ],
+        "description": "一个孤独的黄色Esc按键，置于蓝色背景中，给人一种科技感和简洁美。",
+        "filenameSuggestions": [
+          "孤独的黄色退出键.jpg",
+          "蓝色背景下的Esc按键.jpg"
+        ],
+        "displayTitle": "数字世界的逃脱按键",
+        "confidence": 0.9,
+        "reasoning": "图片中只有一个黄色Esc按键，置于蓝色渐变背景中，没有明显的风格倾向或具体主题，归类为通用。图片简洁，给人一种科技感和现代感。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸35.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸35.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 567414,
+      "format": "jpg",
+      "resolution": {
+        "width": 1125,
+        "height": 2436,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "兄妹",
+          "自然",
+          "童真"
+        ],
+        "description": "兄妹手牵手漫步在绿意盎然的森林小径中，充满童真与自然之美。",
+        "filenameSuggestions": [
+          "手牵手漫步在森林小径的兄妹.jpg",
+          "绿意盎然中童真无邪的笑容.jpg"
+        ],
+        "displayTitle": "绿荫中的童真约定",
+        "confidence": 0.9,
+        "reasoning": "图片中兄妹背对镜头，手牵手漫步在绿意盎然的森林小径中，未露脸且重在光影意境，符合【氛围感】的特征。"
+      }
+    },
+    "wallpaper/mobile/插画/风景/超赞壁纸13.jpg": {
+      "category": "插画",
+      "subcategory": "风景",
+      "filename": "超赞壁纸13.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 561603,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "风景",
+          "月夜",
+          "长颈鹿"
+        ],
+        "description": "夜晚月光下的非洲风景，树下两只长颈鹿安静漫步。",
+        "filenameSuggestions": [
+          "月光下的长颈鹿风景.jpg",
+          "夜空月亮长颈鹿树.jpg"
+        ],
+        "displayTitle": "月夜下的非洲风情",
+        "confidence": 0.9,
+        "reasoning": "图片展示了月夜下的风景，包含长颈鹿、树和月亮，符合风景/通用的分类。"
+      }
+    },
+    "wallpaper/mobile/风景/通用/超赞壁纸105.jpg": {
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "超赞壁纸105.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 560035,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "旋转木马",
+          "游乐园",
+          "梦幻",
+          "建筑"
+        ],
+        "description": "一座精美旋转木马在游乐园中闪闪发光。",
+        "filenameSuggestions": [
+          "梦幻旋转木马.jpg",
+          "精美木马游乐设施.jpg"
+        ],
+        "displayTitle": "旋转木马的梦幻之旅",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一座精美的旋转木马，带有华丽的装饰和梦幻的氛围，归类为风景/通用。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸136.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸136.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 524971,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸12.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸12.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 522807,
+      "format": "jpg",
+      "resolution": {
+        "width": 1280,
+        "height": 2752,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/插画/超赞壁纸126.jpg": {
+      "category": "人像",
+      "subcategory": "插画",
+      "filename": "超赞壁纸126.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 505631,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2338,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸181.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸181.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 488549,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/插画/通用/超赞壁纸123.jpg": {
+      "category": "插画",
+      "subcategory": "通用",
+      "filename": "超赞壁纸123.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 480220,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/插画/超赞壁纸115.jpg": {
+      "category": "人像",
+      "subcategory": "插画",
+      "filename": "超赞壁纸115.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 443765,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "风景",
+          "秋天",
+          "黄昏",
+          "自然",
+          "宁静"
+        ],
+        "description": "图片展现了一个秋日黄昏的宁静场景，人物穿着白色衣服坐在草坡上，周围是变色的树叶和美丽的自然风光。",
+        "filenameSuggestions": [
+          "秋日黄昏下的悠闲时光.jpg",
+          "树影婆娑草坡上的宁静时刻.jpg"
+        ],
+        "displayTitle": "秋日黄昏下的悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，主要元素是自然风景、人物和秋日氛围，符合风景/通用的分类。人物未达到人像分类的特定标准，因此归为风景/通用。"
+      }
+    },
+    "wallpaper/mobile/人像/插画/超赞壁纸107.jpg": {
+      "category": "人像",
+      "subcategory": "插画",
+      "filename": "超赞壁纸107.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 432786,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "萌宠",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "萌宠",
+        "keywords": [
+          "插画",
+          "萌宠",
+          "风景"
+        ],
+        "description": "女孩与猫咪在海边放风筝，享受阳光与海风",
+        "filenameSuggestions": [
+          "海边与猫咪放风筝的女孩.jpg",
+          "阳光下的海岸线漫步.jpg"
+        ],
+        "displayTitle": "海风轻拂的午後时光",
+        "confidence": 0.9,
+        "reasoning": "图片为插画风格，女孩与猫咪为主要元素，且有明显的风景背景，符合插画/萌宠分类"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/超赞壁纸6.jpeg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "超赞壁纸6.jpeg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 432462,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1664,
+        "height": 3600,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "阳光",
+          "波光",
+          "涟漪"
+        ],
+        "description": "阳光照射下的海面波光粼粼，景色优美。",
+        "filenameSuggestions": [
+          "阳光下的海面涟漪.jpg",
+          "海水波光粼粼.jpg"
+        ],
+        "displayTitle": "阳光下的海面涟漪",
+        "confidence": 0.9,
+        "reasoning": "图片展示了海面的波光和涟漪，符合风景/海滨的分类特征。"
+      }
+    },
+    "wallpaper/mobile/动漫/通用/超赞壁纸20.jpg": {
+      "category": "动漫",
+      "subcategory": "通用",
+      "filename": "超赞壁纸20.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 431326,
+      "format": "jpg",
+      "resolution": {
+        "width": 1125,
+        "height": 2436,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "通用",
+        "keywords": [
+          "高达",
+          "机动战士",
+          "科幻",
+          "机械"
+        ],
+        "description": "高达机器人充满未来感的机身细节特写。",
+        "filenameSuggestions": [
+          "高达的机械之眼.jpg",
+          "机动战士的雄姿.jpg"
+        ],
+        "displayTitle": "机动战士的黎明",
+        "confidence": 0.9,
+        "reasoning": "图片展示了具有科幻色彩的机器人高达的特写镜头，具有明显的动漫风格，且未识别出具体作品，因此归入动漫/通用。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸39.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸39.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 425919,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "手势",
+          "光影"
+        ],
+        "description": "一个充满艺术感和温暖的氛围感人像摄影作品",
+        "filenameSuggestions": [
+          "手持花的少女的柔和侧脸.jpg",
+          "日光下的温暖手势.jpg"
+        ],
+        "displayTitle": "光影下的柔和手语",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一只手，带有氛围感和光影效果，根据规则A5，归入【氛围感】"
+      }
+    },
+    "wallpaper/mobile/风景/通用/超赞壁纸5.jpg": {
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "超赞壁纸5.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 418082,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/IP形象/通用/超赞壁纸179.jpg": {
+      "category": "IP形象",
+      "subcategory": "通用",
+      "filename": "超赞壁纸179.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 405871,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2268,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "IP形象",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "IP形象",
+        "third": "通用",
+        "keywords": [
+          "史努比",
+          "IP形象",
+          "卡通"
+        ],
+        "description": "史努比日常的微笑瞬间，传递着轻松与快乐",
+        "filenameSuggestions": [
+          "史努比日常微笑.jpg",
+          "史努比与你分享喜悦.jpg"
+        ],
+        "displayTitle": "可爱的史努比日常",
+        "confidence": 0.9,
+        "reasoning": "根据图像内容，识别出史努比这一知名IP形象，归入IP形象/通用类别。因现有分类体系未包含史努比具体分类，暂归为通用"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸154.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸154.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 395666,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "黑白风格",
+          "氛围感",
+          "人像"
+        ],
+        "description": "黑白照片中的少年，城市背景，充满氛围感。",
+        "filenameSuggestions": [
+          "黑白风格的城市少年.jpg",
+          "微笑的黑白城市风景人像.jpg"
+        ],
+        "displayTitle": "黑白城市剪影中的微笑少年",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中人物未露脸但有重光影意境，判定为【氛围感】。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸100.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸100.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 391439,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/超赞壁纸83.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "超赞壁纸83.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 390041,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/超赞壁纸141.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸141.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 385205,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "家居风",
+          "时尚"
+        ],
+        "description": "一位穿着条纹衬衫和花裙的女孩在厨房里摆出优雅姿势。",
+        "filenameSuggestions": [
+          "身穿条纹衬衫的时尚女孩.jpg",
+          "厨房里的时尚女郎.jpg"
+        ],
+        "displayTitle": "家居里的优雅女神",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着暴露，姿势撩人，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/插画/国风/超赞壁纸150.jpg": {
+      "category": "插画",
+      "subcategory": "国风",
+      "filename": "超赞壁纸150.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 374176,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2344,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "国风",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "国风",
+        "keywords": [
+          "国风",
+          "古装",
+          "插画"
+        ],
+        "description": "一位身穿古装的美丽女子，手持红花，面带微笑。",
+        "filenameSuggestions": [
+          "身穿古装的美丽女子.jpg",
+          "圆框中的国风美人.jpg"
+        ],
+        "displayTitle": "红妆玉面映芙蓉",
+        "confidence": 0.9,
+        "reasoning": "图片具有明显的国风元素，人物穿着古装，带有传统饰品，背景为圆形框，整体风格符合国风插画特征。"
+      }
+    },
+    "wallpaper/mobile/插画/创意/超赞壁纸175.jpg": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "超赞壁纸175.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 371944,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "未来主义",
+          "科幻",
+          "太空服",
+          "荒原"
+        ],
+        "description": "一位身穿未来主义太空服的探险者，行走在荒凉的原野中，充满无限的遐想与探索精神。",
+        "filenameSuggestions": [
+          "身穿未来主义太空服的探险者.jpg",
+          "荒原上的星际旅行者.jpg"
+        ],
+        "displayTitle": "星际漫步者",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位身穿未来主义太空服的探险者行走在荒原的场景，具有明显的科幻和未来感。没有明确的动漫或插画的子类别特征，但整体风格更倾向于插画/创意。"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/超赞壁纸117.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "超赞壁纸117.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 367184,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "海洋生物",
+          "海豚"
+        ],
+        "description": "海豚在蔚蓝的海洋中嬉戏、自由游动。",
+        "filenameSuggestions": [
+          "碧海中嬉戏的海豚群.jpg",
+          "海洋上空俯瞰海豚.jpg"
+        ],
+        "displayTitle": "蔚蓝海洋中的海豚群",
+        "confidence": 0.9,
+        "reasoning": "图片展示了海豚在海洋中的场景，属于自然风景中的海滨类别。"
+      }
+    },
+    "wallpaper/mobile/通用/通用/超赞壁纸99.jpg": {
+      "category": "通用",
+      "subcategory": "通用",
+      "filename": "超赞壁纸99.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 359140,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "通用",
+        "keywords": [
+          "OLIPOP",
+          "汽水",
+          "清新",
+          "夏日"
+        ],
+        "description": "OLIPOP汽水篮子，清新夏日氛围",
+        "filenameSuggestions": [
+          "OLIPOP汽水篮子.jpg",
+          "OLIPOP汽水清新摆拍.jpg"
+        ],
+        "displayTitle": "清新夏日里的OLIPOP汽水",
+        "confidence": 0.9,
+        "reasoning": "图片未包含人物，主要展示OLIPOP汽水及清新夏日氛围，根据现有分类体系，归为通用类。"
+      }
+    },
+    "wallpaper/mobile/风景/通用/超赞壁纸88.jpg": {
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "超赞壁纸88.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 355005,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸95.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸95.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 354681,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸42.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸42.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 349252,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸148.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸148.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 346024,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸2.jpeg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸2.jpeg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 331940,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2160,
+        "height": 4674,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像摄影",
+          "暗黑风格"
+        ],
+        "description": "一个悠闲的下午，女孩斜靠在沙发上，享受着阳光的微弱照射，氛围感十足。",
+        "filenameSuggestions": [
+          "斜靠沙发上的长腿女孩.jpg",
+          "暗影中微笑的年轻女子.jpg"
+        ],
+        "displayTitle": "暗影下的悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "图片中只展示了人物的腿部和脚部，面部被遮挡，强调光影效果和氛围感，根据决策树A5，归类为【氛围感】。"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/超赞壁纸81.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "超赞壁纸81.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 331860,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2338,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "风景",
+          "俯瞰",
+          "绿岸"
+        ],
+        "description": "海水与绿树交汇的自然美景",
+        "filenameSuggestions": [
+          "海滨绿岸波光粼粼.jpg",
+          "俯瞰海滩绿树成荫.jpg"
+        ],
+        "displayTitle": "碧海与绿岸",
+        "confidence": 0.9,
+        "reasoning": "图片展示了海滨的典型特征，包括海水、沙滩和绿树，根据决策树直接归入风景/海滨类"
+      }
+    },
+    "wallpaper/mobile/风景/通用/超赞壁纸110.jpg": {
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "超赞壁纸110.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 331629,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "风景",
+          "田园",
+          "自然"
+        ],
+        "description": "晴朗天空下的田园风光，一只雁鸟飞过。",
+        "filenameSuggestions": [
+          "飞雁与秋色田园.jpg",
+          "晴天下的金色麦田风景.jpg"
+        ],
+        "displayTitle": "秋日田园风光",
+        "confidence": 0.9,
+        "reasoning": "图片展示了自然的田园风光，包括树木、田野和天空，符合风景分类下的通用子分类。"
+      }
+    },
+    "wallpaper/mobile/萌宠/通用/超赞壁纸49.jpg": {
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "超赞壁纸49.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 331610,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2338,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "鹅群",
+          "动物",
+          "自然",
+          "白鹅"
+        ],
+        "description": "一大群白鹅聚集在一起，仰望着同一个方向，呈现出一幅和谐的自然景象。",
+        "filenameSuggestions": [
+          "成群结队的白鹅.jpg",
+          "仰望天空的白色鹅群.jpg"
+        ],
+        "displayTitle": "白鹅的交响曲",
+        "confidence": 0.9,
+        "reasoning": "图片中主要特征是大群白鹅，符合萌宠分类下的通用子类。图像中没有特定的IP形象或细分特征，因此归类为萌宠/通用。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸89.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸89.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 330310,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸84.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸84.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 329540,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/明星/超赞壁纸86.jpg": {
+      "category": "人像",
+      "subcategory": "明星",
+      "filename": "超赞壁纸86.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 322669,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸82.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸82.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 322432,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/插画/氛围感/超赞壁纸98.jpg": {
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸98.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 313629,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "氛围感",
+        "keywords": [
+          "插画",
+          "氛围感",
+          "雨天",
+          "少女"
+        ],
+        "description": "画面描绘了一位少女在雨中撑伞漫步的温馨场景。",
+        "filenameSuggestions": [
+          "撑伞的少女在雨中漫步.jpg",
+          "清新街景中的孤独之美.jpg"
+        ],
+        "displayTitle": "雨巷中的温柔",
+        "confidence": 0.9,
+        "reasoning": "根据画面风格和内容，判定为插画类，且具有氛围感特征。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸120.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸120.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 311450,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸46.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸46.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 310873,
+      "format": "jpg",
+      "resolution": {
+        "width": 2000,
+        "height": 4333,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/雨景/超赞壁纸106.jpg": {
+      "category": "风景",
+      "subcategory": "雨景",
+      "filename": "超赞壁纸106.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 306568,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雨景",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雨景",
+        "keywords": [
+          "雨景",
+          "彩虹",
+          "城市景观"
+        ],
+        "description": "雨后城市景观，玻璃上的水滴和清晰的彩虹。",
+        "filenameSuggestions": [
+          "雨后城市的彩虹天空.jpg",
+          "城市雨景彩虹.jpg"
+        ],
+        "displayTitle": "雨后城市的彩虹天空",
+        "confidence": 0.9,
+        "reasoning": "图片显示了城市在雨后出现彩虹的景象，具备雨景和彩虹元素，根据现有分类体系，归类为风景/通用。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/超赞壁纸171.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸171.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 305549,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2336,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "水枪",
+          "西装",
+          "帅哥"
+        ],
+        "description": "一个身穿西装的年轻人，手持水枪，展现出独特的魅力与活力。",
+        "filenameSuggestions": [
+          "西装革履的水枪少年.jpg",
+          "笑容在枪口绽放.jpg"
+        ],
+        "displayTitle": "都市里的清新邂逅",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中的人物为男性，展现出一定的魅力，穿着正式的西装但手持玩具水枪，表情生动，氛围感十足，归入【魅力】分类。"
+      }
+    },
+    "wallpaper/mobile/创意/抽象/超赞壁纸108.jpg": {
+      "category": "创意",
+      "subcategory": "抽象",
+      "filename": "超赞壁纸108.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 302650,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "创意",
+        "subcategory": "抽象",
+        "primary": "mobile",
+        "secondary": "创意",
+        "third": "抽象",
+        "keywords": [
+          "抽象",
+          "创意",
+          "彩虹色",
+          "圆形"
+        ],
+        "description": "这是一张充满创意和梦幻色彩的抽象图片，画面中充满了各种颜色的圆形物体，给人一种奇幻和美妙的感觉。",
+        "filenameSuggestions": [
+          "五彩缤纷的透明球体.jpg",
+          "梦幻色彩的圆形集合.jpg"
+        ],
+        "displayTitle": "彩虹泡泡的奇幻世界",
+        "confidence": 0.9,
+        "reasoning": "根据图片的抽象和创意特征，归入创意/抽象分类。图片中没有具体的形象或场景，完全由色彩丰富的圆形物体组成，体现了抽象艺术的特点。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/超赞壁纸152.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸152.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 301954,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑丝",
+          "时尚"
+        ],
+        "description": "时尚女孩的魅力瞬间",
+        "filenameSuggestions": [
+          "身穿黑色皮衣的时尚女孩.jpg",
+          "夜色中微笑的长发美女.jpg"
+        ],
+        "displayTitle": "黑夜中的曼陀罗花",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【魅力】定义，图片中女孩展示了成熟美、吸引力，穿着黑色皮衣和白色裙子，姿态撩人，符合【魅力】特征。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸85.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸85.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 301943,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸25.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸25.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 299220,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸156.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸156.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 295884,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "学生风",
+          "篮球",
+          "长发"
+        ],
+        "description": "阳光灿烂的校园里，一位长发女孩手持篮球，展现青春活力。",
+        "filenameSuggestions": [
+          "清新学生篮球女孩.jpg",
+          "校园风采长发少女.jpg"
+        ],
+        "displayTitle": "阳光下的校园活力",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着校服，背景是户外环境，光线明亮，整体氛围清新自然，符合【清新】风格的定义。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸87.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸87.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 295854,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸4.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸4.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 294044,
+      "format": "jpg",
+      "resolution": {
+        "width": 2160,
+        "height": 4680,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸118.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸118.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 288483,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/超赞壁纸31.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "超赞壁纸31.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 287545,
+      "format": "jpg",
+      "resolution": {
+        "width": 1600,
+        "height": 2843,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "日落",
+          "少女"
+        ],
+        "description": "夕阳下的海滨，少女漫步于海边，享受自然的宁静与美丽。",
+        "filenameSuggestions": [
+          "夕阳下的海滨漫步.jpg",
+          "海边日落少女.jpg"
+        ],
+        "displayTitle": "夕阳下的海滨漫步",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了海滨日落的风景，搭配一个站在海边的少女剪影。整体氛围偏向自然风景中的海滨日落场景，因此归类为风景/海滨。"
+      }
+    },
+    "wallpaper/mobile/动漫/插画/超赞壁纸124.jpg": {
+      "category": "动漫",
+      "subcategory": "插画",
+      "filename": "超赞壁纸124.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 284722,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "插画",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "插画",
+        "keywords": [
+          "动漫",
+          "咒术回战",
+          "插画",
+          "少年"
+        ],
+        "description": "动漫风格插画，展现一位红发少年神秘姿势。",
+        "filenameSuggestions": [
+          "红发少年的神秘姿势.jpg",
+          "咒术回战角色插画.jpg"
+        ],
+        "displayTitle": "神秘姿势的少年",
+        "confidence": 0.9,
+        "reasoning": "根据图片的动漫风格和角色特征，判断为动漫/插画，并建议新增分类动漫/咒术回战"
+      }
+    },
+    "wallpaper/mobile/风景/国风/超赞壁纸149.jpg": {
+      "category": "风景",
+      "subcategory": "国风",
+      "filename": "超赞壁纸149.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 281414,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2344,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "国风",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "国风",
+        "keywords": [
+          "国风",
+          "红梅",
+          "窗花",
+          "雪景"
+        ],
+        "description": "国风窗花下的雪中红梅，雅致而傲雪。",
+        "filenameSuggestions": [
+          "国风窗花红梅图.jpg",
+          "雪中红梅国风窗景.jpg"
+        ],
+        "displayTitle": "窗外雅韵红梅傲雪",
+        "confidence": 0.9,
+        "reasoning": "图片展示了典型的国风元素，包括窗花和红梅，背景有雪景，符合国风和风景分类。"
+      }
+    },
+    "wallpaper/mobile/人像/日系/超赞壁纸143.jpg": {
+      "category": "人像",
+      "subcategory": "日系",
+      "filename": "超赞壁纸143.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 277589,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸80.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸80.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 276148,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸158.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸158.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 275316,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2316,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸135.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸135.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 274978,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/雪山/超赞壁纸73.jpg": {
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "超赞壁纸73.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 273098,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2400,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "雪山",
+          "日落",
+          "峰峦"
+        ],
+        "description": "雪山在日落时的美丽景色",
+        "filenameSuggestions": [
+          "夕阳下的雪山峰峦.jpg",
+          "雪山的日落美景.jpg"
+        ],
+        "displayTitle": "日落时分的雪山峰峦",
+        "confidence": 0.9,
+        "reasoning": "图片展示了雪山和日落的景色，根据决策树直接归入风景/雪山分类"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸177.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸177.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 271558,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸128.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸128.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 269864,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/城市/超赞壁纸34.jpg": {
+      "category": "风景",
+      "subcategory": "城市",
+      "filename": "超赞壁纸34.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 265818,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "城市",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "城市",
+        "keywords": [
+          "城市",
+          "雪景",
+          "黄昏"
+        ],
+        "description": "城市在冬日黄昏的静谧时刻，雪覆盖的街道与温暖的灯光交织。",
+        "filenameSuggestions": [
+          "雪覆盖的城市街道.jpg",
+          "黄昏下的城市景观.jpg"
+        ],
+        "displayTitle": "冬日里的城市黄昏",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅城市在雪后的黄昏景象，建筑物覆盖着雪，街道上有车辆和行人，整体色调温暖而宁静。根据图片内容，符合风景分类下的城市子类。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸163.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸163.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 262681,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2160,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "侧颜",
+          "少年",
+          "蓝色背景"
+        ],
+        "description": "短发少年在梦幻蓝色光线下的侧颜剪影，氛围感十足。",
+        "filenameSuggestions": [
+          "清新蓝色背景下的短发少年.jpg",
+          "侧颜少年在梦幻光线下的剪影.jpg"
+        ],
+        "displayTitle": "蓝色光影下的忧郁少年",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中未识别出具体明星且不属于特定风格，判定为【氛围感】(Atmosphere)。"
+      }
+    },
+    "wallpaper/mobile/插画/通用/超赞壁纸97.jpg": {
+      "category": "插画",
+      "subcategory": "通用",
+      "filename": "超赞壁纸97.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 260612,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "通用",
+        "keywords": [
+          "插画",
+          "梦幻",
+          "巴士"
+        ],
+        "description": "一辆粉色巴士停靠在房屋前，车身装饰着可爱的卡通人物。",
+        "filenameSuggestions": [
+          "梦幻粉色巴士.jpg",
+          "卡通巴士奇遇.jpg"
+        ],
+        "displayTitle": "梦幻巴士奇遇",
+        "confidence": 0.9,
+        "reasoning": "图片中出现了一辆装饰有卡通人物的粉色巴士，整体风格偏向插画，且未识别出具体IP或二级分类下的特定风格，故归类为插画/通用。"
+      }
+    },
+    "wallpaper/mobile/插画/创意/超赞壁纸162.jpg": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "超赞壁纸162.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 258927,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2376,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "抽象",
+          "插画",
+          "绘画艺术",
+          "光影"
+        ],
+        "description": "一幅具有抽象色彩的少女肖像画，通过光影和色彩表现艺术美感。",
+        "filenameSuggestions": [
+          "抽象艺术风格的彩色少女肖像画.jpg",
+          "绘画风格的黑白混彩女孩头像.jpg"
+        ],
+        "displayTitle": "彩色光影下的少女肖像",
+        "confidence": 0.9,
+        "reasoning": "图片呈现出明显的绘画风格，尤其是面部和背景的抽象色彩处理，归入插画/创意分类。因其抽象和光影效果，符合创意子类特征。"
+      }
+    },
+    "wallpaper/mobile/动漫/通用/超赞壁纸125.jpg": {
+      "category": "动漫",
+      "subcategory": "通用",
+      "filename": "超赞壁纸125.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 250019,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "通用",
+        "keywords": [
+          "奥特曼",
+          "动漫",
+          "城市英雄"
+        ],
+        "description": "奥特曼英勇降临城市，展现超凡力量",
+        "filenameSuggestions": [
+          "奥特曼飞跃城市.jpg",
+          "钢铁巨人俯冲而下.jpg"
+        ],
+        "displayTitle": "奥特曼降临城市",
+        "confidence": 0.9,
+        "reasoning": "图片中出现经典动漫角色奥特曼，且具有动态姿势和城市背景，应归类为动漫/通用，因现有分类体系未直接包含奥特曼，提出新增三级分类动漫/奥特曼"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸132.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸132.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 249939,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "慵懒",
+          "窗边"
+        ],
+        "description": "阳光下的少女慵懒地靠在窗边，微笑的表情透露着对生活的热爱。",
+        "filenameSuggestions": [
+          "慵懒午后靠窗的少女.jpg",
+          "窗边微笑的短发女孩.jpg"
+        ],
+        "displayTitle": "午后慵懒时光",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位少女在午后慵懒地靠在窗边的场景，没有露脸但通过姿势和表情传递了舒适与放松的氛围。根据决策树A. 人像分类决策树 (Portrait Logic)中的【氛围感】(Atmosphere)特征，判定为 人像/氛围感。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸178.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸178.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 249426,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸140.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸140.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 246876,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2336,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸147.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸147.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 246703,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸96.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸96.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 243916,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/插画/创意/超赞壁纸47.jpg": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "超赞壁纸47.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 243178,
+      "format": "jpg",
+      "resolution": {
+        "width": 2160,
+        "height": 4680,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "创意插画",
+          "宇宙",
+          "骑行",
+          "梦幻"
+        ],
+        "description": "一个充满创意和梦幻的插画作品，展现了宇宙中独特的骑行场景。",
+        "filenameSuggestions": [
+          "土星环中骑行的冒险者.jpg",
+          "星际骑行梦想.jpg"
+        ],
+        "displayTitle": "宇宙骑行者的梦幻之旅",
+        "confidence": 0.9,
+        "reasoning": "图片显示一个人骑着自行车在土星环中，充满创意和梦幻色彩，属于插画类，且具体风格归为创意。"
+      }
+    },
+    "wallpaper/mobile/风景/国风/超赞壁纸79.jpg": {
+      "category": "风景",
+      "subcategory": "国风",
+      "filename": "超赞壁纸79.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 242658,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "国风",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "国风",
+        "keywords": [
+          "国风",
+          "街景",
+          "夜景",
+          "传统"
+        ],
+        "description": "日本传统街巷夜景，带有浓厚的京都风情。",
+        "filenameSuggestions": [
+          "京都风情街头夜景.jpg",
+          "日本传统街巷风光.jpg"
+        ],
+        "displayTitle": "京都风情街头夜景",
+        "confidence": 0.9,
+        "reasoning": "图片展示了具有日本特色的街头夜景，包括传统灯笼和汉字标识，符合风景/国风分类。"
+      }
+    },
+    "wallpaper/mobile/人像/明星/超赞壁纸142.jpg": {
+      "category": "人像",
+      "subcategory": "明星",
+      "filename": "超赞壁纸142.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 242496,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2336,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/明星/超赞壁纸122.jpg": {
+      "category": "人像",
+      "subcategory": "明星",
+      "filename": "超赞壁纸122.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 242145,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/雪山/超赞壁纸137.jpg": {
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "超赞壁纸137.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 241997,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸113.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸113.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 239449,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸139.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸139.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 239398,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸173.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸173.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 230577,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸7.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸7.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 229588,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸1.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸1.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 229340,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "户外",
+          "微笑",
+          "时尚"
+        ],
+        "description": "户外阳光下女孩的温暖微笑",
+        "filenameSuggestions": [
+          "户外微笑的时尚女孩.jpg",
+          "公园里的清新少女.jpg"
+        ],
+        "displayTitle": "阳光下的温暖微笑",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片展示人物笑容甜美、明亮、背景简洁，符合【清新】(Fresh)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸159.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸159.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 228686,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2316,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "楼梯间",
+          "青春"
+        ],
+        "description": "照片记录了一个长发女孩在楼梯间的不同姿势，表现出青春的沉思与美丽。",
+        "filenameSuggestions": [
+          "坐在楼梯间的少女沉思.jpg",
+          "靠在楼梯扶手上的长发女孩.jpg"
+        ],
+        "displayTitle": "楼梯间的青春沉思",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩的姿势和表情传达出一种氛围感，且并未明确表现出其他二级分类的特征，因此归类为'氛围感'。"
+      }
+    },
+    "wallpaper/mobile/风景/雪山/超赞壁纸62.jpg": {
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "超赞壁纸62.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 228258,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "雪山",
+          "公路",
+          "风景"
+        ],
+        "description": "雪山下的公路，通往远方的天路。",
+        "filenameSuggestions": [
+          "通往雪山的天路.jpg",
+          "黄昏下的雪山公路.jpg"
+        ],
+        "displayTitle": "通往雪山的天路",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一条通往雪山的公路，符合风景类中的雪山子类。"
+      }
+    },
+    "wallpaper/mobile/人像/明星/超赞壁纸155.jpg": {
+      "category": "人像",
+      "subcategory": "明星",
+      "filename": "超赞壁纸155.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 227695,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2260,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸24.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸24.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 226886,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/创意/文字/超赞壁纸50.jpg": {
+      "category": "创意",
+      "subcategory": "文字",
+      "filename": "超赞壁纸50.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 222386,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸111.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸111.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 222141,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2376,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/城市/超赞壁纸76.jpg": {
+      "category": "风景",
+      "subcategory": "城市",
+      "filename": "超赞壁纸76.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 221526,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "城市",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "城市",
+        "keywords": [
+          "城市",
+          "风景",
+          "东京"
+        ],
+        "description": "东京城市风景，展现现代化城市景观",
+        "filenameSuggestions": [
+          "东京城市风景.jpg",
+          "晴天下的东京塔.jpg"
+        ],
+        "displayTitle": "东京城市风景",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示东京的城市景观，包括高楼大厦和东京塔，符合风景/城市的分类。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸91.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸91.jpg",
+      "createdAt": "2026-04-26T12:40:34.025Z",
+      "cdnTag": "v1.2.87",
+      "size": 221258,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸65.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸65.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 220092,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸77.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸77.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 219849,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2341,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/动漫/通用/超赞壁纸127.jpg": {
+      "category": "动漫",
+      "subcategory": "通用",
+      "filename": "超赞壁纸127.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 216812,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "通用",
+        "keywords": [
+          "动漫",
+          "少年",
+          "动作",
+          "蓝天白云"
+        ],
+        "description": "动漫风格，少年跃动于云端，充满活力与希望。",
+        "filenameSuggestions": [
+          "跃动于云端的少年.jpg",
+          "充满活力的年轻身影.jpg"
+        ],
+        "displayTitle": "疾风少年，跃动于天际",
+        "confidence": 0.9,
+        "reasoning": "图片展示了典型的动漫风格，主角拥有大眼睛、夸张的表情和动作，背景是蓝天白云。根据决策树B1和B2，判定为动漫/通用。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸121.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸121.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 216616,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像摄影",
+          "艺术创作"
+        ],
+        "description": "一位优雅的艺术家在窗边专注作画，享受创作的时光。",
+        "filenameSuggestions": [
+          "专注创作的艺术女神.jpg",
+          "背影微笑的画家形象.jpg"
+        ],
+        "displayTitle": "窗边作画的艺术女神",
+        "confidence": 0.9,
+        "reasoning": "图片中人物以背影示人，专注于绘画，环境光线柔和且有窗外自然景色，形成了重光影意境，看不清具体五官，符合【氛围感】的特征。"
+      }
+    },
+    "wallpaper/mobile/动漫/二次元/超赞壁纸184.jpg": {
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "超赞壁纸184.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 209885,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "动漫",
+          "二次元",
+          "少女",
+          "晴天"
+        ],
+        "description": "动漫风格的二次元少女，手持手机仰望蓝天白云，展现青春的活力与纯真。",
+        "filenameSuggestions": [
+          "手持手机的青春少女.jpg",
+          "仰望天空的微笑瞬间.jpg"
+        ],
+        "displayTitle": "晴天里的思绪",
+        "confidence": 0.9,
+        "reasoning": "图片展示了典型的动漫风格，人物具有大眼睛、特殊发型等特征，且无法识别出具体作品，因此归类为动漫/二次元。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸157.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸157.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 207310,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2338,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸144.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸144.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 202554,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸172.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸172.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 200379,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸164.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸164.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 200339,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸133.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸133.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 199670,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸185.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸185.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 195585,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸180.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸180.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 194365,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/城市/超赞壁纸74.jpg": {
+      "category": "风景",
+      "subcategory": "城市",
+      "filename": "超赞壁纸74.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 192636,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "城市",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "城市",
+        "keywords": [
+          "城市夜景",
+          "跑车",
+          "霓虹灯",
+          "超级跑车"
+        ],
+        "description": "夜晚城市街道上停靠的超级跑车，闪烁的霓虹灯光照亮了车辆。",
+        "filenameSuggestions": [
+          "停靠在城市夜景下的兰博基尼跑车.jpg",
+          "城市街道上的超级跑车夜景.jpg"
+        ],
+        "displayTitle": "霓虹夜色中的超级跑车",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了城市夜景中的超级跑车，车辆的门打开，红色的灯光非常显眼。符合城市风景的特征。"
+      }
+    },
+    "wallpaper/mobile/风景/城市/超赞壁纸64.jpg": {
+      "category": "风景",
+      "subcategory": "城市",
+      "filename": "超赞壁纸64.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 189410,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "城市",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "城市",
+        "keywords": [
+          "城市风景",
+          "傍晚",
+          "树木",
+          "建筑"
+        ],
+        "description": "城市傍晚的宁静风景，树木与建筑交织，云朵点缀天空。",
+        "filenameSuggestions": [
+          "夕阳下的城市景观.jpg",
+          "树影婆娑的都市街景.jpg"
+        ],
+        "displayTitle": "傍晚的城市风景",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示城市的建筑、树木和傍晚的云朵，符合风景分类下的城市子类。"
+      }
+    },
+    "wallpaper/mobile/萌宠/狗狗/超赞壁纸60.jpg": {
+      "category": "萌宠",
+      "subcategory": "狗狗",
+      "filename": "超赞壁纸60.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 189180,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "狗狗",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "狗狗",
+        "keywords": [
+          "柴犬",
+          "樱花",
+          "笑容"
+        ],
+        "description": "一只柴犬在樱花树下微笑",
+        "filenameSuggestions": [
+          "盛开的樱花下的柴犬.jpg",
+          "微笑的柴犬.jpg"
+        ],
+        "displayTitle": "春日笑犬",
+        "confidence": 0.9,
+        "reasoning": "图片中是一只柴犬，背景是盛开的樱花和建筑物。根据决策树B，图片中以柴犬为主体，因此归入‘萌宠/狗狗’类"
+      }
+    },
+    "wallpaper/mobile/通用/通用/超赞壁纸90.jpg": {
+      "category": "通用",
+      "subcategory": "通用",
+      "filename": "超赞壁纸90.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 187748,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "通用",
+        "keywords": [
+          "清凉饮品",
+          "冰块",
+          "色彩斑斓"
+        ],
+        "description": "一杯清凉的饮品，冰块在其中漂浮，呈现出色彩斑斓的效果。",
+        "filenameSuggestions": [
+          "色彩斑斓的清凉饮品.jpg",
+          "夏日清凉冰饮.jpg"
+        ],
+        "displayTitle": "色彩斑斓的清凉饮品",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了一杯含有冰块的清凉饮品，没有特定的主题或风格可以直接归入现有二级分类下的任何一类，因此归类为通用/通用。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸114.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸114.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 186137,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/动漫/通用/超赞壁纸174.jpg": {
+      "category": "动漫",
+      "subcategory": "通用",
+      "filename": "超赞壁纸174.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 180915,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸67.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸67.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 178338,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/萌宠/狗狗/超赞壁纸70.jpg": {
+      "category": "萌宠",
+      "subcategory": "狗狗",
+      "filename": "超赞壁纸70.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 176441,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸72.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸72.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 175232,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/萌宠/通用/超赞壁纸71.jpg": {
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "超赞壁纸71.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 173779,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "萌宠",
+          "时尚",
+          "猫咪",
+          "酷酷的"
+        ],
+        "description": "穿着条纹衫和戴着墨镜的猫咪，展现出一种时尚和悠闲的氛围。",
+        "filenameSuggestions": [
+          "穿条纹衫的酷猫.jpg",
+          "戴墨镜的时尚猫.jpg"
+        ],
+        "displayTitle": "时尚猫咪的悠闲午後",
+        "confidence": 0.9,
+        "reasoning": "图片中的猫咪穿着条纹衫和墨镜，带有时尚和休闲的氛围。根据决策树B，图片中的猫咪虽然穿着时尚，但并未明确对应到特定的萌宠子类，因此归入【萌宠/通用】。"
+      }
+    },
+    "wallpaper/mobile/风景/星空/超赞壁纸61.jpg": {
+      "category": "风景",
+      "subcategory": "星空",
+      "filename": "超赞壁纸61.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 169848,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "星空",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "星空",
+        "keywords": [
+          "星空",
+          "梦幻",
+          "云彩",
+          "绚丽"
+        ],
+        "description": "一张充满梦幻色彩的星空风景图片，云彩与星星交织成一幅美丽的画卷。",
+        "filenameSuggestions": [
+          "梦幻星空下的云彩.jpg",
+          "绚丽星云风景.jpg"
+        ],
+        "displayTitle": "绚烂星云下的梦幻天空",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了星空和云彩的景象，色彩绚丽，充满梦幻感。根据决策树，首先判断为风景类，再根据内容具体为星空，因此归类为风景/星空。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸54.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸54.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 168609,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2399,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像",
+          "蓝发",
+          "马"
+        ],
+        "description": "蓝发少女与马的温馨日落剪影",
+        "filenameSuggestions": [
+          "长发蓝发少女与马的剪影.jpg",
+          "日落下少女与骏马的温馨瞬间.jpg"
+        ],
+        "displayTitle": "日落下的神秘少女与马",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中未露脸且重光影意境，判定为【氛围感】"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/超赞壁纸48.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "超赞壁纸48.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 165340,
+      "format": "jpg",
+      "resolution": {
+        "width": 2000,
+        "height": 4333,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "黑白风景",
+          "海滨",
+          "剪影"
+        ],
+        "description": "黑白色的海滨风景，展现出宁静与自然之美。",
+        "filenameSuggestions": [
+          "海滨晨曦中的剪影.jpg",
+          "远飞的海鸥与静谧海岸.jpg"
+        ],
+        "displayTitle": "海天一色鸥飞远",
+        "confidence": 0.9,
+        "reasoning": "图片主要展现海滨景色，包含海鸥飞翔的剪影，归类为风景/海滨。"
+      }
+    },
+    "wallpaper/mobile/插画/氛围感/超赞壁纸138.jpg": {
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸138.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 164098,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2336,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "氛围感",
+        "keywords": [
+          "插画",
+          "氛围感",
+          "梦幻",
+          "星空"
+        ],
+        "description": "一位身穿白色宇航服的冒险者与小熊在梦幻星空下共同仰望宇宙。",
+        "filenameSuggestions": [
+          "梦幻星空下的宇航员与熊仔.jpg",
+          "仰望星云的白色宇航服冒险者.jpg"
+        ],
+        "displayTitle": "星云下的宇航员梦境",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位身穿宇航服的人物与一只熊在梦幻般的星空背景下，带有浓厚的插画风格和氛围感。根据决策树B2，图片具有绘画感强、非动画截图感的特征，归为插画/氛围感。"
+      }
+    },
+    "wallpaper/mobile/风景/海滨/超赞壁纸69.jpg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "超赞壁纸69.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 163654,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "碧海",
+          "白沙",
+          "宁静"
+        ],
+        "description": "宁静的海滨风景，碧蓝的海洋与白色的沙滩。",
+        "filenameSuggestions": [
+          "宁静的海滨沙滩与碧蓝海洋.jpg",
+          "风暴前的宁静海湾.jpg"
+        ],
+        "displayTitle": "天空之境：碧海白沙",
+        "confidence": 0.9,
+        "reasoning": "图片展示了典型的海滨景象，包括碧蓝的海洋、白色沙滩和几个人物。符合风景/海滨的分类特征。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸153.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸153.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 160141,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸129.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸129.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 158684,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/明星/超赞壁纸146.jpg": {
+      "category": "人像",
+      "subcategory": "明星",
+      "filename": "超赞壁纸146.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 154587,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸145.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸145.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 154220,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/插画/创意/超赞壁纸51.jpg": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "超赞壁纸51.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 148837,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "卡通",
+          "创意",
+          "金币",
+          "喜悦"
+        ],
+        "description": "一个卡通男孩在金币飞扬中欢乐赚取钱。",
+        "filenameSuggestions": [
+          "欢乐赚取金币的卡通男孩.jpg",
+          "金币飞扬的幸福瞬间.jpg"
+        ],
+        "displayTitle": "金钱的喜悦",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一个卡通男孩在金币飞扬中欢乐的场景，具有强烈的绘画感和创意，归入插画/创意分类。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸168.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸168.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 148826,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2338,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "黑白照片",
+          "氛围感",
+          "沉思"
+        ],
+        "description": "黑白光影中展现出的沉思与静谧之美",
+        "filenameSuggestions": [
+          "黑白光影下的沉思者.jpg",
+          "低头沉思的黑发女孩.jpg"
+        ],
+        "displayTitle": "黑白光影下的沉思",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【氛围感】(Atmosphere)定义：不露脸（背影/遮挡/模糊）、重光影意境、看不清具体五官。图片中虽然部分露出面容，但整体重光影意境且呈现黑白照片风格，符合氛围感分类。"
+      }
+    },
+    "wallpaper/mobile/动漫/蜡笔小新/超赞壁纸183.jpg": {
+      "category": "动漫",
+      "subcategory": "蜡笔小新",
+      "filename": "超赞壁纸183.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 147669,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "蜡笔小新",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "蜡笔小新",
+        "keywords": [
+          "蜡笔小新",
+          "动漫",
+          "搞笑"
+        ],
+        "description": "蜡笔小新带着微笑，展示他标志性的大肚腩。",
+        "filenameSuggestions": [
+          "微笑的蜡笔小新.jpg",
+          "露出肚子的蜡笔小新.jpg"
+        ],
+        "displayTitle": "肚腩先生的悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "图片中人物具有典型的蜡笔小新特征，包括大眼睛、黑发、红上衣和白色短裤。根据决策树B1，识别出具体角色且现有目录中已有对应子类时，必须优先归入对应IP子类。因此，归类为动漫/蜡笔小新。"
+      }
+    },
+    "wallpaper/mobile/风景/日落/超赞壁纸57.jpg": {
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "超赞壁纸57.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 147149,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "日落",
+          "云彩",
+          "天空"
+        ],
+        "description": "日落时分的天空，云彩被夕阳染成了红色。",
+        "filenameSuggestions": [
+          "日落时分的云朵.jpg",
+          "晚霞满天的天空.jpg"
+        ],
+        "displayTitle": "夕阳下的云彩",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了日落时分的云彩和天空，符合风景分类下的日落子类。"
+      }
+    },
+    "wallpaper/mobile/人像/氛围感/超赞壁纸176.jpg": {
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸176.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 142048,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸78.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸78.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 139958,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸53.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸53.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 139115,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸166.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸166.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 137398,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/日系/超赞壁纸119.jpg": {
+      "category": "人像",
+      "subcategory": "日系",
+      "filename": "超赞壁纸119.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 136683,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/风景/花卉/超赞壁纸165.jpg": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "超赞壁纸165.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 134730,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "花卉",
+          "百合",
+          "粉色"
+        ],
+        "description": "图中是几朵盛开的粉色百合花，拍摄角度独特，呈现出优雅的姿态。",
+        "filenameSuggestions": [
+          "柔和光线下的粉色百合.jpg",
+          "简约风格的百合花卉.jpg"
+        ],
+        "displayTitle": "静谧中的粉色百合",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了粉色百合花，符合风景分类下的花卉子类。"
+      }
+    },
+    "wallpaper/mobile/创意/通用/超赞壁纸131.jpg": {
+      "category": "创意",
+      "subcategory": "通用",
+      "filename": "超赞壁纸131.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 131494,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "创意",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "创意",
+        "third": "通用",
+        "keywords": [
+          "复古手机",
+          "激励短信",
+          "诺基亚"
+        ],
+        "description": "一款显示激励短信的诺基亚老式手机键盘",
+        "filenameSuggestions": [
+          "带有激励短信的诺基亚手机.jpg",
+          "屏幕上的每日鼓励.jpg"
+        ],
+        "displayTitle": "复古手机的温暖讯息",
+        "confidence": 0.9,
+        "reasoning": "图片以复古诺基亚手机为主题，带有励志短信，归类为创意/通用"
+      }
+    },
+    "wallpaper/mobile/插画/通用/超赞壁纸104.jpg": {
+      "category": "插画",
+      "subcategory": "通用",
+      "filename": "超赞壁纸104.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 126647,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "通用",
+        "keywords": [
+          "插画",
+          "草莓",
+          "粉色",
+          "甜美"
+        ],
+        "description": "可爱的草莓和白色小花图案，带来甜蜜的视觉体验。",
+        "filenameSuggestions": [
+          "可爱的草莓图案壁纸.jpg",
+          "粉色花朵与草莓的甜蜜世界.jpg"
+        ],
+        "displayTitle": "粉红甜梦",
+        "confidence": 0.9,
+        "reasoning": "图片以插画风格呈现草莓和花朵的图案，色彩粉嫩，风格甜美，归入插画/通用类。"
+      }
+    },
+    "wallpaper/mobile/风景/通用/超赞壁纸32.jpg": {
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "超赞壁纸32.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 126061,
+      "format": "jpg",
+      "resolution": {
+        "width": 1200,
+        "height": 2640,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "沙漠",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "沙漠",
+        "keywords": [
+          "沙漠",
+          "蓝天",
+          "白云",
+          "孤独",
+          "风景"
+        ],
+        "description": "沙漠中一人在广阔的沙丘上漫步，面对着蓝天白云。",
+        "filenameSuggestions": [
+          "沙漠中的孤独漫步者.jpg",
+          "广阔沙丘与蓝天白云.jpg"
+        ],
+        "displayTitle": "广阔沙漠与蓝天白云",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了沙漠风景，人物存在感较弱，主要元素为沙漠、蓝天和白云，因此归类为风景/沙漠。"
+      }
+    },
+    "wallpaper/mobile/动漫/插画/超赞壁纸161.jpg": {
+      "category": "动漫",
+      "subcategory": "插画",
+      "filename": "超赞壁纸161.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 125986,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "插画",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "插画",
+        "keywords": [
+          "动漫",
+          "插画",
+          "学园风",
+          "雨天"
+        ],
+        "description": "动漫风格插画，展现一位眼镜少女在雨中撑伞的场景。",
+        "filenameSuggestions": [
+          "撑伞的紫发眼镜少女.jpg",
+          "雨天校园风景中的动漫女孩.jpg"
+        ],
+        "displayTitle": "雨中曼妙的学园风情",
+        "confidence": 0.9,
+        "reasoning": "根据决策树B2，图片具有典型的日式动漫风格，但未识别出具体作品或角色，因此归为动漫/插画"
+      }
+    },
+    "wallpaper/mobile/插画/通用/超赞壁纸45.jpg": {
+      "category": "插画",
+      "subcategory": "通用",
+      "filename": "超赞壁纸45.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 125550,
+      "format": "jpg",
+      "resolution": {
+        "width": 1125,
+        "height": 2436,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "通用",
+        "keywords": [
+          "童真",
+          "插画",
+          "夏日",
+          "冰棒"
+        ],
+        "description": "一个快乐的少年在夏日吃冰棒的场景",
+        "filenameSuggestions": [
+          "快乐的少年吃冰棒.jpg",
+          "童年夏日吃冰棍的男孩.jpg"
+        ],
+        "displayTitle": "夏日里的童真瞬间",
+        "confidence": 0.9,
+        "reasoning": "图片呈现出典型的插画风格，特征包括手绘感强、色彩鲜艳、线条明显。男孩的形象和吃冰棒的动作充满童真，场景背景简洁，符合插画/通用的分类。未发现特定IP或更细分类的特征，因此归入插画/通用。"
+      }
+    },
+    "wallpaper/mobile/人像/明星/超赞壁纸151.jpg": {
+      "category": "人像",
+      "subcategory": "明星",
+      "filename": "超赞壁纸151.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 124044,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸56.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸56.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 119352,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸102.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸102.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 115528,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/明星/超赞壁纸167.jpg": {
+      "category": "人像",
+      "subcategory": "明星",
+      "filename": "超赞壁纸167.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 115056,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2336,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/动漫/樱桃小丸子/超赞壁纸170.jpg": {
+      "category": "动漫",
+      "subcategory": "樱桃小丸子",
+      "filename": "超赞壁纸170.jpg",
+      "createdAt": "2026-04-26T12:40:34.033Z",
+      "cdnTag": "v1.2.87",
+      "size": 112850,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2338,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
       }
     }
   }
