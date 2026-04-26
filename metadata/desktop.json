@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "desktop",
-  "lastUpdated": "2026-04-26 09:29:58",
-  "count": 621,
+  "lastUpdated": "2026-04-26 02:06:24",
+  "count": 642,
   "images": {
     "wallpaper/desktop/IP形象/乌萨奇/乌撒奇-兔子-卡通.png": {
       "category": "IP形象",
@@ -18421,6 +18421,553 @@
         "displayTitle": "梦幻紫色房间里的兔耳少女",
         "confidence": 0.9,
         "reasoning": "图片具有动漫风格和插画特征，未识别出具体IP，归类为动漫/插画"
+      }
+    },
+    "wallpaper/desktop/插画/创意/Chris插画-插画.png": {
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "Chris插画-插画.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 658086,
+      "format": "png",
+      "resolution": {
+        "width": 2912,
+        "height": 1632,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "Chris插画",
+          "插画"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/插画/国风/20260424_165941.jpeg": {
+      "category": "插画",
+      "subcategory": "国风",
+      "filename": "20260424_165941.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 2860138,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2912,
+        "height": 1632,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/插画/国风/20260420203805.png": {
+      "category": "插画",
+      "subcategory": "国风",
+      "filename": "20260420203805.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 20315533,
+      "format": "png",
+      "resolution": {
+        "width": 5824,
+        "height": 3264,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/插画/国风/20260420203750.png": {
+      "category": "插画",
+      "subcategory": "国风",
+      "filename": "20260420203750.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 19095522,
+      "format": "png",
+      "resolution": {
+        "width": 5824,
+        "height": 3264,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/插画/国风/20260424165827.jpeg": {
+      "category": "插画",
+      "subcategory": "国风",
+      "filename": "20260424165827.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 3150647,
+      "format": "jpeg",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/插画/文字/Chris插画.png": {
+      "category": "插画",
+      "subcategory": "文字",
+      "filename": "Chris插画.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 2839075,
+      "format": "png",
+      "resolution": {
+        "width": 4320,
+        "height": 2432,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "Chris插画"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/插画/场景/20260424_165959.jpeg": {
+      "category": "插画",
+      "subcategory": "场景",
+      "filename": "20260424_165959.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 4331808,
+      "format": "jpeg",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/插画/场景/海-行李箱.png": {
+      "category": "插画",
+      "subcategory": "场景",
+      "filename": "海-行李箱.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 11222068,
+      "format": "png",
+      "resolution": {
+        "width": 4368,
+        "height": 2448,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "海",
+          "行李箱"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/风景/海滨/20260424_165948.jpeg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424_165948.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 3013128,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2912,
+        "height": 1632,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/风景/海滨/20260424_165945.jpeg": {
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "20260424_165945.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 1542766,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2912,
+        "height": 1632,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/风景/日落/20260420203706.jpeg": {
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "20260420203706.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 3586095,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2912,
+        "height": 1632,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/风景/花卉/天空-晴空-树.png": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "天空-晴空-树.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 1434825,
+      "format": "png",
+      "resolution": {
+        "width": 2358,
+        "height": 1714,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "天空",
+          "晴空",
+          "树"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/风景/花卉/20260424165858.jpeg": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "20260424165858.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 2255069,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2912,
+        "height": 1632,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/风景/花卉/20260424165234.jpeg": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "20260424165234.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 2477461,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2912,
+        "height": 1632,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/风景/花卉/云层-春花-暖色调.png": {
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "云层-春花-暖色调.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 648893,
+      "format": "png",
+      "resolution": {
+        "width": 2160,
+        "height": 1622,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "云层",
+          "春花",
+          "暖色调"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/动漫/二次元/动漫角色-眼睛特写.png": {
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "动漫角色-眼睛特写.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 4642017,
+      "format": "png",
+      "resolution": {
+        "width": 8000,
+        "height": 5333,
+        "label": "8K",
+        "type": "danger"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "动漫角色",
+          "眼睛特写"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/IP形象/乌萨奇/20260420203833.jpeg": {
+      "category": "IP形象",
+      "subcategory": "乌萨奇",
+      "filename": "20260420203833.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 2968027,
+      "format": "jpeg",
+      "resolution": {
+        "width": 4096,
+        "height": 2303,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/人像/魅力/20260420213344.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "20260420213344.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 20197357,
+      "format": "jpeg",
+      "resolution": {
+        "width": 7952,
+        "height": 5304,
+        "label": "8K",
+        "type": "danger"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/人像/清新/20260424_165629.jpeg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "20260424_165629.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 392552,
+      "format": "jpeg",
+      "resolution": {
+        "width": 4096,
+        "height": 2308,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/人像/国风/20260420203634.jpeg": {
+      "category": "人像",
+      "subcategory": "国风",
+      "filename": "20260420203634.jpeg",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 5214769,
+      "format": "jpeg",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/通用/文字/Chris插画-文字.png": {
+      "category": "通用",
+      "subcategory": "文字",
+      "filename": "Chris插画-文字.png",
+      "createdAt": "2026-04-26 02:06:15",
+      "cdnTag": "v1.2.86",
+      "size": 2928552,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "keywords": [
+          "Chris插画",
+          "文字"
+        ],
+        "description": "",
+        "displayTitle": "",
+        "confidence": 0,
+        "model": "filename-inference",
+        "analyzedAt": null
       }
     }
   }
