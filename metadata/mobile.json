@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-04-27 18:11:45",
-  "count": 1207,
+  "lastUpdated": "2026-04-28 01:24:45",
+  "count": 1219,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -38622,6 +38622,366 @@
         "confidence": 0,
         "reasoning": null,
         "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/小姐姐壁纸2.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "小姐姐壁纸2.jpg",
+      "createdAt": "2026-04-28T01:20:56.070Z",
+      "cdnTag": "v1.2.92",
+      "size": 542743,
+      "format": "jpg",
+      "resolution": {
+        "width": 1888,
+        "height": 4095,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/魅力/小姐姐壁纸3.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "小姐姐壁纸3.jpg",
+      "createdAt": "2026-04-28T01:20:56.070Z",
+      "cdnTag": "v1.2.92",
+      "size": 589342,
+      "format": "jpg",
+      "resolution": {
+        "width": 1772,
+        "height": 3841,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/魅力/小姐姐壁纸4.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "小姐姐壁纸4.jpg",
+      "createdAt": "2026-04-28T01:20:56.070Z",
+      "cdnTag": "v1.2.92",
+      "size": 569548,
+      "format": "jpg",
+      "resolution": {
+        "width": 1772,
+        "height": 3841,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/魅力/小姐姐壁纸5.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "小姐姐壁纸5.jpg",
+      "createdAt": "2026-04-28T01:20:56.070Z",
+      "cdnTag": "v1.2.92",
+      "size": 552897,
+      "format": "jpg",
+      "resolution": {
+        "width": 1760,
+        "height": 3815,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/魅力/小姐姐壁纸6.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "小姐姐壁纸6.jpg",
+      "createdAt": "2026-04-28T01:20:56.070Z",
+      "cdnTag": "v1.2.92",
+      "size": 560779,
+      "format": "jpg",
+      "resolution": {
+        "width": 1764,
+        "height": 3824,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/清新/小姐姐壁纸7.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "小姐姐壁纸7.jpg",
+      "createdAt": "2026-04-28T01:20:56.070Z",
+      "cdnTag": "v1.2.92",
+      "size": 406650,
+      "format": "jpg",
+      "resolution": {
+        "width": 1858,
+        "height": 4028,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/清新/小姐姐壁纸8.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "小姐姐壁纸8.jpg",
+      "createdAt": "2026-04-28T01:20:56.070Z",
+      "cdnTag": "v1.2.92",
+      "size": 483037,
+      "format": "jpg",
+      "resolution": {
+        "width": 1858,
+        "height": 4028,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/清新/小姐姐壁纸9.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "小姐姐壁纸9.jpg",
+      "createdAt": "2026-04-28T01:20:56.070Z",
+      "cdnTag": "v1.2.92",
+      "size": 239044,
+      "format": "jpg",
+      "resolution": {
+        "width": 1801,
+        "height": 3904,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/魅力/小姐姐壁纸10.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "小姐姐壁纸10.jpg",
+      "createdAt": "2026-04-28T01:20:56.070Z",
+      "cdnTag": "v1.2.92",
+      "size": 283647,
+      "format": "jpg",
+      "resolution": {
+        "width": 1772,
+        "height": 3841,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/魅力/小姐姐壁纸11.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "小姐姐壁纸11.jpg",
+      "createdAt": "2026-04-28T01:20:56.070Z",
+      "cdnTag": "v1.2.92",
+      "size": 409831,
+      "format": "jpg",
+      "resolution": {
+        "width": 1288,
+        "height": 2792,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/清新/小姐姐壁纸12.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "小姐姐壁纸12.jpg",
+      "createdAt": "2026-04-28T01:22:29.508Z",
+      "cdnTag": "v1.2.92",
+      "size": 233258,
+      "format": "jpg",
+      "resolution": {
+        "width": 1288,
+        "height": 2792,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
+      }
+    },
+    "wallpaper/mobile/人像/清新/小姐姐壁纸13.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "小姐姐壁纸13.jpg",
+      "createdAt": "2026-04-28T01:22:29.508Z",
+      "cdnTag": "v1.2.92",
+      "size": 397377,
+      "format": "jpg",
+      "resolution": {
+        "width": 1720,
+        "height": 3728,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "NetworkError when attempting to fetch resource."
       }
     }
   }
