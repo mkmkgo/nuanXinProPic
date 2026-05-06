@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 set -euo pipefail
 
 if [ $# -lt 1 ]; then
@@ -20,6 +19,7 @@ fi
 
 INPUT_REL="$1"
 OUTPUT_REL="${2:-}"
+
 PROJECT_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 INPUT_FILE="$PROJECT_ROOT/$INPUT_REL"
 
@@ -42,6 +42,7 @@ FPS_RAW="$(ffprobe -v error -select_streams v:0 -show_entries stream=avg_frame_r
 DURATION="$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$INPUT_FILE")"
 
 FPS="$(awk -F'/' 'NF==2 { if ($2 == 0) print 30; else printf "%.0f", $1 / $2 } NF==1 { printf "%.0f", $1 }' <<<"$FPS_RAW")"
+
 if [ -z "$FPS" ] || [ "$FPS" -le 0 ]; then
   FPS=30
 fi
@@ -82,4 +83,5 @@ ffmpeg -y -i "$INPUT_FILE" \
   "$OUTPUT_FILE"
 
 echo "优化完成"
+
 ffprobe -v error -select_streams v:0 -show_entries stream=codec_name,width,height,pix_fmt,r_frame_rate -show_entries format=duration,size -of default=noprint_wrappers=1 "$OUTPUT_FILE"
