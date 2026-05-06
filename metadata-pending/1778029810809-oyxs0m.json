@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-06T01:10:10.808Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380793247480.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380793247480.jpeg",
+      "createdAt": "2026-05-06T01:10:10.809Z",
+      "size": 4495905,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/13399380711220015.jpeg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13399380711220015.jpeg",
+      "createdAt": "2026-05-06T01:10:10.809Z",
+      "size": 245235,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    }
+  ]
+}
