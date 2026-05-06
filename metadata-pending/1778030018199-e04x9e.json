@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-06T01:13:38.199Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399377168826817.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399377168826817.jpeg",
+      "createdAt": "2026-05-06T01:13:38.199Z",
+      "size": 2181056,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "紧身衣",
+          "身材曲线"
+        ],
+        "description": "一位身穿白色紧身衣的少女，展现曼妙曲线，姿态优雅。",
+        "filenameSuggestions": [
+          "身穿白色紧身衣的优雅少女.jpg",
+          "展现曼妙曲线的都市丽人.jpg"
+        ],
+        "displayTitle": "月光下的曼陀罗花",
+        "confidence": 0.9,
+        "reasoning": "根据人物穿着紧身衣，姿态撩人，归入【魅力】分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399377664779152.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399377664779152.jpeg",
+      "createdAt": "2026-05-06T01:13:38.199Z",
+      "size": 4019476,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "甜美",
+          "微笑",
+          "少女"
+        ],
+        "description": "一个面带甜美微笑的清新少女",
+        "filenameSuggestions": [
+          "微笑的清新少女.jpg",
+          "粉色背景下的甜美女孩.jpg"
+        ],
+        "displayTitle": "甜美微笑的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物面带微笑，背景干净，色彩明亮，符合清新风格的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399377678469178.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399377678469178.jpeg",
+      "createdAt": "2026-05-06T01:13:38.199Z",
+      "size": 2813445,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "女郎",
+          "纹身",
+          "砖墙"
+        ],
+        "description": "一位短发女郎，穿着白色上衣和牛仔裤，展示她的纹身，靠在红砖墙上。",
+        "filenameSuggestions": [
+          "时尚女郎与红砖墙.jpg",
+          "短发女郎的优雅姿态.jpg"
+        ],
+        "displayTitle": "砖墙下的时尚女郎",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着时尚且有魅力，展示了纹身和优雅的姿势，背景是红砖墙，符合【魅力】的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399377688551874.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399377688551874.jpeg",
+      "createdAt": "2026-05-06T01:13:38.199Z",
+      "size": 428417,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "低调",
+          "诱惑"
+        ],
+        "description": "一位长发少女在暗影中展现神秘魅力。",
+        "filenameSuggestions": [
+          "暗影中的神秘少女.jpg",
+          "低语的诱惑.jpg"
+        ],
+        "displayTitle": "暗影中的神秘低语",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【氛围感】(Atmosphere)特征：不露脸（背影/遮挡/模糊）、重光影意境、看不清具体五官，判定为[氛围感]"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399377698360990.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399377698360990.jpeg",
+      "createdAt": "2026-05-06T01:13:38.199Z",
+      "size": 1867105,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "高跟鞋",
+          "魅力"
+        ],
+        "description": "图中展现一双穿着黑丝袜的长腿，搭配黑色的高跟鞋和丝带装饰，整体氛围优雅中带有一丝诱惑。",
+        "filenameSuggestions": [
+          "黑丝袜与高跟鞋的诱惑.jpg",
+          "丝袜美腿与失落高跟鞋.jpg"
+        ],
+        "displayTitle": "黑丝诱惑下的优雅瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中强调了身材曲线和成熟美，穿着黑丝袜和高跟鞋，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/材料.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "材料.jpeg",
+      "createdAt": "2026-05-06T01:13:38.199Z",
+      "size": 1317395,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    }
+  ]
+}
