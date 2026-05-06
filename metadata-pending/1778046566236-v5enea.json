@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-06T05:49:26.236Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399377944942493.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399377944942493.jpeg",
+      "createdAt": "2026-05-06T05:49:26.236Z",
+      "size": 712808,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "蓝天白云",
+          "优雅"
+        ],
+        "description": "蓝天白云下，少女轻盈而立，姿态优雅。",
+        "filenameSuggestions": [
+          "白衬衫黑裙少女.jpg",
+          "蓝天白云下的优雅瞬间.jpg"
+        ],
+        "displayTitle": "云间少女的轻盈姿态",
+        "confidence": 0.9,
+        "reasoning": "图片中少女穿着清新风格的服装，背景是明亮的蓝天白云，整体氛围明亮且治愈，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399377954897100.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399377954897100.jpeg",
+      "createdAt": "2026-05-06T05:49:26.236Z",
+      "size": 1448290,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝袜",
+          "诱惑",
+          "沙发"
+        ],
+        "description": "一位身穿白色T恤的女孩，坐在黑皮沙发上，摆出诱惑姿势。",
+        "filenameSuggestions": [
+          "白色T恤诱惑姿势的女孩.jpg",
+          "黑皮沙发上的性感美女.jpg"
+        ],
+        "displayTitle": "沙发上的诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩身穿白色T恤，露出部分腿部，坐在沙发上手势撩人，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399377967053208.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399377967053208.jpeg",
+      "createdAt": "2026-05-06T05:49:26.236Z",
+      "size": 1179946,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "成熟",
+          "丝袜",
+          "姿态撩人"
+        ],
+        "description": "一位神秘的黑发女孩在午夜展现诱惑姿态",
+        "filenameSuggestions": [
+          "神秘夜色中的黑发尤物.jpg",
+          "隔着玻璃的诱惑姿态.jpg"
+        ],
+        "displayTitle": "魅惑午夜",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物姿态撩人，展现出成熟美和吸引力，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399377977397726.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399377977397726.jpeg",
+      "createdAt": "2026-05-06T05:49:26.236Z",
+      "size": 820176,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "阳光",
+          "短裙",
+          "少女"
+        ],
+        "description": "阳光下的少女，穿着短裙和白衬衫，充满青春活力。",
+        "filenameSuggestions": [
+          "阳光下微笑的短裙女孩.jpg",
+          "蓝天白云下的青春少女.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "图片中少女穿着清新风格的服装，背景是明亮的蓝天和阳光，整体氛围明亮且充满活力。根据规则A4，判定为[清新]。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399377986959585.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399377986959585.jpeg",
+      "createdAt": "2026-05-06T05:49:26.236Z",
+      "size": 1450341,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝绸",
+          "黑发",
+          "床上"
+        ],
+        "description": "一位黑发女孩在床上摆出优雅姿势，身穿灰色丝绸裙，展现成熟魅力。",
+        "filenameSuggestions": [
+          "身穿灰色裙子的黑发女孩躺在床上.jpg",
+          "床上优雅姿势的丝绸美人.jpg"
+        ],
+        "displayTitle": "月光下的丝绸诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中人物身穿灰色丝绸裙，姿势撩人，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/13399378002692400.jpeg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13399378002692400.jpeg",
+      "createdAt": "2026-05-06T05:49:26.236Z",
+      "size": 4242467,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    }
+  ]
+}
