@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-06T05:52:24.134Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399378014888730.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399378014888730.jpeg",
+      "createdAt": "2026-05-06T05:52:24.134Z",
+      "size": 2396198,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "阳光",
+          "蓝天白云"
+        ],
+        "description": "阳光下的美丽少女，清新脱俗",
+        "filenameSuggestions": [
+          "阳光下的少女.jpg",
+          "蓝天白云下的美丽女孩.jpg"
+        ],
+        "displayTitle": "阳光下的少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩面带微笑，站在阳光灿烂的蓝天白云下，穿着轻薄的白色衬衫和短裙，整体氛围明亮且充满活力，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399378026034577.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399378026034577.jpeg",
+      "createdAt": "2026-05-06T05:52:24.134Z",
+      "size": 2378967,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "背影",
+          "时尚"
+        ],
+        "description": "一个身穿黑色长袖T恤和牛仔裤的女孩，坐在木凳上，背对着观众。",
+        "filenameSuggestions": [
+          "身穿黑色长袖T恤的成熟女孩.jpg",
+          "背对着坐在木凳上的时尚女性.jpg"
+        ],
+        "displayTitle": "背影里的神秘魅力",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着暴露的黑色T恤和低腰牛仔裤，展现出成熟的魅力，符合【魅力】分类的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399378042275821.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399378042275821.jpeg",
+      "createdAt": "2026-05-06T05:52:24.134Z",
+      "size": 4176150,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "工业风",
+          "人像"
+        ],
+        "description": "工业风格场景中的少女沉思",
+        "filenameSuggestions": [
+          "工业风景中的沉思少女.jpg",
+          "木凳上低头玩手机的长发女孩.jpg"
+        ],
+        "displayTitle": "工业风情下的沉思",
+        "confidence": 0.9,
+        "reasoning": "图片中少女坐于木凳，低头玩手机，背景为工业风格的仓库环境，有较强的氛围感和情境感。根据决策树A. 人像分类决策树中的【氛围感】(Atmosphere)特征：不露脸（背影/遮挡/模糊）、重光影意境、看不清具体五官，判定为[氛围感]。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399378051341568.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399378051341568.jpeg",
+      "createdAt": "2026-05-06T05:52:24.134Z",
+      "size": 4939028,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "背影",
+          "时尚"
+        ],
+        "description": "时尚女郎坐姿背影，充满现代感与优雅。",
+        "filenameSuggestions": [
+          "时尚女郎的优雅背影.jpg",
+          "坐在时尚店铺里的长发女孩.jpg"
+        ],
+        "displayTitle": "背影里的时尚邂逅",
+        "confidence": 0.9,
+        "reasoning": "图片为人物背影，强调光影意境，符合【氛围感】的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399378060459604.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399378060459604.jpeg",
+      "createdAt": "2026-05-06T05:52:24.134Z",
+      "size": 396266,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像摄影",
+          "低调色"
+        ],
+        "description": "照片中的少女被黑暗所包围，面部表情神秘而深邃，充满了未知的魅力。",
+        "filenameSuggestions": [
+          "神秘的暗影女孩.jpg",
+          "黑夜中的低语者.jpg"
+        ],
+        "displayTitle": "暗影中的神秘少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【氛围感】(Atmosphere)特征：不露脸（背影/遮挡/模糊）、重光影意境、看不清具体五官。虽然本图非背影，但重光影意境且表情神秘，归入【氛围感】"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399378070269244.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399378070269244.jpeg",
+      "createdAt": "2026-05-06T05:52:24.134Z",
+      "size": 3450205,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像摄影",
+          "低调色"
+        ],
+        "description": "长发少女坐在灰色背景前，低头沉思，氛围感十足。",
+        "filenameSuggestions": [
+          "坐灰色背景前的长发女孩.jpg",
+          "低头沉思的灰衣少女.jpg"
+        ],
+        "displayTitle": "灰色低语",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物未露脸且有重光影意境，符合【氛围感】分类"
+      }
+    }
+  ]
+}
