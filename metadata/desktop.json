@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "desktop",
-  "lastUpdated": "2026-05-07 04:45:04",
-  "count": 642,
+  "lastUpdated": "2026-05-07 07:47:24",
+  "count": 668,
   "images": {
     "wallpaper/desktop/IP形象/乌萨奇/乌撒奇-兔子-卡通.png": {
       "category": "IP形象",
@@ -18968,6 +18968,786 @@
         "confidence": 0,
         "model": "filename-inference",
         "analyzedAt": null
+      }
+    },
+    "wallpaper/desktop/通用/阳光下的悠闲时光.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "阳光下的悠闲时光.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 1104069,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/自由之心.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "自由之心.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 1412574,
+      "format": "png",
+      "resolution": {
+        "width": 4000,
+        "height": 2250,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/城市中的悠闲时刻.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "城市中的悠闲时刻.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 589703,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/富士山下的静谧黄昏.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "富士山下的静谧黄昏.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 254629,
+      "format": "png",
+      "resolution": {
+        "width": 2560,
+        "height": 1440,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/富士山下的秋日黄昏.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "富士山下的秋日黄昏.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 817508,
+      "format": "png",
+      "resolution": {
+        "width": 2696,
+        "height": 1926,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/阳光下的花园小屋.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "阳光下的花园小屋.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 677336,
+      "format": "png",
+      "resolution": {
+        "width": 2912,
+        "height": 1632,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/屋顶上的黑白猫.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "屋顶上的黑白猫.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 195455,
+      "format": "png",
+      "resolution": {
+        "width": 3632,
+        "height": 2296,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/云端之家.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "云端之家.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 145257,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/治愈系卡通少女.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "治愈系卡通少女.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 270324,
+      "format": "png",
+      "resolution": {
+        "width": 1760,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/雪中三友.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "雪中三友.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 492321,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1323,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/雪地悠闲趣.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "雪地悠闲趣.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 377738,
+      "format": "png",
+      "resolution": {
+        "width": 1920,
+        "height": 1079,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/梦幻星空下的山脉湖泊.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "梦幻星空下的山脉湖泊.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 1403926,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/充满鼓励的办公萌趣.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "充满鼓励的办公萌趣.jpg",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 837136,
+      "format": "jpg",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/阳光下的温馨宿舍.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "阳光下的温馨宿舍.jpg",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 1922793,
+      "format": "jpg",
+      "resolution": {
+        "width": 2912,
+        "height": 1632,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/治愈的咖啡时光.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "治愈的咖啡时光.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 4929934,
+      "format": "png",
+      "resolution": {
+        "width": 3860,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/北岭雪峰.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "北岭雪峰.jpg",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 6553451,
+      "format": "jpg",
+      "resolution": {
+        "width": 9595,
+        "height": 7183,
+        "label": "8K",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/海天一色,灯塔守望.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "海天一色,灯塔守望.jpg",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 4447374,
+      "format": "jpg",
+      "resolution": {
+        "width": 5802,
+        "height": 3264,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/月夜下的古韵水乡.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "月夜下的古韵水乡.jpg",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 2843830,
+      "format": "jpg",
+      "resolution": {
+        "width": 6900,
+        "height": 3974,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/好奇的动画懒羊羊.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "好奇的动画懒羊羊.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 1602417,
+      "format": "png",
+      "resolution": {
+        "width": 5120,
+        "height": 2880,
+        "label": "5K+",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/人生小满,胜万全。.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "人生小满,胜万全。.jpg",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 584983,
+      "format": "jpg",
+      "resolution": {
+        "width": 2160,
+        "height": 1216,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/春日花开,枝繁叶茂.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "春日花开,枝繁叶茂.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 1434825,
+      "format": "png",
+      "resolution": {
+        "width": 2358,
+        "height": 1714,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/月光下的盛开花瓣.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "月光下的盛开花瓣.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 648893,
+      "format": "png",
+      "resolution": {
+        "width": 2160,
+        "height": 1622,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/生活感悟的艺术表达.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "生活感悟的艺术表达.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 2839075,
+      "format": "png",
+      "resolution": {
+        "width": 4320,
+        "height": 2432,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/神秘的红眸少女.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "神秘的红眸少女.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 4642017,
+      "format": "png",
+      "resolution": {
+        "width": 8000,
+        "height": 5333,
+        "label": "8K",
+        "type": "danger"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/冬日里的节日小镇.jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "冬日里的节日小镇.jpg",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 2968027,
+      "format": "jpg",
+      "resolution": {
+        "width": 4096,
+        "height": 2303,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/desktop/通用/周末的轻松态度.png": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "周末的轻松态度.png",
+      "createdAt": "2026-05-07T07:26:32.173Z",
+      "cdnTag": "v1.3.8",
+      "size": 2928552,
+      "format": "png",
+      "resolution": {
+        "width": 3840,
+        "height": 2160,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "desktop",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "desktop",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
       }
     }
   }
