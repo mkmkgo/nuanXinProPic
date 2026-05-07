@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-07T04:41:12.593Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399378399363155.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399378399363155.jpeg",
+      "createdAt": "2026-05-07T04:41:12.593Z",
+      "size": 4236476,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "背影",
+          "都市风"
+        ],
+        "description": "都市轻旅中的背影",
+        "filenameSuggestions": [
+          "都市轻旅中的背影.jpg",
+          "身穿米色外套的都市女孩.jpg"
+        ],
+        "displayTitle": "都市轻旅中的背影",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位女孩背对着镜头走在自动扶梯上，具有较强的光影意境，且未展示具体五官，符合【氛围感】的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399378410208976.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399378410208976.jpeg",
+      "createdAt": "2026-05-07T04:41:12.593Z",
+      "size": 1485901,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "摩托车",
+          "纹身",
+          "黑丝"
+        ],
+        "description": "夜间，一位穿着黑色短裙和白色背心的女性，戴着头盔，展示她的纹身，姿态撩人地坐在摩托车上。",
+        "filenameSuggestions": [
+          "身穿黑色短裙的纹身女孩骑摩托.jpg",
+          "夜间骑行摩托的时尚女性.jpg"
+        ],
+        "displayTitle": "夜色中的摩托女郎",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中女性穿着暴露，展示身材曲线，带有纹身且姿态撩人，符合【魅力】(Glamour)的定义和特征。"
+      }
+    }
+  ]
+}
