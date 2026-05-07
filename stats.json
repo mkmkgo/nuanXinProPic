@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-05-07 04:45:04",
-  "cdnTag": "v1.3.7",
+  "lastUpdated": "2026-05-07 07:47:24",
+  "cdnTag": "v1.3.8",
   "series": {
     "desktop": {
-      "count": 642,
+      "count": 668,
       "categories": [
         "动漫",
         "插画",
         "人像",
         "风景",
         "IP形象",
+        "通用",
         "萌宠",
         "政治",
         "游戏",
-        "影视",
-        "通用"
+        "影视"
       ]
     },
     "mobile": {
@@ -46,11 +46,21 @@
     }
   },
   "total": {
-    "desktop": 642,
+    "desktop": 668,
     "mobile": 1334,
     "avatar": 503
   },
   "releases": [
+    {
+      "tag": "v1.3.8",
+      "date": "2026-05-07",
+      "added": {
+        "desktop": 26,
+        "mobile": 0,
+        "avatar": 0
+      },
+      "publisher": "mkmkgo"
+    },
     {
       "tag": "v1.3.7",
       "date": "2026-05-07",
