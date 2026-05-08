@@ -1,0 +1,4108 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-08T01:51:54.648Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399379338642538.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399379338642538.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1395658,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "口罩女孩",
+          "氛围感",
+          "时尚",
+          "黑衣"
+        ],
+        "description": "一位面带黑色口罩的少女，展现时尚与神秘。",
+        "filenameSuggestions": [
+          "面带黑色口罩的时尚少女.jpg",
+          "黑衣下的清新诱惑.jpg"
+        ],
+        "displayTitle": "面纱下的都市丽人",
+        "confidence": 0.9,
+        "reasoning": "图片中的人物戴着口罩，未露出面容，且整体氛围感强烈，根据决策树A5，归类为【氛围感】。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379346888497.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379346888497.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1095083,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "眼镜",
+          "少女"
+        ],
+        "description": "眼镜下的清新少女，文静优雅。",
+        "filenameSuggestions": [
+          "清新文静的黑发眼镜女孩.jpg",
+          "白色背景下的学生风美少女.jpg"
+        ],
+        "displayTitle": "眼镜下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物穿着清新，背景简洁，符合清新风格的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379356961831.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379356961831.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1519254,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379366786927.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379366786927.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1313437,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379376661480.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379376661480.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2237897,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379385608921.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379385608921.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 966559,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/13399378787789446.jpeg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13399378787789446.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 3873376,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399378802595677.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399378802595677.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2217565,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "暗黑风",
+          "时尚"
+        ],
+        "description": "一位穿着白色短裙和银色高跟鞋的少女，在暗影中展现优雅。",
+        "filenameSuggestions": [
+          "暗影中的优雅少女.jpg",
+          "黑白中的时尚女郎.jpg"
+        ],
+        "displayTitle": "暗影中的优雅",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物穿着时尚，姿势优雅，且光线营造出暗黑氛围，符合【魅力】分类的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399378813268623.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399378813268623.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 692610,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399378823210542.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399378823210542.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 3000548,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399378833014957.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399378833014957.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2596957,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379320541692.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379320541692.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1754678,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379395918860.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379395918860.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2211496,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "人像",
+          "丝袜不是特征但有魅力",
+          "手势优雅"
+        ],
+        "description": "照片展现了一位少女的优雅姿态与时尚穿搭。",
+        "filenameSuggestions": [
+          "白色蕾丝边衫与牛仔裤的优雅少女.jpg",
+          "雪纺灰色开衫下的时尚手势.jpg"
+        ],
+        "displayTitle": "优雅的微笑曲线",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片以人物为主，服装时尚且有魅力，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379404072779.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379404072779.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1049443,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "粉色",
+          "床上",
+          "长发"
+        ],
+        "description": "一位穿着粉色毛衣的女孩躺在床上看手机，氛围清新自然。",
+        "filenameSuggestions": [
+          "床上漫步的粉色旋律.jpg",
+          "粉色毛衣少女躺在床上看手机.jpg"
+        ],
+        "displayTitle": "床上漫步的粉色旋律",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着粉色毛衣，躺在床上看手机，氛围轻松自然，符合【清新】(Fresh)的特征：明亮、治愈、氧气感。图片中女孩的服装和环境符合清新风格的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399379416892053.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399379416892053.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 500073,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "剪影",
+          "足部艺术"
+        ],
+        "description": "一双纤细的脚轻轻触碰着酒杯，营造出一种神秘的氛围。",
+        "filenameSuggestions": [
+          "玻璃杯后的纤足.jpg",
+          "赤足轻触酒杯.jpg"
+        ],
+        "displayTitle": "晶莹下的剪影",
+        "confidence": 0.9,
+        "reasoning": "图片中未直接展示人物的面容，而是通过脚部与酒杯的互动，营造出一种氛围感和意境。根据决策树的人像分类决策树中的【氛围感】(Atmosphere)特征：不露脸（背影/遮挡/模糊）、重光影意境、看不清具体五官，因此判定为 人像/氛围感。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399379430325359.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399379430325359.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1201051,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像",
+          "少女"
+        ],
+        "description": "一个面带羞涩的短发少女，手捂口鼻，表现出纯真的表情。",
+        "filenameSuggestions": [
+          "面带羞涩的短发少女.jpg",
+          "纯真女孩的微笑瞬间.jpg"
+        ],
+        "displayTitle": "纯真面纱下的微笑",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A的人像分类决策树，图片中的人物未露脸，但通过姿势和表情表现出强烈的氛围感，因此归入【氛围感】分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379439173620.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379439173620.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1010321,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "花裙",
+          "长发",
+          "蕾丝"
+        ],
+        "description": "一位穿着花裙的少女静坐，展现清新优雅的气质。",
+        "filenameSuggestions": [
+          "身穿花裙的长发少女坐在梳妆台前.jpg",
+          "白色蕾丝上衣配花裙的清新女孩.jpg"
+        ],
+        "displayTitle": "花间少女的静谧时光",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中的女孩面带微笑，穿着轻盈的花裙和蕾丝上衣，整体氛围明亮且自然，符合【清新】(Fresh)的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379447177683.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379447177683.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 654677,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379457135957.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379457135957.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2136703,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379468428245.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379468428245.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2722967,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379476527598.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379476527598.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 445532,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "阳光",
+          "蓝天"
+        ],
+        "description": "一位穿着绿色卫衣的少女，站在高处，手持报纸，享受阳光下的清新氛围。",
+        "filenameSuggestions": [
+          "身穿绿色卫衣的清新少女.jpg",
+          "手持报纸的阳光女孩.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女穿着休闲服装，背景是明亮的蓝天，整体氛围明亮且清新，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379487133882.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379487133882.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 837303,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379498943898.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379498943898.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 4673261,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379508469456.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379508469456.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2246529,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399379521919828.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399379521919828.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1388036,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "人像",
+          "甜美"
+        ],
+        "description": "一个躲在毯子下的少女，露出好奇的目光。",
+        "filenameSuggestions": [
+          "躲在毯子下的少女.jpg",
+          "毯子下的好奇目光.jpg"
+        ],
+        "displayTitle": "躲在毯子下的少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A的人像分类决策树，图片中没有露脸且有重光影意境，判定为【氛围感】。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379532916437.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379532916437.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2568731,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "魅力",
+          "夜景"
+        ],
+        "description": "一位穿着黑色裙子的长发女孩在夜色中展现出的优雅与魅力。",
+        "filenameSuggestions": [
+          "身穿黑色裙子的长发女孩.jpg",
+          "夜色中优雅的黑衣女子.jpg"
+        ],
+        "displayTitle": "月光下的黑曼陀罗",
+        "confidence": 0.9,
+        "reasoning": "根据图片中的人物穿着和姿势，强调身材曲线和成熟美，符合【魅力】的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379544765017.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379544765017.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 484546,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "短裙",
+          "魅力",
+          "都市丽人"
+        ],
+        "description": "黑丝短裙的都市丽人，展现成熟魅力。",
+        "filenameSuggestions": [
+          "黑丝短裙的都市丽人.jpg",
+          "优雅黑色丝袜美女.jpg"
+        ],
+        "displayTitle": "黑丝短裙的都市丽人",
+        "confidence": 0.9,
+        "reasoning": "图片中人物穿着黑丝袜、短裙，姿势撩人，符合【魅力】类定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379553505278.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379553505278.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2840086,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379567372302.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379567372302.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2584419,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379577171831.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379577171831.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 3257169,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379585521566.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379585521566.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2599093,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑发",
+          "短衫",
+          "魅力",
+          "诱惑"
+        ],
+        "description": "一位黑发女孩穿着白色短衫和黑色裤子，展现出她的身材曲线。",
+        "filenameSuggestions": [
+          "身穿白色短衫的黑发女孩.jpg",
+          "侧颜诱惑的黑发美人.jpg"
+        ],
+        "displayTitle": "月光下的诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩穿着紧身衣物，姿态撩人，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379598795019.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379598795019.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1764830,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "露肩",
+          "黑衣",
+          "低头"
+        ],
+        "description": "一位穿着黑色露肩裙的少女，低头微笑，充满魅力。",
+        "filenameSuggestions": [
+          "身穿黑色露肩裙的优雅少女.jpg",
+          "夜色中低头微笑的长发女孩.jpg"
+        ],
+        "displayTitle": "月光下的黑玫瑰",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中人物穿着露肩裙，姿态优雅，符合【魅力】(Glamour)的定义。图片没有明显的丝袜、紧身衣、露背/露肩、姿态撩人等特征，但是整体氛围感和视觉焦点都集中在展现身材曲线和成熟美上，因此归入【魅力】类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379616104944.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379616104944.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 7291151,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379624663672.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379624663672.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2509332,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379633626294.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379633626294.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2504095,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379645259261.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379645259261.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2708233,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379660943435.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379660943435.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1197517,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "人像",
+          "甜美",
+          "微笑"
+        ],
+        "description": "照片中的少女躺在床上，穿着白色短袖上衣和蓝色条纹衬衫，表情甜美，充满清新气息。",
+        "filenameSuggestions": [
+          "床上微笑的清新少女.jpg",
+          "白色衣衫与微笑的美丽瞬间.jpg"
+        ],
+        "displayTitle": "床上微笑的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女表情甜美，穿着休闲，背景简洁，整体氛围明亮且治愈，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379670681076.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379670681076.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 993826,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "高领衫",
+          "牛仔裤",
+          "涂鸦背景"
+        ],
+        "description": "一位穿着黑色高领衫和牛仔裤的少女，站在充满涂鸦的墙壁前，展现出时尚与个性的完美结合。",
+        "filenameSuggestions": [
+          "黑色高领衫与牛仔裤的时尚女孩.jpg",
+          "涂鸦墙前优雅站立的长发少女.jpg"
+        ],
+        "displayTitle": "涂鸦夜影中的优雅少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中的少女穿着黑色高领衫和牛仔裤，站在涂鸦墙前，整体氛围成熟且有吸引力，符合【魅力】(Glamour)的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379681572052.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379681572052.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 5975817,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379692007588.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379692007588.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2732406,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379702998003.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379702998003.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2359812,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379713471185.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379713471185.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 5677016,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399379722999007.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399379722999007.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 8308629,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "城市风景",
+          "黄昏",
+          "忧郁"
+        ],
+        "description": "城市黄昏背景下，少女静坐于屋顶，氛围感十足。",
+        "filenameSuggestions": [
+          "城市黄昏里的忧郁少女.jpg",
+          "坐在屋顶的黑衣女孩.jpg"
+        ],
+        "displayTitle": "城市黄昏里的忧郁少女",
+        "confidence": 0.9,
+        "reasoning": "图片中少女没有露脸，且重在表现光影意境，符合【氛围感】的特征。根据决策树A5，判定为[氛围感]。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379732760156.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379732760156.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 4949789,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑丝",
+          "奢华",
+          "成熟风"
+        ],
+        "description": "一位身穿黑色蕾丝服装的长发女子，躺在美元纸币上，展现成熟魅力。",
+        "filenameSuggestions": [
+          "身穿黑色蕾丝长发女子被美元纸币覆盖.jpg",
+          "奢华诱惑下的成熟美.jpg"
+        ],
+        "displayTitle": "奢华诱惑",
+        "confidence": 0.9,
+        "reasoning": "图片中的女子穿着黑色蕾丝服装，躺在大量美元纸币上，展现出成熟的魅力。她的长发散乱，红唇诱惑力十足，整体氛围强调身材曲线和成熟美，符合【魅力】的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379748368159.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379748368159.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 1177296,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "格子裙",
+          "魅力写真"
+        ],
+        "description": "黑白格子裙搭配黑色丝袜，展现出一种校园风与魅力的结合。",
+        "filenameSuggestions": [
+          "身穿格子裙的诱惑少女.jpg",
+          "黑白魅力风情写真.jpg"
+        ],
+        "displayTitle": "黑白格裙下的诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物穿着具有魅力的服装，包括格子裙和丝袜，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379757681415.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379757681415.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2899245,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/13399379771885137.jpeg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13399379771885137.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 3101595,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379783805404.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379783805404.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2113413,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379796625195.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379796625195.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2078496,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "魅力",
+          "丝袜诱惑"
+        ],
+        "description": "照片聚焦于穿着白色裙子的人像，腿部穿着丝袜，带有黑色蝴蝶结，展现优雅与神秘。",
+        "filenameSuggestions": [
+          "黑丝与蕾丝的诱惑.jpg",
+          "白色裙摆下的神秘.jpg"
+        ],
+        "displayTitle": "丝袜美学下的优雅时刻",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着丝袜和裙子，姿势优雅，符合【魅力】(Glamour)的定义。优先归入人像/魅力。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379807636778.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379807636778.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 4376020,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "蓝天",
+          "白云",
+          "少女"
+        ],
+        "description": "蓝天白云下，少女站在木凳上，面带微笑，展现清新自然的气质。",
+        "filenameSuggestions": [
+          "站在木凳上的阳光女孩.jpg",
+          "蓝天白云下的休闲少女.jpg"
+        ],
+        "displayTitle": "蓝天下的少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中的人物面带微笑，背景是蓝天和白云，整体氛围明亮且自然，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379818476403.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379818476403.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2843743,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "熟女",
+          "丝袜",
+          "车边风情"
+        ],
+        "description": "一位穿着休闲装的成熟女性在车边展现魅力",
+        "filenameSuggestions": [
+          "身穿白色上衣与黑色裤子的迷人少妇.jpg",
+          "车边展现曼妙曲线的成熟女性.jpg"
+        ],
+        "displayTitle": "阳光下的成熟魅力",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着暴露且姿势撩人，带有夜景和霓虹光影效果，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379830640431.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379830640431.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 775547,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "户外",
+          "少女",
+          "微笑"
+        ],
+        "description": "阳光下的少女，清新脱俗",
+        "filenameSuggestions": [
+          "蓝天下的少女清新自拍.jpg",
+          "手持饮料的户外女孩.jpg"
+        ],
+        "displayTitle": "夏日微笑",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物面带微笑，背景是蓝天白云，整体给人一种清新、自然的感觉。根据决策树A. 人像分类决策树 (Portrait Logic) 中的【清新】(Fresh)定义和特征，判定为【清新】"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/13399379840823800.jpeg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13399379840823800.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2389272,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379850784983.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379850784983.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 3089518,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "夕阳",
+          "长发"
+        ],
+        "description": "一位长发少女坐在石台上，凝视着远方，背景是美丽的夕阳。",
+        "filenameSuggestions": [
+          "坐于石台凝视远方的长发少女.jpg",
+          "夕阳余晖中的恬静美少女.jpg"
+        ],
+        "displayTitle": "夕阳下的温柔少女",
+        "confidence": 0.9,
+        "reasoning": "图片中少女面带微笑，坐在石台上，背景是美丽的夕阳，整体氛围明亮且治愈，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379867645067.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379867645067.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2785254,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379877374523.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379877374523.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 3181966,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399379887781530.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399379887781530.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2820070,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379896713592.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379896713592.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 3305565,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379907449342.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379907449342.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2594111,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399379917571699.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399379917571699.jpeg",
+      "createdAt": "2026-05-08T01:51:54.648Z",
+      "size": 2887598,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379927385446.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379927385446.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2490695,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "短发",
+          "浴室",
+          "俏皮"
+        ],
+        "description": "一位短发女孩在浴室中俏皮地使用吹风机。",
+        "filenameSuggestions": [
+          "身穿白色背心和格子裙的短发女孩.jpg",
+          "浴室风情短发少女.jpg"
+        ],
+        "displayTitle": "浴室里的俏皮短发女孩",
+        "confidence": 0.9,
+        "reasoning": "图片中的女孩具有短发、明亮的笑容和清新的氛围，穿着日常的服装且场景在浴室中，根据规则A4，判定为[清新]。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399379938117720.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399379938117720.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2833209,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "背影",
+          "黑衣"
+        ],
+        "description": "一个穿着黑色衣服的女孩站在窗前，背对着观众，她的剪影被投射在墙上。",
+        "filenameSuggestions": [
+          "窗影下的神秘黑衣女孩.jpg",
+          "背影带给我一种神秘的感觉.jpg"
+        ],
+        "displayTitle": "光影中的低语者",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【氛围感】(Atmosphere)特征：不露脸（背影/遮挡/模糊）、重光影意境、看不清具体五官，判定为[氛围感]"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379951833119.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379951833119.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2542508,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "蓝天",
+          "俏皮",
+          "黑短裙"
+        ],
+        "description": "一个站在蓝天下的魅力少女，穿着黑色短裙和灰色上衣。",
+        "filenameSuggestions": [
+          "身穿黑色短裙的俏皮女孩.jpg",
+          "蓝天下的时尚少女.jpg"
+        ],
+        "displayTitle": "蓝天下的俏皮少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物穿着黑色短裙和灰色上衣，站在蓝天背景下，展现出魅力和俏皮感。根据决策树A. 人像分类决策树 (Portrait Logic)中的魅力定义，包含身材展示和姿态撩人，优先归入【魅力】分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399379963484806.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399379963484806.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2208703,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "低背装",
+          "背影",
+          "魅力",
+          "霓虹光影"
+        ],
+        "description": "一位身穿黑色低背装的女子背影，站在灯光昏暗的房间中，面朝着墙上的艺术字样。",
+        "filenameSuggestions": [
+          "身穿黑色低背装的优雅背影.jpg",
+          "灯光下的诱人曲线.jpg"
+        ],
+        "displayTitle": "月光下的神秘背影",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物穿着低背装，背影展现出优雅的曲线，且光线昏暗带有霓虹效果，符合【魅力】(Glamour)的定义：强调身材曲线、成熟美、吸引力。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379975020027.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379975020027.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3479783,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "雪山",
+          "长发",
+          "白色套装"
+        ],
+        "description": "雪山下的悠闲时光，长发女孩在车边展现清新魅力。",
+        "filenameSuggestions": [
+          "身穿白色套装的长发女孩在雪山前.jpg",
+          "雪山背景下的优雅少女.jpg"
+        ],
+        "displayTitle": "雪山下的悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "图片中的女孩身穿白色套装，站在车边，背景是雪山和蓝天，整体氛围明亮且自然，符合【清新】的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399379986384417.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399379986384417.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2872269,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399379997842008.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399379997842008.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2746286,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399380010405262.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399380010405262.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2915334,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380024917918.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380024917918.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3591144,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380036273429.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380036273429.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2990265,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380049212633.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380049212633.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2726772,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380059675364.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380059675364.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2773485,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380071232914.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380071232914.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3076751,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "蓝天",
+          "少女"
+        ],
+        "description": "蓝天白云下的清新少女，展现自然与美丽。",
+        "filenameSuggestions": [
+          "蓝天下的优雅少女.jpg",
+          "清新自然的户外写真.jpg"
+        ],
+        "displayTitle": "蓝天下的优雅少女",
+        "confidence": 0.9,
+        "reasoning": "图片中的少女穿着清爽的服装，背景是蓝天和白云，整体氛围明亮且自然，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380081929288.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380081929288.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 4029303,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "蓝天",
+          "耳机",
+          "黑短裤"
+        ],
+        "description": "一个穿着黑色短裤的女孩，在蓝天背景下听音乐。",
+        "filenameSuggestions": [
+          "身穿黑色短裤的音乐女孩.jpg",
+          "蓝天下的白耳机女孩.jpg"
+        ],
+        "displayTitle": "蓝天下的音乐女孩",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【魅力】定义，图片中女孩身穿黑色短裤，佩戴耳机，背景是蓝天，展现出一种吸引力和优雅，符合【魅力】分类的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380092625718.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380092625718.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3312158,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "日常",
+          "手机"
+        ],
+        "description": "一个清新自然的少女在客厅里看手机的场景。",
+        "filenameSuggestions": [
+          "低头玩手机的清新女孩.jpg",
+          "坐在木桌上的休闲少女.jpg"
+        ],
+        "displayTitle": "屏幕前的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物表情自然，环境简洁，色彩明亮，符合【清新】(Fresh)的特征，因此归类为人像/清新。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/13399380103647637.jpeg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13399380103647637.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3545391,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380114530294.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380114530294.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2322246,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380126838583.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380126838583.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 5404462,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "长发",
+          "少女",
+          "素雅"
+        ],
+        "description": "清晨光线下的少女，面带微笑，展现清新脱俗的气质。",
+        "filenameSuggestions": [
+          "清晨光线下的长发女孩.jpg",
+          "白色背景下的素雅少女.jpg"
+        ],
+        "displayTitle": "素雅晨光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A4，清新风格的定义是明亮、治愈、氧气感。图片中少女面带微笑，背景干净，色彩明亮自然，符合清新风格特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380139585378.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380139585378.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3565014,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380158963478.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380158963478.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2354835,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑衣",
+          "曲线",
+          "蓝天"
+        ],
+        "description": "一位穿着黑色上衣和绿色裙子的女孩在车内摆姿势，背景是蓝天白云。",
+        "filenameSuggestions": [
+          "阳光下展露曲线的年轻女孩.jpg",
+          "车窗外蓝天下的黑衣美人.jpg"
+        ],
+        "displayTitle": "夏日微风中的神秘黑衣女孩",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中的女孩展示了身材曲线，穿着黑色上衣和绿色裙子，姿势撩人，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380175234828.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380175234828.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3085339,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380186596739.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380186596739.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2329456,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380198021649.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380198021649.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2998831,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380211957958.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380211957958.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2739166,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380224095689.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380224095689.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2644297,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "露脐装",
+          "黑发",
+          "冰箱"
+        ],
+        "description": "一位长发女孩在冰箱前摆姿势，穿着白色露脐装和黑色裤子。",
+        "filenameSuggestions": [
+          "冰箱前曼舞的黑发尤物.jpg",
+          "身穿白色露脐装的长发女孩.jpg"
+        ],
+        "displayTitle": "冰箱前曼舞的黑发尤物",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着露脐装且姿势撩人，符合【魅力】的定义。图片中没有明显的丝袜、夜景霓虹等特征，但身材展示明显，因此归入【魅力】类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380237088791.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380237088791.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2295903,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑裙",
+          "紧身衣",
+          "诱惑"
+        ],
+        "description": "一位穿着黑色短裙和白色紧身衣的女孩，展现出神秘的魅力。",
+        "filenameSuggestions": [
+          "身穿白色紧身衣的神秘黑裙女孩.jpg",
+          "低腰黑裙诱惑的白衣女子.jpg"
+        ],
+        "displayTitle": "月光下的诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着紧身衣和短裙，姿势撩人，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380249883037.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380249883037.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3354334,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "歌姬",
+          "闪亮服装"
+        ],
+        "description": "一位身穿粉色闪亮服装的长发女孩在舞台上深情演唱。",
+        "filenameSuggestions": [
+          "舞台上深情演唱的长发女孩.jpg",
+          "粉色闪亮服装的歌手.jpg"
+        ],
+        "displayTitle": "舞台上的歌姬",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中的人物展示了身材曲线，穿着性感的服装，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399380278179671.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399380278179671.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 4212408,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380293944916.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380293944916.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3721563,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380306488910.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380306488910.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3988251,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399380326565518.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399380326565518.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2359690,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "黑发",
+          "背影"
+        ],
+        "description": "黑衣少女在风中微闭双眼，神情静谧，背后是渐变的蓝天白云。",
+        "filenameSuggestions": [
+          "风中低语的黑衣少女.jpg",
+          "山巅之上风吹黑发女孩.jpg"
+        ],
+        "displayTitle": "风中低语的黑衣少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中未露脸，但有重光影意境，归入【氛围感】"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380338452574.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380338452574.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3035093,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399380349256657.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399380349256657.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2737157,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "背影",
+          "诱惑"
+        ],
+        "description": "少女背对着，黑发垂肩，双手被白丝带束缚在身后。身穿白色短袖和红色格子裙，姿态微妙。",
+        "filenameSuggestions": [
+          "白衬衫黑裙少女的诱惑背影.jpg",
+          "红格裙下的优雅瞬间.jpg"
+        ],
+        "displayTitle": "背影里的微妙诱惑",
+        "confidence": 0.9,
+        "reasoning": "图片为人物背影，强调光影与姿态，符合【氛围感】(Atmosphere)的特征：不露脸、重光影意境、看不清具体五官。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380361054952.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380361054952.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3244574,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/13399380373863697.jpeg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13399380373863697.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2662854,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399380390202179.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399380390202179.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 5149152,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399380405869835.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399380405869835.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3384910,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "雪景",
+          "长发"
+        ],
+        "description": "雪花纷飞中静思的美丽女子",
+        "filenameSuggestions": [
+          "雪中静思的长发女孩.jpg",
+          "冬季雪景氛围感美女.jpg"
+        ],
+        "displayTitle": "雪中静思",
+        "confidence": 0.9,
+        "reasoning": "图片中人物未露脸且重在表现光影意境，符合【氛围感】特征"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380418591274.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380418591274.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2174198,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "自然光",
+          "室内写真"
+        ],
+        "description": "自然光线下的室内写真，清新脱俗",
+        "filenameSuggestions": [
+          "自然光下的清新少女.jpg",
+          "简洁风格的室内写真.jpg"
+        ],
+        "displayTitle": "自然光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一位短发少女在室内自然光线下的写真，穿着简单且清新，背景干净，符合清新风格的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399380433971737.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399380433971737.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3694746,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/13399380447369212.jpeg",
+      "category": "通用",
+      "subcategory": "",
+      "filename": "13399380447369212.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3752360,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380465924629.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380465924629.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3870478,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380480701961.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380480701961.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 4988930,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380496576028.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380496576028.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 5183398,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380511362453.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380511362453.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2091918,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "丝绸",
+          "黑裙",
+          "魅力",
+          "诱惑"
+        ],
+        "description": "一位穿着白色丝绸上衣和黑色裙子的少女，站在门后，展现出优雅与诱惑。",
+        "filenameSuggestions": [
+          "身穿白色上衣的黑裙女孩.jpg",
+          "门后微笑的诱人少女.jpg"
+        ],
+        "displayTitle": "月光下的丝绸诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，少女穿着暴露且具有魅力的服装，姿势撩人，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380525580836.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380525580836.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3672747,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "人像",
+          "都市风"
+        ],
+        "description": "现代都市女性的时尚魅力瞬间",
+        "filenameSuggestions": [
+          "时尚潮流的都市女孩.jpg",
+          "展现魅力的现代女性.jpg"
+        ],
+        "displayTitle": "都市丽人风情",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物穿着时尚且展现身材曲线，符合【魅力】的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380538912130.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380538912130.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2395016,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399380558452787.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399380558452787.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2967604,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399380577644924.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399380577644924.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 6188002,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399380595804229.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399380595804229.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 5335509,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380608761273.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380608761273.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3026639,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑丝",
+          "身材曲线"
+        ],
+        "description": "一个展现身材曲线的女孩。",
+        "filenameSuggestions": [
+          "身穿白色上衣的短发女孩.jpg",
+          "黑色短裙下的优雅瞬间.jpg"
+        ],
+        "displayTitle": "月光下的剪影",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着暴露，展现身材曲线，符合【魅力】的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380631114953.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380631114953.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3555595,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝绸感",
+          "吊带裙",
+          "长发"
+        ],
+        "description": "长发少女身穿白色吊带裙，姿态优雅，灯光下的丝绸质感尤为突出。",
+        "filenameSuggestions": [
+          "身穿白色吊带裙的长发魅力少女.jpg",
+          "灯光下的优雅转身长发美女.jpg"
+        ],
+        "displayTitle": "月光下的丝绸女神",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物身穿吊带裙，展现身材曲线，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380645967315.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380645967315.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3595363,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380660660187.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380660660187.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3850540,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380674906242.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380674906242.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 8708401,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380695245298.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380695245298.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3398183,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑丝",
+          "霓虹",
+          "自拍"
+        ],
+        "description": "时尚女孩在充满魅力氛围中自拍。",
+        "filenameSuggestions": [
+          "夜色中摆姿势的时尚女孩.jpg",
+          "黑色蕾丝边女孩自拍.jpg"
+        ],
+        "displayTitle": "黑夜里的霓虹女神",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中女孩展示了身材，且姿势撩人，背景简约现代，判定为【魅力】。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380726577581.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380726577581.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3404831,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380740340310.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380740340310.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2216768,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380754373646.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380754373646.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3405530,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380769717425.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380769717425.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3042856,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/古装/13399380812332158.jpeg",
+      "category": "人像",
+      "subcategory": "古装",
+      "filename": "13399380812332158.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2939897,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "古装",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "古装",
+        "keywords": [
+          "古装",
+          "优雅",
+          "中式风格",
+          "美女"
+        ],
+        "description": "一位穿着古装的女子静坐于中式家具旁，神态优雅，氛围古朴。",
+        "filenameSuggestions": [
+          "身穿白色古装的优雅少女.jpg",
+          "古风美女静坐于中式家具旁.jpg"
+        ],
+        "displayTitle": "月光下的古韵佳人",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着类似古装，且环境布置具有中式风格，符合人像/古装的分类特征"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380831935431.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380831935431.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 4530431,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380849359837.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380849359837.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3098127,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380866505622.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380866505622.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 5005506,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380895731864.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380895731864.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 4484620,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380913549011.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380913549011.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2436727,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "双人",
+          "蕾丝",
+          "紧身衣"
+        ],
+        "description": "两名女子在温柔的月光下，穿着蕾丝紧身衣，相互拥抱。",
+        "filenameSuggestions": [
+          "身穿蕾丝紧身衣的双人写真.jpg",
+          "温柔拥抱的夜晚.jpg"
+        ],
+        "displayTitle": "月光下的双人曼陀罗",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，两名女子穿着蕾丝紧身衣，姿势亲密，符合【魅力】分类的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380931464589.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380931464589.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2371996,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "紧身衣",
+          "御姐风"
+        ],
+        "description": "一位身穿白色紧身裙的长发女孩，展现成熟魅力。",
+        "filenameSuggestions": [
+          "身穿白色紧身裙的长发女孩.jpg",
+          "夜色中优雅漫步的长发女孩.jpg"
+        ],
+        "displayTitle": "月光下的剪影",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中的女孩穿着紧身衣，姿态撩人，符合【魅力】(Glamour)的定义和特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399380948797442.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399380948797442.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2967913,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝袜",
+          "身材曲线"
+        ],
+        "description": "两名身穿白色连衣裙的年轻女性，展现优雅姿态与丝袜美腿。",
+        "filenameSuggestions": [
+          "身穿白色连衣裙的优雅双人.jpg",
+          "夜色中的丝袜美女.jpg"
+        ],
+        "displayTitle": "月光下的曼陀罗花影",
+        "confidence": 0.9,
+        "reasoning": "图片中的女性穿着紧身衣，展示身材曲线，且有丝袜的明显特征，根据规则A2，判定为[魅力]。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380968271031.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380968271031.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3495468,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399380989793810.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399380989793810.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3986985,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399381009379527.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399381009379527.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3704222,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399381030581295.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399381030581295.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 4937095,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399381049167241.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399381049167241.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3495082,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "学生风",
+          "图书馆"
+        ],
+        "description": "一位穿着蓝色格子校裙的女孩在图书馆书架间表现出羞涩的表情。",
+        "filenameSuggestions": [
+          "图书馆里穿着校裙的长发女孩.jpg",
+          "书架间的羞涩少女.jpg"
+        ],
+        "displayTitle": "图书馆里的羞涩学生",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，由于图片中女孩的穿着和环境符合清新风格的特征（明亮、治愈、氧气感），且无其他二级分类特征明显匹配，因此判定为 人像/清新。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399381078599151.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399381078599151.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3921275,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "丝袜",
+          "蕾丝",
+          "纹身",
+          "魅力"
+        ],
+        "description": "女性身穿白色蕾丝长裙，展现优雅曲线与纹身。",
+        "filenameSuggestions": [
+          "身穿白色蕾丝长裙的成熟女性.jpg",
+          "夜色中展现纹身的优雅长腿美女.jpg"
+        ],
+        "displayTitle": "月光下的优雅曲线",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女性穿着蕾丝长裙，露出腿部纹身，且姿态具有撩人魅力，符合【魅力】类定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399381104102309.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399381104102309.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 7203739,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399381125224557.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399381125224557.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3520742,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399381145023553.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399381145023553.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3456379,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399381164991449.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399381164991449.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2983293,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "神秘",
+          "面罩",
+          "低调光影"
+        ],
+        "description": "一位神秘女子带着黑色面罩，穿着白色衣衫，坐姿妩媚，氛围感十足。",
+        "filenameSuggestions": [
+          "黑夜中面带神秘的长发女孩.jpg",
+          "白色衣衫与黑色面罩的诱惑.jpg"
+        ],
+        "displayTitle": "月光下的神秘低语",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树中的【氛围感】(Atmosphere)特征：不露脸（面罩遮挡）、重光影意境，因此判定为【氛围感】"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399381187157860.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399381187157860.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2062932,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "背面",
+          "紧身衣",
+          "低调奢华"
+        ],
+        "description": "一位身穿黑色紧身衣的女性，背对着窗户，姿态优雅。",
+        "filenameSuggestions": [
+          "身穿黑色紧身衣的背面诱惑.jpg",
+          "窗前曲线曼妙的少妇.jpg"
+        ],
+        "displayTitle": "月光下的低语者",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女性穿着紧身衣，展现身材曲线，且姿势撩人，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399381207016163.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399381207016163.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 4868268,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399381229749244.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399381229749244.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2890019,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399381253679510.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399381253679510.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 5236972,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399381278141757.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399381278141757.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 3735760,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/13399381301843676.jpeg",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "13399381301843676.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 5724251,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "背影",
+          "室内"
+        ],
+        "description": "温暖的光线照亮了女孩的背影，坐在沙发旁的小圆凳上，充满生活气息。",
+        "filenameSuggestions": [
+          "坐在沙发旁的背影.jpg",
+          "温柔的光线下的身影.jpg"
+        ],
+        "displayTitle": "背影里的温暖光影",
+        "confidence": 0.9,
+        "reasoning": "图片以女孩的背影为主，强调光影和室内氛围，根据规则A5，判定为[氛围感]。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/氛围感/13399381324758652.jpeg",
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "13399381324758652.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 5565926,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "氛围感",
+        "keywords": [
+          "插画",
+          "氛围感",
+          "幽灵",
+          "白色"
+        ],
+        "description": "一位身穿白色长裙的幽灵站在现代厨房中，面容被白色面纱遮挡，带有神秘的氛围感。",
+        "filenameSuggestions": [
+          "白色飘渺的厨房幽灵.jpg",
+          "厨房中的幽灵新娘.jpg"
+        ],
+        "displayTitle": "白色飘渺的厨房幽灵",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一幅插画风格的图像，主体是一个身穿白色长裙的幽灵，站在现代厨房中。幽灵的面容被白色面纱遮挡，强调了氛围感。整体风格符合插画分类下的氛围感子类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/13399381365232786.jpeg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "13399381365232786.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 5612264,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399381395050119.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399381395050119.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 7108624,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399381419395000.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399381419395000.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 8649998,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399381449211983.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399381449211983.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 1816089,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "API 请求频率超限，请稍后再试。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/13399381476252616.jpeg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13399381476252616.jpeg",
+      "createdAt": "2026-05-08T01:51:54.649Z",
+      "size": 2786142,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    }
+  ]
+}
