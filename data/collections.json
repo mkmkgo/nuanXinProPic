@@ -1,0 +1,46 @@
+{
+  "collections": [
+    {
+      "id": "fresh-portrait",
+      "name": "清新人像",
+      "cover": "/thumbnail/mobile/人像/清新/20260408163908.webp",
+      "items": [
+        { "category": "人像", "filename": "20260408163908.jpeg" },
+        { "category": "人像", "filename": "20260408164632.jpeg" },
+        { "category": "人像", "filename": "20260408170344.jpeg" }
+      ]
+    },
+    {
+      "id": "starry-sky",
+      "name": "星空物语",
+      "cover": "/thumbnail/mobile/风景/星空/1_1690290878.webp",
+      "items": [
+        { "category": "风景", "filename": "1_1690290878.jpg" }
+      ]
+    },
+    {
+      "id": "anime-world",
+      "name": "二次元世界",
+      "cover": "/thumbnail/mobile/动漫/斗破苍穹/20260406201704.webp",
+      "items": [
+        { "category": "动漫", "filename": "20260406201704.png" }
+      ]
+    },
+    {
+      "id": "cute-pets",
+      "name": "萌宠乐园",
+      "cover": "/thumbnail/mobile/萌宠/通用/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260408163627_671_4.webp",
+      "items": [
+        { "category": "萌宠", "filename": "微信图片_20260408163627_671_4.jpg" }
+      ]
+    },
+    {
+      "id": "chinese-style",
+      "name": "国风插画",
+      "cover": "/thumbnail/mobile/插画/国风/20260408163824.webp",
+      "items": [
+        { "category": "插画", "filename": "20260408163824.jpeg" }
+      ]
+    }
+  ]
+}
