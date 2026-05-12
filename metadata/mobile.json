@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-05-12 01:31:36",
-  "count": 1487,
+  "lastUpdated": "2026-05-12 02:00:22",
+  "count": 1490,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -47848,6 +47848,116 @@
         "displayTitle": "月光下的丝绸女神",
         "confidence": 0.9,
         "reasoning": "根据图像特征，人物穿着暴露且具有吸引力的服装，背景光影效果明显，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/插画/通用/【超赞壁纸】佛系-僧侣-合掌.png": {
+      "category": "插画",
+      "subcategory": "通用",
+      "filename": "【超赞壁纸】佛系-僧侣-合掌.png",
+      "createdAt": "2026-05-12T01:57:54.654Z",
+      "cdnTag": "v1.3.16",
+      "size": 498501,
+      "format": "png",
+      "resolution": {
+        "width": 1380,
+        "height": 2992,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "通用",
+        "keywords": [
+          "插画",
+          "禅修",
+          "静思"
+        ],
+        "description": "一位禅僧静思的插画，背景有中国文字。",
+        "filenameSuggestions": [
+          "合十静思的禅僧.jpg",
+          "背景带文字的禅修者.jpg"
+        ],
+        "displayTitle": "禅意静思",
+        "confidence": 0.9,
+        "reasoning": "图片为插画风格，人物为禅僧，没有具体IP或三级分类匹配，因此归为插画/通用。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/【超赞壁纸】好身材-昏暗灯光.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "【超赞壁纸】好身材-昏暗灯光.png",
+      "createdAt": "2026-05-12T01:57:54.654Z",
+      "cdnTag": "v1.3.16",
+      "size": 328368,
+      "format": "png",
+      "resolution": {
+        "width": 1179,
+        "height": 2556,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "蕾丝",
+          "魅力",
+          "诱惑"
+        ],
+        "description": "一位身穿蕾丝长衫的黑丝美女，展现成熟魅力。",
+        "filenameSuggestions": [
+          "身穿蕾丝长衫的神秘黑丝美女.jpg",
+          "白色蕾丝与黑丝的完美结合.jpg"
+        ],
+        "displayTitle": "月光下的丝绸诱惑",
+        "confidence": 0.9,
+        "reasoning": "图片中的人物穿着蕾丝长衫和黑丝袜，姿势撩人，符合【魅力】(Glamour)的定义特征。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/【超赞壁纸】女仆风-居家-洛丽塔.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "【超赞壁纸】女仆风-居家-洛丽塔.png",
+      "createdAt": "2026-05-12T01:57:54.654Z",
+      "cdnTag": "v1.3.16",
+      "size": 461495,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2342,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "女仆",
+          "丝袜",
+          "诱惑"
+        ],
+        "description": "一位穿着紫色女仆装的美丽女性，坐在白色沙发上，表情诱惑。",
+        "filenameSuggestions": [
+          "身穿紫色女仆装的诱惑少妇.jpg",
+          "白色沙发上的优雅紫色女仆.jpg"
+        ],
+        "displayTitle": "紫色幻想下的优雅女仆",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着暴露且具有诱惑力，强调身材曲线和成熟美，符合【魅力】的定义。"
       }
     }
   }
