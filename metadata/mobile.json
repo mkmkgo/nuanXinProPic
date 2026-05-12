@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-05-12 02:00:22",
-  "count": 1490,
+  "lastUpdated": "2026-05-12 07:28:21",
+  "count": 1494,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -47958,6 +47958,153 @@
         "displayTitle": "紫色幻想下的优雅女仆",
         "confidence": 0.9,
         "reasoning": "根据图片内容，人物穿着暴露且具有诱惑力，强调身材曲线和成熟美，符合【魅力】的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞小姐姐.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞小姐姐.jpg",
+      "createdAt": "2026-05-12T06:34:35.253Z",
+      "cdnTag": "v1.3.17",
+      "size": 604906,
+      "format": "jpg",
+      "resolution": {
+        "width": 1760,
+        "height": 3815,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "双马尾",
+          "夏日",
+          "蓝天"
+        ],
+        "description": "一个面带微笑的清新少女，在蓝天绿树前展现双马尾造型。",
+        "filenameSuggestions": [
+          "身穿条纹上衣的清新少女.jpg",
+          "蓝天下的双马尾女孩.jpg"
+        ],
+        "displayTitle": "夏日里的清新少女",
+        "confidence": 0.9,
+        "reasoning": "图片中的少女面带微笑，穿着清爽的条纹上衣和双马尾造型，背景是蓝天和绿树，整体氛围明亮且治愈。根据规则A4【清新】(Fresh)的特征：高明度、色彩鲜艳自然、笑容甜美、背景通常是草地/蓝天/白墙，判定为[清新]。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞小姐姐1.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞小姐姐1.jpg",
+      "createdAt": "2026-05-12T06:34:35.253Z",
+      "cdnTag": "v1.3.17",
+      "size": 541127,
+      "format": "jpg",
+      "resolution": {
+        "width": 1760,
+        "height": 3815,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "阳光",
+          "少女",
+          "秋日"
+        ],
+        "description": "阳光下的少女，清新脱俗，充满活力。",
+        "filenameSuggestions": [
+          "秋日阳光下的清新少女.jpg",
+          "身穿白色长袖的长发女孩.jpg"
+        ],
+        "displayTitle": "秋日阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物身穿白色长袖，笑容甜美，背景是阳光下的街道和落叶，符合【清新】(Fresh)的定义：明亮、治愈、氧气感。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞小姐姐2.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞小姐姐2.jpg",
+      "createdAt": "2026-05-12T06:34:35.253Z",
+      "cdnTag": "v1.3.17",
+      "size": 397377,
+      "format": "jpg",
+      "resolution": {
+        "width": 1720,
+        "height": 3728,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "户外",
+          "运动风",
+          "少女"
+        ],
+        "description": "一位穿着运动装的少女在户外饮水，周围是绿色的草坪。",
+        "filenameSuggestions": [
+          "运动装少女在草地上休息.jpg",
+          "清新户外女孩饮水.jpg"
+        ],
+        "displayTitle": "绿茵下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着运动装，背景是户外草坪，没有明显的丝袜、夜景霓虹或胶片感，根据规则A4，判定为[清新]。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞小姐姐3.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞小姐姐3.jpg",
+      "createdAt": "2026-05-12T06:34:35.253Z",
+      "cdnTag": "v1.3.17",
+      "size": 409831,
+      "format": "jpg",
+      "resolution": {
+        "width": 1288,
+        "height": 2792,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "户外"
+        ],
+        "description": "一位穿着黑色背心和绿色裤子的少女，坐在户外木地板上的黑色椅子上，摆出和平的姿势。",
+        "filenameSuggestions": [
+          "穿黑色背心和绿色裤子的少女.jpg",
+          "木地板上的休闲女孩.jpg"
+        ],
+        "displayTitle": "阳光下的悠闲少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，首先排除特定明星和古装分类；图片未强调身材曲线，不归为【魅力】；图片具有高明度、色彩自然、笑容甜美、背景简洁等特征，归为【清新】。"
       }
     }
   }
