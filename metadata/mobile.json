@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-05-11 19:04:05",
-  "count": 1483,
+  "lastUpdated": "2026-05-12 01:31:36",
+  "count": 1487,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -47701,6 +47701,153 @@
         "confidence": 0,
         "reasoning": null,
         "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/【超赞壁纸】便利店背景-性感.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "【超赞壁纸】便利店背景-性感.png",
+      "createdAt": "2026-05-12T01:29:05.588Z",
+      "cdnTag": "v1.3.15",
+      "size": 272945,
+      "format": "png",
+      "resolution": {
+        "width": 1004,
+        "height": 1772,
+        "label": "高清",
+        "type": "secondary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "短发",
+          "书店",
+          "女孩"
+        ],
+        "description": "一个短发女孩在书店里微笑的清新写真",
+        "filenameSuggestions": [
+          "书店里的短发女孩.jpg",
+          "清新短发少女在书店.jpg"
+        ],
+        "displayTitle": "书店里的短发女孩",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，首先排除特定明星和古装分类。图片中女孩面带微笑，明亮的氛围和高明度的色彩符合【清新】(Fresh)的定义，特征包括高明度、色彩鲜艳自然、笑容甜美、背景干净。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/【超赞壁纸】卡通印花-卧室-壁纸.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "【超赞壁纸】卡通印花-卧室-壁纸.png",
+      "createdAt": "2026-05-12T01:29:05.588Z",
+      "cdnTag": "v1.3.15",
+      "size": 338755,
+      "format": "png",
+      "resolution": {
+        "width": 1149,
+        "height": 2028,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "黑丝",
+          "魅力",
+          "手机自拍",
+          "诱惑"
+        ],
+        "description": "一位身穿卡通图案内衣和黑丝袜的女孩在卧室中自拍。",
+        "filenameSuggestions": [
+          "身穿卡通内衣的黑丝长发女孩.jpg",
+          "黑丝袜诱惑自拍.jpg"
+        ],
+        "displayTitle": "黑丝诱惑下的手机自拍",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着紧身衣物，黑丝袜，姿态撩人，符合【魅力】分类的特征。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/【超赞壁纸】休闲-壁纸-好身材.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "【超赞壁纸】休闲-壁纸-好身材.png",
+      "createdAt": "2026-05-12T01:29:05.589Z",
+      "cdnTag": "v1.3.15",
+      "size": 1471066,
+      "format": "png",
+      "resolution": {
+        "width": 2160,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "低角度拍摄",
+          "诱惑"
+        ],
+        "description": "一个穿着黑色短裤和白色T恤，戴着帽子的女孩，在阳光下展示她的魅力。",
+        "filenameSuggestions": [
+          "阳光下的帽子女孩.jpg",
+          "低角度拍摄的时尚美女.jpg"
+        ],
+        "displayTitle": "夏日里的诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中的女孩展示了身材曲线，姿态撩人，符合【魅力】的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/【超赞壁纸】Ios-V领连衣裙.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "【超赞壁纸】Ios-V领连衣裙.png",
+      "createdAt": "2026-05-12T01:29:05.589Z",
+      "cdnTag": "v1.3.15",
+      "size": 365732,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "丝绸",
+          "优雅",
+          "成熟"
+        ],
+        "description": "一位穿着灰色丝绸长裙的女性，坐在黑色地毯上，散发着成熟的优雅气质。",
+        "filenameSuggestions": [
+          "身穿灰色丝绸长裙的优雅女人.jpg",
+          "黑色地毯上的柔和光影美人.jpg"
+        ],
+        "displayTitle": "月光下的丝绸女神",
+        "confidence": 0.9,
+        "reasoning": "根据图像特征，人物穿着暴露且具有吸引力的服装，背景光影效果明显，符合【魅力】(Glamour)的定义。"
       }
     }
   }
