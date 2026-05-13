@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-05-12 19:06:36",
-  "count": 1494,
+  "lastUpdated": "2026-05-13 05:06:21",
+  "count": 1498,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -48105,6 +48105,126 @@
         "displayTitle": "阳光下的悠闲少女",
         "confidence": 0.9,
         "reasoning": "根据决策树A. 人像分类决策树，首先排除特定明星和古装分类；图片未强调身材曲线，不归为【魅力】；图片具有高明度、色彩自然、笑容甜美、背景简洁等特征，归为【清新】。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞小姐姐5.13.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞小姐姐5.13.jpg",
+      "createdAt": "2026-05-13T05:00:52.345Z",
+      "cdnTag": "v1.3.19",
+      "size": 566691,
+      "format": "jpg",
+      "resolution": {
+        "width": 1760,
+        "height": 3815,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞小姐姐5.13-1.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞小姐姐5.13-1.jpg",
+      "createdAt": "2026-05-13T05:00:52.345Z",
+      "cdnTag": "v1.3.19",
+      "size": 546199,
+      "format": "jpg",
+      "resolution": {
+        "width": 1888,
+        "height": 4095,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞小姐姐5.13-2.jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞小姐姐5.13-2.jpg",
+      "createdAt": "2026-05-13T05:00:52.345Z",
+      "cdnTag": "v1.3.19",
+      "size": 241788,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2341,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/超赞小姐姐5.13-3.jpg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞小姐姐5.13-3.jpg",
+      "createdAt": "2026-05-13T05:00:52.345Z",
+      "cdnTag": "v1.3.19",
+      "size": 323795,
+      "format": "jpg",
+      "resolution": {
+        "width": 1760,
+        "height": 3815,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
       }
     }
   }
