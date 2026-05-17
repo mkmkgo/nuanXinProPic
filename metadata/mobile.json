@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-05-16 18:01:58",
-  "count": 1498,
+  "lastUpdated": "2026-05-17 04:57:08",
+  "count": 1508,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -48208,6 +48208,306 @@
       "resolution": {
         "width": 1760,
         "height": 3815,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸 (12).jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸 (12).jpg",
+      "createdAt": "2026-05-17T04:54:05.198Z",
+      "cdnTag": "v1.3.24",
+      "size": 114386,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸 (11).jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸 (11).jpg",
+      "createdAt": "2026-05-17T04:54:05.198Z",
+      "cdnTag": "v1.3.24",
+      "size": 199206,
+      "format": "jpg",
+      "resolution": {
+        "width": 1800,
+        "height": 2498,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸 (10).jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸 (10).jpg",
+      "createdAt": "2026-05-17T04:54:05.198Z",
+      "cdnTag": "v1.3.24",
+      "size": 67936,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸 (9).jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸 (9).jpg",
+      "createdAt": "2026-05-17T04:54:05.198Z",
+      "cdnTag": "v1.3.24",
+      "size": 64564,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸 (8).jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸 (8).jpg",
+      "createdAt": "2026-05-17T04:54:05.198Z",
+      "cdnTag": "v1.3.24",
+      "size": 182724,
+      "format": "jpg",
+      "resolution": {
+        "width": 1242,
+        "height": 2688,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸 (7).jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸 (7).jpg",
+      "createdAt": "2026-05-17T04:54:05.198Z",
+      "cdnTag": "v1.3.24",
+      "size": 79972,
+      "format": "jpg",
+      "resolution": {
+        "width": 1736,
+        "height": 2660,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸 (6).jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸 (6).jpg",
+      "createdAt": "2026-05-17T04:54:05.198Z",
+      "cdnTag": "v1.3.24",
+      "size": 292650,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸 (5).jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸 (5).jpg",
+      "createdAt": "2026-05-17T04:54:05.198Z",
+      "cdnTag": "v1.3.24",
+      "size": 457462,
+      "format": "jpg",
+      "resolution": {
+        "width": 1771,
+        "height": 3839,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸 (3).jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸 (3).jpg",
+      "createdAt": "2026-05-17T04:54:05.198Z",
+      "cdnTag": "v1.3.24",
+      "size": 28352,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 1920,
+        "label": "超清",
+        "type": "primary"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "Failed to fetch"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸 (4).JPG": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸 (4).JPG",
+      "createdAt": "2026-05-17T04:54:05.198Z",
+      "cdnTag": "v1.3.24",
+      "size": 180422,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2341,
         "label": "2K",
         "type": "info"
       },
