@@ -1,0 +1,394 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-20T09:49:24.416Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052013.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052013.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 329248,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "花香",
+          "长发",
+          "白衣"
+        ],
+        "description": "一位长发少女在阳光下手持鲜花，面带微笑，展现清新自然的气质。",
+        "filenameSuggestions": [
+          "身穿白色连衣裙的长发少女.jpg",
+          "手持鲜花的户外女孩.jpg"
+        ],
+        "displayTitle": "阳光下的花香少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，人物穿着清淡，面带微笑，手持鲜花，背景明亮且充满自然光，整体氛围明亮且治愈，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052014.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052014.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 553410,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "天使",
+          "海边",
+          "少女"
+        ],
+        "description": "阳光下的海边，天使女孩微笑着，洋溢着快乐与纯真。",
+        "filenameSuggestions": [
+          "海边笑容的天使女孩.jpg",
+          "蓝色海洋中的白色天使.jpg"
+        ],
+        "displayTitle": "海边天使的微笑",
+        "confidence": 0.9,
+        "reasoning": "图片中的女孩穿着清新、明亮的服装，背景是明亮的蓝天和海洋，整体氛围明亮且治愈，符合【清新】的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/插画/超赞壁纸2026052015.jpg",
+      "category": "人像",
+      "subcategory": "插画",
+      "filename": "超赞壁纸2026052015.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 592926,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "插画",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "插画",
+        "keywords": [
+          "天使",
+          "羽翼",
+          "插画",
+          "人像"
+        ],
+        "description": "一位身穿天使翅膀的少女，背景是明亮的天空。",
+        "filenameSuggestions": [
+          "身穿天使翅膀的少女.jpg",
+          "手持羽翼的温柔天使.jpg"
+        ],
+        "displayTitle": "天使之翼下的温柔",
+        "confidence": 0.9,
+        "reasoning": "图片中人物穿着天使服装，有羽翼和光环，整体风格偏向插画而非摄影，且未识别出具体明星或IP形象，归类为人像/插画。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052016.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052016.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 560920,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "天使",
+          "JK制服"
+        ],
+        "description": "身穿水手服的少女，头戴天使光环，坐于阳光下的宁静场景。",
+        "filenameSuggestions": [
+          "身穿水手服的天使少女.jpg",
+          "蓝天下的纯真天使.jpg"
+        ],
+        "displayTitle": "天使之恋",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中少女穿着明亮的JK制服，背景干净且明亮，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052017.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052017.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 262747,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "人像",
+          "微笑"
+        ],
+        "description": "清晨的光线轻轻洒在少女的脸上，她带着微笑，展现出一种自然的美丽。",
+        "filenameSuggestions": [
+          "阳光下的微笑少女.jpg",
+          "温柔晨光中的俏皮女孩.jpg"
+        ],
+        "displayTitle": "清晨的光影舞者",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女面带微笑，表情甜美，背景光线明亮，色彩自然，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052018.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052018.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 286047,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "学生风",
+          "校服",
+          "长发"
+        ],
+        "description": "清新脱俗的学生形象，展现青春活力。",
+        "filenameSuggestions": [
+          "身穿灰色校服的清新少女.jpg",
+          "轻盈微笑的长发学生.jpg"
+        ],
+        "displayTitle": "清新学生风采",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，人物穿着校服，整体色调清新明亮，符合【清新】风格的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052019.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052019.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 328971,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "糖果",
+          "甜美"
+        ],
+        "description": "一个面带微笑的少女与五彩糖果的温馨瞬间。",
+        "filenameSuggestions": [
+          "桌面上的少女与糖果.jpg",
+          "甜蜜的微笑.jpg"
+        ],
+        "displayTitle": "糖色人生",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中少女面带微笑，背景简洁，色彩明亮，符合【清新】(Fresh)的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052020.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052020.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 389896,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "花",
+          "自然"
+        ],
+        "description": "一个清新可爱的少女，穿着花裙，拿着干草，展现自然美。",
+        "filenameSuggestions": [
+          "身穿花裙的清新少女.jpg",
+          "手持干草的美丽女孩.jpg"
+        ],
+        "displayTitle": "花间少女的温柔",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中的女孩面带甜美笑容，背景自然光线充足，色彩鲜艳且自然，符合【清新】(Fresh)的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052021.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052021.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 281908,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "微笑",
+          "长发"
+        ],
+        "description": "照片中的少女面带微笑，展现出清新脱俗的气质。",
+        "filenameSuggestions": [
+          "侧颜微笑的长发少女.jpg",
+          "白衬衫清新女孩.jpg"
+        ],
+        "displayTitle": "清新少女的柔和光影",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，首先判断为 人像，其次根据图片特征：高明度、色彩自然、笑容甜美，判定为【清新】风格。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052022.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052022.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 294679,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "洁面",
+          "自然光",
+          "微笑"
+        ],
+        "description": "清新自然的洁面瞬间，展现肌肤的纯净与美丽。",
+        "filenameSuggestions": [
+          "手持洁面乳的清新少女.jpg",
+          "微笑展现洁肤步骤的美丽瞬间.jpg"
+        ],
+        "displayTitle": "洁净与美丽的瞬间",
+        "confidence": 0.9,
+        "reasoning": "图片中少女面带微笑，手持洁面乳，整体氛围明亮且自然，符合【清新】(Fresh)的定义：明亮、治愈、氧气感。画面高明度、色彩鲜艳自然、笑容甜美，背景简洁，构图干净，给人以初恋感和清新感受。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052023.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052023.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 259436,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "短发",
+          "床"
+        ],
+        "description": "一位短发少女侧卧在白色床单上，面带微笑，沐浴在阳光中。",
+        "filenameSuggestions": [
+          "侧卧在白色床单上的短发少女.jpg",
+          "微笑的短发女孩躺在床上.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A的人像分类逻辑，图片中少女面带甜美微笑，背景简洁明亮，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸2026052024.jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸2026052024.jpg",
+      "createdAt": "2026-05-20T09:49:24.417Z",
+      "size": 328660,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "长发",
+          "少女",
+          "窗边"
+        ],
+        "description": "一位长发少女在窗边沉思，穿着白色上衣，表情清新脱俗。",
+        "filenameSuggestions": [
+          "身穿白色上衣的长发少女.jpg",
+          "窗边沉思的清新女孩.jpg"
+        ],
+        "displayTitle": "窗边轻柔的少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女表情甜美，背景明亮，符合【清新】(Fresh)的定义。"
+      }
+    }
+  ]
+}
