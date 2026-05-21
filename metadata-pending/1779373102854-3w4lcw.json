@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-21T14:18:22.854Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/萌宠/通用/超赞壁纸20260521- (1).jpg",
+      "category": "萌宠",
+      "subcategory": "通用",
+      "filename": "超赞壁纸20260521- (1).jpg",
+      "createdAt": "2026-05-21T14:18:22.854Z",
+      "size": 74656,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "通用",
+        "keywords": [
+          "萌宠",
+          "兔子",
+          "围巾",
+          "出租车"
+        ],
+        "description": "一只可爱的小兔子戴着围巾在出租车上",
+        "filenameSuggestions": [
+          "穿着围巾的兔子在出租车上.jpg",
+          "城市小旅程中的兔子.jpg"
+        ],
+        "displayTitle": "城市中的小兔子",
+        "confidence": 0.9,
+        "reasoning": "图片中是一只兔子戴着围巾坐在出租车上，符合萌宠的特征，且没有特定的IP形象或明星，因此归类为萌宠/通用。"
+      }
+    }
+  ]
+}
