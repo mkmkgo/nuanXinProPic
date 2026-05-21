@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-05-21 14:25:53",
-  "count": 1611,
+  "lastUpdated": "2026-05-21 16:33:07",
+  "count": 1616,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -51859,6 +51859,156 @@
       "resolution": {
         "width": 1080,
         "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "网络请求失败，可能是 AI API 无法访问。请检查网络连接，或切换到 ModelScope（国内可用）"
+      }
+    },
+    "wallpaper/mobile/动漫/通用/超赞壁纸20260522 (1).jpg": {
+      "category": "动漫",
+      "subcategory": "通用",
+      "filename": "超赞壁纸20260522 (1).jpg",
+      "createdAt": "2026-05-21T16:29:47.665Z",
+      "cdnTag": "v1.3.36",
+      "size": 307470,
+      "format": "jpg",
+      "resolution": {
+        "width": 1125,
+        "height": 2436,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "网络请求失败，可能是 AI API 无法访问。请检查网络连接，或切换到 ModelScope（国内可用）"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸20260522 (2).jpg": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸20260522 (2).jpg",
+      "createdAt": "2026-05-21T16:29:47.665Z",
+      "cdnTag": "v1.3.36",
+      "size": 182164,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2339,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "网络请求失败，可能是 AI API 无法访问。请检查网络连接，或切换到 ModelScope（国内可用）"
+      }
+    },
+    "wallpaper/mobile/通用/超赞壁纸20260522 (3).jpg": {
+      "category": "通用",
+      "subcategory": "",
+      "filename": "超赞壁纸20260522 (3).jpg",
+      "createdAt": "2026-05-21T16:29:47.665Z",
+      "cdnTag": "v1.3.36",
+      "size": 682831,
+      "format": "jpg",
+      "resolution": {
+        "width": 1284,
+        "height": 2778,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "网络请求失败，可能是 AI API 无法访问。请检查网络连接，或切换到 ModelScope（国内可用）"
+      }
+    },
+    "wallpaper/mobile/动漫/超赞壁纸20260522 (4).jpg": {
+      "category": "动漫",
+      "subcategory": "",
+      "filename": "超赞壁纸20260522 (4).jpg",
+      "createdAt": "2026-05-21T16:29:47.665Z",
+      "cdnTag": "v1.3.36",
+      "size": 78844,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2337,
+        "label": "2K",
+        "type": "info"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "",
+        "keywords": [],
+        "description": "",
+        "filenameSuggestions": [],
+        "displayTitle": null,
+        "confidence": 0,
+        "reasoning": null,
+        "error": "网络请求失败，可能是 AI API 无法访问。请检查网络连接，或切换到 ModelScope（国内可用）"
+      }
+    },
+    "wallpaper/mobile/动漫/超赞壁纸20260522 (5).jpg": {
+      "category": "动漫",
+      "subcategory": "",
+      "filename": "超赞壁纸20260522 (5).jpg",
+      "createdAt": "2026-05-21T16:29:47.665Z",
+      "cdnTag": "v1.3.36",
+      "size": 116231,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
         "label": "2K",
         "type": "info"
       },
