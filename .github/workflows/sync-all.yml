@@ -194,6 +194,7 @@ jobs:
 
           TODAY=$(TZ='Asia/Shanghai' date +'%Y-%m-%d')
           git commit -m "chore: daily sync [$TODAY]"
+          git pull --rebase origin main || true
           git push
 
       # ========================================
@@ -255,6 +256,7 @@ jobs:
             echo "📝 Committing metadata and data updates..."
             git add metadata/ data/
             git commit -m "chore: update metadata and frontend data" || true
+            git pull --rebase origin main || true
             git push || true
           fi
 
@@ -266,6 +268,7 @@ jobs:
         run: |
           NEW_TAG="${{ steps.version.outputs.new_tag }}"
           git tag -a "$NEW_TAG" -m "Daily sync $(TZ='Asia/Shanghai' date +'%Y-%m-%d')"
+          git pull --rebase origin main || true
           git push origin "$NEW_TAG"
           echo "✅ Created tag: $NEW_TAG"
 
