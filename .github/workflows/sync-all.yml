@@ -406,6 +406,7 @@ jobs:
           # 提交 stats.json
           git add stats.json
           git commit -m "chore: update stats.json for $NEW_TAG" || true
+          git pull --rebase origin main || true
           git push || true
           
           echo "✅ Updated stats.json"
