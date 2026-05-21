@@ -53,7 +53,7 @@ jobs:
           node-version: '20'
 
       # ========================================
-      # 1. 同步壁纸资源（desktop/mobile/avatar/video）
+      # 1. 同步 Gitee 壁纸（desktop/mobile/avatar）
       # ========================================
       - name: Install ImageMagick and Chinese fonts
         if: ${{ github.event.inputs.sync_wallpaper != 'false' }}
@@ -68,16 +68,14 @@ jobs:
           DESKTOP_PREV=$(find wallpaper/desktop -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) 2>/dev/null | wc -l | tr -d ' ')
           MOBILE_PREV=$(find wallpaper/mobile -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) 2>/dev/null | wc -l | tr -d ' ')
           AVATAR_PREV=$(find wallpaper/avatar -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) 2>/dev/null | wc -l | tr -d ' ')
-          VIDEO_PREV=$(find wallpaper/video -type f \( -iname '*.mp4' -o -iname '*.webm' -o -iname '*.mov' -o -iname '*.m4v' \) 2>/dev/null | wc -l | tr -d ' ')
           BING_PREV=$(if [ -f bing/meta/index.json ]; then jq -r '.total' bing/meta/index.json; else echo 0; fi)
           
           echo "desktop=$DESKTOP_PREV" >> $GITHUB_OUTPUT
           echo "mobile=$MOBILE_PREV" >> $GITHUB_OUTPUT
           echo "avatar=$AVATAR_PREV" >> $GITHUB_OUTPUT
-          echo "video=$VIDEO_PREV" >> $GITHUB_OUTPUT
           echo "bing=$BING_PREV" >> $GITHUB_OUTPUT
           
-          echo "📊 Previous counts: Desktop=$DESKTOP_PREV, Mobile=$MOBILE_PREV, Avatar=$AVATAR_PREV, Video=$VIDEO_PREV, Bing=$BING_PREV"
+          echo "📊 Previous counts: Desktop=$DESKTOP_PREV, Mobile=$MOBILE_PREV, Avatar=$AVATAR_PREV, Bing=$BING_PREV"
 
       - name: Sync wallpapers from Gitee
         id: sync_gitee
@@ -99,9 +97,6 @@ jobs:
           fi
           if [ -n "$(git status --porcelain wallpaper/avatar)" ]; then
             UPDATED_SERIES="$UPDATED_SERIES avatar"
-          fi
-          if [ -n "$(git status --porcelain wallpaper/video)" ]; then
-            UPDATED_SERIES="$UPDATED_SERIES video"
           fi
           echo "updated_series=$UPDATED_SERIES" >> $GITHUB_OUTPUT
 
@@ -149,19 +144,33 @@ jobs:
           if [ -z "$LATEST_TAG" ]; then
             NEW_TAG="v1.0.1"
           else
-            VERSION=${LATEST_TAG#v}
-            IFS='.' read -r MAJOR MINOR PATCH <<< "$VERSION"
-            NEW_PATCH=$((PATCH + 1))
-            if [ "$NEW_PATCH" -ge 100 ]; then
-              NEW_PATCH=0
-              MINOR=$((MINOR + 1))
-            fi
-            if [ "$MINOR" -ge 10 ]; then
-              MINOR=0
-              MAJOR=$((MAJOR + 1))
-            fi
-            NEW_TAG="v${MAJOR}.${MINOR}.${NEW_PATCH}"
+          VERSION=${LATEST_TAG#v}
+          # 强制使用 3 段式 semver 格式
+          if [[ "$VERSION" =~ ^([0-9]+)\.([0-9]+)\.([0-9]+) ]]; then
+            MAJOR=${BASH_REMATCH[1]}
+            MINOR=${BASH_REMATCH[2]}
+            PATCH=${BASH_REMATCH[3]}
+          else
+            MAJOR=1
+            MINOR=0
+            PATCH=0
           fi
+          
+          # 确保PATCH是整数
+          if ! [[ "$PATCH" =~ ^[0-9]+$ ]]; then
+            PATCH=0
+          fi
+          
+          NEW_PATCH=$((PATCH + 1))
+          if [ "$NEW_PATCH" -ge 100 ]; then
+            NEW_PATCH=0
+            MINOR=$((MINOR + 1))
+          fi
+          if [ "$MINOR" -ge 10 ]; then
+            MINOR=0
+            MAJOR=$((MAJOR + 1))
+          fi
+          NEW_TAG="v${MAJOR}.${MINOR}.${NEW_PATCH}"
           echo "new_tag=$NEW_TAG" >> $GITHUB_OUTPUT
           echo "📦 Version: $LATEST_TAG -> $NEW_TAG"
 
@@ -194,7 +203,6 @@ jobs:
 
           TODAY=$(TZ='Asia/Shanghai' date +'%Y-%m-%d')
           git commit -m "chore: daily sync [$TODAY]"
-          git pull --rebase origin main || true
           git push
 
       # ========================================
@@ -240,7 +248,7 @@ jobs:
           # 获取新 tag
           NEW_TAG="${{ steps.version.outputs.new_tag }}"
           
-          # 处理 metadata（会从 timestamps-backup-all.txt 同步缺失的资源）
+          # 处理 metadata（会从 timestamps-backup-all.txt 同步缺失的图片）
           node ./scripts/process-metadata.js . "$NEW_TAG" --force
           
           echo "✅ Metadata processed"
@@ -256,7 +264,6 @@ jobs:
             echo "📝 Committing metadata and data updates..."
             git add metadata/ data/
             git commit -m "chore: update metadata and frontend data" || true
-            git pull --rebase origin main || true
             git push || true
           fi
 
@@ -268,7 +275,6 @@ jobs:
         run: |
           NEW_TAG="${{ steps.version.outputs.new_tag }}"
           git tag -a "$NEW_TAG" -m "Daily sync $(TZ='Asia/Shanghai' date +'%Y-%m-%d')"
-          git pull --rebase origin main || true
           git push origin "$NEW_TAG"
           echo "✅ Created tag: $NEW_TAG"
 
@@ -285,20 +291,17 @@ jobs:
           DESKTOP_NOW=$(find wallpaper/desktop -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) 2>/dev/null | wc -l | tr -d ' ')
           MOBILE_NOW=$(find wallpaper/mobile -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) 2>/dev/null | wc -l | tr -d ' ')
           AVATAR_NOW=$(find wallpaper/avatar -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) 2>/dev/null | wc -l | tr -d ' ')
-          VIDEO_NOW=$(find wallpaper/video -type f \( -iname '*.mp4' -o -iname '*.webm' -o -iname '*.mov' -o -iname '*.m4v' \) 2>/dev/null | wc -l | tr -d ' ')
           BING_NOW=$(if [ -f bing/meta/index.json ]; then jq -r '.total' bing/meta/index.json; else echo 0; fi)
 
           # 计算增量
           DESKTOP_PREV=${{ steps.prev_count.outputs.desktop }}
           MOBILE_PREV=${{ steps.prev_count.outputs.mobile }}
           AVATAR_PREV=${{ steps.prev_count.outputs.avatar }}
-          VIDEO_PREV=${{ steps.prev_count.outputs.video }}
           BING_PREV=${{ steps.prev_count.outputs.bing }}
 
           DESKTOP_DIFF=$((DESKTOP_NOW - DESKTOP_PREV))
           MOBILE_DIFF=$((MOBILE_NOW - MOBILE_PREV))
           AVATAR_DIFF=$((AVATAR_NOW - AVATAR_PREV))
-          VIDEO_DIFF=$((VIDEO_NOW - VIDEO_PREV))
           BING_DIFF=$((BING_NOW - BING_PREV))
 
           # 格式化增量显示（正数加+号）
@@ -309,7 +312,6 @@ jobs:
           DESKTOP_DIFF_STR=$(format_diff $DESKTOP_DIFF)
           MOBILE_DIFF_STR=$(format_diff $MOBILE_DIFF)
           AVATAR_DIFF_STR=$(format_diff $AVATAR_DIFF)
-          VIDEO_DIFF_STR=$(format_diff $VIDEO_DIFF)
           BING_DIFF_STR=$(format_diff $BING_DIFF)
 
           # 生成 Release 内容
@@ -321,7 +323,6 @@ jobs:
           | 🖥️ Desktop | $DESKTOP_NOW | $DESKTOP_DIFF_STR |
           | 📱 Mobile | $MOBILE_NOW | $MOBILE_DIFF_STR |
           | 👤 Avatar | $AVATAR_NOW | $AVATAR_DIFF_STR |
-          | 🎬 Video | $VIDEO_NOW | $VIDEO_DIFF_STR |
           | 🌄 Bing | $BING_NOW | $BING_DIFF_STR |
 
           ---
@@ -338,12 +339,10 @@ jobs:
           echo "desktop_diff=$DESKTOP_DIFF" >> $GITHUB_OUTPUT
           echo "mobile_diff=$MOBILE_DIFF" >> $GITHUB_OUTPUT
           echo "avatar_diff=$AVATAR_DIFF" >> $GITHUB_OUTPUT
-          echo "video_diff=$VIDEO_DIFF" >> $GITHUB_OUTPUT
           echo "bing_diff=$BING_DIFF" >> $GITHUB_OUTPUT
           echo "desktop_now=$DESKTOP_NOW" >> $GITHUB_OUTPUT
           echo "mobile_now=$MOBILE_NOW" >> $GITHUB_OUTPUT
           echo "avatar_now=$AVATAR_NOW" >> $GITHUB_OUTPUT
-          echo "video_now=$VIDEO_NOW" >> $GITHUB_OUTPUT
           echo "bing_now=$BING_NOW" >> $GITHUB_OUTPUT
 
       - name: Update stats.json
@@ -355,12 +354,10 @@ jobs:
           DESKTOP_DIFF=${{ steps.release.outputs.desktop_diff }}
           MOBILE_DIFF=${{ steps.release.outputs.mobile_diff }}
           AVATAR_DIFF=${{ steps.release.outputs.avatar_diff }}
-          VIDEO_DIFF=${{ steps.release.outputs.video_diff }}
           BING_DIFF=${{ steps.release.outputs.bing_diff }}
           DESKTOP_NOW=${{ steps.release.outputs.desktop_now }}
           MOBILE_NOW=${{ steps.release.outputs.mobile_now }}
           AVATAR_NOW=${{ steps.release.outputs.avatar_now }}
-          VIDEO_NOW=${{ steps.release.outputs.video_now }}
           BING_NOW=${{ steps.release.outputs.bing_now }}
           
           # 创建新的 release 记录
@@ -372,7 +369,6 @@ jobs:
               "desktop": $DESKTOP_DIFF,
               "mobile": $MOBILE_DIFF,
               "avatar": $AVATAR_DIFF,
-              "video": $VIDEO_DIFF,
               "bing": $BING_DIFF
             },
             "publisher": "github-actions[bot]"
@@ -387,9 +383,8 @@ jobs:
                --argjson desktop "$DESKTOP_NOW" \
                --argjson mobile "$MOBILE_NOW" \
                --argjson avatar "$AVATAR_NOW" \
-               --argjson video "$VIDEO_NOW" \
                --argjson bing "$BING_NOW" \
-               '.total.desktop = $desktop | .total.mobile = $mobile | .total.avatar = $avatar | .total.video = $video | .total.bing = $bing | .lastUpdated = now | .releases = [$new_release] + .releases' \
+               '.total.desktop = $desktop | .total.mobile = $mobile | .total.avatar = $avatar | .total.bing = $bing | .lastUpdated = now | .releases = [$new_release] + .releases' \
                stats.json > stats.json.tmp && mv stats.json.tmp stats.json
           else
             # 创建新的 stats.json
@@ -397,9 +392,8 @@ jobs:
                --argjson desktop "$DESKTOP_NOW" \
                --argjson mobile "$MOBILE_NOW" \
                --argjson avatar "$AVATAR_NOW" \
-               --argjson video "$VIDEO_NOW" \
                --argjson bing "$BING_NOW" \
-               '{total: {desktop: $desktop, mobile: $mobile, avatar: $avatar, video: $video, bing: $bing}, lastUpdated: now, releases: [$new_release]}' \
+               '{total: {desktop: $desktop, mobile: $mobile, avatar: $avatar, bing: $bing}, lastUpdated: now, releases: [$new_release]}' \
                > stats.json
           fi
           
@@ -440,11 +434,6 @@ jobs:
           # 单独强制上传 latest.json（内容变化但大小可能相同）
           if [ -f data/bing/latest.json ]; then
             aws s3 cp data/bing/latest.json "s3://$R2_BUCKET/data/bing/latest.json" \
-              --endpoint-url "$R2_ENDPOINT" \
-              --content-type "application/json"
-          fi
-          if [ -f data/video/latest.json ]; then
-            aws s3 cp data/video/latest.json "s3://$R2_BUCKET/data/video/latest.json" \
               --endpoint-url "$R2_ENDPOINT" \
               --content-type "application/json"
           fi
@@ -494,20 +483,17 @@ jobs:
           DESKTOP_NOW=$(find wallpaper/desktop -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) 2>/dev/null | wc -l | tr -d ' ')
           MOBILE_NOW=$(find wallpaper/mobile -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) 2>/dev/null | wc -l | tr -d ' ')
           AVATAR_NOW=$(find wallpaper/avatar -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) 2>/dev/null | wc -l | tr -d ' ')
-          VIDEO_NOW=$(find wallpaper/video -type f \( -iname '*.mp4' -o -iname '*.webm' -o -iname '*.mov' -o -iname '*.m4v' \) 2>/dev/null | wc -l | tr -d ' ')
           BING_NOW=$(if [ -f bing/meta/index.json ]; then jq -r '.total' bing/meta/index.json; else echo 0; fi)
 
           # 计算增量
           DESKTOP_PREV=${{ steps.prev_count.outputs.desktop }}
           MOBILE_PREV=${{ steps.prev_count.outputs.mobile }}
           AVATAR_PREV=${{ steps.prev_count.outputs.avatar }}
-          VIDEO_PREV=${{ steps.prev_count.outputs.video }}
           BING_PREV=${{ steps.prev_count.outputs.bing }}
 
           DESKTOP_DIFF=$((DESKTOP_NOW - DESKTOP_PREV))
           MOBILE_DIFF=$((MOBILE_NOW - MOBILE_PREV))
           AVATAR_DIFF=$((AVATAR_NOW - AVATAR_PREV))
-          VIDEO_DIFF=$((VIDEO_NOW - VIDEO_PREV))
           BING_DIFF=$((BING_NOW - BING_PREV))
 
           # 格式化增量显示
@@ -522,7 +508,6 @@ jobs:
           echo "| 🖥️ Desktop | $DESKTOP_NOW | $(format_diff $DESKTOP_DIFF) |" >> $GITHUB_STEP_SUMMARY
           echo "| 📱 Mobile | $MOBILE_NOW | $(format_diff $MOBILE_DIFF) |" >> $GITHUB_STEP_SUMMARY
           echo "| 👤 Avatar | $AVATAR_NOW | $(format_diff $AVATAR_DIFF) |" >> $GITHUB_STEP_SUMMARY
-          echo "| 🎬 Video | $VIDEO_NOW | $(format_diff $VIDEO_DIFF) |" >> $GITHUB_STEP_SUMMARY
           echo "| 🌄 Bing | $BING_NOW | $(format_diff $BING_DIFF) |" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
 
