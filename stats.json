@@ -1,6 +1,6 @@
 {
-  "lastUpdated": 1779385558.294729,
-  "cdnTag": "v1.3.37",
+  "lastUpdated": 1779390383.423932,
+  "cdnTag": "v1.3.38",
   "series": {
     "desktop": {
       "count": 669,
@@ -60,6 +60,18 @@
     "bing": 2552
   },
   "releases": [
+    {
+      "tag": "v1.3.38",
+      "date": "2026-05-22",
+      "added": {
+        "desktop": 0,
+        "mobile": 0,
+        "avatar": 0,
+        "video": 0,
+        "bing": 0
+      },
+      "publisher": "github-actions[bot]"
+    },
     {
       "tag": "v1.3.37",
       "date": "2026-05-22",
