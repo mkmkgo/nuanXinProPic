@@ -1,6 +1,9 @@
 name: Sync All Wallpapers
 
 on:
+  # 被 wallpaper-gallery-workflow 触发
+  repository_dispatch:
+    types: [sync-wallpapers]
   # 每天 UTC 17:00（北京时间 13:00）- 低峰期,延迟最短
   schedule:
     - cron: "0 17 * * *"
