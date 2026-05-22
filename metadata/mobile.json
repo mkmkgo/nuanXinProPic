@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-05-22 18:30:25",
-  "count": 1619,
+  "lastUpdated": "2026-05-22 18:53:27",
+  "count": 1621,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -52116,6 +52116,79 @@
         "confidence": 0,
         "reasoning": null,
         "error": "网络请求失败，可能是 AI API 无法访问。请检查网络连接，或切换到 ModelScope（国内可用）"
+      }
+    },
+    "wallpaper/mobile/插画/氛围感/超赞壁纸20260522 (7).jpg": {
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸20260522 (7).jpg",
+      "createdAt": "2026-05-22T18:51:07.957Z",
+      "cdnTag": "v1.3.41",
+      "size": 655235,
+      "format": "jpg",
+      "resolution": {
+        "width": 2048,
+        "height": 4438,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "氛围感",
+        "keywords": [
+          "插画",
+          "氛围感",
+          "铁轨",
+          "少女"
+        ],
+        "description": "画面描绘了一位少女站在铁轨上，背后是宽阔的天空与白云，整体氛围轻盈梦幻。",
+        "filenameSuggestions": [
+          "铁轨上的少女与白云.jpg",
+          "轨道边的梦幻瞬间.jpg"
+        ],
+        "displayTitle": "铁轨上的轻语者",
+        "confidence": 0.9,
+        "reasoning": "图片具有强烈的绘画感，人物与环境融合出一种梦幻的氛围感，符合插画的特征。同时，画面没有具体的人物面容且注重光影意境，归入插画/氛围感。"
+      }
+    },
+    "wallpaper/mobile/创意/通用/超赞壁纸20260522 (8).jpg": {
+      "category": "创意",
+      "subcategory": "通用",
+      "filename": "超赞壁纸20260522 (8).jpg",
+      "createdAt": "2026-05-22T18:51:07.957Z",
+      "cdnTag": "v1.3.41",
+      "size": 1405424,
+      "format": "jpg",
+      "resolution": {
+        "width": 2160,
+        "height": 4674,
+        "label": "4K+",
+        "type": "warning"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "创意",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "创意",
+        "third": "通用",
+        "keywords": [
+          "极简主义",
+          "创意",
+          "骑行"
+        ],
+        "description": "简洁的黑色剪影在白墙上展现骑行生活。",
+        "filenameSuggestions": [
+          "极简黑白骑行剪影.jpg",
+          "简洁骑行生活方式.jpg"
+        ],
+        "displayTitle": "极简主义的城市剪影",
+        "confidence": 0.9,
+        "reasoning": "图片为极简的黑色剪影，背景是纯白的墙面，主要元素是一辆自行车和一个小人物剪影，风格简洁现代，归入创意/通用分类。"
       }
     }
   }
