@@ -1,6 +1,6 @@
 {
-  "lastUpdated": 1779543183.727619,
-  "cdnTag": "v1.3.44",
+  "lastUpdated": "2026-05-23 17:33:28",
+  "cdnTag": "v1.3.45",
   "series": {
     "desktop": {
       "count": 669,
@@ -18,15 +18,15 @@
       ]
     },
     "mobile": {
-      "count": 1630,
+      "count": 1639,
       "categories": [
         "人像",
         "通用",
         "风景",
         "插画",
         "动漫",
-        "影视",
         "萌宠",
+        "影视",
         "创意",
         "IP形象",
         "游戏",
@@ -43,23 +43,24 @@
         "萌宠",
         "表情包"
       ]
-    },
-    "video": {
-      "count": 7,
-      "categories": [
-        "desktop",
-        "mobile"
-      ]
     }
   },
   "total": {
     "desktop": 669,
-    "mobile": 1630,
-    "avatar": 503,
-    "video": 9,
-    "bing": 2553
+    "mobile": 1639,
+    "avatar": 503
   },
   "releases": [
+    {
+      "tag": "v1.3.45",
+      "date": "2026-05-24",
+      "added": {
+        "desktop": 0,
+        "mobile": 9,
+        "avatar": 0
+      },
+      "publisher": "mkmkgo"
+    },
     {
       "tag": "v1.3.44",
       "date": "2026-05-23",
