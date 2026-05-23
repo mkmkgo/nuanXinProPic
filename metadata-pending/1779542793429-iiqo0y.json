@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-23T13:26:33.429Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/氛围感/超赞壁纸20260523 (4).jpg",
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸20260523 (4).jpg",
+      "createdAt": "2026-05-23T13:26:33.429Z",
+      "size": 99342,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "氛围感",
+        "keywords": [
+          "插画",
+          "氛围感",
+          "雨后",
+          "校园"
+        ],
+        "description": "描绘了一位女孩在雨后校园中行走的场景，裙摆飞扬，氛围感十足。",
+        "filenameSuggestions": [
+          "裙边细雨的女孩.jpg",
+          "校园风衣的微笑瞬间.jpg"
+        ],
+        "displayTitle": "雨后初晴的校园风情",
+        "confidence": 0.9,
+        "reasoning": "图片为插画风格，强调光影和氛围，符合氛围感插画的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/建筑/超赞壁纸20260523 (5).jpg",
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "超赞壁纸20260523 (5).jpg",
+      "createdAt": "2026-05-23T13:26:33.429Z",
+      "size": 527843,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "建筑",
+          "风景",
+          "东京",
+          "晴空塔"
+        ],
+        "description": "东京晴空塔在晴天下的壮丽景象",
+        "filenameSuggestions": [
+          "东京晴空塔的赤蓝邂逅.jpg",
+          "晴空下的东京标志性建筑.jpg"
+        ],
+        "displayTitle": "东京晴空塔的赤蓝邂逅",
+        "confidence": 0.9,
+        "reasoning": "图片主要展示了东京晴空塔的建筑结构与蓝天背景的搭配，符合风景/建筑的分类特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/氛围感/超赞壁纸20260523 (6).jpg",
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸20260523 (6).jpg",
+      "createdAt": "2026-05-23T13:26:33.429Z",
+      "size": 165752,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "插画",
+          "蓝天白云"
+        ],
+        "description": "蓝天白云下的花的美丽瞬间",
+        "filenameSuggestions": [
+          "蓝天下的花的诱惑.jpg",
+          "纯美白玫瑰许愿.jpg"
+        ],
+        "displayTitle": "蓝天下的花的诱惑",
+        "confidence": 0.9,
+        "reasoning": "图片为插画风格，突出氛围感，背景为蓝天，主体为手和白玫瑰，符合氛围感插画的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/通用/超赞壁纸20260523 (7).jpg",
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "超赞壁纸20260523 (7).jpg",
+      "createdAt": "2026-05-23T13:26:33.429Z",
+      "size": 356904,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "沙漠",
+          "房车",
+          "风景"
+        ],
+        "description": "沙漠中孤独的房车，广阔蓝天下的宁静。",
+        "filenameSuggestions": [
+          "沙漠中的房车.jpg",
+          "沙漠房车静谧之旅.jpg"
+        ],
+        "displayTitle": "沙漠中的流动天堂",
+        "confidence": 0.9,
+        "reasoning": "图片展示了一辆房车停靠在沙漠中，周围是广阔的沙地和蓝天，没有特定的次级分类能更好地匹配，因此归为风景/通用。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸20260523 (8).jpg",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸20260523 (8).jpg",
+      "createdAt": "2026-05-23T13:26:33.429Z",
+      "size": 528513,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "海滨",
+          "长发",
+          "白纱"
+        ],
+        "description": "一位长发女孩坐在海边岩石上，身披白纱，沉思凝望大海。",
+        "filenameSuggestions": [
+          "海边岩石上沉思的长发女孩.jpg",
+          "身披白纱的海滨少女.jpg"
+        ],
+        "displayTitle": "海边少女的悠闲时光",
+        "confidence": 0.9,
+        "reasoning": "图片中的女孩身处海边，穿着轻薄的白纱，坐在岩石上，表情沉思，整体氛围明亮且自然，符合【清新】(Fresh)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/超赞壁纸20260523 (9).jpg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸20260523 (9).jpg",
+      "createdAt": "2026-05-23T13:26:33.429Z",
+      "size": 151758,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "紧身衣",
+          "御姐风"
+        ],
+        "description": "一位身穿白色紧身衣和牛仔短裤的长发女孩，展现成熟魅力。",
+        "filenameSuggestions": [
+          "身穿白色紧身衣的长发女孩.jpg",
+          "夜色中优雅漫步的长发女孩.jpg"
+        ],
+        "displayTitle": "月光下的曼陀罗花",
+        "confidence": 0.9,
+        "reasoning": "图片中女孩身穿紧身衣和短裤，姿态撩人，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/超赞壁纸20260523 (1).jpg",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸20260523 (1).jpg",
+      "createdAt": "2026-05-23T13:26:33.429Z",
+      "size": 308482,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "金戒指",
+          "祈愿"
+        ],
+        "description": "一位少女带着金戒指，表情神秘而优雅，传递着爱与祈愿的信息。",
+        "filenameSuggestions": [
+          "戴着金戒指的优雅少女.jpg",
+          "祈愿之手.jpg"
+        ],
+        "displayTitle": "月光下的爱之祈愿",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女的穿着和姿势展现出成熟魅力，且有明显的吸引力展示，归入【魅力】分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/国风/超赞壁纸20260523 (2).jpg",
+      "category": "风景",
+      "subcategory": "国风",
+      "filename": "超赞壁纸20260523 (2).jpg",
+      "createdAt": "2026-05-23T13:26:33.429Z",
+      "size": 1322877,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "国风",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "国风",
+        "keywords": [
+          "古建筑",
+          "国风",
+          "飞檐",
+          "传统"
+        ],
+        "description": "展现中国传统建筑的精致细节与独特风格",
+        "filenameSuggestions": [
+          "精致的中国古代建筑屋顶.jpg",
+          "蓝天下的传统古建筑飞檐.jpg"
+        ],
+        "displayTitle": "古色古香的中国传统建筑屋顶",
+        "confidence": 0.9,
+        "reasoning": "图片展示了具有中国传统特色的建筑屋顶，具有典型的国风建筑元素，如飞檐、彩色瓦片和复杂的装饰图案。根据现有的分类体系，归类为风景/国风。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/创意/通用/超赞壁纸20260523 (3).jpg",
+      "category": "创意",
+      "subcategory": "通用",
+      "filename": "超赞壁纸20260523 (3).jpg",
+      "createdAt": "2026-05-23T13:26:33.429Z",
+      "size": 107833,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "创意",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "创意",
+        "third": "通用",
+        "keywords": [
+          "麦当劳",
+          "标识",
+          "快餐",
+          "创意"
+        ],
+        "description": "麦当劳的经典标识在蓝天背景下显得尤为醒目。",
+        "filenameSuggestions": [
+          "街角的麦当劳标识.jpg",
+          "蓝色天空下的金色拱门.jpg"
+        ],
+        "displayTitle": "快餐文化的金色符号",
+        "confidence": 0.9,
+        "reasoning": "图片展示了麦当劳的经典标识，带有创意和通用性，没有具体细分分类，直接归入创意/通用。"
+      }
+    }
+  ]
+}
