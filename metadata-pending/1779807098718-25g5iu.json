@@ -1,0 +1,327 @@
+{
+  "version": 1,
+  "createdAt": "2026-05-26T14:51:38.718Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/超赞壁纸220260526 (1).png",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸220260526 (1).png",
+      "createdAt": "2026-05-26T14:51:38.718Z",
+      "size": 369970,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑丝",
+          "蓝天白云"
+        ],
+        "description": "一个长发女孩在蓝天白云下摆出诱惑姿势。",
+        "filenameSuggestions": [
+          "身穿白色T恤的长发女孩.jpg",
+          "黑裤白衫蓝天下的诱惑姿势.jpg"
+        ],
+        "displayTitle": "蓝天下的诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树，图片中人物身穿紧身衣，展示身材，背景为蓝天白云，符合【魅力】的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/萌宠/超赞壁纸220260526 (2).png",
+      "category": "人像",
+      "subcategory": "萌宠",
+      "filename": "超赞壁纸220260526 (2).png",
+      "createdAt": "2026-05-26T14:51:38.718Z",
+      "size": 409115,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "萌宠",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "萌宠",
+        "keywords": [
+          "少女",
+          "白猫",
+          "户外",
+          "甜美"
+        ],
+        "description": "一个女孩和一只白猫在阳光下玩耍",
+        "filenameSuggestions": [
+          "阳光下的少女与白猫.jpg",
+          "树荫下微笑的女孩和猫.jpg"
+        ],
+        "displayTitle": "阳光下的少女与白猫",
+        "confidence": 0.9,
+        "reasoning": "图片中出现了一个女孩和一只白猫，女孩的穿着和表情都非常甜美和清新，背景是晴朗的天空和树叶，根据决策树B和A的描述，图片中的女孩和猫咪的特征更符合人像-萌宠的分类。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/超赞壁纸220260526 (3).png",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸220260526 (3).png",
+      "createdAt": "2026-05-26T14:51:38.718Z",
+      "size": 254589,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "港风",
+          "黑丝",
+          "蝴蝶结",
+          "魅力"
+        ],
+        "description": "黑发少女身穿淡绿色露肩上衣，佩戴黑蝴蝶结和精美项链，展现优雅姿态。",
+        "filenameSuggestions": [
+          "身穿淡绿色露肩上衣的黑发少女.jpg",
+          "黑蝴蝶结装饰的优雅港风女孩.jpg"
+        ],
+        "displayTitle": "黑丝蝴蝶结下的优雅姿态",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A. 人像分类决策树 (Portrait Logic)，图片中的人物穿着露肩上衣，佩戴蝴蝶结和项链，姿势优雅，符合【魅力】(Glamour)的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸220260526 (4).png",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸220260526 (4).png",
+      "createdAt": "2026-05-26T14:51:38.718Z",
+      "size": 609689,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "海边",
+          "少女"
+        ],
+        "description": "阳光下的海边少女，微笑清新自然。",
+        "filenameSuggestions": [
+          "海边清新少女.jpg",
+          "阳光海岸的微笑.jpg"
+        ],
+        "displayTitle": "海风轻拂下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "图片中少女面带微笑，背景为海景，整体氛围明亮且自然，符合【清新】风格的定义。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸220260526 (5).png",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸220260526 (5).png",
+      "createdAt": "2026-05-26T14:51:38.718Z",
+      "size": 392492,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "阳光",
+          "自然",
+          "长发"
+        ],
+        "description": "一位清新自然的少女坐在床上，享受清晨的阳光。",
+        "filenameSuggestions": [
+          "坐在床上的阳光少女.jpg",
+          "清新自然的长发女孩.jpg"
+        ],
+        "displayTitle": "清晨的阳光女孩",
+        "confidence": 0.9,
+        "reasoning": "根据决策树A的人像分类逻辑，首先判断为'清新'类别。图片中少女面带微笑，背景简洁，色彩明亮，符合清新风格的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/超赞壁纸220260526 (6).png",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸220260526 (6).png",
+      "createdAt": "2026-05-26T14:51:38.718Z",
+      "size": 1140002,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "蕾丝睡衣",
+          "丝质",
+          "诱惑"
+        ],
+        "description": "一位长发女孩穿着灰色蕾丝睡衣，展现魅力十足的姿势。",
+        "filenameSuggestions": [
+          "身穿灰色蕾丝睡衣的长发女孩.jpg",
+          "电脑桌前的诱人姿势.jpg"
+        ],
+        "displayTitle": "月光下的丝质诱惑",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩穿着蕾丝睡衣，姿势撩人，符合【魅力】的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/超赞壁纸220260526 (7).png",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸220260526 (7).png",
+      "createdAt": "2026-05-26T14:51:38.718Z",
+      "size": 884910,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "露脐装",
+          "帽子"
+        ],
+        "description": "一位身穿白色露脐装和灰色短裤的少女，头戴蓝色帽子，展现青春魅力。",
+        "filenameSuggestions": [
+          "身穿白色露脐装的俏皮少女.jpg",
+          "轻盈微笑的帽子女孩.jpg"
+        ],
+        "displayTitle": "阳光下的青春魅力",
+        "confidence": 0.9,
+        "reasoning": "根据图片，人物穿着暴露但不低俗，姿势撩人且带有俏皮感，符合【魅力】的判定标准。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/魅力/超赞壁纸220260526 (8).png",
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸220260526 (8).png",
+      "createdAt": "2026-05-26T14:51:38.718Z",
+      "size": 385394,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "夜景",
+          "长发",
+          "俏皮"
+        ],
+        "description": "一个充满魅力的年轻女孩在夜色中展现俏皮的一面。",
+        "filenameSuggestions": [
+          "夜色中俏皮的长发女孩.jpg",
+          "城市夜景中的魅力少女.jpg"
+        ],
+        "displayTitle": "月光下的俏皮夜姬",
+        "confidence": 0.9,
+        "reasoning": "根据图片中的人物特征和场景，女孩表现出魅力十足的姿态，穿着时尚，夜景为背景，符合【魅力】分类的特征。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/清新/超赞壁纸220260526 (9).png",
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸220260526 (9).png",
+      "createdAt": "2026-05-26T14:51:38.718Z",
+      "size": 1064093,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "圣诞节",
+          "少女"
+        ],
+        "description": "一个清新可爱的女孩在圣诞节前夕的温馨时刻。",
+        "filenameSuggestions": [
+          "圣诞节前夕的少女.jpg",
+          "坐在圣诞树旁的清新女孩.jpg"
+        ],
+        "displayTitle": "圣诞节的温暖瞬间",
+        "confidence": 0.9,
+        "reasoning": "根据人物面部特征和整体氛围，判断为清新风格的人像图片。图片中女孩面带微笑，背景是圣诞树，符合清新和节日氛围的描述。"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/氛围感/超赞壁纸220260526 (10).png",
+      "category": "人像",
+      "subcategory": "氛围感",
+      "filename": "超赞壁纸220260526 (10).png",
+      "createdAt": "2026-05-26T14:51:38.718Z",
+      "size": 300558,
+      "format": "png",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "氛围感",
+        "keywords": [
+          "氛围感",
+          "忧郁",
+          "女孩"
+        ],
+        "description": "一个女孩坐在水泥墙上，背景是日落的云朵，表情忧郁。",
+        "filenameSuggestions": [
+          "日落下靠着水泥墙的长发女孩.jpg",
+          "忧郁的女孩坐在墙上.jpg"
+        ],
+        "displayTitle": "日落下的忧郁女孩",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩坐在水泥墙上，表情凝重，背景是日落的云朵，符合氛围感的特征。"
+      }
+    }
+  ]
+}
