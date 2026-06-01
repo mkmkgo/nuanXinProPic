@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-05-31 18:15:38",
-  "count": 1663,
+  "lastUpdated": "2026-06-01 21:02:30",
+  "count": 1669,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -53726,6 +53726,238 @@
         "displayTitle": "月光下的曼陀罗花",
         "confidence": 0.9,
         "reasoning": "根据决策树A. 人像分类决策树，图片中的女孩穿着暴露，姿势撩人，符合【魅力】(Glamour)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸06011.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸06011.png",
+      "createdAt": "2026-06-01T07:04:45.612Z",
+      "cdnTag": "v1.3.60",
+      "size": 1403263,
+      "format": "png",
+      "resolution": {
+        "width": 2160,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "少女",
+          "户外",
+          "微笑"
+        ],
+        "description": "阳光下的少女微笑，充满活力与希望。",
+        "filenameSuggestions": [
+          "户外微笑的长发少女.jpg",
+          "街头阳光女孩.jpg"
+        ],
+        "displayTitle": "阳光下的少女微笑",
+        "confidence": 0.9,
+        "reasoning": "图片中少女面带微笑，表情甜美，背景为户外自然光线照射，整体氛围明亮且治愈，符合【清新】(Fresh)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/超赞壁纸06012.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸06012.png",
+      "createdAt": "2026-06-01T07:04:45.612Z",
+      "cdnTag": "v1.3.60",
+      "size": 443202,
+      "format": "png",
+      "resolution": {
+        "width": 1320,
+        "height": 3072,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "夜景",
+          "长腿",
+          "高跟鞋"
+        ],
+        "description": "一位身穿粉色短裙的女孩，坐在长椅上，享受夜色的宁静与美丽。",
+        "filenameSuggestions": [
+          "身穿粉色短裙的优雅长腿女孩.jpg",
+          "夜色中坐于长椅的成熟美女.jpg"
+        ],
+        "displayTitle": "夜色中的曼妙身姿",
+        "confidence": 0.9,
+        "reasoning": "根据图片内容，女孩身穿粉色短裙，黑高跟鞋，坐在长椅上，背景是夜景，整体氛围成熟且有魅力。根据决策树A. 人像分类决策树 (Portrait Logic)中的【魅力】(Glamour)定义和特征，判定为[魅力]。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸06013.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸06013.png",
+      "createdAt": "2026-06-01T07:04:45.612Z",
+      "cdnTag": "v1.3.60",
+      "size": 409922,
+      "format": "png",
+      "resolution": {
+        "width": 1280,
+        "height": 2782,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "长发",
+          "少女",
+          "窗边"
+        ],
+        "description": "一位长发少女坐在窗边，享受阳光的温暖，散发着清新自然的气息。",
+        "filenameSuggestions": [
+          "身穿白色短裙的清新少女.jpg",
+          "坐在窗边的长发女孩.jpg"
+        ],
+        "displayTitle": "阳光下的清新少女",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，少女面带微笑，穿着轻薄的衣物，背景明亮且有自然光照射，符合【清新】(Fresh)的定义。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/超赞壁纸06014.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸06014.png",
+      "createdAt": "2026-06-01T07:04:45.612Z",
+      "cdnTag": "v1.3.60",
+      "size": 450649,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "黑发",
+          "蓝天",
+          "短裙"
+        ],
+        "description": "一个背对蓝天的黑发女孩，穿着黑色上衣和白色短裙，展现出成熟的魅力。",
+        "filenameSuggestions": [
+          "身穿白色短裙的黑发女孩.jpg",
+          "背对蓝天的性感少妇.jpg"
+        ],
+        "displayTitle": "蓝天下的诱惑",
+        "confidence": 0.9,
+        "reasoning": "图片中的女孩穿着黑色短上衣和白色短裙，背对蓝天，展现出成熟的魅力。根据决策树A. 人像分类决策树中的【魅力】(Glamour)定义和特征，图片中身材曲线被强调，符合魅力类的特征，因此归入【魅力】分类。"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/超赞壁纸06015.png": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "超赞壁纸06015.png",
+      "createdAt": "2026-06-01T07:04:45.612Z",
+      "cdnTag": "v1.3.60",
+      "size": 463222,
+      "format": "png",
+      "resolution": {
+        "width": 1080,
+        "height": 2340,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "魅力",
+          "时尚",
+          "长发"
+        ],
+        "description": "阳光下的美丽年轻女孩，展现时尚魅力。",
+        "filenameSuggestions": [
+          "阳光下优雅的年轻女孩.jpg",
+          "白色上衣长发女孩在车边.jpg"
+        ],
+        "displayTitle": "夏日阳光下的时尚女郎",
+        "confidence": 0.9,
+        "reasoning": "根据图片特征，女孩身穿白色上衣和米色裤子，展现出成熟的魅力，归类为【魅力】。图片中女孩的长发、甜美表情和姿势均符合魅力风格的特征。"
+      }
+    },
+    "wallpaper/mobile/人像/清新/超赞壁纸06016.png": {
+      "category": "人像",
+      "subcategory": "清新",
+      "filename": "超赞壁纸06016.png",
+      "createdAt": "2026-06-01T07:04:45.612Z",
+      "cdnTag": "v1.3.60",
+      "size": 913614,
+      "format": "png",
+      "resolution": {
+        "width": 2160,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "清新",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "清新",
+        "keywords": [
+          "清新",
+          "甜美",
+          "车内"
+        ],
+        "description": "阳光透过车窗洒在少女身上，她双手比心，展现出甜美的微笑。",
+        "filenameSuggestions": [
+          "坐在车内的少女双手比心.jpg",
+          "微笑的女孩在车里做手势.jpg"
+        ],
+        "displayTitle": "阳光下的微笑天使",
+        "confidence": 0.9,
+        "reasoning": "图片中少女的表情甜美，笑容明亮，坐在车内，整体氛围明亮且充满活力。根据规则A4【清新】(Fresh)的特征：高明度、色彩鲜艳自然、笑容甜美，判定为[清新]。"
       }
     }
   }
