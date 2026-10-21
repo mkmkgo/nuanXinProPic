@@ -1,6 +1,6 @@
 {
-  "lastUpdated": 1792583345.330562,
-  "cdnTag": "v1.5.1",
+  "lastUpdated": "2026-10-21 18:03:20",
+  "cdnTag": "v1.5.2",
   "series": {
     "desktop": {
       "count": 669,
@@ -18,7 +18,7 @@
       ]
     },
     "mobile": {
-      "count": 1674,
+      "count": 1756,
       "categories": [
         "人像",
         "通用",
@@ -43,23 +43,24 @@
         "萌宠",
         "表情包"
       ]
-    },
-    "video": {
-      "count": 7,
-      "categories": [
-        "desktop",
-        "mobile"
-      ]
     }
   },
   "total": {
     "desktop": 669,
-    "mobile": 1674,
-    "avatar": 503,
-    "video": 9,
-    "bing": 2703
+    "mobile": 1756,
+    "avatar": 503
   },
   "releases": [
+    {
+      "tag": "v1.5.2",
+      "date": "2026-10-22",
+      "added": {
+        "desktop": 0,
+        "mobile": 82,
+        "avatar": 0
+      },
+      "publisher": "mkmkgo"
+    },
     {
       "tag": "v1.5.1",
       "date": "2026-10-21",
