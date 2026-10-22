@@ -1,6 +1,9 @@
 #!/usr/bin/env node
 /**
  * 手动添加缺失的 6 张图片到 metadata
+ *
+ * ⚠️ [LOCAL] 2026-10-22：desktop 已迁至 nuanXinProPic-desktop 独立仓，
+ * metadata/desktop.json 在主仓已不存在——本脚本对 desktop 已失效，仅剩历史参考价值。
  */
 
 const fs = require('fs')

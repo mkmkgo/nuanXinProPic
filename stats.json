@@ -2,21 +2,6 @@
   "lastUpdated": 1792614694.119454,
   "cdnTag": "v1.5.4",
   "series": {
-    "desktop": {
-      "count": 669,
-      "categories": [
-        "动漫",
-        "插画",
-        "人像",
-        "风景",
-        "IP形象",
-        "通用",
-        "萌宠",
-        "政治",
-        "游戏",
-        "影视"
-      ]
-    },
     "mobile": {
       "count": 1756,
       "categories": [
@@ -53,7 +38,7 @@
     }
   },
   "total": {
-    "desktop": 669,
+    "desktop": 0,
     "mobile": 1756,
     "avatar": 503,
     "video": 9,

@@ -3,17 +3,22 @@
 # Gitee 壁纸同步脚本
 # ========================================
 #
-# 功能：从 Gitee 仓库增量同步 desktop 壁纸
+# ⚠️ [LOCAL] 2026-10-22 已退役：desktop 系列已迁至独立仓 nuanXinProPic-desktop，
+# 本脚本（含 CI 调用 sync-all.yml）已停用，仅作历史参考保留。
+# 如在本地手动运行，会把 Gitee desktop_wallpaper 的图重新写入主仓
+# wallpaper/desktop，与分仓架构冲突——请不要运行。
+#
+# 原功能：从 Gitee 仓库增量同步 desktop 壁纸
 #       自动解析文件名分类，生成缩略图和预览图
 #
-# 用法：
+# 用法（历史）：
 #   ./scripts/sync-wallpaper.sh
 #   GITEE_TOKEN=xxx ./scripts/sync-wallpaper.sh  # 使用 token 避免限流
 #
 # 源文件命名格式：
 #   L1分类--L2分类_名称.jpg  (如: 动漫--原神_雷电将军.jpg)
 #
-# 输出结构：
+# 输出结构（历史）：
 #   wallpaper/desktop/动漫/原神/雷电将军.jpg
 #   thumbnail/desktop/动漫/原神/雷电将军.webp
 #   preview/desktop/动漫/原神/雷电将军.webp

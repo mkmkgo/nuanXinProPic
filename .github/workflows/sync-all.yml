@@ -88,10 +88,11 @@ jobs:
         env:
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
         run: |
-          echo "📥 Syncing wallpapers from Gitee..."
-          chmod +x ./scripts/sync-wallpaper.sh
-          ./scripts/sync-wallpaper.sh || echo "⚠️ Gitee sync completed with warnings"
-          
+          # [LOCAL] 2026-10-22 图床分仓：desktop 已迁至 nuanXinProPic-desktop 独立仓，
+          # Gitee desktop 同步（sync-wallpaper.sh）就此退役——防止 desktop 历史剥离后
+          # CI 再把 669 张图从 Gitee 拉回主仓（"复活"）。mobile/avatar 的同步不受影响。
+          echo "📥 Gitee desktop sync retired (desktop migrated to nuanXinProPic-desktop)"
+
           # 记录更新的系列
           UPDATED_SERIES=""
           if [ -n "$(git status --porcelain wallpaper/desktop)" ]; then

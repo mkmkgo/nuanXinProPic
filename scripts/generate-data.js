@@ -140,16 +140,10 @@ const CONFIG = {
   TAG_MAP: null, // 新增: first_tag 映射表
 
   // 三大系列配置（与前端完全一致）
+  // [LOCAL] 2026-10-22 图床分仓：desktop 已迁至 nuanXinProPic-desktop 独立仓，
+  // 主仓不再生成 desktop 数据；保留配置项但主仓 wallpaper/desktop 目录已不存在，
+  // 扫描结果为空。desktop 数据生成请在分仓进行。
   SERIES: {
-    desktop: {
-      id: 'desktop',
-      name: '电脑壁纸',
-      wallpaperDir: 'wallpaper/desktop',
-      thumbnailDir: 'thumbnail/desktop',
-      previewDir: 'preview/desktop',
-      outputFile: 'desktop.json',
-      hasPreview: true,
-    },
     mobile: {
       id: 'mobile',
       name: '手机壁纸',

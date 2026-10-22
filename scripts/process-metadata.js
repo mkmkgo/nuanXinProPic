@@ -745,7 +745,10 @@ async function main() {
   // 加载现有 metadata
   console.log('加载现有 metadata...')
   const metadataMap = {
-    desktop: loadMetadata(path.join(metadataDir, 'desktop.json')),
+    // [LOCAL] 2026-10-22 图床分仓：desktop 已迁至 nuanXinProPic-desktop 独立仓，
+    // 主仓不再处理 desktop。移除 desktop 键后，processPendingFile 与 syncFromTimestamps
+    // 的 `if (!metadataMap[series]) continue` 守卫会自动跳过 desktop 条目
+    //（含 timestamps-backup-all.txt 里的历史 desktop 记录），不会写空 data/desktop.json。
     mobile: loadMetadata(path.join(metadataDir, 'mobile.json')),
     avatar: loadMetadata(path.join(metadataDir, 'avatar.json')),
     video: loadMetadata(path.join(metadataDir, 'video.json'))
