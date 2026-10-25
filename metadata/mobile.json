@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-10-25 12:11:14",
-  "count": 2305,
+  "lastUpdated": "2026-10-25 22:36:57",
+  "count": 2300,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -12896,46 +12896,6 @@
         "description": "红底衬鎏金骏马，配苍劲书法“马到功成”，尽显2026年的喜庆鸿运与国风雅致。",
         "confidence": 0.9,
         "reasoning": "图片为带有中式祝福与国风书法的插画作品，红金配色与骏马造型极具国风韵味，根据规则B3，归入插画/国风分类。"
-      }
-    },
-    "wallpaper/mobile/政治/通用/人民英雄纪念碑-刻碑.png": {
-      "category": "政治",
-      "subcategory": "通用",
-      "filename": "人民英雄纪念碑-刻碑.png",
-      "createdAt": "2026-01-28T09:31:12.053Z",
-      "cdnTag": "v1.1.57",
-      "size": 641482,
-      "format": "png",
-      "resolution": {
-        "width": 1498,
-        "height": 3280,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "primary": "mobile",
-        "secondary": "政治",
-        "category": "政治",
-        "third": "通用",
-        "subcategory": "通用",
-        "filenameSuggestions": [
-          "夜幕中红旗映衬的英雄纪念碑.jpg",
-          "华灯初下人民英雄纪念碑映红旗.jpg"
-        ],
-        "filenames": [
-          "夜幕中红旗映衬的英雄纪念碑.jpg",
-          "华灯初下人民英雄纪念碑映红旗.jpg"
-        ],
-        "displayTitle": "英雄丰碑屹立 红旗辉映夜空",
-        "keywords": [
-          "人民英雄纪念碑",
-          "红旗",
-          "庄重肃穆"
-        ],
-        "description": "夜幕之下红旗飘扬，人民英雄纪念碑屹然矗立，尽显庄重崇敬。",
-        "confidence": 0.9,
-        "reasoning": "图片主体为人民英雄纪念碑，属于政治主题内容，根据现有分类体系，判定为[政治/通用]"
       }
     },
     "wallpaper/mobile/人像/魅力/hhjn-qsfg.png": {
@@ -57944,7 +57904,7 @@
         ],
         "displayTitle": "海边清风拂面",
         "confidence": 0.9,
-        "reasoning": "根据图片内容，女孩没有穿 JK 制服，也没有表现出任何动漫或插画的特点，因此可以排除插画和动漫的分类。同时，图片中没有明显的政治元素或特定的 IP 形象，所以也不属于政治或 IP 形象类别。考虑到女孩的自然姿态和背景环境，她符合清新类别的特点。"
+        "reasoning": "根据图片内容，女孩没有穿 JK 制服，也没有表现出任何动漫或插画的特点，因此可以排除插画和动漫的分类。同时，图片中没有明显的敏感元素或特定的 IP 形象，所以也不属于敏感或 IP 形象类别。考虑到女孩的自然姿态和背景环境，她符合清新类别的特点。"
       }
     },
     "wallpaper/mobile/人像/魅力/0ff513ec80604d5fb7b374dfa39736ab.jpg": {
@@ -59190,42 +59150,6 @@
         "displayTitle": "暗夜里绽放的黑玫瑰",
         "confidence": 0.9,
         "reasoning": "根据图片内容，该图片符合‘魅力’类别，因为人物穿着黑色丝袜和高跟鞋，展现出一种成熟和性感的气质。"
-      }
-    },
-    "wallpaper/mobile/政治/通用/2dcd6d97b12449feb4e78f8dbb768023.jpeg": {
-      "category": "政治",
-      "subcategory": "通用",
-      "filename": "2dcd6d97b12449feb4e78f8dbb768023.jpeg",
-      "createdAt": "2026-10-25T11:59:30.245Z",
-      "cdnTag": "v1.5.8",
-      "size": 2392144,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1772,
-        "height": 3840,
-        "label": "4K",
-        "type": "success"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "政治",
-        "subcategory": "通用",
-        "primary": "mobile",
-        "secondary": "政治",
-        "third": "通用",
-        "keywords": [
-          "国旗",
-          "蓝天",
-          "红色"
-        ],
-        "description": "一面红色的国旗在蓝天下飘扬，象征着国家的尊严和荣耀。",
-        "filenameSuggestions": [
-          "飘扬的中国国旗.jpg",
-          "蓝天下的中国国旗.jpg"
-        ],
-        "displayTitle": "飘扬的国旗",
-        "confidence": 0.9,
-        "reasoning": "这是一面中国的国旗，属于政治类别中的通用分类。"
       }
     },
     "wallpaper/mobile/人像/魅力/2decdaf2163e4e36a9319ab5d673916c.jpg": {
@@ -70946,42 +70870,6 @@
         "reasoning": "根据图片内容，该图片符合‘魅力’的分类标准，因此被归类为人像分类中的‘魅力’子类。"
       }
     },
-    "wallpaper/mobile/政治/通用/ab34f2c77f59406fb44bd5b65eac16af.jpeg": {
-      "category": "政治",
-      "subcategory": "通用",
-      "filename": "ab34f2c77f59406fb44bd5b65eac16af.jpeg",
-      "createdAt": "2026-10-25T11:59:30.248Z",
-      "cdnTag": "v1.5.8",
-      "size": 4893830,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1767,
-        "height": 3840,
-        "label": "4K",
-        "type": "success"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "政治",
-        "subcategory": "通用",
-        "primary": "mobile",
-        "secondary": "政治",
-        "third": "通用",
-        "keywords": [
-          "红旗",
-          "建筑",
-          "天空"
-        ],
-        "description": "一面面红旗在蓝天下飘扬，前面是一座宏伟的建筑。",
-        "filenameSuggestions": [
-          "飘扬的红旗前的建筑.jpg",
-          "国旗飘扬的建筑.jpg"
-        ],
-        "displayTitle": "红色旗帜飘扬的建筑",
-        "confidence": 0.9,
-        "reasoning": "'检测到建筑物上有中国国旗图案，根据规则B1，判定为[政治]类。'"
-      }
-    },
     "wallpaper/mobile/插画/风景/ab38a3e2831747358fc33afcabb1a71b.jpeg": {
       "category": "插画",
       "subcategory": "风景",
@@ -75741,42 +75629,6 @@
         "reasoning": "图中人物穿着具有魅力的服装，符合‘魅力’分类的标准。"
       }
     },
-    "wallpaper/mobile/影视/政治/e93894cb1a0f4e0286f80596645f1307.jpeg": {
-      "category": "影视",
-      "subcategory": "政治",
-      "filename": "e93894cb1a0f4e0286f80596645f1307.jpeg",
-      "createdAt": "2026-10-25T11:59:30.249Z",
-      "cdnTag": "v1.5.8",
-      "size": 361470,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1080,
-        "height": 1928,
-        "label": "超清",
-        "type": "primary"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "影视",
-        "subcategory": "政治",
-        "primary": "mobile",
-        "secondary": "影视",
-        "third": "政治",
-        "keywords": [
-          "军事题材",
-          "红色旗帜",
-          "士兵"
-        ],
-        "description": "三名身着军装的士兵站在红色旗帜前，表情坚毅。",
-        "filenameSuggestions": [
-          "手持红旗的士兵们.jpg",
-          "军装下的坚定目光.jpg"
-        ],
-        "displayTitle": "红色旗帜下的士兵们",
-        "confidence": 0.9,
-        "reasoning": "'军事题材'符合'影视'二级分类，'红色旗帜'和'士兵'是主要元素，因此选择'政治'三级分类。"
-      }
-    },
     "wallpaper/mobile/人像/魅力/e0672076abd34806ab19d127a58ebfff.jpg": {
       "category": "人像",
       "subcategory": "魅力",
@@ -76656,42 +76508,6 @@
         "displayTitle": "红色头发的动漫少年",
         "confidence": 0.9,
         "reasoning": "'检测到人物具有典型的大眼睛和赛璐珞涂色的特征，根据规则B2，判定为[动漫]/[二次元]。'"
-      }
-    },
-    "wallpaper/mobile/政治/通用/f7775f5b7f234d21975b3cb498373368.jpeg": {
-      "category": "政治",
-      "subcategory": "通用",
-      "filename": "f7775f5b7f234d21975b3cb498373368.jpeg",
-      "createdAt": "2026-10-25T11:59:30.250Z",
-      "cdnTag": "v1.5.8",
-      "size": 2752911,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1772,
-        "height": 3840,
-        "label": "4K",
-        "type": "success"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "政治",
-        "subcategory": "通用",
-        "primary": "mobile",
-        "secondary": "政治",
-        "third": "通用",
-        "keywords": [
-          "国旗",
-          "天空",
-          "飘扬"
-        ],
-        "description": "一面鲜红的国旗在晴朗的天空中迎风飘扬。",
-        "filenameSuggestions": [
-          "红色旗帜飘扬的天空.jpg",
-          "中国国旗在蓝天下飘扬.jpg"
-        ],
-        "displayTitle": "五星红旗飘扬",
-        "confidence": 0.9,
-        "reasoning": "'中国国旗'直接符合'政治'类别中的'通用'子类别。"
       }
     },
     "wallpaper/mobile/动漫/皮卡丘/f8611ff7de8343638852c85948723607.jpeg": {
