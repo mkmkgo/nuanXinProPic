@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-10-25 22:36:57",
-  "count": 2300,
+  "lastUpdated": "2026-10-25 15:32:48",
+  "count": 2301,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -77059,6 +77059,43 @@
         "displayTitle": "暗夜魅影",
         "confidence": 0.9,
         "reasoning": "'检测到人物穿着豹纹连衣裙，展现出成熟的魅力，符合规则B2.'"
+      }
+    },
+    "wallpaper/mobile/人像/魅力/13437413975958513.jpeg": {
+      "category": "人像",
+      "subcategory": "魅力",
+      "filename": "13437413975958513.jpeg",
+      "createdAt": "2026-10-25T15:30:42.800Z",
+      "cdnTag": "v1.5.10",
+      "size": 1521588,
+      "format": "jpeg",
+      "resolution": {
+        "width": 2160,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "魅力",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "魅力",
+        "keywords": [
+          "月光",
+          "黑色",
+          "诱惑",
+          "舞者"
+        ],
+        "description": "一位身着黑色紧身衣的女性在月光下翩翩起舞，展现出迷人的身姿。",
+        "filenameSuggestions": [
+          "月光下优雅的舞者.jpg",
+          "夜晚的黑色诱惑.jpg"
+        ],
+        "displayTitle": "月下舞者",
+        "confidence": 0.9,
+        "reasoning": "图中女性穿着黑色紧身衣，突出身材曲线，符合魅力分类的特征。"
       }
     }
   }
