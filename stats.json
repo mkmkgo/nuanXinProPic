@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-07 15:02:45",
-  "cdnTag": "v1.5.25",
+  "lastUpdated": 1794063890.243889,
+  "cdnTag": "v1.5.26",
   "series": {
     "mobile": {
       "count": 2368,
@@ -27,14 +27,35 @@
         "萌宠",
         "表情包"
       ]
+    },
+    "video": {
+      "count": 7,
+      "categories": [
+        "desktop",
+        "mobile"
+      ]
     }
   },
   "total": {
     "desktop": 0,
     "mobile": 2368,
-    "avatar": 503
+    "avatar": 503,
+    "video": 9,
+    "bing": 2720
   },
   "releases": [
+    {
+      "tag": "v1.5.26",
+      "date": "2026-11-07",
+      "added": {
+        "desktop": 0,
+        "mobile": 0,
+        "avatar": 0,
+        "video": 0,
+        "bing": 0
+      },
+      "publisher": "github-actions[bot]"
+    },
     {
       "tag": "v1.5.25",
       "date": "2026-11-07",
