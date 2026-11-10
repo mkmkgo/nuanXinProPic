@@ -1,15 +1,15 @@
 {
-  "lastUpdated": 1794171687.719367,
-  "cdnTag": "v1.5.28",
+  "lastUpdated": 1794271362.587912,
+  "cdnTag": "v1.5.29",
   "series": {
     "mobile": {
-      "count": 2368,
+      "count": 3225,
       "categories": [
         "人像",
         "通用",
         "风景",
-        "插画",
         "动漫",
+        "插画",
         "萌宠",
         "影视",
         "创意",
@@ -38,12 +38,24 @@
   },
   "total": {
     "desktop": 0,
-    "mobile": 2368,
+    "mobile": 3225,
     "avatar": 503,
     "video": 9,
-    "bing": 2722
+    "bing": 2723
   },
   "releases": [
+    {
+      "tag": "v1.5.29",
+      "date": "2026-11-10",
+      "added": {
+        "desktop": 0,
+        "mobile": 0,
+        "avatar": 0,
+        "video": 0,
+        "bing": 1
+      },
+      "publisher": "github-actions[bot]"
+    },
     {
       "tag": "v1.5.28",
       "date": "2026-11-09",
