@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "createdAt": "2026-11-12T10:42:19.566Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/13437073861000047.jpeg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "13437073861000047.jpeg",
+      "createdAt": "2026-11-12T10:42:19.566Z",
+      "size": 7183302,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "长发",
+          "连衣裙",
+          "半身"
+        ],
+        "description": "图片展示了一位穿着花色连衣裙的女性半身像。",
+        "filenameSuggestions": [
+          "花色连衣裙半身.jpg"
+        ],
+        "displayTitle": "花色连衣裙半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "13437073861000047.jpeg",
+        "path": "wallpaper/mobile/人像/半身/13437073861000047.jpeg"
+      }
+    }
+  ]
+}
