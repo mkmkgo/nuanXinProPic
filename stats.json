@@ -1,9 +1,13 @@
 {
-  "lastUpdated": 1795044624.870212,
-  "cdnTag": "v1.5.44",
+  "lastUpdated": "2026-11-19 19:34:31",
+  "cdnTag": "v1.5.45",
   "series": {
+    "desktop": {
+      "count": 0,
+      "categories": []
+    },
     "mobile": {
-      "count": 3811,
+      "count": 3779,
       "categories": [
         "人像",
         "风景",
@@ -11,8 +15,8 @@
         "通用",
         "插画",
         "萌宠",
-        "创意",
         "影视",
+        "创意",
         "IP形象",
         "游戏"
       ]
@@ -27,20 +31,12 @@
         "萌宠",
         "表情包"
       ]
-    },
-    "video": {
-      "count": 7,
-      "categories": [
-        "desktop",
-        "mobile"
-      ]
     }
   },
   "total": {
     "desktop": 0,
-    "mobile": 3811,
+    "mobile": 3779,
     "avatar": 503,
-    "video": 9,
     "bing": 2732
   },
   "releases": [

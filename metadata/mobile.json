@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-11-18 23:30:18",
-  "count": 3811,
+  "lastUpdated": "2026-11-19 19:34:32",
+  "count": 3779,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -3645,256 +3645,6 @@
         "analyzedAt": null
       }
     },
-    "wallpaper/mobile/创意/爱国主题/仰光敬礼.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "仰光敬礼.jpg",
-      "createdAt": "2026-01-04T15:04:38.000Z",
-      "cdnTag": "v1.1.11",
-      "size": 1747565,
-      "format": "jpg",
-      "resolution": {
-        "width": 1144,
-        "height": 2480,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "仰光敬礼"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/信仰之光燃.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "信仰之光燃.jpg",
-      "createdAt": "2026-01-04T15:04:38.000Z",
-      "cdnTag": "v1.1.11",
-      "size": 1119380,
-      "format": "jpg",
-      "resolution": {
-        "width": 1080,
-        "height": 2340,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "信仰之光燃"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/国徽耀金辉.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "国徽耀金辉.jpg",
-      "createdAt": "2026-01-04T15:04:39.000Z",
-      "cdnTag": "v1.1.11",
-      "size": 1497566,
-      "format": "jpg",
-      "resolution": {
-        "width": 1280,
-        "height": 2775,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "国徽耀金辉"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/庆典腾空时.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "庆典腾空时.jpg",
-      "createdAt": "2026-01-04T15:04:38.000Z",
-      "cdnTag": "v1.1.11",
-      "size": 2133582,
-      "format": "jpg",
-      "resolution": {
-        "width": 1279,
-        "height": 2776,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "庆典腾空时"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/新青年宣言.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "新青年宣言.jpg",
-      "createdAt": "2026-01-04T15:04:39.000Z",
-      "cdnTag": "v1.1.11",
-      "size": 441196,
-      "format": "jpg",
-      "resolution": {
-        "width": 886,
-        "height": 1920,
-        "label": "超清",
-        "type": "primary"
-      },
-      "ai": {
-        "keywords": [
-          "新青年宣言"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/无我山河行.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "无我山河行.jpg",
-      "createdAt": "2026-01-04T15:04:39.000Z",
-      "cdnTag": "v1.1.11",
-      "size": 567036,
-      "format": "jpg",
-      "resolution": {
-        "width": 1080,
-        "height": 2375,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "无我山河行"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/晨曦国门.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "晨曦国门.jpg",
-      "createdAt": "2026-01-04T15:04:38.000Z",
-      "cdnTag": "v1.1.11",
-      "size": 2343054,
-      "format": "jpg",
-      "resolution": {
-        "width": 1280,
-        "height": 2775,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "晨曦国门"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/白鸽绕徽飞.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "白鸽绕徽飞.jpg",
-      "createdAt": "2026-01-04T15:04:38.000Z",
-      "cdnTag": "v1.1.11",
-      "size": 1299312,
-      "format": "jpg",
-      "resolution": {
-        "width": 1060,
-        "height": 2297,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "白鸽绕徽飞"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/穹顶红星颂.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "穹顶红星颂.jpg",
-      "createdAt": "2026-01-04T15:04:39.000Z",
-      "cdnTag": "v1.1.11",
-      "size": 1157765,
-      "format": "jpg",
-      "resolution": {
-        "width": 1080,
-        "height": 2343,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "穹顶红星颂"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/红旗染夕照.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "红旗染夕照.jpg",
-      "createdAt": "2026-01-04T15:04:39.000Z",
-      "cdnTag": "v1.1.11",
-      "size": 1116040,
-      "format": "jpg",
-      "resolution": {
-        "width": 1080,
-        "height": 2343,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "红旗染夕照"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
     "wallpaper/mobile/动漫/二次元/HelloKitty.jpg": {
       "category": "动漫",
       "subcategory": "二次元",
@@ -6550,56 +6300,6 @@
         "analyzedAt": null
       }
     },
-    "wallpaper/mobile/插画/国风/红旗飘扬长城夜空光束史诗.png": {
-      "category": "插画",
-      "subcategory": "国风",
-      "filename": "红旗飘扬长城夜空光束史诗.png",
-      "createdAt": "2025-12-25T13:06:02.000Z",
-      "cdnTag": "v1.1.4",
-      "size": 412682,
-      "format": "png",
-      "resolution": {
-        "width": 1439,
-        "height": 3128,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "红旗飘扬长城夜空光束史诗"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
-    "wallpaper/mobile/插画/国风/长城红旗飘扬清澈的爱只为中国.png": {
-      "category": "插画",
-      "subcategory": "国风",
-      "filename": "长城红旗飘扬清澈的爱只为中国.png",
-      "createdAt": "2025-12-25T13:05:50.000Z",
-      "cdnTag": "v1.1.4",
-      "size": 286942,
-      "format": "png",
-      "resolution": {
-        "width": 1439,
-        "height": 2559,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "keywords": [
-          "长城红旗飘扬清澈的爱只为中国"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
     "wallpaper/mobile/插画/少女与猫/双马尾少女与蓝眼猫.jpg": {
       "category": "插画",
       "subcategory": "少女与猫",
@@ -8787,32 +8487,6 @@
         "analyzedAt": null
       }
     },
-    "wallpaper/mobile/创意/爱国主题/国徽_天安门广场.jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "国徽_天安门广场.jpg",
-      "createdAt": "2026-01-13T06:16:14.000Z",
-      "cdnTag": "v1.1.26",
-      "size": 1184309,
-      "format": "jpg",
-      "resolution": {
-        "width": 1095,
-        "height": 1844,
-        "label": "高清",
-        "type": "secondary"
-      },
-      "ai": {
-        "keywords": [
-          "国徽",
-          "天安门广场"
-        ],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
-      }
-    },
     "wallpaper/mobile/人像/清新/Ios-户外.png": {
       "category": "人像",
       "subcategory": "清新",
@@ -9276,44 +8950,6 @@
         "displayTitle": "阳光下的魅力少女",
         "confidence": 0.9,
         "reasoning": "图片含白丝、露肩设计（展示身材曲线），符合'魅力'分类核心特征；画面明亮、构图干净，兼具清新感，故优先归类人像/魅力"
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/image_高级3D景深全屏壁纸张张质感拉满..._9.png": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "image_高级3D景深全屏壁纸张张质感拉满..._9.png",
-      "createdAt": "2026-01-17T15:44:32.106Z",
-      "cdnTag": "v1.1.37",
-      "size": 533288,
-      "format": "png",
-      "resolution": {
-        "width": 1320,
-        "height": 2868,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "创意",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "创意",
-        "third": "爱国主题",
-        "keywords": [
-          "爱国主题",
-          "建筑",
-          "气球",
-          "白鸽",
-          "华彩"
-        ],
-        "description": "以国徽建筑为核，气球白鸽翱翔，天坛相映，展现家国庆典的华彩盛景。",
-        "filenameSuggestions": [
-          "爱国主题建筑气球白鸽壁纸.jpg",
-          "天坛大会堂庆典主题壁纸.jpg"
-        ],
-        "displayTitle": "家国同辉 华彩盛景",
-        "confidence": 0.9,
-        "reasoning": "图片包含国徽（爱国象征）、彩色气球、白鸽（庆典元素）及人民大会堂、天坛（中国标志性建筑），符合创意类“爱国主题”的特征，故归类为创意/爱国主题。"
       }
     },
     "wallpaper/mobile/人像/清新/image_高级3D景深全屏壁纸张张质感拉满..._14.png": {
@@ -16801,43 +16437,6 @@
         "reasoning": "图片以插画风格呈现两个小人，周围有金币和福字，带有喜庆和吉祥的氛围，归类为插画/创意。"
       }
     },
-    "wallpaper/mobile/创意/爱国主题/image_神图壁纸_锁屏壁纸_壁纸_该换壁..._6.png": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "image_神图壁纸_锁屏壁纸_壁纸_该换壁..._6.png",
-      "createdAt": "2026-02-18T13:12:13.757Z",
-      "cdnTag": "v1.1.84",
-      "size": 329521,
-      "format": "png",
-      "resolution": {
-        "width": 1440,
-        "height": 3114,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "创意",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "创意",
-        "third": "爱国主题",
-        "keywords": [
-          "新年快乐",
-          "红包",
-          "爱国主题",
-          "喜庆"
-        ],
-        "description": "2026年新年快乐红包贺图，充满喜庆与祝福。",
-        "filenameSuggestions": [
-          "2026年新年快乐红包.jpg",
-          "喜庆新年红包贺卡.jpg"
-        ],
-        "displayTitle": "新年喜庆红包贺图",
-        "confidence": 0.9,
-        "reasoning": "图片以红色和黄色为主，包含新年快乐字样和喜庆图案，符合爱国主题和创意分类。"
-      }
-    },
     "wallpaper/mobile/创意/文字/image_神图壁纸_锁屏壁纸_壁纸_该换壁..._3.png": {
       "category": "创意",
       "subcategory": "文字",
@@ -16873,43 +16472,6 @@
         "displayTitle": "新年展望与希望",
         "confidence": 0.9,
         "reasoning": "图片以黑色为背景，红色和白色文字展示了2026年新年主题，具有中国风的文字设计，归类为创意/文字。"
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/image_神图壁纸_锁屏壁纸_壁纸_该换壁..._2.png": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "image_神图壁纸_锁屏壁纸_壁纸_该换壁..._2.png",
-      "createdAt": "2026-02-18T13:12:13.757Z",
-      "cdnTag": "v1.1.84",
-      "size": 193418,
-      "format": "png",
-      "resolution": {
-        "width": 1439,
-        "height": 3117,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "创意",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "创意",
-        "third": "爱国主题",
-        "keywords": [
-          "2026",
-          "新年",
-          "红色",
-          "中国风"
-        ],
-        "description": "2026年新年主题创意图片，充满喜庆与展望。",
-        "filenameSuggestions": [
-          "2026年红火展望.jpg",
-          "红色主题新年愿望.jpg"
-        ],
-        "displayTitle": "新年的红火展望",
-        "confidence": 0.9,
-        "reasoning": "图片具有明显的创意和爱国主题，包含红色和中国元素，归类为创意/爱国主题。"
       }
     },
     "wallpaper/mobile/插画/国风/image_高级全面屏4k超清手机壁纸_景深..._13.png": {
@@ -17351,43 +16913,6 @@
         "displayTitle": "夕阳下的海滨公路",
         "confidence": 0.9,
         "reasoning": "图片展示了一条通往海边的公路，背景是夕阳下的海景和棕榈树，符合风景/海滨的特征。"
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/image_高级全面屏4k超清手机壁纸_景深..._6.png": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "image_高级全面屏4k超清手机壁纸_景深..._6.png",
-      "createdAt": "2026-02-18T13:12:13.757Z",
-      "cdnTag": "v1.1.84",
-      "size": 174389,
-      "format": "png",
-      "resolution": {
-        "width": 1320,
-        "height": 2868,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "创意",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "创意",
-        "third": "爱国主题",
-        "keywords": [
-          "创意",
-          "爱国",
-          "小马",
-          "吉祥"
-        ],
-        "description": "一个充满爱国情怀的创意小马吉祥物。",
-        "filenameSuggestions": [
-          "桌面上的小马吉祥物.jpg",
-          "客厅装饰小马摆件.jpg"
-        ],
-        "displayTitle": "吉祥如意小马",
-        "confidence": 0.9,
-        "reasoning": "图片中出现小马和‘马上发财’的字样，具有创意和爱国主题。"
       }
     },
     "wallpaper/mobile/风景/海滨/image_高级全面屏4k超清手机壁纸_景深..._2.png": {
@@ -17908,42 +17433,6 @@
         "reasoning": "图片展示了抽象的未来主义风格，包含富有意义的文字排列与设计，属于创意类中的文字子类。"
       }
     },
-    "wallpaper/mobile/创意/爱国主题/image_神图壁纸_锁屏壁纸_壁纸_该换壁..._11.png": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "image_神图壁纸_锁屏壁纸_壁纸_该换壁..._11.png",
-      "createdAt": "2026-02-18T13:12:13.757Z",
-      "cdnTag": "v1.1.84",
-      "size": 366164,
-      "format": "png",
-      "resolution": {
-        "width": 1440,
-        "height": 3114,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "创意",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "创意",
-        "third": "爱国主题",
-        "keywords": [
-          "福气",
-          "爱国主题",
-          "新年"
-        ],
-        "description": "喜庆的福气主题海报，寓意新的一年福气满溢。",
-        "filenameSuggestions": [
-          "福气满溢迎新年.jpg",
-          "2026年福气主题海报.jpg"
-        ],
-        "displayTitle": "福气满溢迎新年",
-        "confidence": 0.9,
-        "reasoning": "图片主要以福字和吉祥图案组成，搭配2026字样，整体氛围喜庆，符合爱国主题和吉祥寓意，属于创意/爱国主题分类。"
-      }
-    },
     "wallpaper/mobile/插画/国风/image_神图壁纸_锁屏壁纸_壁纸_该换壁..._13.png": {
       "category": "插画",
       "subcategory": "国风",
@@ -18125,42 +17614,6 @@
         "displayTitle": "书香中的自由宣言",
         "confidence": 0.9,
         "reasoning": "图片主要展示了一幅书法作品，内容为黑色字体在橙色背景上，强调了文字艺术和励志主题。根据决策树，归入创意/文字分类。"
-      }
-    },
-    "wallpaper/mobile/创意/爱国主题/image_神图壁纸_锁屏壁纸_壁纸_该换壁..._33.png": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "image_神图壁纸_锁屏壁纸_壁纸_该换壁..._33.png",
-      "createdAt": "2026-02-18T13:12:13.757Z",
-      "cdnTag": "v1.1.84",
-      "size": 278416,
-      "format": "png",
-      "resolution": {
-        "width": 1246,
-        "height": 2666,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "创意",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "创意",
-        "third": "爱国主题",
-        "keywords": [
-          "爱国主题",
-          "中国风",
-          "创意"
-        ],
-        "description": "展现中国风情与建筑美景的创意设计",
-        "filenameSuggestions": [
-          "龙腾中国风景.jpg",
-          "中国风格建筑剪影.jpg"
-        ],
-        "displayTitle": "中国风韵，龙腾九州",
-        "confidence": 0.9,
-        "reasoning": "图片中包含中国传统建筑、龙元素和爱国标语，符合爱国主题创意风格"
       }
     },
     "wallpaper/mobile/人像/插画/image_神图壁纸_锁屏壁纸_壁纸_该换壁..._27.png": {
@@ -32328,31 +31781,6 @@
         "confidence": 0,
         "reasoning": null,
         "error": "API 请求频率超限，请稍后再试。"
-      }
-    },
-    "wallpaper/mobile/插画/爱国主题/20260424170135.png": {
-      "category": "插画",
-      "subcategory": "爱国主题",
-      "filename": "20260424170135.png",
-      "createdAt": "2026-04-26 02:06:15",
-      "cdnTag": "v1.2.86",
-      "size": 2810933,
-      "format": "png",
-      "resolution": {
-        "width": 1500,
-        "height": 3189,
-        "label": "2K",
-        "type": "info"
-      },
-      "duration": null,
-      "mediaType": "image",
-      "ai": {
-        "keywords": [],
-        "description": "",
-        "displayTitle": "",
-        "confidence": 0,
-        "model": "filename-inference",
-        "analyzedAt": null
       }
     },
     "wallpaper/mobile/风景/建筑/创意设计-商业空间.png": {
@@ -51598,36 +51026,6 @@
         "error": "网络请求失败，可能是 AI API 无法访问。请检查网络连接，或切换到 ModelScope（国内可用）"
       }
     },
-    "wallpaper/mobile/创意/爱国主题/超赞壁纸20260521-1 (11).jpg": {
-      "category": "创意",
-      "subcategory": "爱国主题",
-      "filename": "超赞壁纸20260521-1 (11).jpg",
-      "createdAt": "2026-05-21T14:23:15.783Z",
-      "cdnTag": "v1.3.35",
-      "size": 1205289,
-      "format": "jpg",
-      "resolution": {
-        "width": 1280,
-        "height": 2773,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "通用",
-        "subcategory": "",
-        "primary": "mobile",
-        "secondary": "通用",
-        "third": "",
-        "keywords": [],
-        "description": "",
-        "filenameSuggestions": [],
-        "displayTitle": null,
-        "confidence": 0,
-        "reasoning": null,
-        "error": "网络请求失败，可能是 AI API 无法访问。请检查网络连接，或切换到 ModelScope（国内可用）"
-      }
-    },
     "wallpaper/mobile/人像/清新/超赞壁纸20260521-1 (12).jpg": {
       "category": "人像",
       "subcategory": "清新",
@@ -58528,43 +57926,6 @@
         "displayTitle": "静谧时光",
         "confidence": 0.9,
         "reasoning": null
-      }
-    },
-    "wallpaper/mobile/插画/爱国主题/2a1fd273efca437ebf1b91721e604015.jpeg": {
-      "category": "插画",
-      "subcategory": "爱国主题",
-      "filename": "2a1fd273efca437ebf1b91721e604015.jpeg",
-      "createdAt": "2026-10-25T11:59:30.245Z",
-      "cdnTag": "v1.5.8",
-      "size": 1820896,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1773,
-        "height": 3840,
-        "label": "4K",
-        "type": "success"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "插画",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "插画",
-        "third": "爱国主题",
-        "keywords": [
-          "革命",
-          "团结",
-          "力量",
-          "铁锤镰刀"
-        ],
-        "description": "这是一幅描绘了多个拳头高高举起，象征着团结和力量的插画。",
-        "filenameSuggestions": [
-          "高举拳头的革命者.jpg",
-          "铁锤镰刀下的团结力量.jpg"
-        ],
-        "displayTitle": "铁锤镰刀下的团结力量",
-        "confidence": 0.9,
-        "reasoning": "'检测到人物穿着JK制服但光线明亮笑容甜美，无胶片感，根据规则A4，判定为[清新]而非[日系]'"
       }
     },
     "wallpaper/mobile/人像/魅力/2a7b4f1cd9d44f66b4f8a91eb987be3b.jpeg": {
@@ -75220,42 +74581,6 @@
         "reasoning": "图片中没有特定的明星或古装元素，因此排除A1。图片中的女性没有展现身材曲线，也没有夜景霓虹等元素，不符合A2的定义。虽然有一定的日系风格，但没有明显的JK制服或街道元素，因此不完全符合A3。图片中的女性面容清晰，表情自然，背景简洁，符合B4的定义。"
       }
     },
-    "wallpaper/mobile/插画/通用/e216b5a003514e7c829ce15db0d624ee.jpeg": {
-      "category": "插画",
-      "subcategory": "通用",
-      "filename": "e216b5a003514e7c829ce15db0d624ee.jpeg",
-      "createdAt": "2026-10-25T11:59:30.249Z",
-      "cdnTag": "v1.5.8",
-      "size": 2919922,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1765,
-        "height": 3840,
-        "label": "4K",
-        "type": "success"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "插画",
-        "subcategory": "通用",
-        "primary": "mobile",
-        "secondary": "插画",
-        "third": "通用",
-        "keywords": [
-          "书法",
-          "文字",
-          "艺术"
-        ],
-        "description": "一幅以“人民万岁”为主题的书法作品。",
-        "filenameSuggestions": [
-          "人民万岁.jpg",
-          "人民万岁书法.jpg"
-        ],
-        "displayTitle": "人民万岁",
-        "confidence": 0.9,
-        "reasoning": "图片中没有特定的明星或明确的动漫元素，因此无法精确归类到特定的IP形象或动漫类别。书法作品本身是一种艺术形式，可以归类为插画中的通用类别。"
-      }
-    },
     "wallpaper/mobile/风景/森林/e313b13609444a79bdd72cf36f040b74.jpeg": {
       "category": "风景",
       "subcategory": "森林",
@@ -77193,42 +76518,6 @@
         "reasoning": "这是一幅描绘了多啦A梦在海滩上玩耍的插图，符合动漫和多啦A梦的分类标准。"
       }
     },
-    "wallpaper/mobile/通用/通用/2dcd6d97b12449feb4e78f8dbb768023.jpeg": {
-      "category": "通用",
-      "subcategory": "通用",
-      "filename": "2dcd6d97b12449feb4e78f8dbb768023.jpeg",
-      "createdAt": "2026-11-07T14:59:15.496Z",
-      "cdnTag": "v1.5.25",
-      "size": 2392144,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1772,
-        "height": 3840,
-        "label": "4K",
-        "type": "success"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "通用",
-        "subcategory": "通用",
-        "primary": "mobile",
-        "secondary": "通用",
-        "third": "通用",
-        "keywords": [
-          "中国国旗",
-          "五星红旗",
-          "爱国主义"
-        ],
-        "description": "一面鲜红的旗帜在蓝天下迎风飘扬，象征着国家的尊严和力量。",
-        "filenameSuggestions": [
-          "红色中国国旗.jpg",
-          "飘扬的五星红旗.jpg"
-        ],
-        "displayTitle": "飘扬的中国国旗",
-        "confidence": 0.9,
-        "reasoning": "这是一面中国的国旗，属于通用类别。"
-      }
-    },
     "wallpaper/mobile/萌宠/猫咪/3e7d374de4e443b5abd819d96f9e0e2c.jpeg": {
       "category": "萌宠",
       "subcategory": "猫咪",
@@ -78214,43 +77503,6 @@
         "reasoning": "根据图片内容，人物穿着黑色服装，搭配黑色丝袜和高跟鞋，展现出一种成熟而神秘的气质。这种装扮通常与‘魅力’类别相符。"
       }
     },
-    "wallpaper/mobile/插画/爱国主题/916ffdf2f2c04e89863989fdb63cecca.jpeg": {
-      "category": "插画",
-      "subcategory": "爱国主题",
-      "filename": "916ffdf2f2c04e89863989fdb63cecca.jpeg",
-      "createdAt": "2026-11-07T14:59:15.496Z",
-      "cdnTag": "v1.5.25",
-      "size": 5072017,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1766,
-        "height": 3839,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "插画",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "插画",
-        "third": "爱国主题",
-        "keywords": [
-          "日出",
-          "红旗",
-          "革命",
-          "先辈"
-        ],
-        "description": "一幅充满激情和力量的插画，描绘了革命先辈们在朝阳下坚定前行的场景。",
-        "filenameSuggestions": [
-          "日出红旗颂.jpg",
-          "革命先辈风采.jpg"
-        ],
-        "displayTitle": "日出红旗颂",
-        "confidence": 0.9,
-        "reasoning": "'日出'和'红旗'元素表明这是一幅具有强烈爱国情怀的作品，符合'爱国主题'的分类标准。"
-      }
-    },
     "wallpaper/mobile/风景/通用/964e0db40f674a469466cecc2700b2c0.jpeg": {
       "category": "风景",
       "subcategory": "通用",
@@ -78911,42 +78163,6 @@
         "reasoning": "'检测到人物穿着西装，背景是一片晴朗的蓝天，符合黑帮题材的特征。'"
       }
     },
-    "wallpaper/mobile/风景/建筑/ab34f2c77f59406fb44bd5b65eac16af.jpeg": {
-      "category": "风景",
-      "subcategory": "建筑",
-      "filename": "ab34f2c77f59406fb44bd5b65eac16af.jpeg",
-      "createdAt": "2026-11-07T14:59:15.497Z",
-      "cdnTag": "v1.5.25",
-      "size": 4893830,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1767,
-        "height": 3840,
-        "label": "4K",
-        "type": "success"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "风景",
-        "subcategory": "建筑",
-        "primary": "mobile",
-        "secondary": "风景",
-        "third": "建筑",
-        "keywords": [
-          "红旗",
-          "建筑",
-          "天空"
-        ],
-        "description": "一座具有中国特色的建筑，顶部飘扬着几面红旗，背景是晴朗的天空。",
-        "filenameSuggestions": [
-          "红旗飘扬的建筑.jpg",
-          "中国国旗飘扬的建筑.jpg"
-        ],
-        "displayTitle": "红色旗帜飘扬的建筑",
-        "confidence": 0.9,
-        "reasoning": "'检测到建筑物上有中国国旗，根据规则B1，判定为[风景/建筑]。'"
-      }
-    },
     "wallpaper/mobile/插画/通用/b966e56684e946d2953e8d56acb69389.jpeg": {
       "category": "插画",
       "subcategory": "通用",
@@ -79347,43 +78563,6 @@
         "displayTitle": "夜色中优雅漫步的长发女孩",
         "confidence": 0.9,
         "reasoning": "'检测到人物穿着 JK 制服但光线明亮，根据规则 A2，判定为[魅力]。'"
-      }
-    },
-    "wallpaper/mobile/插画/爱国主题/d4216d63c71547c9b002864b81bd6e0e.jpeg": {
-      "category": "插画",
-      "subcategory": "爱国主题",
-      "filename": "d4216d63c71547c9b002864b81bd6e0e.jpeg",
-      "createdAt": "2026-11-07T14:59:15.497Z",
-      "cdnTag": "v1.5.25",
-      "size": 741637,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1080,
-        "height": 2347,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "插画",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "插画",
-        "third": "爱国主题",
-        "keywords": [
-          "日出",
-          "红旗",
-          "人物"
-        ],
-        "description": "画面中有多个身穿不同服装的人物站在红色天空下，背景是红色的太阳和山脉。",
-        "filenameSuggestions": [
-          "日出红旗人物.jpg"
-        ],
-        "displayTitle": "日出红旗人物",
-        "confidence": 0.9,
-        "reasoning": "R1",
-        "path": "wallpaper/mobile/插画/爱国主题/d4216d63c71547c9b002864b81bd6e0e.jpeg",
-        "aiFilename": "d4216d63c71547c9b002864b81bd6e0e.jpeg"
       }
     },
     "wallpaper/mobile/人像/清新/dc963a501f2e4b6dbd8c9b271ab9dd2a.jpeg": {
@@ -102071,44 +101250,6 @@
         "reasoning": "图中女性穿着黑色长裙，展现出成熟的魅力，符合‘魅力’的分类标准。"
       }
     },
-    "wallpaper/mobile/插画/爱国主题/97f361c8d1d540f0a8d8ad5e401cbca5.jpeg": {
-      "category": "插画",
-      "subcategory": "爱国主题",
-      "filename": "97f361c8d1d540f0a8d8ad5e401cbca5.jpeg",
-      "createdAt": "2026-11-09T23:54:07.206Z",
-      "cdnTag": "v1.5.33",
-      "size": 6392264,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1728,
-        "height": 3840,
-        "label": "4K",
-        "type": "success"
-      },
-      "duration": null,
-      "mediaType": "image",
-      "ai": {
-        "series": "mobile",
-        "category": "插画",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "插画",
-        "third": "爱国主题",
-        "keywords": [
-          "红色旗帜",
-          "革命接班人",
-          "宣传海报"
-        ],
-        "description": "这是一幅具有强烈政治色彩的插画，描绘了几个手持书籍和标语牌的人物，背景是红色的旗帜。",
-        "filenameSuggestions": [
-          "红旗下的革命接班人.jpg",
-          "誓做革命接班人.jpg"
-        ],
-        "displayTitle": "红色旗帜下的革命接班人",
-        "confidence": 0.9,
-        "reasoning": "这幅图明显是一张宣传海报，主题是革命和接班人，符合爱国主题的分类。"
-      }
-    },
     "wallpaper/mobile/人像/魅力/98ec396868b143099dae39bf7db847ee.jpeg": {
       "category": "人像",
       "subcategory": "魅力",
@@ -121985,41 +121126,6 @@
         "aiFilename": "ce29450a40f24a5cafda37c43d793f2d.jpeg"
       }
     },
-    "wallpaper/mobile/创意/文字/cee0e550ca16428e92bc519c95907d03.jpeg": {
-      "category": "创意",
-      "subcategory": "文字",
-      "filename": "cee0e550ca16428e92bc519c95907d03.jpeg",
-      "createdAt": "2026-11-11T01:16:29.936Z",
-      "cdnTag": "v1.5.33",
-      "size": 414967,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1080,
-        "height": 1928,
-        "label": "超清",
-        "type": "primary"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "创意",
-        "subcategory": "文字",
-        "primary": "mobile",
-        "secondary": "创意",
-        "third": "文字",
-        "keywords": [
-          "文字"
-        ],
-        "description": "图片中央有一个大大的“人民万岁”四个字，周围是手写的各种文字。",
-        "filenameSuggestions": [
-          "人民万岁.jpg"
-        ],
-        "displayTitle": "人民万岁",
-        "confidence": 0.9,
-        "reasoning": "R4",
-        "path": "wallpaper/mobile/创意/文字/cee0e550ca16428e92bc519c95907d03.jpeg",
-        "aiFilename": "cee0e550ca16428e92bc519c95907d03.jpeg"
-      }
-    },
     "wallpaper/mobile/人像/通用/cf027cdbdb75438090252d15958db773.jpeg": {
       "category": "人像",
       "subcategory": "通用",
@@ -125927,42 +125033,6 @@
         "aiFilename": "e2ccfaf0ded843b0a78b77d5b4b544ae.jpeg"
       }
     },
-    "wallpaper/mobile/插画/爱国主题/e2e7aa61c0f5404489ccf7efa0bff0da.jpeg": {
-      "category": "插画",
-      "subcategory": "爱国主题",
-      "filename": "e2e7aa61c0f5404489ccf7efa0bff0da.jpeg",
-      "createdAt": "2026-11-11T01:16:29.963Z",
-      "cdnTag": "v1.5.33",
-      "size": 1717525,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1080,
-        "height": 2297,
-        "label": "2K",
-        "type": "info"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "插画",
-        "subcategory": "爱国主题",
-        "primary": "mobile",
-        "secondary": "插画",
-        "third": "爱国主题",
-        "keywords": [
-          "人民币",
-          "100元"
-        ],
-        "description": "一张印有中国货币的图片。",
-        "filenameSuggestions": [
-          "100元纸币.jpg"
-        ],
-        "displayTitle": "100元纸币",
-        "confidence": 0.9,
-        "reasoning": "R2",
-        "path": "wallpaper/mobile/插画/爱国主题/e2e7aa61c0f5404489ccf7efa0bff0da.jpeg",
-        "aiFilename": "e2e7aa61c0f5404489ccf7efa0bff0da.jpeg"
-      }
-    },
     "wallpaper/mobile/人像/通用/e2f1735341ba46f0adf834b089688cb9.jpeg": {
       "category": "人像",
       "subcategory": "通用",
@@ -127600,48 +126670,6 @@
         "reasoning": "R1",
         "path": "wallpaper/mobile/人像/通用/e90009acefc54073850bf99a35a0cca2.jpeg",
         "aiFilename": "e90009acefc54073850bf99a35a0cca2.jpeg"
-      }
-    },
-    "wallpaper/mobile/人像/通用/e93894cb1a0f4e0286f80596645f1307.jpeg": {
-      "category": "人像",
-      "subcategory": "通用",
-      "filename": "e93894cb1a0f4e0286f80596645f1307.jpeg",
-      "createdAt": "2026-11-11T01:16:29.971Z",
-      "cdnTag": "v1.5.33",
-      "size": 361470,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1080,
-        "height": 1928,
-        "label": "超清",
-        "type": "primary"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "人像",
-        "subcategory": "通用",
-        "primary": "mobile",
-        "secondary": "人像",
-        "third": "通用",
-        "keywords": [
-          "长发",
-          "短发",
-          "卷发",
-          "直发",
-          "马尾",
-          "盘发",
-          "外套",
-          "全身构图"
-        ],
-        "description": "三位身穿军装的士兵，背景是飘扬的红旗。",
-        "filenameSuggestions": [
-          "士兵全身.jpg"
-        ],
-        "displayTitle": "士兵全身",
-        "confidence": 0.9,
-        "reasoning": "R1",
-        "path": "wallpaper/mobile/人像/通用/e93894cb1a0f4e0286f80596645f1307.jpeg",
-        "aiFilename": "e93894cb1a0f4e0286f80596645f1307.jpeg"
       }
     },
     "wallpaper/mobile/人像/插画/e260878d0aab48ceac35ec78d6c995c6.jpg": {
@@ -130103,43 +129131,6 @@
         "reasoning": "R1",
         "path": "wallpaper/mobile/人像/通用/f8a285331b5646efaa1712028021ff15.jpeg",
         "aiFilename": "f8a285331b5646efaa1712028021ff15.jpeg"
-      }
-    },
-    "wallpaper/mobile/风景/建筑/f8c32a07854c4f4b8dd46a9fedbc605e.jpeg": {
-      "category": "风景",
-      "subcategory": "建筑",
-      "filename": "f8c32a07854c4f4b8dd46a9fedbc605e.jpeg",
-      "createdAt": "2026-11-11T01:16:29.983Z",
-      "cdnTag": "v1.5.33",
-      "size": 1491175,
-      "format": "jpeg",
-      "resolution": {
-        "width": 1772,
-        "height": 3840,
-        "label": "4K",
-        "type": "success"
-      },
-      "ai": {
-        "series": "mobile",
-        "category": "风景",
-        "subcategory": "建筑",
-        "primary": "mobile",
-        "secondary": "风景",
-        "third": "建筑",
-        "keywords": [
-          "夜景",
-          "建筑",
-          "天安门广场"
-        ],
-        "description": "图片展示了一个夜晚的天安门广场，背景是黑色的天空，前景是一座红色的建筑。",
-        "filenameSuggestions": [
-          "天安门广场夜景.jpg"
-        ],
-        "displayTitle": "天安门广场夜景",
-        "confidence": 0.9,
-        "reasoning": "R3",
-        "path": "wallpaper/mobile/风景/建筑/f8c32a07854c4f4b8dd46a9fedbc605e.jpeg",
-        "aiFilename": "f8c32a07854c4f4b8dd46a9fedbc605e.jpeg"
       }
     },
     "wallpaper/mobile/人像/通用/f8c402463baa4b14be8b25d7f56689b4.jpeg": {
