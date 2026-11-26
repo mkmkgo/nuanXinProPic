@@ -1,0 +1,4488 @@
+{
+  "version": 1,
+  "createdAt": "2026-11-26T15:41:26.943Z",
+  "source": "studio",
+  "targetRepo": {
+    "owner": "mkmkgo",
+    "repo": "nuanXinProPic",
+    "branch": "main"
+  },
+  "images": [
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/海滨/76f7a7d838b84a0684e1dd0abd6c914c.jpg",
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "76f7a7d838b84a0684e1dd0abd6c914c.jpg",
+      "createdAt": "2026-11-26T15:41:26.903Z",
+      "size": 846456,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海岸线",
+          "岩石",
+          "海水"
+        ],
+        "description": "图片展示了一片岩石海岸线，海浪冲击着岩石。",
+        "filenameSuggestions": [
+          "岩石海岸线.jpg"
+        ],
+        "displayTitle": "岩石海岸线",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "76f7a7d838b84a0684e1dd0abd6c914c.jpg",
+        "path": "wallpaper/mobile/风景/海滨/76f7a7d838b84a0684e1dd0abd6c914c.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/81a4aea3f72940acad747e0ace4c9448.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "81a4aea3f72940acad747e0ace4c9448.jpg",
+      "createdAt": "2026-11-26T15:41:26.908Z",
+      "size": 416038,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "动漫",
+          "全身构图"
+        ],
+        "description": "图片展示了一个长发动漫人物的全身构图。",
+        "filenameSuggestions": [
+          "长发动漫人物全身构图.jpg"
+        ],
+        "displayTitle": "长发动漫人物全身构图",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "81a4aea3f72940acad747e0ace4c9448.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/81a4aea3f72940acad747e0ace4c9448.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/森林/671dbc3f1cb24c4a8c0220df708231e5.jpg",
+      "category": "风景",
+      "subcategory": "森林",
+      "filename": "671dbc3f1cb24c4a8c0220df708231e5.jpg",
+      "createdAt": "2026-11-26T15:41:26.908Z",
+      "size": 793825,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "森林",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "森林",
+        "keywords": [
+          "森林",
+          "绿色",
+          "自然"
+        ],
+        "description": "一片绿色的森林，树木茂密。",
+        "filenameSuggestions": [
+          "绿色森林.jpg"
+        ],
+        "displayTitle": "绿色森林",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "671dbc3f1cb24c4a8c0220df708231e5.jpg",
+        "path": "wallpaper/mobile/风景/森林/671dbc3f1cb24c4a8c0220df708231e5.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/人像/77626b01a10ed5470e3fac1275d527d9.jpg",
+      "category": "动漫",
+      "subcategory": "人像",
+      "filename": "77626b01a10ed5470e3fac1275d527d9.jpg",
+      "createdAt": "2026-11-26T15:41:26.909Z",
+      "size": 638848,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "人像",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "人像",
+        "keywords": [
+          "长发",
+          "红色西装",
+          "半身",
+          "特写"
+        ],
+        "description": "图片展示了一位穿着红色西装的女性，她有着长头发，背景为室内。",
+        "filenameSuggestions": [
+          "红色西装长发女性.jpg"
+        ],
+        "displayTitle": "红色西装长发女性",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01a10ed5470e3fac1275d527d9.jpg",
+        "path": "wallpaper/mobile/动漫/人像/77626b01a10ed5470e3fac1275d527d9.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/建筑/77626b01a300321d7f69a206f145fbb2.jpg",
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "77626b01a300321d7f69a206f145fbb2.jpg",
+      "createdAt": "2026-11-26T15:41:26.909Z",
+      "size": 419958,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "建筑",
+          "草地",
+          "蓝天"
+        ],
+        "description": "图片中有白色的房子，蓝色的屋顶，绿色的草地和蓝天。",
+        "filenameSuggestions": [
+          "白色房子蓝色屋顶绿色草地蓝天.jpg"
+        ],
+        "displayTitle": "白色房子蓝色屋顶绿色草地蓝天",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b01a300321d7f69a206f145fbb2.jpg",
+        "path": "wallpaper/mobile/风景/建筑/77626b01a300321d7f69a206f145fbb2.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b01a897031b7430ae90994e9765.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b01a897031b7430ae90994e9765.jpg",
+      "createdAt": "2026-11-26T15:41:26.909Z",
+      "size": 478671,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "长发",
+          "半身",
+          "美食"
+        ],
+        "description": "图片中有一个女生的半身像，她穿着白色内搭和棕色外套，双手拿着叉子和刀子，面前有一盘甜点。",
+        "filenameSuggestions": [
+          "女生半身美食.jpg"
+        ],
+        "displayTitle": "女生半身美食",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01a897031b7430ae90994e9765.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b01a897031b7430ae90994e9765.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/77626b01a7058567ad8432623cfca321.jpg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "77626b01a7058567ad8432623cfca321.jpg",
+      "createdAt": "2026-11-26T15:41:26.909Z",
+      "size": 470133,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "全身构图"
+        ],
+        "description": "一位长发女性坐在浴缸里，双手捧着泡沫。",
+        "filenameSuggestions": [
+          "长发 全身构图.jpg"
+        ],
+        "displayTitle": "长发 全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01a7058567ad8432623cfca321.jpg",
+        "path": "wallpaper/mobile/人像/全身构图/77626b01a7058567ad8432623cfca321.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/77626b01aa946dd7432e81c94087b2ab.jpg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "77626b01aa946dd7432e81c94087b2ab.jpg",
+      "createdAt": "2026-11-26T15:41:26.910Z",
+      "size": 576144,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "上衣",
+          "短裤",
+          "全身构图"
+        ],
+        "description": "图片中是一位穿着白色长袖上衣和深色短裤的女性，她有着长发。",
+        "filenameSuggestions": [
+          "白色上衣深色短裤长发女性全身.jpg"
+        ],
+        "displayTitle": "白色上衣深色短裤长发女性全身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01aa946dd7432e81c94087b2ab.jpg",
+        "path": "wallpaper/mobile/人像/全身构图/77626b01aa946dd7432e81c94087b2ab.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/萌宠/猫咪/77626b01ae98e7af98293ac6389c0d8d.jpg",
+      "category": "萌宠",
+      "subcategory": "猫咪",
+      "filename": "77626b01ae98e7af98293ac6389c0d8d.jpg",
+      "createdAt": "2026-11-26T15:41:26.910Z",
+      "size": 447801,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "猫咪",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "猫咪",
+        "keywords": [
+          "猫咪"
+        ],
+        "description": "一只橘色的猫从窗帘后面探出头。",
+        "filenameSuggestions": [
+          "橘猫.jpg"
+        ],
+        "displayTitle": "橘猫",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01ae98e7af98293ac6389c0d8d.jpg",
+        "path": "wallpaper/mobile/萌宠/猫咪/77626b01ae98e7af98293ac6389c0d8d.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/背影/77626b01afaee53c99fdb352d5531a7f.jpg",
+      "category": "人像",
+      "subcategory": "背影",
+      "filename": "77626b01afaee53c99fdb352d5531a7f.jpg",
+      "createdAt": "2026-11-26T15:41:26.910Z",
+      "size": 418323,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "背影",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "背影",
+        "keywords": [
+          "长发",
+          "背影",
+          "车内"
+        ],
+        "description": "图片展示了一位长发女性坐在车内，背景为车外景色。",
+        "filenameSuggestions": [
+          "车内背影.jpg"
+        ],
+        "displayTitle": "车内背影",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01afaee53c99fdb352d5531a7f.jpg",
+        "path": "wallpaper/mobile/人像/背影/77626b01afaee53c99fdb352d5531a7f.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/77626b01b0ad0d79580daadc36426884.jpg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "77626b01b0ad0d79580daadc36426884.jpg",
+      "createdAt": "2026-11-26T15:41:26.911Z",
+      "size": 274749,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "连衣裙",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着黑色连衣裙的女性，背景为深色。",
+        "filenameSuggestions": [
+          "黑色连衣裙全身.jpg"
+        ],
+        "displayTitle": "黑色连衣裙全身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01b0ad0d79580daadc36426884.jpg",
+        "path": "wallpaper/mobile/人像/全身构图/77626b01b0ad0d79580daadc36426884.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b01b3a3868e2e88cab884c24bde.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b01b3a3868e2e88cab884c24bde.jpg",
+      "createdAt": "2026-11-26T15:41:26.911Z",
+      "size": 388549,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "长发",
+          "半身",
+          "白色上衣",
+          "牛仔裤"
+        ],
+        "description": "图片展示了一位穿着白色长袖上衣和浅蓝色牛仔裤的女性，她有着黑色长发。",
+        "filenameSuggestions": [
+          "白色上衣牛仔裤半身1.jpg",
+          "白色上衣牛仔裤半身2.jpg"
+        ],
+        "displayTitle": "白色上衣牛仔裤半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01b3a3868e2e88cab884c24bde.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b01b3a3868e2e88cab884c24bde.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/77626b01b9f75352d3927e3a34dda0f7.jpg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "77626b01b9f75352d3927e3a34dda0f7.jpg",
+      "createdAt": "2026-11-26T15:41:26.911Z",
+      "size": 406500,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "上衣",
+          "短裤",
+          "全身构图"
+        ],
+        "description": "图片中展示了一位穿着黑色露肩上衣和黑色短裤的女性，她有着长头发。",
+        "filenameSuggestions": [
+          "黑色上衣短裤长发.jpg"
+        ],
+        "displayTitle": "黑色上衣短裤长发",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01b9f75352d3927e3a34dda0f7.jpg",
+        "path": "wallpaper/mobile/人像/全身构图/77626b01b9f75352d3927e3a34dda0f7.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/人像/77626b01b84da219033a6e4d0dc2ce8d.jpg",
+      "category": "动漫",
+      "subcategory": "人像",
+      "filename": "77626b01b84da219033a6e4d0dc2ce8d.jpg",
+      "createdAt": "2026-11-26T15:41:26.912Z",
+      "size": 173936,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "人像",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "人像",
+        "keywords": [
+          "长发",
+          "背影",
+          "白衣",
+          "黑裙"
+        ],
+        "description": "图中是一位穿着白色上衣和黑色裙子的女性背影。",
+        "filenameSuggestions": [
+          "长发白衣黑裙背影.jpg"
+        ],
+        "displayTitle": "长发白衣黑裙背影",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01b84da219033a6e4d0dc2ce8d.jpg",
+        "path": "wallpaper/mobile/动漫/人像/77626b01b84da219033a6e4d0dc2ce8d.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/火影忍者/77626b01bab9856cead4b981537995a5.jpg",
+      "category": "动漫",
+      "subcategory": "火影忍者",
+      "filename": "77626b01bab9856cead4b981537995a5.jpg",
+      "createdAt": "2026-11-26T15:41:26.912Z",
+      "size": 280074,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "火影忍者",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "火影忍者",
+        "keywords": [
+          "动漫",
+          "全身构图",
+          "黑白"
+        ],
+        "description": "图中有一个身穿黑色服装的人物站在岩石上，手持一把剑和一个盾牌。",
+        "filenameSuggestions": [
+          "火影忍者 全身构图 黑白.jpg"
+        ],
+        "displayTitle": "火影忍者 全身构图 黑白",
+        "confidence": 0.9,
+        "reasoning": "R2 动漫与插画: 图中的角色是《火影忍者》中的角色，属于动漫风格。",
+        "filename": "77626b01bab9856cead4b981537995a5.jpg",
+        "path": "wallpaper/mobile/动漫/火影忍者/77626b01bab9856cead4b981537995a5.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/建筑/77626b01be39d56c8c58ef33777ca00c.jpg",
+      "category": "风景",
+      "subcategory": "建筑",
+      "filename": "77626b01be39d56c8c58ef33777ca00c.jpg",
+      "createdAt": "2026-11-26T15:41:26.912Z",
+      "size": 803236,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "建筑",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "建筑",
+        "keywords": [
+          "古树",
+          "白墙",
+          "瓦房"
+        ],
+        "description": "一棵古老的树矗立在几座白墙黑瓦的传统房屋之间。",
+        "filenameSuggestions": [
+          "古树白墙瓦房.jpg"
+        ],
+        "displayTitle": "古树白墙瓦房",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b01be39d56c8c58ef33777ca00c.jpg",
+        "path": "wallpaper/mobile/风景/建筑/77626b01be39d56c8c58ef33777ca00c.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/背影/77626b01bed980e9a61821e37f6498b8.jpg",
+      "category": "人像",
+      "subcategory": "背影",
+      "filename": "77626b01bed980e9a61821e37f6498b8.jpg",
+      "createdAt": "2026-11-26T15:41:26.913Z",
+      "size": 548261,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "背影",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "背影",
+        "keywords": [
+          "长发",
+          "背影",
+          "全身构图"
+        ],
+        "description": "图中有一个穿着粉色上衣和白色裤子的人站在扶梯上，头发是黑色的，披散在背后。",
+        "filenameSuggestions": [
+          "长发 白色裤子.jpg"
+        ],
+        "displayTitle": "长发 白色裤子",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01bed980e9a61821e37f6498b8.jpg",
+        "path": "wallpaper/mobile/人像/背影/77626b01bed980e9a61821e37f6498b8.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/日落/77626b01c0dee677e3d1cad252f04c4a.jpg",
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "77626b01c0dee677e3d1cad252f04c4a.jpg",
+      "createdAt": "2026-11-26T15:41:26.913Z",
+      "size": 58969,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "日落"
+        ],
+        "description": "图片展示了一个日落的场景。",
+        "filenameSuggestions": [
+          "日落.jpg"
+        ],
+        "displayTitle": "日落",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b01c0dee677e3d1cad252f04c4a.jpg",
+        "path": "wallpaper/mobile/风景/日落/77626b01c0dee677e3d1cad252f04c4a.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/动漫/77626b01c4ebb1b09f8a47299c6522ab.jpg",
+      "category": "插画",
+      "subcategory": "动漫",
+      "filename": "77626b01c4ebb1b09f8a47299c6522ab.jpg",
+      "createdAt": "2026-11-26T15:41:26.913Z",
+      "size": 450632,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "动漫",
+        "keywords": [
+          "卡通角色",
+          "动漫",
+          "多人"
+        ],
+        "description": "多个卡通风格的动漫人物，背景为彩色矩形块。",
+        "filenameSuggestions": [
+          "卡通人物集合.jpg"
+        ],
+        "displayTitle": "卡通人物集合",
+        "confidence": 0.9,
+        "reasoning": "R2 动漫与插画：依据绘画风格归类；可识别的已知 IP 形象归入对应子类。",
+        "filename": "77626b01c4ebb1b09f8a47299c6522ab.jpg",
+        "path": "wallpaper/mobile/插画/动漫/77626b01c4ebb1b09f8a47299c6522ab.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b01c38544b12af74602b3a7cf6f.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b01c38544b12af74602b3a7cf6f.jpg",
+      "createdAt": "2026-11-26T15:41:26.914Z",
+      "size": 264146,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "动漫",
+          "二次元",
+          "晾衣服"
+        ],
+        "description": "图片展示了一个动漫风格的男性角色正在户外晾晒衣物。",
+        "filenameSuggestions": [
+          "动漫人物晾衣服.jpg"
+        ],
+        "displayTitle": "动漫人物晾衣服",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b01c38544b12af74602b3a7cf6f.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b01c38544b12af74602b3a7cf6f.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/古装/77626b01ca18eaa06e908dcd923b79a5.jpg",
+      "category": "插画",
+      "subcategory": "古装",
+      "filename": "77626b01ca18eaa06e908dcd923b79a5.jpg",
+      "createdAt": "2026-11-26T15:41:26.914Z",
+      "size": 610726,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "古装",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "古装",
+        "keywords": [
+          "长发",
+          "古装",
+          "侧颜"
+        ],
+        "description": "图中是一位身穿古装的女性，她有着长头发，背景为蓝色。",
+        "filenameSuggestions": [
+          "古装长发女性.jpg"
+        ],
+        "displayTitle": "古装长发女性",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01ca18eaa06e908dcd923b79a5.jpg",
+        "path": "wallpaper/mobile/插画/古装/77626b01ca18eaa06e908dcd923b79a5.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/湖泊/77626b01cd63b680425637647c0f9c18.jpg",
+      "category": "风景",
+      "subcategory": "湖泊",
+      "filename": "77626b01cd63b680425637647c0f9c18.jpg",
+      "createdAt": "2026-11-26T15:41:26.914Z",
+      "size": 852221,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "湖泊",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "湖泊",
+        "keywords": [
+          "雪山",
+          "湖泊"
+        ],
+        "description": "图片展示了一条通往雪山湖泊的道路。",
+        "filenameSuggestions": [
+          "雪山湖泊.jpg"
+        ],
+        "displayTitle": "雪山湖泊",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b01cd63b680425637647c0f9c18.jpg",
+        "path": "wallpaper/mobile/风景/湖泊/77626b01cd63b680425637647c0f9c18.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b01ce49b8fc9e0ddc9d82d88413.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b01ce49b8fc9e0ddc9d82d88413.jpg",
+      "createdAt": "2026-11-26T15:41:26.915Z",
+      "size": 747145,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "半身",
+          "二次元",
+          "萌宠"
+        ],
+        "description": "一位长发少女坐在沙发上，旁边有一只黑白色的小猫。",
+        "filenameSuggestions": [
+          "长发少女与猫.jpg"
+        ],
+        "displayTitle": "长发少女与猫",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01ce49b8fc9e0ddc9d82d88413.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b01ce49b8fc9e0ddc9d82d88413.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/文字/77626b01cee7a62d49d234dd5c380af5.jpg",
+      "category": "通用",
+      "subcategory": "文字",
+      "filename": "77626b01cee7a62d49d234dd5c380af5.jpg",
+      "createdAt": "2026-11-26T15:41:26.915Z",
+      "size": 167554,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "文字",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "文字",
+        "keywords": [
+          "文字"
+        ],
+        "description": "图片背景为白色，黑色字体写着英文“people come and go, that's life.”",
+        "filenameSuggestions": [
+          "文字.jpg"
+        ],
+        "displayTitle": "文字",
+        "confidence": 0.9,
+        "reasoning": "R4",
+        "filename": "77626b01cee7a62d49d234dd5c380af5.jpg",
+        "path": "wallpaper/mobile/通用/文字/77626b01cee7a62d49d234dd5c380af5.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/人像/77626b01d1f0a69bdc4a15c02f7a71ef.jpg",
+      "category": "动漫",
+      "subcategory": "人像",
+      "filename": "77626b01d1f0a69bdc4a15c02f7a71ef.jpg",
+      "createdAt": "2026-11-26T15:41:26.916Z",
+      "size": 400248,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "人像",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "人像",
+        "keywords": [
+          "长发",
+          "侧颜",
+          "动漫",
+          "人物"
+        ],
+        "description": "图片展示了一位身穿黑色连衣裙的长发女性动漫人物，她戴着金色头饰和耳环，背景为蓝色。",
+        "filenameSuggestions": [
+          "长发侧颜动漫人物.jpg"
+        ],
+        "displayTitle": "长发侧颜动漫人物",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01d1f0a69bdc4a15c02f7a71ef.jpg",
+        "path": "wallpaper/mobile/动漫/人像/77626b01d1f0a69bdc4a15c02f7a71ef.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/创意/文字/77626b01d8a824d43bb5a899e9545dc6.jpg",
+      "category": "创意",
+      "subcategory": "文字",
+      "filename": "77626b01d8a824d43bb5a899e9545dc6.jpg",
+      "createdAt": "2026-11-26T15:41:26.917Z",
+      "size": 186864,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "创意",
+        "subcategory": "文字",
+        "primary": "mobile",
+        "secondary": "创意",
+        "third": "文字",
+        "keywords": [
+          "文字",
+          "收据"
+        ],
+        "description": "一张印有'Learning Receipt'标题的学习收据，列出了动机、耐心、专注、练习和坚持五个项目及其百分比。",
+        "filenameSuggestions": [
+          "学习收据.jpg"
+        ],
+        "displayTitle": "学习收据",
+        "confidence": 0.9,
+        "reasoning": "R4",
+        "filename": "77626b01d8a824d43bb5a899e9545dc6.jpg",
+        "path": "wallpaper/mobile/创意/文字/77626b01d8a824d43bb5a899e9545dc6.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/星空/77626b01d27210bddf37daccedb92290.jpg",
+      "category": "风景",
+      "subcategory": "星空",
+      "filename": "77626b01d27210bddf37daccedb92290.jpg",
+      "createdAt": "2026-11-26T15:41:26.917Z",
+      "size": 107354,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "星空",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "星空",
+        "keywords": [
+          "宇宙",
+          "地球",
+          "星空"
+        ],
+        "description": "图片展示了一部分地球在宇宙中的景象，背景是深邃的太空。",
+        "filenameSuggestions": [
+          "地球星空.jpg"
+        ],
+        "displayTitle": "地球星空",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b01d27210bddf37daccedb92290.jpg",
+        "path": "wallpaper/mobile/风景/星空/77626b01d27210bddf37daccedb92290.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/动漫/77626b01df81df3a6bb47a7b72c3d931.jpg",
+      "category": "动漫",
+      "subcategory": "动漫",
+      "filename": "77626b01df81df3a6bb47a7b72c3d931.jpg",
+      "createdAt": "2026-11-26T15:41:26.918Z",
+      "size": 875946,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "动漫",
+        "keywords": [
+          "动漫",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着白色上衣和深色短裙的女生站在岩石上，背景是蓝天白云和大海。",
+        "filenameSuggestions": [
+          "蓝色短发女生全身构图.jpg"
+        ],
+        "displayTitle": "蓝色短发女生全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01df81df3a6bb47a7b72c3d931.jpg",
+        "path": "wallpaper/mobile/动漫/动漫/77626b01df81df3a6bb47a7b72c3d931.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/创意/77626b01e23c894c833a43234c23d352.jpg",
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "77626b01e23c894c833a43234c23d352.jpg",
+      "createdAt": "2026-11-26T15:41:26.918Z",
+      "size": 325941,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "长发",
+          "女孩",
+          "全身构图"
+        ],
+        "description": "图片中有一个穿着粉色裙子的长发女孩坐在一朵花上，背景是蓝天白云。",
+        "filenameSuggestions": [
+          "长发 女孩 全身构图.jpg"
+        ],
+        "displayTitle": "长发 女孩 全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01e23c894c833a43234c23d352.jpg",
+        "path": "wallpaper/mobile/插画/创意/77626b01e23c894c833a43234c23d352.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b01e94a8236ffc971c9fa7595d1.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b01e94a8236ffc971c9fa7595d1.jpg",
+      "createdAt": "2026-11-26T15:41:26.918Z",
+      "size": 231468,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "二次元",
+          "人物"
+        ],
+        "description": "图片展示了一个二次元的动漫人物，背景为蓝色调。",
+        "filenameSuggestions": [
+          "二次元人物.jpg"
+        ],
+        "displayTitle": "二次元人物",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b01e94a8236ffc971c9fa7595d1.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b01e94a8236ffc971c9fa7595d1.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b01ea8378b9630d6a25420c8dde.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b01ea8378b9630d6a25420c8dde.jpg",
+      "createdAt": "2026-11-26T15:41:26.918Z",
+      "size": 520225,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "长发",
+          "运动装",
+          "全身构图"
+        ],
+        "description": "图片中展示了一位穿着白色背心和蓝色短裤的女性，她戴着耳机，背景是一辆自行车。",
+        "filenameSuggestions": [
+          "长发 运动装 全身构图.jpg"
+        ],
+        "displayTitle": "长发 运动装 全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01ea8378b9630d6a25420c8dde.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b01ea8378b9630d6a25420c8dde.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/通用/77626b01efdb3af23f48889ad79f723d.jpg",
+      "category": "通用",
+      "subcategory": "通用",
+      "filename": "77626b01efdb3af23f48889ad79f723d.jpg",
+      "createdAt": "2026-11-26T15:41:26.919Z",
+      "size": 765246,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "通用",
+        "keywords": [
+          "经典汽车",
+          "复古",
+          "街道"
+        ],
+        "description": "一辆红色的经典汽车停在街道上，背景是建筑物。",
+        "filenameSuggestions": [
+          "红色经典汽车.jpg"
+        ],
+        "displayTitle": "红色经典汽车",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b01efdb3af23f48889ad79f723d.jpg",
+        "path": "wallpaper/mobile/通用/通用/77626b01efdb3af23f48889ad79f723d.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/通用/77626b01effb631391f951aa59c154d2.jpg",
+      "category": "通用",
+      "subcategory": "通用",
+      "filename": "77626b01effb631391f951aa59c154d2.jpg",
+      "createdAt": "2026-11-26T15:41:26.919Z",
+      "size": 751138,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "通用",
+        "keywords": [
+          "冷色调",
+          "低饱和",
+          "通用"
+        ],
+        "description": "纯蓝色背景，无其他元素。",
+        "filenameSuggestions": [
+          "蓝色背景.jpg"
+        ],
+        "displayTitle": "蓝色背景",
+        "confidence": 0.9,
+        "reasoning": "R4",
+        "filename": "77626b01effb631391f951aa59c154d2.jpg",
+        "path": "wallpaper/mobile/通用/通用/77626b01effb631391f951aa59c154d2.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/火影忍者/77626b01f3a0b4145663cbf6cbc4ff72.jpg",
+      "category": "动漫",
+      "subcategory": "火影忍者",
+      "filename": "77626b01f3a0b4145663cbf6cbc4ff72.jpg",
+      "createdAt": "2026-11-26T15:41:26.919Z",
+      "size": 196039,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "火影忍者",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "火影忍者",
+        "keywords": [
+          "动漫",
+          "火影忍者",
+          "全身构图",
+          "黑白"
+        ],
+        "description": "图片展示了一个身穿黑色服装的角色，背景为黑暗，前方有一把剑。",
+        "filenameSuggestions": [
+          "火影忍者 全身构图 黑白.jpg"
+        ],
+        "displayTitle": "火影忍者 全身构图 黑白",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b01f3a0b4145663cbf6cbc4ff72.jpg",
+        "path": "wallpaper/mobile/动漫/火影忍者/77626b01f3a0b4145663cbf6cbc4ff72.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/文字/77626b01f8a69acea505318faf2e7150.jpg",
+      "category": "通用",
+      "subcategory": "文字",
+      "filename": "77626b01f8a69acea505318faf2e7150.jpg",
+      "createdAt": "2026-11-26T15:41:26.919Z",
+      "size": 589230,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "文字",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "文字",
+        "keywords": [
+          "通用",
+          "文字"
+        ],
+        "description": "背景为浅色纸张，红色手写中文书法文本。",
+        "filenameSuggestions": [
+          "道经第一章.jpg"
+        ],
+        "displayTitle": "道经第一章",
+        "confidence": 0.9,
+        "reasoning": "R4",
+        "filename": "77626b01f8a69acea505318faf2e7150.jpg",
+        "path": "wallpaper/mobile/通用/文字/77626b01f8a69acea505318faf2e7150.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/游戏/通用/77626b01f9c5f2281e708ad8e32ec9ea.jpg",
+      "category": "游戏",
+      "subcategory": "通用",
+      "filename": "77626b01f9c5f2281e708ad8e32ec9ea.jpg",
+      "createdAt": "2026-11-26T15:41:26.920Z",
+      "size": 445255,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "游戏",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "游戏",
+        "third": "通用",
+        "keywords": [
+          "长发",
+          "短发",
+          "卷发",
+          "直发",
+          "马尾",
+          "盘发",
+          "衬衫",
+          "外套"
+        ],
+        "description": "图片展示了两个角色，一个男性手持枪支，另一个女性站在旁边。背景是城市景观。",
+        "filenameSuggestions": [
+          "grand-theft-auto-character.jpg",
+          "grand-theft-auto-character.jpg"
+        ],
+        "displayTitle": "Grand Theft Auto",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01f9c5f2281e708ad8e32ec9ea.jpg",
+        "path": "wallpaper/mobile/游戏/通用/77626b01f9c5f2281e708ad8e32ec9ea.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/通用/77626b01f09e876b6e75252ea16a9f72.jpg",
+      "category": "通用",
+      "subcategory": "通用",
+      "filename": "77626b01f09e876b6e75252ea16a9f72.jpg",
+      "createdAt": "2026-11-26T15:41:26.920Z",
+      "size": 696620,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "通用",
+        "keywords": [
+          "自然纹理",
+          "色彩融合",
+          "木质",
+          "墨绿色"
+        ],
+        "description": "图片展示了一块带有明显年轮的木头表面，上方覆盖着深绿色的液体。",
+        "filenameSuggestions": [
+          "木纹与墨绿.jpg"
+        ],
+        "displayTitle": "木纹与墨绿",
+        "confidence": 0.9,
+        "reasoning": "R4",
+        "filename": "77626b01f09e876b6e75252ea16a9f72.jpg",
+        "path": "wallpaper/mobile/通用/通用/77626b01f09e876b6e75252ea16a9f72.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/特写/77626b01f43f091fcab84987c0ea7d40.jpg",
+      "category": "人像",
+      "subcategory": "特写",
+      "filename": "77626b01f43f091fcab84987c0ea7d40.jpg",
+      "createdAt": "2026-11-26T15:41:26.920Z",
+      "size": 491779,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "特写",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "特写",
+        "keywords": [
+          "长发",
+          "特写"
+        ],
+        "description": "图片中是一位穿着白色T恤的女生，头发扎成马尾辫。",
+        "filenameSuggestions": [
+          "白色上衣女生.jpg"
+        ],
+        "displayTitle": "白色上衣女生",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01f43f091fcab84987c0ea7d40.jpg",
+        "path": "wallpaper/mobile/人像/特写/77626b01f43f091fcab84987c0ea7d40.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b01f751ddc1efaefaa0d6720924.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b01f751ddc1efaefaa0d6720924.jpg",
+      "createdAt": "2026-11-26T15:41:26.921Z",
+      "size": 364513,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "动漫",
+          "全身构图"
+        ],
+        "description": "图片展示了一位银发蓝眼的动漫风格的女孩，她穿着白色上衣，手持一杯咖啡。",
+        "filenameSuggestions": [
+          "银发蓝眼动漫女孩.jpg"
+        ],
+        "displayTitle": "银发蓝眼动漫女孩",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b01f751ddc1efaefaa0d6720924.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b01f751ddc1efaefaa0d6720924.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/侧颜/77626b01fa4661e9e2309c0521d8c981.jpg",
+      "category": "人像",
+      "subcategory": "侧颜",
+      "filename": "77626b01fa4661e9e2309c0521d8c981.jpg",
+      "createdAt": "2026-11-26T15:41:26.921Z",
+      "size": 308045,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "侧颜",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "侧颜",
+        "keywords": [
+          "长发",
+          "连衣裙",
+          "侧颜"
+        ],
+        "description": "图片展示了一位穿着蓝色连衣裙的女性侧脸。",
+        "filenameSuggestions": [
+          "长发连衣裙侧颜.jpg"
+        ],
+        "displayTitle": "长发连衣裙侧颜",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01fa4661e9e2309c0521d8c981.jpg",
+        "path": "wallpaper/mobile/人像/侧颜/77626b01fa4661e9e2309c0521d8c981.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/人像/77626b01fad220ebdc58dcbd5ebb9a9e.jpg",
+      "category": "动漫",
+      "subcategory": "人像",
+      "filename": "77626b01fad220ebdc58dcbd5ebb9a9e.jpg",
+      "createdAt": "2026-11-26T15:41:26.921Z",
+      "size": 430165,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "人像",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "人像",
+        "keywords": [
+          "长发",
+          "紫眼",
+          "特写"
+        ],
+        "description": "图片展示了一位女性角色的特写，她有着长头发和紫色的眼睛。",
+        "filenameSuggestions": [
+          "长发紫眼.jpg"
+        ],
+        "displayTitle": "长发紫眼",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01fad220ebdc58dcbd5ebb9a9e.jpg",
+        "path": "wallpaper/mobile/动漫/人像/77626b01fad220ebdc58dcbd5ebb9a9e.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b01fb9c1c9100d34f4b09e913a8.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b01fb9c1c9100d34f4b09e913a8.jpg",
+      "createdAt": "2026-11-26T15:41:26.921Z",
+      "size": 395571,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "动漫",
+          "二次元"
+        ],
+        "description": "图中有一个金发少年，背景是天空。",
+        "filenameSuggestions": [
+          "金发少年.jpg"
+        ],
+        "displayTitle": "金发少年",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b01fb9c1c9100d34f4b09e913a8.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b01fb9c1c9100d34f4b09e913a8.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b01fc8bfe2811804a52e2e4b235.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b01fc8bfe2811804a52e2e4b235.jpg",
+      "createdAt": "2026-11-26T15:41:26.921Z",
+      "size": 530155,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "长发",
+          "连衣裙",
+          "半身"
+        ],
+        "description": "图片中有一位穿着红色连衣裙的女性，她站在白色柱子旁，手持一把红色的伞。",
+        "filenameSuggestions": [
+          "红色连衣裙半身.jpg"
+        ],
+        "displayTitle": "红色连衣裙半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01fc8bfe2811804a52e2e4b235.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b01fc8bfe2811804a52e2e4b235.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/侧颜/77626b01fc696e31128d405e89268642.jpg",
+      "category": "人像",
+      "subcategory": "侧颜",
+      "filename": "77626b01fc696e31128d405e89268642.jpg",
+      "createdAt": "2026-11-26T15:41:26.922Z",
+      "size": 458224,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "侧颜",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "侧颜",
+        "keywords": [
+          "长发",
+          "针织衫",
+          "侧颜"
+        ],
+        "description": "一位穿着黑色毛衣的女性侧脸照片。",
+        "filenameSuggestions": [
+          "黑色毛衣侧颜.jpg"
+        ],
+        "displayTitle": "黑色毛衣侧颜",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01fc696e31128d405e89268642.jpg",
+        "path": "wallpaper/mobile/人像/侧颜/77626b01fc696e31128d405e89268642.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/创意/77626b010c133c42825883ae85324c2d.jpg",
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "77626b010c133c42825883ae85324c2d.jpg",
+      "createdAt": "2026-11-26T15:41:26.922Z",
+      "size": 371550,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "老人",
+          "书籍",
+          "阅读"
+        ],
+        "description": "一位戴着眼镜的老人坐在蓝色冰柜内阅读书籍。",
+        "filenameSuggestions": [
+          "老人读书.jpg"
+        ],
+        "displayTitle": "老人读书",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b010c133c42825883ae85324c2d.jpg",
+        "path": "wallpaper/mobile/插画/创意/77626b010c133c42825883ae85324c2d.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/侧颜/77626b011b279071b3ef1e6b84fb2ee8.jpg",
+      "category": "人像",
+      "subcategory": "侧颜",
+      "filename": "77626b011b279071b3ef1e6b84fb2ee8.jpg",
+      "createdAt": "2026-11-26T15:41:26.922Z",
+      "size": 545909,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "侧颜",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "侧颜",
+        "keywords": [
+          "长发",
+          "黑色",
+          "外套",
+          "侧颜"
+        ],
+        "description": "图片展示了一位穿着黑色外套的女性侧面。",
+        "filenameSuggestions": [
+          "长发 黑色 外套 侧颜.jpg"
+        ],
+        "displayTitle": "长发 黑色 外套 侧颜",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b011b279071b3ef1e6b84fb2ee8.jpg",
+        "path": "wallpaper/mobile/人像/侧颜/77626b011b279071b3ef1e6b84fb2ee8.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/通用/77626b011cdd358d061cb7f30a2d5f63.jpg",
+      "category": "通用",
+      "subcategory": "通用",
+      "filename": "77626b011cdd358d061cb7f30a2d5f63.jpg",
+      "createdAt": "2026-11-26T15:41:26.922Z",
+      "size": 787046,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "通用",
+        "keywords": [
+          "汽车",
+          "街道",
+          "建筑"
+        ],
+        "description": "一辆黄色的保时捷跑车停在街道上，背景是建筑物和路灯。",
+        "filenameSuggestions": [
+          "黄色保时捷.jpg"
+        ],
+        "displayTitle": "黄色保时捷",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b011cdd358d061cb7f30a2d5f63.jpg",
+        "path": "wallpaper/mobile/通用/通用/77626b011cdd358d061cb7f30a2d5f63.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b011d1c82222d36896f8f196588.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b011d1c82222d36896f8f196588.jpg",
+      "createdAt": "2026-11-26T15:41:26.923Z",
+      "size": 575134,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "长发",
+          "半身",
+          "牛仔裤",
+          "印花"
+        ],
+        "description": "图片展示了一位穿着黄色印花抹胸上衣和蓝色印花牛仔裤的女性，背景中有书法作品。",
+        "filenameSuggestions": [
+          "花色上衣牛仔裤半身1.jpg",
+          "花色上衣牛仔裤半身2.jpg"
+        ],
+        "displayTitle": "花色上衣牛仔裤半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b011d1c82222d36896f8f196588.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b011d1c82222d36896f8f196588.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/蜘蛛侠/77626b011e5da2e8954149305a5c1aa3.jpg",
+      "category": "动漫",
+      "subcategory": "蜘蛛侠",
+      "filename": "77626b011e5da2e8954149305a5c1aa3.jpg",
+      "createdAt": "2026-11-26T15:41:26.923Z",
+      "size": 491937,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "蜘蛛侠",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "蜘蛛侠",
+        "keywords": [
+          "蜘蛛侠",
+          "全身构图",
+          "城市背景"
+        ],
+        "description": "图片展示了一个穿着红色服装的角色在城市高楼间飞翔的场景。",
+        "filenameSuggestions": [
+          "蜘蛛侠全身构图.jpg"
+        ],
+        "displayTitle": "蜘蛛侠全身构图",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b011e5da2e8954149305a5c1aa3.jpg",
+        "path": "wallpaper/mobile/动漫/蜘蛛侠/77626b011e5da2e8954149305a5c1aa3.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/古装/77626b012aa8b5157088f08c965fe28c.jpg",
+      "category": "人像",
+      "subcategory": "古装",
+      "filename": "77626b012aa8b5157088f08c965fe28c.jpg",
+      "createdAt": "2026-11-26T15:41:26.923Z",
+      "size": 609946,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "古装",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "古装",
+        "keywords": [
+          "长发",
+          "古装",
+          "半身"
+        ],
+        "description": "图片展示了一位穿着古装的女性，她有着长头发，手持一把剑。",
+        "filenameSuggestions": [
+          "古装长发半身.jpg"
+        ],
+        "displayTitle": "古装长发半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b012aa8b5157088f08c965fe28c.jpg",
+        "path": "wallpaper/mobile/人像/古装/77626b012aa8b5157088f08c965fe28c.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b012d5b480e944b4549e6caa101.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b012d5b480e944b4549e6caa101.jpg",
+      "createdAt": "2026-11-26T15:41:26.923Z",
+      "size": 508094,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "半身",
+          "连衣裙",
+          "蕾丝",
+          "银色"
+        ],
+        "description": "图片展示了一位穿着银色连衣裙并带有黑色蕾丝装饰的女性半身。",
+        "filenameSuggestions": [
+          "银色连衣裙黑色蕾丝半身.jpg"
+        ],
+        "displayTitle": "银色连衣裙黑色蕾丝半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b012d5b480e944b4549e6caa101.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b012d5b480e944b4549e6caa101.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/特写/77626b012d7edfc7bb20d3c22c85ed20.jpg",
+      "category": "人像",
+      "subcategory": "特写",
+      "filename": "77626b012d7edfc7bb20d3c22c85ed20.jpg",
+      "createdAt": "2026-11-26T15:41:26.924Z",
+      "size": 441544,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "特写",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "特写",
+        "keywords": [
+          "长发",
+          "马尾",
+          "吊带上衣",
+          "特写"
+        ],
+        "description": "图片展示了一位穿着白色吊带上衣的女性，头发扎成马尾，背景为模糊的自然光线。",
+        "filenameSuggestions": [
+          "白色吊带上衣.jpg"
+        ],
+        "displayTitle": "白色吊带上衣",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b012d7edfc7bb20d3c22c85ed20.jpg",
+        "path": "wallpaper/mobile/人像/特写/77626b012d7edfc7bb20d3c22c85ed20.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/火影忍者/77626b012f48552477a55aa671d64b53.jpg",
+      "category": "动漫",
+      "subcategory": "火影忍者",
+      "filename": "77626b012f48552477a55aa671d64b53.jpg",
+      "createdAt": "2026-11-26T15:41:26.924Z",
+      "size": 165120,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "火影忍者",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "火影忍者",
+        "keywords": [
+          "长发",
+          "黑色",
+          "长袍",
+          "全身构图"
+        ],
+        "description": "图片展示了一个身穿黑色长袍的人物，背景为黑色。",
+        "filenameSuggestions": [
+          "忍者 黑色长袍 全身构图.jpg"
+        ],
+        "displayTitle": "忍者 黑色长袍 全身构图",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b012f48552477a55aa671d64b53.jpg",
+        "path": "wallpaper/mobile/动漫/火影忍者/77626b012f48552477a55aa671d64b53.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/动漫/77626b012fcefd5753a9e51301122659.jpg",
+      "category": "动漫",
+      "subcategory": "动漫",
+      "filename": "77626b012fcefd5753a9e51301122659.jpg",
+      "createdAt": "2026-11-26T15:41:26.924Z",
+      "size": 376491,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "动漫",
+        "keywords": [
+          "短发",
+          "绿眼",
+          "白衣",
+          "帽子",
+          "动漫",
+          "女孩"
+        ],
+        "description": "图片展示了一位穿着白色连衣裙和戴着白色帽子的动漫风格的女孩，她有着紫色的短发和绿色的眼睛，手中拿着一束黄色的花。",
+        "filenameSuggestions": [
+          "短发绿眼白衣帽动漫女孩.jpg"
+        ],
+        "displayTitle": "短发绿眼白衣帽动漫女孩",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b012fcefd5753a9e51301122659.jpg",
+        "path": "wallpaper/mobile/动漫/动漫/77626b012fcefd5753a9e51301122659.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/森林/77626b013a1f709bd1d37f0ca4293259.jpg",
+      "category": "风景",
+      "subcategory": "森林",
+      "filename": "77626b013a1f709bd1d37f0ca4293259.jpg",
+      "createdAt": "2026-11-26T15:41:26.925Z",
+      "size": 216668,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "森林",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "森林",
+        "keywords": [
+          "自然景观",
+          "森林",
+          "云雾",
+          "宁静"
+        ],
+        "description": "图片展示了一片被云雾环绕的森林，树木茂密，云雾缭绕。",
+        "filenameSuggestions": [
+          "云雾森林.jpg"
+        ],
+        "displayTitle": "云雾森林",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b013a1f709bd1d37f0ca4293259.jpg",
+        "path": "wallpaper/mobile/风景/森林/77626b013a1f709bd1d37f0ca4293259.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/通用/77626b013ad5281ef61ad950124174a9.jpg",
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "77626b013ad5281ef61ad950124174a9.jpg",
+      "createdAt": "2026-11-26T15:41:26.925Z",
+      "size": 472738,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "山峦",
+          "云雾",
+          "日出"
+        ],
+        "description": "图片展示了一片连绵的山脉，山脉被云雾环绕，阳光透过云层洒在山峰上。",
+        "filenameSuggestions": [
+          "山峦云雾.jpg"
+        ],
+        "displayTitle": "山峦云雾",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b013ad5281ef61ad950124174a9.jpg",
+        "path": "wallpaper/mobile/风景/通用/77626b013ad5281ef61ad950124174a9.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/雪山/77626b013b3bbd9c8efe3601dcaa9fd6.jpg",
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "77626b013b3bbd9c8efe3601dcaa9fd6.jpg",
+      "createdAt": "2026-11-26T15:41:26.925Z",
+      "size": 496531,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "雪山"
+        ],
+        "description": "图片展示了一座被白雪覆盖的山脉，天空中有星星，山脉上部分区域有阳光照射。",
+        "filenameSuggestions": [
+          "雪山.jpg"
+        ],
+        "displayTitle": "雪山",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b013b3bbd9c8efe3601dcaa9fd6.jpg",
+        "path": "wallpaper/mobile/风景/雪山/77626b013b3bbd9c8efe3601dcaa9fd6.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/日落/77626b014b9b5816ec0337476ac3e7b1.jpg",
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "77626b014b9b5816ec0337476ac3e7b1.jpg",
+      "createdAt": "2026-11-26T15:41:26.925Z",
+      "size": 625694,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "日落",
+          "飞鸟",
+          "海洋"
+        ],
+        "description": "图片展示了一个日落时分的海洋景象，太阳在地平线上方，天空呈现出橙色到蓝色的渐变，许多飞鸟在空中飞翔。",
+        "filenameSuggestions": [
+          "日落飞鸟.jpg"
+        ],
+        "displayTitle": "日落飞鸟",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b014b9b5816ec0337476ac3e7b1.jpg",
+        "path": "wallpaper/mobile/风景/日落/77626b014b9b5816ec0337476ac3e7b1.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/创意/77626b014c1d3b97fd8ea08ac7a7f9f9.jpg",
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "77626b014c1d3b97fd8ea08ac7a7f9f9.jpg",
+      "createdAt": "2026-11-26T15:41:26.926Z",
+      "size": 836725,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "创意",
+          "图案",
+          "水果"
+        ],
+        "description": "图片展示了许多切片的橙子排列在一起。",
+        "filenameSuggestions": [
+          "橙片图案.jpg"
+        ],
+        "displayTitle": "橙片图案",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b014c1d3b97fd8ea08ac7a7f9f9.jpg",
+        "path": "wallpaper/mobile/插画/创意/77626b014c1d3b97fd8ea08ac7a7f9f9.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/萌宠/猫咪/77626b015e076a9af9b2caf31f8ec786.jpg",
+      "category": "萌宠",
+      "subcategory": "猫咪",
+      "filename": "77626b015e076a9af9b2caf31f8ec786.jpg",
+      "createdAt": "2026-11-26T15:41:26.926Z",
+      "size": 909565,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "猫咪",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "猫咪",
+        "keywords": [
+          "猫咪",
+          "花朵",
+          "树枝"
+        ],
+        "description": "一只戴着黄色项圈的白色猫咪趴在开满粉色花朵的树枝上。",
+        "filenameSuggestions": [
+          "树上的猫咪.jpg"
+        ],
+        "displayTitle": "树上的猫咪",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b015e076a9af9b2caf31f8ec786.jpg",
+        "path": "wallpaper/mobile/萌宠/猫咪/77626b015e076a9af9b2caf31f8ec786.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/日落/77626b016bfe825404e2bfbdbc8f0b05.jpg",
+      "category": "风景",
+      "subcategory": "日落",
+      "filename": "77626b016bfe825404e2bfbdbc8f0b05.jpg",
+      "createdAt": "2026-11-26T15:41:26.926Z",
+      "size": 390434,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "日落",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "日落",
+        "keywords": [
+          "日落",
+          "树叶",
+          "自然光"
+        ],
+        "description": "图片展示了一片树叶在日落时的景象，背景是橙色的天空。",
+        "filenameSuggestions": [
+          "日落下的树叶.jpg"
+        ],
+        "displayTitle": "日落下的树叶",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b016bfe825404e2bfbdbc8f0b05.jpg",
+        "path": "wallpaper/mobile/风景/日落/77626b016bfe825404e2bfbdbc8f0b05.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b016fb6d8181bbbbe351e70377e.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b016fb6d8181bbbbe351e70377e.jpg",
+      "createdAt": "2026-11-26T15:41:26.926Z",
+      "size": 531017,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "动漫",
+          "二次元",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着白色上衣和红色领带的动漫风格的女孩，背景为粉色。",
+        "filenameSuggestions": [
+          "粉色长发动漫女孩.jpg"
+        ],
+        "displayTitle": "粉色长发动漫女孩",
+        "confidence": 0.9,
+        "reasoning": "R2 动漫与插画: 图片中的女孩具有典型的动漫风格，符合动漫分类。",
+        "filename": "77626b016fb6d8181bbbbe351e70377e.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b016fb6d8181bbbbe351e70377e.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/火影忍者/77626b017be561b2781fb552f9a6ed0f.jpg",
+      "category": "动漫",
+      "subcategory": "火影忍者",
+      "filename": "77626b017be561b2781fb552f9a6ed0f.jpg",
+      "createdAt": "2026-11-26T15:41:26.927Z",
+      "size": 169796,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "火影忍者",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "火影忍者",
+        "keywords": [
+          "长发",
+          "背影",
+          "动漫",
+          "红眼"
+        ],
+        "description": "图中有一个身穿黑色衣服的人，头发是黑色的，眼睛是红色的螺旋状。",
+        "filenameSuggestions": [
+          "螺旋眼瞳红眼者.jpg"
+        ],
+        "displayTitle": "螺旋眼瞳红眼者",
+        "confidence": 0.9,
+        "reasoning": "R2 动漫与插画：根据人物的造型和背景的风格，可以判断这是一幅动漫风格的插图，属于《火影忍者》中的角色。",
+        "filename": "77626b017be561b2781fb552f9a6ed0f.jpg",
+        "path": "wallpaper/mobile/动漫/火影忍者/77626b017be561b2781fb552f9a6ed0f.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/人像/77626b017d2468ac040515080ffda21d.jpg",
+      "category": "动漫",
+      "subcategory": "人像",
+      "filename": "77626b017d2468ac040515080ffda21d.jpg",
+      "createdAt": "2026-11-26T15:41:26.927Z",
+      "size": 517789,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "人像",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "人像",
+        "keywords": [
+          "长发",
+          "背影",
+          "动漫",
+          "夕阳"
+        ],
+        "description": "图片中有一个穿着黑色上衣和灰色短裤的女孩站在摩托车旁边，背景是夕阳下的天空。",
+        "filenameSuggestions": [
+          "长发女孩.jpg"
+        ],
+        "displayTitle": "长发女孩",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b017d2468ac040515080ffda21d.jpg",
+        "path": "wallpaper/mobile/动漫/人像/77626b017d2468ac040515080ffda21d.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/卡通角色/77626b018a23b63216cec7343ea97c27.jpg",
+      "category": "动漫",
+      "subcategory": "卡通角色",
+      "filename": "77626b018a23b63216cec7343ea97c27.jpg",
+      "createdAt": "2026-11-26T15:41:26.927Z",
+      "size": 330794,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "卡通角色",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "卡通角色",
+        "keywords": [
+          "卡通角色",
+          "卡通耳朵",
+          "黑色头发"
+        ],
+        "description": "图片中有一个卡通风格的黑色耳朵配饰，背景是白色墙壁。",
+        "filenameSuggestions": [
+          "卡通耳朵配饰.jpg"
+        ],
+        "displayTitle": "卡通耳朵配饰",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b018a23b63216cec7343ea97c27.jpg",
+        "path": "wallpaper/mobile/动漫/卡通角色/77626b018a23b63216cec7343ea97c27.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/西游记/77626b018b4dec023f26654795aef9f7.jpg",
+      "category": "动漫",
+      "subcategory": "西游记",
+      "filename": "77626b018b4dec023f26654795aef9f7.jpg",
+      "createdAt": "2026-11-26T15:41:26.928Z",
+      "size": 737875,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "西游记",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "西游记",
+        "keywords": [
+          "西游记",
+          "唐僧",
+          "孙悟空",
+          "猪八戒",
+          "沙和尚"
+        ],
+        "description": "图片中有四个穿着西游记角色的衣服的人，分别是唐僧、孙悟空、猪八戒和沙和尚。",
+        "filenameSuggestions": [
+          "西游记人物.jpg"
+        ],
+        "displayTitle": "西游记人物",
+        "confidence": 0.9,
+        "reasoning": "R2 动漫与插画: 图片中的角色是西游记的经典人物，属于动漫风格。",
+        "filename": "77626b018b4dec023f26654795aef9f7.jpg",
+        "path": "wallpaper/mobile/动漫/西游记/77626b018b4dec023f26654795aef9f7.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b018b07c8adce077150aefdb711.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b018b07c8adce077150aefdb711.jpg",
+      "createdAt": "2026-11-26T15:41:26.928Z",
+      "size": 732227,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "全身构图",
+          "室内",
+          "动漫"
+        ],
+        "description": "图片展示了一个长发的动漫人物在超市货架前弯腰拿东西的场景。",
+        "filenameSuggestions": [
+          "长发人物超市购物.jpg"
+        ],
+        "displayTitle": "长发人物超市购物",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b018b07c8adce077150aefdb711.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b018b07c8adce077150aefdb711.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/初音未来/77626b018d60d96683f031a88c0323fa.jpg",
+      "category": "动漫",
+      "subcategory": "初音未来",
+      "filename": "77626b018d60d96683f031a88c0323fa.jpg",
+      "createdAt": "2026-11-26T15:41:26.928Z",
+      "size": 429966,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "初音未来",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "初音未来",
+        "keywords": [
+          "长发",
+          "动漫",
+          "初音未来"
+        ],
+        "description": "图片展示了一个拥有绿色长发的动漫人物。",
+        "filenameSuggestions": [
+          "绿色头发动漫人物.jpg"
+        ],
+        "displayTitle": "绿色头发动漫人物",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b018d60d96683f031a88c0323fa.jpg",
+        "path": "wallpaper/mobile/动漫/初音未来/77626b018d60d96683f031a88c0323fa.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/动漫/77626b018fdaf9be6c3526a9f69c9bb9.jpg",
+      "category": "动漫",
+      "subcategory": "动漫",
+      "filename": "77626b018fdaf9be6c3526a9f69c9bb9.jpg",
+      "createdAt": "2026-11-26T15:41:26.929Z",
+      "size": 1030400,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "动漫",
+        "keywords": [
+          "动漫",
+          "全身构图"
+        ],
+        "description": "图中展示了一个动漫风格的男性人物全身图像，背景为黑色。",
+        "filenameSuggestions": [
+          "动漫人物全身构图.jpg"
+        ],
+        "displayTitle": "动漫人物全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b018fdaf9be6c3526a9f69c9bb9.jpg",
+        "path": "wallpaper/mobile/动漫/动漫/77626b018fdaf9be6c3526a9f69c9bb9.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/侧颜/77626b019bcd0ed45d109d8e85193f8f.jpg",
+      "category": "人像",
+      "subcategory": "侧颜",
+      "filename": "77626b019bcd0ed45d109d8e85193f8f.jpg",
+      "createdAt": "2026-11-26T15:41:26.929Z",
+      "size": 802617,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "侧颜",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "侧颜",
+        "keywords": [
+          "长发",
+          "侧颜",
+          "黑白"
+        ],
+        "description": "一张女性的侧面照片，头发为黑色，采用黑白摄影。",
+        "filenameSuggestions": [
+          "侧颜.jpg"
+        ],
+        "displayTitle": "侧颜",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b019bcd0ed45d109d8e85193f8f.jpg",
+        "path": "wallpaper/mobile/人像/侧颜/77626b019bcd0ed45d109d8e85193f8f.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b019e4d89ad365b601afd0ee78e.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b019e4d89ad365b601afd0ee78e.jpg",
+      "createdAt": "2026-11-26T15:41:26.929Z",
+      "size": 454408,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "二次元",
+          "半身"
+        ],
+        "description": "图片展示了一位穿着粉色水手服的女性，背景为白色墙壁。",
+        "filenameSuggestions": [
+          "二次元女生.jpg"
+        ],
+        "displayTitle": "二次元女生",
+        "confidence": 0.9,
+        "reasoning": "R2 动漫与插画：根据人物的服装和整体画风，可以判断这是一幅二次元的插画作品。",
+        "filename": "77626b019e4d89ad365b601afd0ee78e.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b019e4d89ad365b601afd0ee78e.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/创意/77626b0104c9bccbe44343ff0db23f2c.jpg",
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "77626b0104c9bccbe44343ff0db23f2c.jpg",
+      "createdAt": "2026-11-26T15:41:26.929Z",
+      "size": 212883,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "长发",
+          "连衣裙",
+          "全身构图",
+          "夜景",
+          "暖色调"
+        ],
+        "description": "一位穿着黑色外套和蓝色长裙的女性坐在椅子上，手持一本书，旁边有一盏台灯。",
+        "filenameSuggestions": [
+          "阅读时光.jpg"
+        ],
+        "displayTitle": "阅读时光",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0104c9bccbe44343ff0db23f2c.jpg",
+        "path": "wallpaper/mobile/插画/创意/77626b0104c9bccbe44343ff0db23f2c.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b0115c55395366b8c1385a3e8f5.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b0115c55395366b8c1385a3e8f5.jpg",
+      "createdAt": "2026-11-26T15:41:26.929Z",
+      "size": 515982,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "长发",
+          "半身",
+          "休闲装"
+        ],
+        "description": "图片展示了一位穿着白色无袖上衣和蓝色牛仔裤的女性，背景为白色。",
+        "filenameSuggestions": [
+          "白色背心牛仔裤半身.jpg"
+        ],
+        "displayTitle": "白色背心牛仔裤半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0115c55395366b8c1385a3e8f5.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b0115c55395366b8c1385a3e8f5.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/动漫/77626b0115cf3d627c6f72520b9483a8.jpg",
+      "category": "动漫",
+      "subcategory": "动漫",
+      "filename": "77626b0115cf3d627c6f72520b9483a8.jpg",
+      "createdAt": "2026-11-26T15:41:26.930Z",
+      "size": 412316,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "动漫",
+        "keywords": [
+          "长发",
+          "蓝眼",
+          "动漫",
+          "女孩"
+        ],
+        "description": "图片中是一位穿着蓝色制服的动漫风格的女孩，她有着长长的金色头发和蓝色的眼睛。",
+        "filenameSuggestions": [
+          "长发蓝眼动漫女孩.jpg"
+        ],
+        "displayTitle": "长发蓝眼动漫女孩",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b0115cf3d627c6f72520b9483a8.jpg",
+        "path": "wallpaper/mobile/动漫/动漫/77626b0115cf3d627c6f72520b9483a8.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/背影/77626b0117d9b0f2b47ca0ff15418a49.jpg",
+      "category": "人像",
+      "subcategory": "背影",
+      "filename": "77626b0117d9b0f2b47ca0ff15418a49.jpg",
+      "createdAt": "2026-11-26T15:41:26.930Z",
+      "size": 630407,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "背影",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "背影",
+        "keywords": [
+          "长发",
+          "连衣裙",
+          "背影"
+        ],
+        "description": "一位穿着白色连衣裙的女性背影，头发编成辫子并扎着蝴蝶结。",
+        "filenameSuggestions": [
+          "长发 白色连衣裙 背影.jpg"
+        ],
+        "displayTitle": "长发 白色连衣裙 背影",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0117d9b0f2b47ca0ff15418a49.jpg",
+        "path": "wallpaper/mobile/人像/背影/77626b0117d9b0f2b47ca0ff15418a49.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b0118f8cb3e3d8bd0327af025ee.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b0118f8cb3e3d8bd0327af025ee.jpg",
+      "createdAt": "2026-11-26T15:41:26.930Z",
+      "size": 549637,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "长发",
+          "吊带连衣裙",
+          "半身"
+        ],
+        "description": "图片中展示了一位穿着白色吊带连衣裙的女性，她有着长头发，编成辫子垂在肩上。",
+        "filenameSuggestions": [
+          "长发 吊带连衣裙 半身.jpg"
+        ],
+        "displayTitle": "长发 吊带连衣裙 半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0118f8cb3e3d8bd0327af025ee.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b0118f8cb3e3d8bd0327af025ee.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/侧颜/77626b0125cc93c121dbb160c39bceb0.jpg",
+      "category": "人像",
+      "subcategory": "侧颜",
+      "filename": "77626b0125cc93c121dbb160c39bceb0.jpg",
+      "createdAt": "2026-11-26T15:41:26.930Z",
+      "size": 402314,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "侧颜",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "侧颜",
+        "keywords": [
+          "长发",
+          "侧颜"
+        ],
+        "description": "一位女性侧脸特写，长发。",
+        "filenameSuggestions": [
+          "长发侧颜.jpg"
+        ],
+        "displayTitle": "长发侧颜",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0125cc93c121dbb160c39bceb0.jpg",
+        "path": "wallpaper/mobile/人像/侧颜/77626b0125cc93c121dbb160c39bceb0.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/海滨/77626b0126ee7bd31d5d4b5bdb1c77ef.jpg",
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "77626b0126ee7bd31d5d4b5bdb1c77ef.jpg",
+      "createdAt": "2026-11-26T15:41:26.930Z",
+      "size": 368824,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "冷色调",
+          "海滨",
+          "海洋"
+        ],
+        "description": "图片展示了一扇打开的门，门外是波涛汹涌的大海。",
+        "filenameSuggestions": [
+          "海洋景色.jpg"
+        ],
+        "displayTitle": "海洋景色",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b0126ee7bd31d5d4b5bdb1c77ef.jpg",
+        "path": "wallpaper/mobile/风景/海滨/77626b0126ee7bd31d5d4b5bdb1c77ef.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b0135e508c74de567e597bff84a.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b0135e508c74de567e597bff84a.jpg",
+      "createdAt": "2026-11-26T15:41:26.931Z",
+      "size": 268287,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "半身",
+          "上衣",
+          "裙子"
+        ],
+        "description": "图片中展示了一位穿着白色上衣和黄色裙子的女性，背景为深色。",
+        "filenameSuggestions": [
+          "白色上衣黄色裙子半身.jpg"
+        ],
+        "displayTitle": "白色上衣黄色裙子半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0135e508c74de567e597bff84a.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b0135e508c74de567e597bff84a.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/卡通角色/77626b0137a0cc3319e76c36e496e562.jpg",
+      "category": "动漫",
+      "subcategory": "卡通角色",
+      "filename": "77626b0137a0cc3319e76c36e496e562.jpg",
+      "createdAt": "2026-11-26T15:41:26.931Z",
+      "size": 697545,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "卡通角色",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "卡通角色",
+        "keywords": [
+          "卡通角色",
+          "动画"
+        ],
+        "description": "图片中有两个卡通角色，分别是汤姆和杰瑞。",
+        "filenameSuggestions": [
+          "Tom and Jerry"
+        ],
+        "displayTitle": "汤姆杰瑞",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b0137a0cc3319e76c36e496e562.jpg",
+        "path": "wallpaper/mobile/动漫/卡通角色/77626b0137a0cc3319e76c36e496e562.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/文字/77626b0154dea379dedeaf25d2878cec.jpg",
+      "category": "通用",
+      "subcategory": "文字",
+      "filename": "77626b0154dea379dedeaf25d2878cec.jpg",
+      "createdAt": "2026-11-26T15:41:26.931Z",
+      "size": 444815,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "文字",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "文字",
+        "keywords": [
+          "现代建筑",
+          "夜晚",
+          "灯光",
+          "文字"
+        ],
+        "description": "图片展示了一座现代化的建筑在夜晚的场景，建筑物外墙是玻璃材质，反射着周围的灯光。地面是由方形砖块铺成的步行道。",
+        "filenameSuggestions": [
+          "modern-building.jpg"
+        ],
+        "displayTitle": "现代建筑",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b0154dea379dedeaf25d2878cec.jpg",
+        "path": "wallpaper/mobile/通用/文字/77626b0154dea379dedeaf25d2878cec.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/77626b0155ade78622b67f8c4363f90b.jpg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "77626b0155ade78622b67f8c4363f90b.jpg",
+      "createdAt": "2026-11-26T15:41:26.931Z",
+      "size": 651899,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "卷发",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着灰色毛衣、灰色裤子、灰色鞋子的人坐在雪地上。",
+        "filenameSuggestions": [
+          "灰色穿搭·卷发·全身构图.jpg"
+        ],
+        "displayTitle": "灰色穿搭·卷发·全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0155ade78622b67f8c4363f90b.jpg",
+        "path": "wallpaper/mobile/人像/全身构图/77626b0155ade78622b67f8c4363f90b.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/77626b0161df13de6978833b39fb15f0.jpg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "77626b0161df13de6978833b39fb15f0.jpg",
+      "createdAt": "2026-11-26T15:41:26.932Z",
+      "size": 383955,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "连衣裙",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着白色连衣裙的女性，她有着长头发。",
+        "filenameSuggestions": [
+          "白色连衣裙长发女性.jpg"
+        ],
+        "displayTitle": "白色连衣裙长发女性",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0161df13de6978833b39fb15f0.jpg",
+        "path": "wallpaper/mobile/人像/全身构图/77626b0161df13de6978833b39fb15f0.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/动漫/77626b0181e671c00ff57c4860342789.jpg",
+      "category": "动漫",
+      "subcategory": "动漫",
+      "filename": "77626b0181e671c00ff57c4860342789.jpg",
+      "createdAt": "2026-11-26T15:41:26.932Z",
+      "size": 350087,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "动漫",
+        "keywords": [
+          "动漫",
+          "黑白",
+          "少女"
+        ],
+        "description": "这是一幅黑白动漫风格的图片，描绘了一位穿着短裙的少女。",
+        "filenameSuggestions": [
+          "黑白动漫少女.jpg"
+        ],
+        "displayTitle": "黑白动漫少女",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b0181e671c00ff57c4860342789.jpg",
+        "path": "wallpaper/mobile/动漫/动漫/77626b0181e671c00ff57c4860342789.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/动漫/77626b0183a290690a3ae89d4818025b.jpg",
+      "category": "插画",
+      "subcategory": "动漫",
+      "filename": "77626b0183a290690a3ae89d4818025b.jpg",
+      "createdAt": "2026-11-26T15:41:26.932Z",
+      "size": 502576,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "动漫",
+        "keywords": [
+          "长发",
+          "古装",
+          "全身构图"
+        ],
+        "description": "图中有一名身穿古装的人物，背景为室内环境。",
+        "filenameSuggestions": [
+          "长发古装全身构图.jpg"
+        ],
+        "displayTitle": "长发古装全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0183a290690a3ae89d4818025b.jpg",
+        "path": "wallpaper/mobile/插画/动漫/77626b0183a290690a3ae89d4818025b.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/文字/77626b0184daf27a41382e9108356361.jpg",
+      "category": "通用",
+      "subcategory": "文字",
+      "filename": "77626b0184daf27a41382e9108356361.jpg",
+      "createdAt": "2026-11-26T15:41:26.932Z",
+      "size": 507584,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "文字",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "文字",
+        "keywords": [
+          "三星",
+          "宝马",
+          "Mpower"
+        ],
+        "description": "背景为蓝色、红色和黑色条纹，中间有白色文字“SAMSUNG”和“MPOWER”，下方有一个宝马标志。",
+        "filenameSuggestions": [
+          "三星宝马Mpower.jpg"
+        ],
+        "displayTitle": "三星宝马Mpower",
+        "confidence": 0.9,
+        "reasoning": "R4",
+        "filename": "77626b0184daf27a41382e9108356361.jpg",
+        "path": "wallpaper/mobile/通用/文字/77626b0184daf27a41382e9108356361.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/森林/77626b0186dd1a8166184c78fddb08b1.jpg",
+      "category": "风景",
+      "subcategory": "森林",
+      "filename": "77626b0186dd1a8166184c78fddb08b1.jpg",
+      "createdAt": "2026-11-26T15:41:26.932Z",
+      "size": 1251332,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "森林",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "森林",
+        "keywords": [
+          "秋林",
+          "树木",
+          "森林"
+        ],
+        "description": "图片展示了一片秋天的森林，树叶呈现出黄色和绿色的混合色。",
+        "filenameSuggestions": [
+          "秋林.jpg"
+        ],
+        "displayTitle": "秋林",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b0186dd1a8166184c78fddb08b1.jpg",
+        "path": "wallpaper/mobile/风景/森林/77626b0186dd1a8166184c78fddb08b1.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/美少女战士/77626b0190dd276146c04a301a663cfa.jpg",
+      "category": "动漫",
+      "subcategory": "美少女战士",
+      "filename": "77626b0190dd276146c04a301a663cfa.jpg",
+      "createdAt": "2026-11-26T15:41:26.933Z",
+      "size": 577947,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "美少女战士",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "美少女战士",
+        "keywords": [
+          "长发",
+          "马尾",
+          "动漫"
+        ],
+        "description": "图中有一个金发女性坐在沙发上，穿着深蓝色上衣和浅色短裤。",
+        "filenameSuggestions": [
+          "美少女战士.jpg"
+        ],
+        "displayTitle": "美少女战士",
+        "confidence": 0.9,
+        "reasoning": "R2 动漫与插画: 图中的女性是《美少女战士》的角色，属于动漫风格。",
+        "filename": "77626b0190dd276146c04a301a663cfa.jpg",
+        "path": "wallpaper/mobile/动漫/美少女战士/77626b0190dd276146c04a301a663cfa.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/蜘蛛侠/77626b0197a8512a7f2f26e3852ca145.jpg",
+      "category": "动漫",
+      "subcategory": "蜘蛛侠",
+      "filename": "77626b0197a8512a7f2f26e3852ca145.jpg",
+      "createdAt": "2026-11-26T15:41:26.933Z",
+      "size": 650556,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "蜘蛛侠",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "蜘蛛侠",
+        "keywords": [
+          "蜘蛛侠",
+          "全身构图"
+        ],
+        "description": "图片展示了一个身穿红色和蓝色服装的角色，背景是蓝天白云和城市景观。",
+        "filenameSuggestions": [
+          "蜘蛛侠全身构图.jpg"
+        ],
+        "displayTitle": "蜘蛛侠全身构图",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b0197a8512a7f2f26e3852ca145.jpg",
+        "path": "wallpaper/mobile/动漫/蜘蛛侠/77626b0197a8512a7f2f26e3852ca145.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/雪山/77626b0197c06699818c3292a61ef6b6.jpg",
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "77626b0197c06699818c3292a61ef6b6.jpg",
+      "createdAt": "2026-11-26T15:41:26.933Z",
+      "size": 1080620,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "雪山",
+          "村庄",
+          "房屋",
+          "树木"
+        ],
+        "description": "图片展示了一个位于山脚下的村庄，背景是白雪覆盖的山脉。",
+        "filenameSuggestions": [
+          "雪山村庄.jpg"
+        ],
+        "displayTitle": "雪山村庄",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b0197c06699818c3292a61ef6b6.jpg",
+        "path": "wallpaper/mobile/风景/雪山/77626b0197c06699818c3292a61ef6b6.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/花卉/77626b01091a37005d7b7efa1460eed0.jpg",
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "77626b01091a37005d7b7efa1460eed0.jpg",
+      "createdAt": "2026-11-26T15:41:26.933Z",
+      "size": 875344,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "自然",
+          "花卉",
+          "春天"
+        ],
+        "description": "图片展示了一棵开满白色花朵的樱花树，背景是蓝天。",
+        "filenameSuggestions": [
+          "樱花树.jpg"
+        ],
+        "displayTitle": "樱花树",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b01091a37005d7b7efa1460eed0.jpg",
+        "path": "wallpaper/mobile/风景/花卉/77626b01091a37005d7b7efa1460eed0.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/动漫/77626b01135a1d6eade97f259080cbbe.jpg",
+      "category": "动漫",
+      "subcategory": "动漫",
+      "filename": "77626b01135a1d6eade97f259080cbbe.jpg",
+      "createdAt": "2026-11-26T15:41:26.933Z",
+      "size": 353144,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "动漫",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "动漫",
+        "keywords": [
+          "长发",
+          "动漫",
+          "特写"
+        ],
+        "description": "图片展示了一位蓝发动漫风格的女性角色，她穿着白色背心，头发编成辫子。",
+        "filenameSuggestions": [
+          "蓝色长发动漫人物.jpg"
+        ],
+        "displayTitle": "蓝色长发动漫人物",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b01135a1d6eade97f259080cbbe.jpg",
+        "path": "wallpaper/mobile/动漫/动漫/77626b01135a1d6eade97f259080cbbe.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/侧颜/77626b01146c57047713496af705c9fa.jpg",
+      "category": "人像",
+      "subcategory": "侧颜",
+      "filename": "77626b01146c57047713496af705c9fa.jpg",
+      "createdAt": "2026-11-26T15:41:26.934Z",
+      "size": 559679,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "侧颜",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "侧颜",
+        "keywords": [
+          "长发",
+          "侧颜"
+        ],
+        "description": "一位长发女性侧脸照片。",
+        "filenameSuggestions": [
+          "长发侧颜.jpg"
+        ],
+        "displayTitle": "长发侧颜",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01146c57047713496af705c9fa.jpg",
+        "path": "wallpaper/mobile/人像/侧颜/77626b01146c57047713496af705c9fa.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/湖泊/77626b01178f87b437b2d67f5726f304.jpg",
+      "category": "风景",
+      "subcategory": "湖泊",
+      "filename": "77626b01178f87b437b2d67f5726f304.jpg",
+      "createdAt": "2026-11-26T15:41:26.934Z",
+      "size": 601824,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "湖泊",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "湖泊",
+        "keywords": [
+          "自然景观",
+          "湖泊",
+          "树木",
+          "山脉"
+        ],
+        "description": "图片展示了一片蓝色的湖泊，湖边有一些绿色的树木，远处可以看到连绵的山脉。",
+        "filenameSuggestions": [
+          "蓝色湖泊.jpg"
+        ],
+        "displayTitle": "蓝色湖泊",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b01178f87b437b2d67f5726f304.jpg",
+        "path": "wallpaper/mobile/风景/湖泊/77626b01178f87b437b2d67f5726f304.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/冬日雪景/77626b01262e9a665a09b1053228ce59.jpg",
+      "category": "风景",
+      "subcategory": "冬日雪景",
+      "filename": "77626b01262e9a665a09b1053228ce59.jpg",
+      "createdAt": "2026-11-26T15:41:26.934Z",
+      "size": 576560,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "冬日雪景",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "冬日雪景",
+        "keywords": [
+          "雪山",
+          "木屋",
+          "雪地"
+        ],
+        "description": "图片展示了一座被积雪覆盖的木屋，背景是白雪皑皑的山脉。",
+        "filenameSuggestions": [
+          "雪山木屋.jpg"
+        ],
+        "displayTitle": "雪山木屋",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b01262e9a665a09b1053228ce59.jpg",
+        "path": "wallpaper/mobile/风景/冬日雪景/77626b01262e9a665a09b1053228ce59.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/人像/77626b01555ba5501d1025ef59211a3e.jpg",
+      "category": "动漫",
+      "subcategory": "人像",
+      "filename": "77626b01555ba5501d1025ef59211a3e.jpg",
+      "createdAt": "2026-11-26T15:41:26.934Z",
+      "size": 309202,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "人像",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "人像",
+        "keywords": [
+          "长发",
+          "灰上衣",
+          "短裤",
+          "全身构图"
+        ],
+        "description": "图中展示了一位穿着灰色长袖上衣和黑色短裤的女性，她有着长长的头发。",
+        "filenameSuggestions": [
+          "长发灰上衣短裤.jpg"
+        ],
+        "displayTitle": "长发灰上衣短裤",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01555ba5501d1025ef59211a3e.jpg",
+        "path": "wallpaper/mobile/动漫/人像/77626b01555ba5501d1025ef59211a3e.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b01825eb47e2113a3b1bec606cd.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b01825eb47e2113a3b1bec606cd.jpg",
+      "createdAt": "2026-11-26T15:41:26.934Z",
+      "size": 642598,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "动漫",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着白色连衣裙和蓝色外套的动漫风格的女孩，她有着棕色的长发。",
+        "filenameSuggestions": [
+          "长发动漫女孩.jpg"
+        ],
+        "displayTitle": "长发动漫女孩",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b01825eb47e2113a3b1bec606cd.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b01825eb47e2113a3b1bec606cd.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/特写/77626b01903fba230207e70a7bc087af.jpg",
+      "category": "人像",
+      "subcategory": "特写",
+      "filename": "77626b01903fba230207e70a7bc087af.jpg",
+      "createdAt": "2026-11-26T15:41:26.935Z",
+      "size": 503434,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "特写",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "特写",
+        "keywords": [
+          "长发",
+          "眼镜",
+          "衬衫"
+        ],
+        "description": "图片中是一位戴着眼镜的女性，穿着蓝色衬衫。",
+        "filenameSuggestions": [
+          "眼镜女生.jpg"
+        ],
+        "displayTitle": "眼镜女生",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01903fba230207e70a7bc087af.jpg",
+        "path": "wallpaper/mobile/人像/特写/77626b01903fba230207e70a7bc087af.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/萌宠/猫咪/77626b01928d550dee174a7f49328f03.jpg",
+      "category": "萌宠",
+      "subcategory": "猫咪",
+      "filename": "77626b01928d550dee174a7f49328f03.jpg",
+      "createdAt": "2026-11-26T15:41:26.935Z",
+      "size": 475162,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "猫咪",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "猫咪",
+        "keywords": [
+          "黑白",
+          "猫咪"
+        ],
+        "description": "一只黑白相间的猫咪趴在米色地毯上。",
+        "filenameSuggestions": [
+          "黑白猫咪.jpg"
+        ],
+        "displayTitle": "黑白猫咪",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b01928d550dee174a7f49328f03.jpg",
+        "path": "wallpaper/mobile/萌宠/猫咪/77626b01928d550dee174a7f49328f03.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/通用/77626b01934ca31d7779c01fed52c1d3.jpg",
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "77626b01934ca31d7779c01fed52c1d3.jpg",
+      "createdAt": "2026-11-26T15:41:26.935Z",
+      "size": 729766,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "蓝天",
+          "绿草地",
+          "自然风光"
+        ],
+        "description": "图片展示了一片广阔的绿色草地，天空晴朗湛蓝，几朵白云点缀其间。",
+        "filenameSuggestions": [
+          "蓝天绿草地.jpg"
+        ],
+        "displayTitle": "蓝天绿草地",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b01934ca31d7779c01fed52c1d3.jpg",
+        "path": "wallpaper/mobile/风景/通用/77626b01934ca31d7779c01fed52c1d3.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/侧颜/77626b010566e9038ee367d7669eeec8.jpg",
+      "category": "人像",
+      "subcategory": "侧颜",
+      "filename": "77626b010566e9038ee367d7669eeec8.jpg",
+      "createdAt": "2026-11-26T15:41:26.935Z",
+      "size": 482021,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "侧颜",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "侧颜",
+        "keywords": [
+          "长发",
+          "侧颜"
+        ],
+        "description": "黑色长发，侧脸视角。",
+        "filenameSuggestions": [
+          "长发侧颜.jpg"
+        ],
+        "displayTitle": "长发侧颜",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b010566e9038ee367d7669eeec8.jpg",
+        "path": "wallpaper/mobile/人像/侧颜/77626b010566e9038ee367d7669eeec8.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/花卉/77626b011992dc60b0dc2d933440016b.jpg",
+      "category": "风景",
+      "subcategory": "花卉",
+      "filename": "77626b011992dc60b0dc2d933440016b.jpg",
+      "createdAt": "2026-11-26T15:41:26.935Z",
+      "size": 690343,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "花卉",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "花卉",
+        "keywords": [
+          "长发",
+          "背影",
+          "花卉",
+          "自然光"
+        ],
+        "description": "图片中有两个人在花丛前的背影，其中一个人穿着白色上衣和裤子，另一个人穿着蓝色上衣和短裤。",
+        "filenameSuggestions": [
+          "花卉背景下的背影.jpg"
+        ],
+        "displayTitle": "花卉背景下的背影",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b011992dc60b0dc2d933440016b.jpg",
+        "path": "wallpaper/mobile/风景/花卉/77626b011992dc60b0dc2d933440016b.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/雪山/77626b013228d10680b5f3c0194a838a.jpg",
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "77626b013228d10680b5f3c0194a838a.jpg",
+      "createdAt": "2026-11-26T15:41:26.936Z",
+      "size": 1172697,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "雪山",
+          "草地",
+          "小屋"
+        ],
+        "description": "图片展示了一座位于绿色山坡上的木制小屋，周围是绿色的草地和几头奶牛，远处可以看到被阳光照耀的雪山。",
+        "filenameSuggestions": [
+          "雪山草地小屋.jpg"
+        ],
+        "displayTitle": "雪山草地小屋",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b013228d10680b5f3c0194a838a.jpg",
+        "path": "wallpaper/mobile/风景/雪山/77626b013228d10680b5f3c0194a838a.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/创意/77626b017705d313b506a7f1ad91b9a7.jpg",
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "77626b017705d313b506a7f1ad91b9a7.jpg",
+      "createdAt": "2026-11-26T15:41:26.936Z",
+      "size": 672823,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "太空",
+          "星球",
+          "线条艺术"
+        ],
+        "description": "图片展示了地球和火星的插图，背景为黑色，带有金色和白色的线条。",
+        "filenameSuggestions": [
+          "星际探索.jpg"
+        ],
+        "displayTitle": "星际探索",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b017705d313b506a7f1ad91b9a7.jpg",
+        "path": "wallpaper/mobile/插画/创意/77626b017705d313b506a7f1ad91b9a7.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/萌宠/猫咪/77626b017905d6bf78748eb743cc7914.jpg",
+      "category": "萌宠",
+      "subcategory": "猫咪",
+      "filename": "77626b017905d6bf78748eb743cc7914.jpg",
+      "createdAt": "2026-11-26T15:41:26.936Z",
+      "size": 742486,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "猫咪",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "猫咪",
+        "keywords": [
+          "萌宠",
+          "猫咪",
+          "玻璃窗",
+          "雨水"
+        ],
+        "description": "一只白色的小猫透过带有雨滴的玻璃窗望向外面。",
+        "filenameSuggestions": [
+          "玻璃窗前的小白猫.jpg"
+        ],
+        "displayTitle": "玻璃窗前的小白猫",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b017905d6bf78748eb743cc7914.jpg",
+        "path": "wallpaper/mobile/萌宠/猫咪/77626b017905d6bf78748eb743cc7914.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/风暴/77626b018913df1c7867daf0ac81a649.jpg",
+      "category": "风景",
+      "subcategory": "风暴",
+      "filename": "77626b018913df1c7867daf0ac81a649.jpg",
+      "createdAt": "2026-11-26T15:41:26.936Z",
+      "size": 368197,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "风暴",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "风暴",
+        "keywords": [
+          "风暴",
+          "闪电",
+          "天空",
+          "海洋"
+        ],
+        "description": "图片展示了一道闪电击中海面的景象，背景是乌云密布的天空。",
+        "filenameSuggestions": [
+          "闪电风暴.jpg"
+        ],
+        "displayTitle": "闪电风暴",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "77626b018913df1c7867daf0ac81a649.jpg",
+        "path": "wallpaper/mobile/风景/风暴/77626b018913df1c7867daf0ac81a649.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/背影/77626b019287f28a2c6055a1ece3f642.jpg",
+      "category": "人像",
+      "subcategory": "背影",
+      "filename": "77626b019287f28a2c6055a1ece3f642.jpg",
+      "createdAt": "2026-11-26T15:41:26.936Z",
+      "size": 368421,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "背影",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "背影",
+        "keywords": [
+          "长发",
+          "背影"
+        ],
+        "description": "一位长发女性背影，穿着浅色针织开衫，站在海边，背景是夕阳下的城市天际线。",
+        "filenameSuggestions": [
+          "长发背影.jpg"
+        ],
+        "displayTitle": "长发背影",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b019287f28a2c6055a1ece3f642.jpg",
+        "path": "wallpaper/mobile/人像/背影/77626b019287f28a2c6055a1ece3f642.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/通用/77626b019396e5a3c92199d6126ee08a.jpg",
+      "category": "通用",
+      "subcategory": "通用",
+      "filename": "77626b019396e5a3c92199d6126ee08a.jpg",
+      "createdAt": "2026-11-26T15:41:26.937Z",
+      "size": 487827,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "通用",
+        "keywords": [
+          "手部",
+          "特写"
+        ],
+        "description": "一只手的手指特写，指甲上有米色底色和黑色圆点图案。",
+        "filenameSuggestions": [
+          "手部特写.jpg"
+        ],
+        "displayTitle": "手部特写",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b019396e5a3c92199d6126ee08a.jpg",
+        "path": "wallpaper/mobile/通用/通用/77626b019396e5a3c92199d6126ee08a.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b019933e91d90a684f70f1c5f00.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b019933e91d90a684f70f1c5f00.jpg",
+      "createdAt": "2026-11-26T15:41:26.937Z",
+      "size": 808756,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "二次元",
+          "半身",
+          "动漫"
+        ],
+        "description": "图片展示了一位穿着黑色连衣裙和蓝色袜装的女性，背景是绿色的植物。",
+        "filenameSuggestions": [
+          "二次元半身构图.jpg"
+        ],
+        "displayTitle": "二次元半身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b019933e91d90a684f70f1c5f00.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b019933e91d90a684f70f1c5f00.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/侧颜/77626b0105870e8f09a240ce725ce1fb.jpg",
+      "category": "人像",
+      "subcategory": "侧颜",
+      "filename": "77626b0105870e8f09a240ce725ce1fb.jpg",
+      "createdAt": "2026-11-26T15:41:26.937Z",
+      "size": 365528,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "侧颜",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "侧颜",
+        "keywords": [
+          "长发",
+          "白色吊带",
+          "侧颜"
+        ],
+        "description": "图片中是一位穿着白色吊带的女性，她有着长头发，侧脸看向镜头。",
+        "filenameSuggestions": [
+          "长发 白色吊带 侧颜.jpg"
+        ],
+        "displayTitle": "长发 白色吊带 侧颜",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0105870e8f09a240ce725ce1fb.jpg",
+        "path": "wallpaper/mobile/人像/侧颜/77626b0105870e8f09a240ce725ce1fb.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/奥特曼/77626b0154064e2a6f86bb0940077e13.jpg",
+      "category": "动漫",
+      "subcategory": "奥特曼",
+      "filename": "77626b0154064e2a6f86bb0940077e13.jpg",
+      "createdAt": "2026-11-26T15:41:26.937Z",
+      "size": 1073660,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "奥特曼",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "奥特曼",
+        "keywords": [
+          "奥特曼",
+          "战斗",
+          "场景"
+        ],
+        "description": "图片展示了一个奥特曼在战斗的场景。",
+        "filenameSuggestions": [
+          "奥特曼战斗场景.jpg"
+        ],
+        "displayTitle": "奥特曼战斗场景",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b0154064e2a6f86bb0940077e13.jpg",
+        "path": "wallpaper/mobile/动漫/奥特曼/77626b0154064e2a6f86bb0940077e13.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b0176173b7693565fab9cf4e9a7.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b0176173b7693565fab9cf4e9a7.jpg",
+      "createdAt": "2026-11-26T15:41:26.938Z",
+      "size": 553613,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "长发",
+          "吊带连衣裙",
+          "半身"
+        ],
+        "description": "图片展示了一位穿着粉色吊带裙的女性，背景为灰色。",
+        "filenameSuggestions": [
+          "粉色吊带裙半身.jpg"
+        ],
+        "displayTitle": "粉色吊带裙半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0176173b7693565fab9cf4e9a7.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b0176173b7693565fab9cf4e9a7.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/77626b0195940d62e9209e8becd8ec9c.jpg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "77626b0195940d62e9209e8becd8ec9c.jpg",
+      "createdAt": "2026-11-26T15:41:26.938Z",
+      "size": 523454,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "动漫",
+          "特写"
+        ],
+        "description": "蓝色头发，绿色眼睛，动漫风格的女孩。",
+        "filenameSuggestions": [
+          "蓝发绿眼动漫女孩.jpg"
+        ],
+        "displayTitle": "蓝发绿眼动漫女孩",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b0195940d62e9209e8becd8ec9c.jpg",
+        "path": "wallpaper/mobile/动漫/二次元/77626b0195940d62e9209e8becd8ec9c.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/背影/77626b01014758d51216f1cc5b2252e3.jpg",
+      "category": "人像",
+      "subcategory": "背影",
+      "filename": "77626b01014758d51216f1cc5b2252e3.jpg",
+      "createdAt": "2026-11-26T15:41:26.938Z",
+      "size": 426200,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "背影",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "背影",
+        "keywords": [
+          "背影"
+        ],
+        "description": "图中有一个穿着灰色背心和牛仔裤的人站在厨房里，双手举起比耶。",
+        "filenameSuggestions": [
+          "背影.jpg"
+        ],
+        "displayTitle": "背影",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01014758d51216f1cc5b2252e3.jpg",
+        "path": "wallpaper/mobile/人像/背影/77626b01014758d51216f1cc5b2252e3.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b01041913f0662d5d6e8c62a530.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b01041913f0662d5d6e8c62a530.jpg",
+      "createdAt": "2026-11-26T15:41:26.938Z",
+      "size": 387177,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "长发",
+          "半身",
+          "通用"
+        ],
+        "description": "图片中是一位穿着黑色西装的女性，她正在打电话。",
+        "filenameSuggestions": [
+          "黑色西装半身.jpg"
+        ],
+        "displayTitle": "黑色西装半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01041913f0662d5d6e8c62a530.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b01041913f0662d5d6e8c62a530.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/七龙珠/77626b01821996f13c5735b781ad947c.jpg",
+      "category": "动漫",
+      "subcategory": "七龙珠",
+      "filename": "77626b01821996f13c5735b781ad947c.jpg",
+      "createdAt": "2026-11-26T15:41:26.938Z",
+      "size": 517300,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "七龙珠",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "七龙珠",
+        "keywords": [
+          "动漫",
+          "七龙珠",
+          "人物"
+        ],
+        "description": "图片展示了多个《七龙珠》中的角色，包括孙悟空、贝吉塔、孙悟饭等。",
+        "filenameSuggestions": [
+          "七龙珠人物.jpg"
+        ],
+        "displayTitle": "七龙珠人物",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "77626b01821996f13c5735b781ad947c.jpg",
+        "path": "wallpaper/mobile/动漫/七龙珠/77626b01821996f13c5735b781ad947c.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/77626b01980124ebd17f92e6a3c9f6ad.jpg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "77626b01980124ebd17f92e6a3c9f6ad.jpg",
+      "createdAt": "2026-11-26T15:41:26.938Z",
+      "size": 758288,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "连衣裙",
+          "全身构图"
+        ],
+        "description": "图片中展示了一位穿着黑色连衣裙的女性，她坐在树枝上，背景是树木。",
+        "filenameSuggestions": [
+          "长发 黑色连衣裙 全身构图.jpg"
+        ],
+        "displayTitle": "长发 黑色连衣裙 全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b01980124ebd17f92e6a3c9f6ad.jpg",
+        "path": "wallpaper/mobile/人像/全身构图/77626b01980124ebd17f92e6a3c9f6ad.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/半身/77626b019838599df10fbc4b616d8ac3.jpg",
+      "category": "人像",
+      "subcategory": "半身",
+      "filename": "77626b019838599df10fbc4b616d8ac3.jpg",
+      "createdAt": "2026-11-26T15:41:26.939Z",
+      "size": 685120,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "半身",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "半身",
+        "keywords": [
+          "半身",
+          "上衣",
+          "灰色"
+        ],
+        "description": "图片展示了一位穿着灰色长袖上衣的女性半身像。",
+        "filenameSuggestions": [
+          "灰色上衣半身.jpg"
+        ],
+        "displayTitle": "灰色上衣半身",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b019838599df10fbc4b616d8ac3.jpg",
+        "path": "wallpaper/mobile/人像/半身/77626b019838599df10fbc4b616d8ac3.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/77626b0163034470c6bb69668371dc55.jpg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "77626b0163034470c6bb69668371dc55.jpg",
+      "createdAt": "2026-11-26T15:41:26.939Z",
+      "size": 451971,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "连衣裙",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着白色连衣裙的长发女性，背景为黑色。",
+        "filenameSuggestions": [
+          "白色连衣裙长发女性.jpg"
+        ],
+        "displayTitle": "白色连衣裙长发女性",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0163034470c6bb69668371dc55.jpg",
+        "path": "wallpaper/mobile/人像/全身构图/77626b0163034470c6bb69668371dc55.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/人像/77626b0140242331456649670749945e.jpg",
+      "category": "动漫",
+      "subcategory": "人像",
+      "filename": "77626b0140242331456649670749945e.jpg",
+      "createdAt": "2026-11-26T15:41:26.939Z",
+      "size": 500935,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "人像",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "人像",
+        "keywords": [
+          "长发",
+          "商务套装",
+          "通勤",
+          "女性"
+        ],
+        "description": "一位穿着商务套装的女性坐在地铁车厢内。",
+        "filenameSuggestions": [
+          "长发商务套装通勤女性.jpg"
+        ],
+        "displayTitle": "长发商务套装通勤女性",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "77626b0140242331456649670749945e.jpg",
+        "path": "wallpaper/mobile/动漫/人像/77626b0140242331456649670749945e.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/背影/a982f980c5024efa864a1d621346a260.jpg",
+      "category": "人像",
+      "subcategory": "背影",
+      "filename": "a982f980c5024efa864a1d621346a260.jpg",
+      "createdAt": "2026-11-26T15:41:26.939Z",
+      "size": 707635,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "背影",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "背影",
+        "keywords": [
+          "长发",
+          "背影"
+        ],
+        "description": "图中有一个长发背影，穿着蓝色上衣和黄色裙子，躺在草地上。",
+        "filenameSuggestions": [
+          "长发背影.jpg"
+        ],
+        "displayTitle": "长发背影",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "a982f980c5024efa864a1d621346a260.jpg",
+        "path": "wallpaper/mobile/人像/背影/a982f980c5024efa864a1d621346a260.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/冬日雪景/bb1173d09e8949b99c47dde80d50577e.jpg",
+      "category": "风景",
+      "subcategory": "冬日雪景",
+      "filename": "bb1173d09e8949b99c47dde80d50577e.jpg",
+      "createdAt": "2026-11-26T15:41:26.940Z",
+      "size": 496307,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "冬日雪景",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "冬日雪景",
+        "keywords": [
+          "冬日雪景",
+          "雪山",
+          "星空"
+        ],
+        "description": "图片展示了一座位于雪山上的小木屋，屋顶覆盖着厚厚的积雪，周围是白雪皑皑的山脉，天空中有星星闪烁。",
+        "filenameSuggestions": [
+          "雪山小屋.jpg"
+        ],
+        "displayTitle": "雪山小屋",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "bb1173d09e8949b99c47dde80d50577e.jpg",
+        "path": "wallpaper/mobile/风景/冬日雪景/bb1173d09e8949b99c47dde80d50577e.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/通用/f8b475460dc64dc18a89ffd1130857e1.jpeg",
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "f8b475460dc64dc18a89ffd1130857e1.jpeg",
+      "createdAt": "2026-11-26T15:41:26.940Z",
+      "size": 3960132,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "长发",
+          "短发",
+          "卷发",
+          "直发",
+          "马尾",
+          "盘发",
+          "连衣裙",
+          "衬衫"
+        ],
+        "description": "图片中有两个人在空中做体操动作，背景是蓝天白云。",
+        "filenameSuggestions": [
+          "云层之上.jpg"
+        ],
+        "displayTitle": "云层之上",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "f8b475460dc64dc18a89ffd1130857e1.jpeg",
+        "path": "wallpaper/mobile/风景/通用/f8b475460dc64dc18a89ffd1130857e1.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/f8d660159d8041f6922665679e3eb99e.jpeg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "f8d660159d8041f6922665679e3eb99e.jpeg",
+      "createdAt": "2026-11-26T15:41:26.940Z",
+      "size": 4276842,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "连衣裙",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着绿色印花连衣裙的女性，背景为白色门和灰色墙壁。",
+        "filenameSuggestions": [
+          "绿色印花连衣裙.jpg"
+        ],
+        "displayTitle": "绿色印花连衣裙",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "f8d660159d8041f6922665679e3eb99e.jpeg",
+        "path": "wallpaper/mobile/人像/全身构图/f8d660159d8041f6922665679e3eb99e.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/雪山/f08fd4c8eb114a59aeb1874cf5741b54.jpeg",
+      "category": "风景",
+      "subcategory": "雪山",
+      "filename": "f08fd4c8eb114a59aeb1874cf5741b54.jpeg",
+      "createdAt": "2026-11-26T15:41:26.940Z",
+      "size": 6232726,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "雪山",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "雪山",
+        "keywords": [
+          "坐以待币"
+        ],
+        "description": "图片展示了一座金色的山峰，背景是云雾缭绕的山脉和天空。",
+        "filenameSuggestions": [
+          "坐以待币.jpg"
+        ],
+        "displayTitle": "坐以待币",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "f08fd4c8eb114a59aeb1874cf5741b54.jpeg",
+        "path": "wallpaper/mobile/风景/雪山/f08fd4c8eb114a59aeb1874cf5741b54.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/f0012d4f387d4621a7618e972df24337.jpeg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "f0012d4f387d4621a7618e972df24337.jpeg",
+      "createdAt": "2026-11-26T15:41:26.940Z",
+      "size": 3398222,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "黑色连衣裙",
+          "全身构图"
+        ],
+        "description": "图片中有一个穿着黑色连衣裙的女性角色，站在湖边，背景是山和水。",
+        "filenameSuggestions": [
+          "长发 黑色连衣裙 全身构图.jpg"
+        ],
+        "displayTitle": "长发 黑色连衣裙 全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "f0012d4f387d4621a7618e972df24337.jpeg",
+        "path": "wallpaper/mobile/动漫/二次元/f0012d4f387d4621a7618e972df24337.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/背影/f60fc95370e245ec85b483f6c9c57307.jpeg",
+      "category": "人像",
+      "subcategory": "背影",
+      "filename": "f60fc95370e245ec85b483f6c9c57307.jpeg",
+      "createdAt": "2026-11-26T15:41:26.940Z",
+      "size": 3889236,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "背影",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "背影",
+        "keywords": [
+          "长发",
+          "背影",
+          "连衣裙",
+          "高跟鞋"
+        ],
+        "description": "白色长袖连衣裙和高跟鞋的女性背影。",
+        "filenameSuggestions": [
+          "背影 白色长袖连衣裙 高跟鞋.jpg"
+        ],
+        "displayTitle": "背影 白色长袖连衣裙 高跟鞋",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "f60fc95370e245ec85b483f6c9c57307.jpeg",
+        "path": "wallpaper/mobile/人像/背影/f60fc95370e245ec85b483f6c9c57307.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/f81b36c9848e489597d085c6df90084b.jpeg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "f81b36c9848e489597d085c6df90084b.jpeg",
+      "createdAt": "2026-11-26T15:41:26.941Z",
+      "size": 7391387,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "米色上衣",
+          "牛仔裤",
+          "短发",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着米色长袖上衣和深蓝色牛仔裤的女性，她留着短发，站在公交车上。",
+        "filenameSuggestions": [
+          "米色上衣牛仔裤短发女生.jpg"
+        ],
+        "displayTitle": "米色上衣牛仔裤短发女生",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "f81b36c9848e489597d085c6df90084b.jpeg",
+        "path": "wallpaper/mobile/人像/全身构图/f81b36c9848e489597d085c6df90084b.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/通用/f90fda27035f4c23bd52afcbbef0f7a7.jpeg",
+      "category": "风景",
+      "subcategory": "通用",
+      "filename": "f90fda27035f4c23bd52afcbbef0f7a7.jpeg",
+      "createdAt": "2026-11-26T15:41:26.941Z",
+      "size": 2541143,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "通用",
+        "keywords": [
+          "山峦",
+          "黑白",
+          "通用"
+        ],
+        "description": "这是一幅黑白照片，展示了一片连绵的山脉。",
+        "filenameSuggestions": [
+          "山峦叠嶂.jpg"
+        ],
+        "displayTitle": "山峦叠嶂",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "f90fda27035f4c23bd52afcbbef0f7a7.jpeg",
+        "path": "wallpaper/mobile/风景/通用/f90fda27035f4c23bd52afcbbef0f7a7.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/背影/f261b6fb0e0743bab38035c9421b8555.jpeg",
+      "category": "人像",
+      "subcategory": "背影",
+      "filename": "f261b6fb0e0743bab38035c9421b8555.jpeg",
+      "createdAt": "2026-11-26T15:41:26.941Z",
+      "size": 4548586,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "背影",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "背影",
+        "keywords": [
+          "长发",
+          "背影",
+          "吊带背心",
+          "牛仔短裤"
+        ],
+        "description": "图中是一位穿着白色吊带背心和蓝色牛仔短裤的女性背影。",
+        "filenameSuggestions": [
+          "背影·吊带背心牛仔短裤.jpg"
+        ],
+        "displayTitle": "背影·吊带背心牛仔短裤",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "f261b6fb0e0743bab38035c9421b8555.jpeg",
+        "path": "wallpaper/mobile/人像/背影/f261b6fb0e0743bab38035c9421b8555.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/二次元/f348365ad1b14a80b09c2fbe78daf306.jpeg",
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "f348365ad1b14a80b09c2fbe78daf306.jpeg",
+      "createdAt": "2026-11-26T15:41:26.941Z",
+      "size": 1130152,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "短发",
+          "卷发",
+          "直发",
+          "马尾",
+          "盘发",
+          "西装",
+          "全身构图"
+        ],
+        "description": "几位穿着西装的人物，有的站立，有的蹲坐。",
+        "filenameSuggestions": [
+          "西装男士群像.jpg"
+        ],
+        "displayTitle": "西装男士群像",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "f348365ad1b14a80b09c2fbe78daf306.jpeg",
+        "path": "wallpaper/mobile/动漫/二次元/f348365ad1b14a80b09c2fbe78daf306.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/f811447bc94e4e798afa4e6face2fc21.jpg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "f811447bc94e4e798afa4e6face2fc21.jpg",
+      "createdAt": "2026-11-26T15:41:26.942Z",
+      "size": 252499,
+      "format": "jpg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "粉色上衣",
+          "黑色短裤",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着粉色上衣和黑色短裤的女性，背景是蓝天白云。",
+        "filenameSuggestions": [
+          "长发 粉色上衣 黑色短裤 全身构图.jpg"
+        ],
+        "displayTitle": "长发 粉色上衣 黑色短裤 全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "f811447bc94e4e798afa4e6face2fc21.jpg",
+        "path": "wallpaper/mobile/人像/全身构图/f811447bc94e4e798afa4e6face2fc21.jpg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/通用/fa41e9b6a8dc4d59bad6021c88587f12.jpeg",
+      "category": "通用",
+      "subcategory": "通用",
+      "filename": "fa41e9b6a8dc4d59bad6021c88587f12.jpeg",
+      "createdAt": "2026-11-26T15:41:26.942Z",
+      "size": 3458411,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "通用",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "通用",
+        "keywords": [
+          "圣诞树",
+          "装饰",
+          "灯光"
+        ],
+        "description": "一棵装饰着黄色和绿色饰品的圣诞树。",
+        "filenameSuggestions": [
+          "圣诞树.jpg"
+        ],
+        "displayTitle": "圣诞树",
+        "confidence": 0.9,
+        "reasoning": "R4",
+        "filename": "fa41e9b6a8dc4d59bad6021c88587f12.jpeg",
+        "path": "wallpaper/mobile/通用/通用/fa41e9b6a8dc4d59bad6021c88587f12.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/全身构图/fadcc760f0be4ff6b28556f2ca79987a.jpeg",
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "fadcc760f0be4ff6b28556f2ca79987a.jpeg",
+      "createdAt": "2026-11-26T15:41:26.942Z",
+      "size": 2198742,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "白色连衣裙",
+          "全身构图"
+        ],
+        "description": "图片中展示了一位穿着白色连衣裙的长发女性，坐在沙发上，背景是白色的窗帘和窗户。",
+        "filenameSuggestions": [
+          "长发 白色连衣裙 全身构图.jpg"
+        ],
+        "displayTitle": "长发 白色连衣裙 全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "fadcc760f0be4ff6b28556f2ca79987a.jpeg",
+        "path": "wallpaper/mobile/人像/全身构图/fadcc760f0be4ff6b28556f2ca79987a.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/人像/特写/fb0aa0403e27402f8ed63b1b56fd005f.jpeg",
+      "category": "人像",
+      "subcategory": "特写",
+      "filename": "fb0aa0403e27402f8ed63b1b56fd005f.jpeg",
+      "createdAt": "2026-11-26T15:41:26.942Z",
+      "size": 2926675,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "特写",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "特写",
+        "keywords": [
+          "长发",
+          "黑色上衣",
+          "白色领口",
+          "特写"
+        ],
+        "description": "图片中是一位长发女性，穿着黑色上衣和白色领口。",
+        "filenameSuggestions": [
+          "长发 黑色上衣 白色领口.jpg"
+        ],
+        "displayTitle": "长发 黑色上衣 白色领口",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "filename": "fb0aa0403e27402f8ed63b1b56fd005f.jpeg",
+        "path": "wallpaper/mobile/人像/特写/fb0aa0403e27402f8ed63b1b56fd005f.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/风景/海滨/fb4561d47609452b801db475c267ab53.jpeg",
+      "category": "风景",
+      "subcategory": "海滨",
+      "filename": "fb4561d47609452b801db475c267ab53.jpeg",
+      "createdAt": "2026-11-26T15:41:26.942Z",
+      "size": 4493587,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "风景",
+        "subcategory": "海滨",
+        "primary": "mobile",
+        "secondary": "风景",
+        "third": "海滨",
+        "keywords": [
+          "海滨",
+          "花朵",
+          "书籍"
+        ],
+        "description": "图片展示了一片海滨景色，前景有一束鲜花和一个放置着书的白色花盆。",
+        "filenameSuggestions": [
+          "海滨风光.jpg"
+        ],
+        "displayTitle": "海滨风光",
+        "confidence": 0.9,
+        "reasoning": "R3",
+        "filename": "fb4561d47609452b801db475c267ab53.jpeg",
+        "path": "wallpaper/mobile/风景/海滨/fb4561d47609452b801db475c267ab53.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/通用/文字/fbdc23eeca844aceb91dbbc5f221aa97.jpeg",
+      "category": "通用",
+      "subcategory": "文字",
+      "filename": "fbdc23eeca844aceb91dbbc5f221aa97.jpeg",
+      "createdAt": "2026-11-26T15:41:26.942Z",
+      "size": 3376924,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "通用",
+        "subcategory": "文字",
+        "primary": "mobile",
+        "secondary": "通用",
+        "third": "文字",
+        "keywords": [
+          "通用",
+          "文字"
+        ],
+        "description": "背景为蓝天白云和绿色草地，中间有粉色英文字母和粉色中文文字。",
+        "filenameSuggestions": [
+          "英文粉色字体.jpg"
+        ],
+        "displayTitle": "英文粉色字体",
+        "confidence": 0.9,
+        "reasoning": "R4",
+        "filename": "fbdc23eeca844aceb91dbbc5f221aa97.jpeg",
+        "path": "wallpaper/mobile/通用/文字/fbdc23eeca844aceb91dbbc5f221aa97.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/动漫/蜡笔小新/fc444ebc86434baa83612e727f7f51b3.jpeg",
+      "category": "动漫",
+      "subcategory": "蜡笔小新",
+      "filename": "fc444ebc86434baa83612e727f7f51b3.jpeg",
+      "createdAt": "2026-11-26T15:41:26.943Z",
+      "size": 4729097,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "蜡笔小新",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "蜡笔小新",
+        "keywords": [
+          "蜡笔小新",
+          "饮料机",
+          "夜晚",
+          "城市街道"
+        ],
+        "description": "蜡笔小新站在夜晚的城市街道上，伸手触摸一台红色的饮料机。",
+        "filenameSuggestions": [
+          "蜡笔小新夜色饮料机.jpg"
+        ],
+        "displayTitle": "蜡笔小新夜色饮料机",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "fc444ebc86434baa83612e727f7f51b3.jpeg",
+        "path": "wallpaper/mobile/动漫/蜡笔小新/fc444ebc86434baa83612e727f7f51b3.jpeg"
+      }
+    },
+    {
+      "series": "mobile",
+      "relativePath": "wallpaper/mobile/插画/创意/fcb34e5d103d492d8df67754743d5e5c.jpeg",
+      "category": "插画",
+      "subcategory": "创意",
+      "filename": "fcb34e5d103d492d8df67754743d5e5c.jpeg",
+      "createdAt": "2026-11-26T15:41:26.943Z",
+      "size": 2922984,
+      "format": "jpeg",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "创意",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "创意",
+        "keywords": [
+          "插画",
+          "创意",
+          "赛车手"
+        ],
+        "description": "画面展示了一名穿着休闲服装的赛车手站在车库门口，背景是赛车和团队工作环境。",
+        "filenameSuggestions": [
+          "赛车手插画.jpg"
+        ],
+        "displayTitle": "赛车手插画",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "filename": "fcb34e5d103d492d8df67754743d5e5c.jpeg",
+        "path": "wallpaper/mobile/插画/创意/fcb34e5d103d492d8df67754743d5e5c.jpeg"
+      }
+    }
+  ]
+}
