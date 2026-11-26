@@ -1,8 +1,8 @@
 {
   "version": 2,
   "series": "mobile",
-  "lastUpdated": "2026-11-25 01:20:01",
-  "count": 4335,
+  "lastUpdated": "2026-11-26 00:55:24",
+  "count": 4339,
   "images": {
     "wallpaper/mobile/IP形象/乌萨奇/乌萨奇&小八&小熊_睡衣裹被贴贴.png": {
       "category": "IP形象",
@@ -154041,6 +154041,163 @@
         "reasoning": "根据图片内容，这是一张展示人物侧面的照片，符合‘人像’类别中的‘侧颜’子类别。",
         "path": "wallpaper/mobile/人像/侧颜/fea758cdf445449fbe3a88542751a56f.jpeg",
         "aiFilename": "fea758cdf445449fbe3a88542751a56f.jpeg"
+      }
+    },
+    "wallpaper/mobile/插画/氛围感/fec087fbb6c242529ba30a524b73e9ec.jpeg": {
+      "category": "插画",
+      "subcategory": "氛围感",
+      "filename": "fec087fbb6c242529ba30a524b73e9ec.jpeg",
+      "createdAt": "2026-11-25T15:03:16.732Z",
+      "cdnTag": "v1.5.54",
+      "size": 3714158,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1772,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "series": "mobile",
+        "category": "插画",
+        "subcategory": "氛围感",
+        "primary": "mobile",
+        "secondary": "插画",
+        "third": "氛围感",
+        "keywords": [
+          "长发",
+          "背影",
+          "黑白"
+        ],
+        "description": "两个人在雪地上行走，背景是雪山。",
+        "filenameSuggestions": [
+          "雪地双人背影.jpg"
+        ],
+        "displayTitle": "雪地双人背影",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "path": "wallpaper/mobile/插画/氛围感/fec087fbb6c242529ba30a524b73e9ec.jpeg",
+        "aiFilename": "fec087fbb6c242529ba30a524b73e9ec.jpeg"
+      }
+    },
+    "wallpaper/mobile/动漫/二次元/ff7212f6d2b44b108b39d1a85ee11b4e.jpeg": {
+      "category": "动漫",
+      "subcategory": "二次元",
+      "filename": "ff7212f6d2b44b108b39d1a85ee11b4e.jpeg",
+      "createdAt": "2026-11-25T15:03:16.734Z",
+      "cdnTag": "v1.5.54",
+      "size": 5899799,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1766,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "series": "mobile",
+        "category": "动漫",
+        "subcategory": "二次元",
+        "primary": "mobile",
+        "secondary": "动漫",
+        "third": "二次元",
+        "keywords": [
+          "长发",
+          "卡通角色",
+          "全身构图"
+        ],
+        "description": "图片中有一个穿着白色T恤和蓝色裤子躺在草地上的二次元风格的女孩。",
+        "filenameSuggestions": [
+          "二次元少女.jpg"
+        ],
+        "displayTitle": "二次元少女",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "path": "wallpaper/mobile/动漫/二次元/ff7212f6d2b44b108b39d1a85ee11b4e.jpeg",
+        "aiFilename": "ff7212f6d2b44b108b39d1a85ee11b4e.jpeg"
+      }
+    },
+    "wallpaper/mobile/人像/全身构图/ffd097e300394fa89106943776e790bb.jpeg": {
+      "category": "人像",
+      "subcategory": "全身构图",
+      "filename": "ffd097e300394fa89106943776e790bb.jpeg",
+      "createdAt": "2026-11-25T15:03:16.735Z",
+      "cdnTag": "v1.5.54",
+      "size": 5102294,
+      "format": "jpeg",
+      "resolution": {
+        "width": 1774,
+        "height": 3840,
+        "label": "4K",
+        "type": "success"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "series": "mobile",
+        "category": "人像",
+        "subcategory": "全身构图",
+        "primary": "mobile",
+        "secondary": "人像",
+        "third": "全身构图",
+        "keywords": [
+          "长发",
+          "黑色上衣",
+          "黑色短裤",
+          "全身构图"
+        ],
+        "description": "图片展示了一位穿着黑色上衣和黑色短裤的女性，她有着长头发，站在街道上。",
+        "filenameSuggestions": [
+          "长发 黑色上衣 黑色短裤 全身构图.jpg"
+        ],
+        "displayTitle": "长发 黑色上衣 黑色短裤 全身构图",
+        "confidence": 0.9,
+        "reasoning": "R1",
+        "path": "wallpaper/mobile/人像/全身构图/ffd097e300394fa89106943776e790bb.jpeg",
+        "aiFilename": "ffd097e300394fa89106943776e790bb.jpeg"
+      }
+    },
+    "wallpaper/mobile/萌宠/猫咪/77626b017905d6bf78748eb743cc7914.jpg": {
+      "category": "萌宠",
+      "subcategory": "猫咪",
+      "filename": "77626b017905d6bf78748eb743cc7914.jpg",
+      "createdAt": "2026-11-25T15:03:16.735Z",
+      "cdnTag": "v1.5.54",
+      "size": 742486,
+      "format": "jpg",
+      "resolution": {
+        "width": 1080,
+        "height": 2388,
+        "label": "2K",
+        "type": "info"
+      },
+      "duration": null,
+      "mediaType": "image",
+      "ai": {
+        "series": "mobile",
+        "category": "萌宠",
+        "subcategory": "猫咪",
+        "primary": "mobile",
+        "secondary": "萌宠",
+        "third": "猫咪",
+        "keywords": [
+          "萌宠",
+          "猫咪",
+          "玻璃窗"
+        ],
+        "description": "一只白色的小猫透过带有雨滴的玻璃窗望向外面。",
+        "filenameSuggestions": [
+          "玻璃窗前的小白猫.jpg"
+        ],
+        "displayTitle": "玻璃窗前的小白猫",
+        "confidence": 0.9,
+        "reasoning": "R2",
+        "path": "wallpaper/mobile/萌宠/猫咪/77626b017905d6bf78748eb743cc7914.jpg",
+        "aiFilename": "77626b017905d6bf78748eb743cc7914.jpg"
       }
     }
   }
