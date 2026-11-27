@@ -1,9 +1,9 @@
 {
-  "lastUpdated": 1795654533.088697,
-  "cdnTag": "v1.5.54",
+  "lastUpdated": 1795741336.183053,
+  "cdnTag": "v1.5.55",
   "series": {
     "mobile": {
-      "count": 4339,
+      "count": 4483,
       "categories": [
         "人像",
         "动漫",
@@ -38,12 +38,24 @@
   },
   "total": {
     "desktop": 0,
-    "mobile": 4339,
+    "mobile": 4483,
     "avatar": 503,
     "video": 9,
-    "bing": 2739
+    "bing": 2740
   },
   "releases": [
+    {
+      "tag": "v1.5.55",
+      "date": "2026-11-27",
+      "added": {
+        "desktop": 0,
+        "mobile": 0,
+        "avatar": 0,
+        "video": 0,
+        "bing": 1
+      },
+      "publisher": "github-actions[bot]"
+    },
     {
       "tag": "v1.5.54",
       "date": "2026-11-26",
