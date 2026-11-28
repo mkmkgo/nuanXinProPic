@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-11-28 00:28:05",
+  "generatedAt": "2026-11-28 16:43:14",
   "total": 7,
   "items": [
+    {
+      "date": "2026-11-29",
+      "title": "掠过海面",
+      "copyright": "俯瞰挪威特罗姆瑟的索马若伊大桥 (© Roberto Moiola/Sysaworld/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E7%B4%A2%E9%A9%AC%E8%8B%A5%E4%BC%8A%E5%B2%9B+%E6%8C%AA%E5%A8%81&form=hpcapt&mkt=zh-cn",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261128_SommaroyBridge%22&FORM=HPQUIZ",
+      "hsh": "27538875a4ae4de2bfbd90d6df4e3085",
+      "urlbase": "/th?id=OHR.SommaroyBridge_ZH-CN0060105443"
+    },
     {
       "date": "2026-11-28",
       "title": "跨越时光的桥梁",
@@ -55,15 +64,6 @@
       "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261122_FibonacciFern%22&FORM=HPQUIZ",
       "hsh": "8bcab12cbf53fd1c7b81ec7e9b34e20c",
       "urlbase": "/th?id=OHR.FibonacciFern_ZH-CN3882237848"
-    },
-    {
-      "date": "2026-11-22",
-      "title": "海浪间的庇护所",
-      "copyright": "西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)",
-      "copyrightlink": "https://www.bing.com/search?q=%E5%9C%A3%E8%83%A1%E6%96%AF%E5%A1%94%E5%B0%8F%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn",
-      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20261121_JustaHermitage%22&FORM=HPQUIZ",
-      "hsh": "e76c9c230746d4523a18ea94ad7b6872",
-      "urlbase": "/th?id=OHR.JustaHermitage_ZH-CN3751022621"
     }
   ]
 }
